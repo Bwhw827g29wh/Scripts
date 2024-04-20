@@ -39,8 +39,8 @@ function checkUsername(enteredName) {
 }
 
 function handleClickLogin() {
-    const enteredPass = pass.value;
-    const enteredName = uSn.value;
+    let enteredPass = pass.value;
+    let enteredName = uSn.value;
     if (checkPassword(enteredPass) && checkUsername(enteredName)) {
         window.location.href = "https://pastebin.com/u/GGH52Lan" target="_blank";
         //location.replace('https://pastebin.com/u/GGH52Lan')
