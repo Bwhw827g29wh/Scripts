@@ -42,7 +42,7 @@ function handleClickLogin() {
     let enteredPass = pass.value;
     let enteredName = uSn.value;
     if (checkPassword(enteredPass) && checkUsername(enteredName)) {
-        window.location.href = "https://pastebin.com/u/GGH52Lan" target="_blank";
+        window.location.href = "https://pastebin.com/u/GGH52Lan";
         //location.replace('https://pastebin.com/u/GGH52Lan')
         localStorage.setItem('username', uSn.value);
         localStorage.setItem('password', pass.value);
