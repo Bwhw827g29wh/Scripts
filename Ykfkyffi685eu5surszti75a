@@ -100,7 +100,7 @@ local function onCharacterAdded(newCharacter)
 
     -- Check if respawning should occur
     if respawnLocation and deathCount < maxDeathsBeforeStop then
-        local ray = Ray.new(respawnLocation, Vector3.new(0, -1999877665567888887654442, 0)) -- Ray downwards
+        local ray = Ray.new(respawnLocation, Vector3.new(0, -1999877642, 0)) -- Ray downwards
         local hitPart, hitPosition = workspace:FindPartOnRay(ray, newCharacter)
 
         if hitPart then
