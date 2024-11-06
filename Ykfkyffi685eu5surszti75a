@@ -1,0 +1,122 @@
+local Timer = loadstring(game:HttpGet("https://pastebin.com/raw/Pn8ikmFB"))()
+local myTimer = Timer.new()
+
+local player = game.Players.LocalPlayer
+local respawnLocation = nil
+local deathCount = 0
+local maxDeathsBeforeStop = 4 -- Maximum deaths before stopping respawn
+local timerActive = false -- Timer status
+
+-- Create a ScreenGui and TextLabel for notifications
+local screenGui = Instance.new("ScreenGui", game.CoreGui)
+local notificationLabel = Instance.new("TextLabel", screenGui)
+
+-- Set up the notification label properties
+notificationLabel.Size = UDim2.new(0, 300, 0, 50)
+notificationLabel.Position = UDim2.new(0.5, -150, 0.1, 0)
+notificationLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0) -- Background color
+notificationLabel.TextColor3 = Color3.fromRGB(255, 255, 255) -- Text color
+notificationLabel.TextScaled = true
+notificationLabel.Visible = false
+notificationLabel.BorderSizePixel = 0 -- No border
+notificationLabel.TextStrokeTransparency = 0.5 -- Adds stroke to text
+notificationLabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0) -- Stroke color
+notificationLabel.BackgroundTransparency = 0.5 -- Slight transparency
+
+-- Optional: Add rounded corners
+local uiCorner = Instance.new("UICorner")
+uiCorner.CornerRadius = UDim.new(0.1, 0) -- Rounded corners
+uiCorner.Parent = notificationLabel
+
+-- Function to show notifications with stylish effects
+local function showNotification(message)
+    notificationLabel.Text = message
+    notificationLabel.Visible = true
+    
+    -- TweenService for smooth transitions
+    local TweenService = game:GetService("TweenService")
+    local fadeIn = TweenService:Create(notificationLabel, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 0.3, TextTransparency = 0})
+    local fadeOut = TweenService:Create(notificationLabel, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = 1, TextTransparency = 1})
+
+    -- Play the fade-in effect
+    fadeIn:Play()
+    
+    -- Wait for a few seconds before fading out
+    wait(3)
+    
+    -- Play the fade-out effect
+    fadeOut:Play()
+    
+    -- Wait for the fade-out to complete
+    fadeOut.Completed:Wait()
+    
+    -- Hide the notification
+    notificationLabel.Visible = false
+end
+
+-- Function to save the last position and manage death count
+local function onDeath()
+    if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        respawnLocation = player.Character.HumanoidRootPart.Position -- Save the last position
+        deathCount = deathCount + 1 -- Increment death count
+
+        -- Stop the timer on death
+        myTimer:stop()
+        timerActive = false -- Update timer status
+
+        -- Check if the player has died too many times
+        if deathCount >= maxDeathsBeforeStop then
+            showNotification("Respawning stopped due to multiple deaths.")
+            showNotification("Wait 7 seconds to reset if you don't die.")
+            return
+        end
+    end
+end
+
+-- Function to handle the timer and reset death count
+local function handleTimer()
+    if not timerActive then
+        myTimer:start() -- Start the timer
+        timerActive = true -- Update timer status
+    end
+
+    while timerActive do
+        wait(1) -- Wait for 1 second
+        if myTimer:getTime() >= 7 then -- Check if timer reached 15 seconds
+            deathCount = 0 -- Reset the death count
+            myTimer:stop() -- Stop the timer
+            timerActive = false -- Update timer status
+            break -- Exit the loop
+        end
+    end
+end
+
+-- Function to respawn at the last saved position
+local function onCharacterAdded(newCharacter)
+    player.Character = newCharacter
+    local humanoid = newCharacter:WaitForChild("Humanoid")
+
+    humanoid.Died:Connect(onDeath)
+
+    -- Check if respawning should occur
+    if respawnLocation and deathCount < maxDeathsBeforeStop then
+        local ray = Ray.new(respawnLocation, Vector3.new(0, -1999877665567888887654442, 0)) -- Ray downwards
+        local hitPart, hitPosition = workspace:FindPartOnRay(ray, newCharacter)
+
+        if hitPart then
+            newCharacter:MoveTo(hitPosition + Vector3.new(0, 3, 0)) -- Move above the ground
+        else
+            showNotification("Invalid respawn location. Respawning stopped.")
+            -- Move to a predefined safe point if necessary
+        end
+    end
+    
+    -- Start the timer handling when the character respawns
+    handleTimer()
+end
+
+-- Connect the functions
+player.CharacterAdded:Connect(onCharacterAdded)
+if player.Character then
+    player.Character:WaitForChild("Humanoid").Died:Connect(onDeath)
+end
