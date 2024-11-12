@@ -481,28 +481,19 @@ notify(":(", ":(", "rbxassetid://14260616969")
 end
 end)
 notify("Basic Edition","Universal Sword Fights Script",nil, 15)
-local alrL = false
+local alrL = "enemies"
 local w2 = library:Window("Basic Edition")
+local function autoU()
+     while true do 
+     if G:getPlayers(alrL) then 
+     Target= G:getPlayers(alrL)
+     end
+     game:GetService("RunService").Heartbeat:Wait()
+     end 
+end
 w2:Box("Target", function(text, focuslost)
    if focuslost and text ~= "" then
-       -- Stop any current running loop
-       alrL = false  -- This will signal the previous loop to stop
-
-       if autoU and not alrL then
-           alrL = true
-           -- Start a new loop
-           repeat 
-               Target = G:getPlayers(text) -- Update Target with new input
-               wait(1) -- Wait for 3 seconds before the next update
-               -- Check if the loop should continue
-               if not alrL then break end
-           until not autoU or not alrL -- Loop until autoU is set to false
-       else
-           -- This block runs if autoU was initially false
-           autoU = true -- Enabling auto updating for the first time
-           alrL = true
-           Target = G:getPlayers(text) -- Update Target with new input
-       end
+       alrL = text
    end
 end)
 
@@ -549,7 +540,7 @@ w2:Button("Fast Kill", function()
                                 aura(h, v, nil, true)  -- Apply your aura effect
 
                                 -- Check if either the target or the player is dead
-                                if targetHumanoid.Health <= 0 or humanoid.Health <= 0 then
+                                if targetHumanoid.Health < 0 or humanoid.Health < 0 then
                                     lop = false  -- Stop the loop if any character is dead
                                     break  -- Exit the for-loop if any character is dead
                                 end
@@ -594,5 +585,5 @@ w2:Toggle("Real Aura", false, function(bool)
         auraL = false
     end
 end)
-
+autoU()
 return _G.name
