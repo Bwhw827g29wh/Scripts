@@ -1,0 +1,598 @@
+--[[ by GGH52Lan
+YT: https://www.youtube.com/@RandomVidzz-G
+pls if u remake this script put a credit or a original creator Ex: (credit to GGH52Lan) or (original script is from GGH52Lan)
+i Open source cuz for people who want to remake it and make better
+
+]]
+
+local Players = game:GetService("Players")
+local plr = Players.LocalPlayer
+local autoT = false --auto Tool
+local loop = true
+local retry = true -- retry for tp kill
+local autoU = true -- auto update Target 
+_G.name = "sword" --Tool name
+Mode = "enemy" 
+local reach = 10
+local auto=true -- auto detect if there's a team
+local N = Instance.new("BindableFunction")
+local G = loadstring(game:HttpGet("https://raw.githubusercontent.com/Bwhw827g29wh/47448/refs/heads/main/GetPlayers.lua"))()
+local Target = G:getPlayers("enemies")
+local TweenService = game:GetService("TweenService")
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/turtle"))()
+local Window = library:Window("Sword Fight Aura V2")
+
+local function findTool(searchString)
+    -- Convert the search string to lowercase for case-insensitive comparison
+    local lowerSearchString = searchString:lower()
+
+    -- Check in the player's Backpack
+    for _, tool in pairs(plr.Backpack:GetChildren()) do
+        if tool:IsA("Tool") and tool.Name:lower():match(lowerSearchString) then
+            return tool
+        end
+    end
+
+    -- Check in the player's Character
+    for _, tool in pairs(plr.Character:GetChildren()) do
+        if tool:IsA("Tool") and tool.Name:lower():match(lowerSearchString) then
+            return tool
+        end
+    end
+
+    -- Return nil if no tool was found
+    return nil
+end
+
+local AntiCheat
+local Checks
+local Areas
+local TeleportToArea
+local GetEnemyTeam
+local alrTP = false
+if game.PlaceId == 9791603388 then
+AntiCheat = workspace.AntiCheat
+ Checks = {
+    Blue = AntiCheat.Blue,
+    Red = AntiCheat.Red
+}
+
+Areas = {
+    Red = CFrame.new(0, 14, 100),
+    Blue = CFrame.new(0, 14, -100),
+    Underground = CFrame.new(0, 0, 0),
+    Safespot = CFrame.new(0, -5, 0)
+}
+
+-- Function to teleport player to the area specified
+   TeleportToArea = function()
+    local rootPart = plr.Character and plr.Character:FindFirstChild("HumanoidRootPart")
+    local playerTeam = plr.Team
+     print(playerTeam)
+    if rootPart then
+        if tostring(playerTeam) == "Red" then
+            print("r")
+            rootPart.CFrame = Checks["Red"].CFrame
+            wait(0.25)
+            rootPart.CFrame = Checks["Blue"].CFrame
+            wait(0.25)  -- Adjust timing as needed
+        elseif tostring(playerTeam) == "Blue" then
+        print"b"
+            rootPart.CFrame = Checks["Blue"].CFrame
+            wait(0.25)
+            rootPart.CFrame = Checks["Red"].CFrame
+            wait(0.25)  -- Adjust timing as needed
+        end
+        
+        -- Set the flag to true after the first execution
+        alrTP = true
+        print("TeleportToArea executed; alrTP set to true.")
+    else
+        print("RootPart not found in character.")
+    end
+end
+
+end
+
+local function getTool()
+     local h = findTool(_G.name)
+     return h
+end
+
+local auraL = true
+local auraRange = 30
+local function aura(h, v, r, f,ray)
+    if h and h:FindFirstChild("Handle") then
+        -- Correct the type checking for 'r'
+        if type(r) ~= "number" then
+            r = auraRange
+        elseif f then
+            r = 8373763
+        end
+        if v ~= plr and v.Character then
+            local humanoid = v.Character:FindFirstChildOfClass("Humanoid")
+            local targetRootPart = humanoid and humanoid.RootPart
+            
+            if humanoid and humanoid.Health > 0 
+                and not v.Character:FindFirstChildOfClass("ForceField") 
+                and plr.Character and plr.Character:FindFirstChildOfClass("Humanoid").Health > 0 
+                 then
+                
+                -- Check distance to the target
+                if plr:DistanceFromCharacter(targetRootPart.Position) <= r then
+                if h.Parent ~= plr.Character then
+                                h.Parent = plr.Character
+                                end
+                    if ray then
+                        -- Perform raycast to check for obstructions
+                        local startPosition = plr.Character.HumanoidRootPart.Position
+                        local direction = (targetRootPart.Position - startPosition).unit * r
+                        local raycastResult = workspace:Raycast(startPosition, direction)
+
+                        if raycastResult and raycastResult.Instance then
+                            -- If the raycast hits something, check if it was the target
+                            if raycastResult.Instance:IsDescendantOf(v.Character) then
+                                -- Activate aura if the target is hit
+                                
+                                h:Activate()
+                                for _, p in pairs(v.Character:GetChildren()) do
+                                    if p:IsA("BasePart") then
+                                        firetouchinterest(h.Handle, p, 0)  -- Start touch
+                                        firetouchinterest(h.Handle, p, 1)  -- End touch
+                                    end
+                                end
+                            end
+                        else
+                            -- If raycast did not hit anything, proceed with activation
+                            
+                            h:Activate()
+                            for _, p in pairs(v.Character:GetChildren()) do
+                                if p:IsA("BasePart") then
+                                    firetouchinterest(h.Handle, p, 0)  -- Start touch
+                                    firetouchinterest(h.Handle, p, 1)  -- End touch
+                                end
+                            end
+                        end
+                    else
+                        -- If ray is disabled, activate the aura directly
+                        
+                        h:Activate()
+                        for _, p in pairs(v.Character:GetChildren()) do
+                            if p:IsA("BasePart") then
+                                firetouchinterest(h.Handle, p, 0)  -- Start touch
+                                firetouchinterest(h.Handle, p, 1)  -- End touch
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end
+
+local function tp(t, c)
+    -- Check if the target (t) is valid and if the player exists
+    if t and plr and plr.Character then
+        local humanoid = plr.Character:FindFirstChildWhichIsA("Humanoid")
+        
+        if humanoid and humanoid.RootPart then
+            -- Check if we are in the specific game and 'c' is true
+            if game.PlaceId == 9791603388 and c then
+                if not alrTP then
+                    print(tostring(alrTP) .. " - Executing TeleportToArea()")
+                    TeleportToArea()  -- Call the teleportation function
+                    print(tostring(alrTP) .. " - Teleportation executed.")
+                else
+                 --   print("Teleport to area has already been executed.")
+                    
+                end
+                
+                -- Default teleportation offset
+                humanoid.RootPart.CFrame = t.Character:FindFirstChildWhichIsA("Humanoid").RootPart.CFrame * CFrame.new(-1.6, 0, 1.8)
+            else
+                -- If not in the specific game or 'c' is false, default teleportation offset
+                humanoid.RootPart.CFrame = t.Character:FindFirstChildWhichIsA("Humanoid").RootPart.CFrame * CFrame.new(-1.6, 0, 1.8)
+            end
+            return true
+        else
+            warn("Humanoid or RootPart not found in player's character.")
+        end
+    else
+        warn("Invalid target or player character.")
+    end
+    return false -- Return false if input checks fail
+end
+
+local function tp2(enemies)
+    if not enemies or #enemies == 0 then return end -- Ensure there are enemies to pass through
+
+    -- Store the original position
+    local originalPosition = plr.Character.HumanoidRootPart.Position
+
+    -- Iterate through each enemy
+    for _, enemy in pairs(enemies) do
+        if enemy and enemy.Character then
+            local humanoid = enemy.Character:FindFirstChildWhichIsA("Humanoid")
+            local rootPart = humanoid and humanoid.RootPart
+
+            if rootPart then
+                -- Calculate the teleport position
+                local teleportPosition
+                if game.PlaceId == 9791603388 then
+                    teleportPosition = rootPart.CFrame * CFrame.new(0, -11, 0) -- Adjust for underground
+                else
+                    teleportPosition = rootPart.CFrame * CFrame.new(-1.6, 0, 1.8) -- Default teleport position
+                end
+                
+                -- Create a Tween for moving to the new location
+                local tweenInfo = TweenInfo.new(0.1, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut)
+                local tween = TweenService:Create(plr.Character.HumanoidRootPart, tweenInfo, {CFrame = teleportPosition})
+                
+                -- Play the tween and wait for completion
+                tween:Play()
+                tween.Completed:Wait()
+            end
+        end
+    end
+
+    -- Return to the original position
+    local returnTween = TweenService:Create(plr.Character.HumanoidRootPart, TweenInfo.new(0.1, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut), {CFrame = CFrame.new(originalPosition)})
+    returnTween:Play()
+    returnTween.Completed:Wait()
+end
+
+local function KillAura()
+    loop = true
+    if Mode == "enemy" then
+repeat
+    for _, player in pairs(Players:GetPlayers()) do
+        pcall(function ()
+            if player ~= plr and player.Team ~= plr.Team then
+                local humanoid = player.Character and player.Character:FindFirstChildOfClass("Humanoid")
+                local rootPart = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+
+                if humanoid and rootPart and humanoid.Health > 0 and plr.Character.Humanoid.Health > 0 and 
+                   player.Character:FindFirstChildOfClass("ForceField") == nil and 
+                   plr:DistanceFromCharacter(rootPart.Position) <= reach then
+
+                    local h
+                    if not autoT then
+                        h = getTool() 
+                    elseif autoT and plr.Character:FindFirstChildOfClass("Tool") then
+                        h = plr.Character:FindFirstChildOfClass("Tool")
+                    end 
+
+                    if h then
+                        h.Parent = plr.Character
+                        tp(player) 
+                        humanoid.PlatformStand = true
+                        aura(h, player, 10)
+
+                        if humanoid.Health <= 0 or plr.Character:FindFirstChildOfClass("Humanoid").Health <= 0 then
+                            loop = false
+                            if retry then
+                                wait(1)
+                                KillAura()
+                            end
+                        end
+                    else
+                        print("Tool not found.")
+                    end
+                end
+            end
+        end)
+    end
+    game:GetService("RunService").Heartbeat:Wait()
+until not loop
+    
+    elseif Mode == "others" then
+
+repeat
+    for _, player in pairs(Players:GetPlayers()) do
+        pcall(function ()
+            if player ~= plr then
+                local humanoid = player.Character and player.Character:FindFirstChildOfClass("Humanoid")
+                local rootPart = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+
+                if humanoid and rootPart and humanoid.Health > 0 and plr.Character.Humanoid.Health > 0 and 
+                   player.Character:FindFirstChildOfClass("ForceField") == nil and 
+                   plr:DistanceFromCharacter(rootPart.Position) <= reach then
+
+                    local h
+                    if not autoT then
+                        h = getTool() 
+                    elseif autoT and plr.Character:FindFirstChildOfClass("Tool") then
+                        h = plr.Character:FindFirstChildOfClass("Tool")
+                    end 
+
+                    if h then
+                        h.Parent = plr.Character
+                        tp(player) 
+                        humanoid.PlatformStand = true
+                        aura(h, player, 10)
+
+                        if humanoid.Health <= 0 or plr.Character:FindFirstChildOfClass("Humanoid").Health <= 0 then
+                            loop = false
+                            if retry then
+                                wait(1)
+                                KillAura()
+                            end
+                        end
+                    else
+                        print("Tool not found.")
+                    end
+                end
+            end
+        end)
+    end
+    game:GetService("RunService").Heartbeat:Wait()
+until not loop		
+    end
+    end
+  
+  local function notify1(Title, Text, con, Duration, Button, F)
+  Title= Title or "GGH52Lan" Text = Text or "Text" Duration = Duration or 5 Button= Button or "Button"
+  F = F or function() end
+  con = con or "rbxassetid://14260295451"
+ N.OnInvoke = F
+  game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = Title;
+Text = Text;
+Icon = con;
+Duration = Duration;
+Button1 = Button;
+Callback = N;})
+  end
+
+local function notify2(Title, Text, con, Duration, Button,B , F)
+  Title= Title or "GGH52Lan" Text = Text or "Text" Duration = Duration or 5 Button= Button or "Button"
+  F = F or function() end
+  con = con or "rbxassetid://14260295451"
+ N.OnInvoke = F
+  game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = Title;
+Text = Text;
+Icon = con;
+Duration = Duration;
+Button1 = Button;
+Button2 = B;
+Callback = N;})
+  end
+  
+  local function notify(Title, Text, con, Duration)
+     Text = Text or "GGH52Lan" 
+     Title= Title or "GGH52Lan"
+     con = con or "rbxassetid://14260295451"
+     Duration = Duration or 5
+    game:GetService("StarterGui"):SetCore("SendNotification",{
+ Title = Title;
+ Text = Text;
+ Duration = Duration;
+ Icon = con;
+})
+    end
+
+function GC(String)
+	local clipBoard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+	if clipBoard then
+		clipBoard(String)
+		notify('Clipboard','Copied to clipboard')
+	else
+		notify('Clipboard',"Something went wrong 😕")
+	end
+end
+
+local function modeDetector(b) 
+if auto==true then
+if not game:GetService"Teams": FindFirstChildOfClass "Team" then
+Mode = "others"
+	else
+		Mode = "enemy"
+	end
+	else
+		
+	end
+end
+
+Window:Button("TP kill", function()
+    modeDetector()
+    loop = true
+    retry = true
+    KillAura()
+
+end)
+
+Window:Button("TP kill off", function()
+    loop = false
+    retry = false
+    
+    loop = false
+    retry = false    
+end)
+
+Window:Button("notify Tool name", function()
+for i,v in pairs (plr.Character: GetChildren ()) do
+if v:IsA"Tool" then
+notify2(v.Name, v.name, nil, 60, "TargetTool", "Ok", function (t)
+if t == "TargetTool" then
+_G.name = tostring(v.Name)
+wait(1)
+notify("Target Tool:", _G.name)
+elseif t == "Ok" then
+notify(nil, "👍")
+end
+end)
+wait(1)
+end
+end
+if not plr.Character:FindFirstChildOfClass"Tool" then
+notify (nil, "Equip Tool")
+end
+end)
+
+Window:Box("Reach - Aura", function(text, focuslost)
+    if focuslost and text ~= "" then
+        local firstChar = text:sub(1, 1)
+        local value = tonumber(text:sub(2, #text)) -- Store the converted number
+
+        if value then -- Check if conversion was successful
+            if firstChar == "r" then
+                reach = value
+                notify("TP Range set to", reach)
+            elseif firstChar == "a" then
+                auraRange = value
+                notify("Aura Range set to", auraRange)
+            else
+                notify("Invalid command. Use 'r' for TP Range or 'a' for Aura Range.")
+            end
+        else
+            notify("Invalid number entered. Please enter a valid numeric value.")
+        end
+    end
+end)
+
+Window:Toggle("Auto Detect Tool", false, function(bool)
+    if bool then
+notify("GGH52LAN","You need to Equip tool",nil,10)
+notify("⚠️⚠️⚠️⚠️","Not recommended if u equipping is not sword",nil,10)
+    autoT = true
+    else
+    autoT = false
+    end
+end)
+
+local dropdown = Window:Dropdown("Mode", {"auto", "enemies only", "others"}, function(o)
+    if o == "enemies only" then
+    Mode = "enemy"
+			auto=false
+    elseif o == "others" then
+     Mode = "others"
+			auto=false
+		elseif o == "auto" then
+			auto = true
+    end
+end)
+
+notify2 ("YT: GGH52LAN", "https://www.youtube.com/@RandomVidzz-G",nil, 60,"Copy", "👍", function (G)
+if G=="Copy" then
+GC("https://www.youtube.com/@RandomVidzz-G")
+elseif G=="👍" then
+notify(":(", ":(", "rbxassetid://14260616969")
+end
+end)
+notify("Basic Edition","Universal Sword Fights Script",nil, 15)
+local alrL = false
+local w2 = library:Window("Basic Edition")
+w2:Box("Target", function(text, focuslost)
+   if focuslost and text ~= "" then
+       -- Stop any current running loop
+       alrL = false  -- This will signal the previous loop to stop
+
+       if autoU and not alrL then
+           alrL = true
+           -- Start a new loop
+           repeat 
+               Target = G:getPlayers(text) -- Update Target with new input
+               wait(1) -- Wait for 3 seconds before the next update
+               -- Check if the loop should continue
+               if not alrL then break end
+           until not autoU or not alrL -- Loop until autoU is set to false
+       else
+           -- This block runs if autoU was initially false
+           autoU = true -- Enabling auto updating for the first time
+           alrL = true
+           Target = G:getPlayers(text) -- Update Target with new input
+       end
+   end
+end)
+
+local lop 
+local lastpos 
+
+w2:Button("Fast Kill", function()
+    lop = true
+    auraL = true
+    print("alrTP before Fast Kill: " .. tostring(alrTP))  -- Debugging output
+
+    local humanoid = plr.Character:FindFirstChildWhichIsA("Humanoid")
+
+    if humanoid then
+        local lastpos = humanoid.RootPart.CFrame  -- Store the last position
+        alrTP = false  -- Allow teleportation for this execution
+        print("alrTP set to false for this execution.")
+
+        if #Target > 0 then
+            repeat
+                for _, v in pairs(Target) do
+                    -- Ensure we only process valid targets
+                    if v ~= plr and v.Character then
+                        local targetHumanoid = v.Character:FindFirstChildOfClass("Humanoid")
+                        local targetRootPart = v.Character:FindFirstChild("HumanoidRootPart")
+
+                        -- Check health and existence conditions
+                        if targetHumanoid and targetHumanoid.Health > 0 and humanoid.Health > 0 and not v.Character:FindFirstChildOfClass("ForceField") then
+                            local h
+
+                            -- Get the tool based on the toggled mode
+                            if not autoT then
+                                h = getTool() 
+                            elseif autoT then
+                                h = plr.Character:FindFirstChildOfClass("Tool")
+                            end 
+
+                            if h then
+                                h.Parent = plr.Character
+                                targetHumanoid.PlatformStand = true  -- Prevents movement
+                                h:Activate()  -- Activate the tool
+
+                                tp(v, true)  -- Teleport to the target
+                                aura(h, v, nil, true)  -- Apply your aura effect
+
+                                -- Check if either the target or the player is dead
+                                if targetHumanoid.Health <= 0 or humanoid.Health <= 0 then
+                                    lop = false  -- Stop the loop if any character is dead
+                                    break  -- Exit the for-loop if any character is dead
+                                end
+                            end
+                        end
+                    end
+                end
+                game:GetService("RunService").Heartbeat:Wait()  -- Wait until the next frame to avoid performance issues
+            until not lop
+            
+            humanoid.RootPart.CFrame = lastpos  -- Return to the original position after the loop ends
+        else
+            print("No players found.")
+        end
+    else
+        print("Player humanoid not found.")
+    end
+end)
+
+w2:Toggle("Real Aura", false, function(bool)
+    if bool then
+        auraL = true
+        repeat 
+            pcall(function()
+                local h
+                if not autoT then
+                    h = getTool() 
+                elseif autoT and plr.Character:FindFirstChildOfClass("Tool") then
+                    h = plr.Character:FindFirstChildOfClass("Tool")
+                end 
+                
+                if h then
+                   -- h.Parent = plr.Character
+                    for i,v in pairs(Target) do 
+                    aura(h, v,nil,nil,true) -- Activate aura with the tool
+                    end
+                end
+            end)
+          game:GetService("RunService").Heartbeat:Wait()
+        until not auraL
+    else
+        auraL = false
+    end
+end)
+
+return _G.name
