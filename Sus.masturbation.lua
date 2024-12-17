@@ -4,7 +4,7 @@
 -- YouTube: GGH52LAN
 -- Combined the two R6 and R15 so no need to execute manually 
 
-local G = loadstring(game:HttpGet(""))()
+local G = loadstring(game:HttpGet("https://raw.githubusercontent.com/Bwhw827g29wh/Scripts/refs/heads/main/FetchAndExecute.lua"))()
 
 local player = game.Players.LocalPlayer
 local char = player.Character or player.CharacterAdded:Wait()
