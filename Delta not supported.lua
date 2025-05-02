@@ -1,4 +1,5 @@
 local plrGui = game.Players.LocalPlayer:FindFirstChild("PlayerGui")
+local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
 
 -- Create ScreenGui
 local ScreenGui = Instance.new("ScreenGui")
@@ -85,8 +86,12 @@ clr.Parent = Frame
 clr.Position = UDim2.new(0.2,0,0.90,0)
 clr.Text = "Copy Official Arceus x Link"
 
+clr.MouseButton1Click:Connect(function()
+    everyClipboard("https://arceusx.com/") -- Copies the KRNL link
+end)
+
 CopyLinkButton.MouseButton1Click:Connect(function()
-    setclipboard("https://krnl.place") -- Copies the KRNL link
+    everyClipboard("https://krnlexecutor.org/") -- Copies the KRNL link
 end)
 
 -- Close Button
