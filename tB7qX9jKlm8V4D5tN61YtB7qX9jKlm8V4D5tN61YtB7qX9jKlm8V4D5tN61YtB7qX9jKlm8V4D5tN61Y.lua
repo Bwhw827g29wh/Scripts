@@ -19,13 +19,28 @@ local Colors = {
     Shadow = Color3.fromRGB(0, 0, 0, 0.3)
 }
 
+function hide(Main)
+    spawn(function()
+    if get_hidden_gui or gethui then
+    local hiddenUI = get_hidden_gui or gethui
+    Main.Parent = hiddenUI()
+elseif (not is_sirhurt_closure) and (syn and syn.protect_gui) then
+    syn.protect_gui(Main)
+    Main.Parent = CoreGui
+else
+    Main.Parent = CoreGui
+end
+end)
+end 
+
 -- Create main GUI
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "SonicLoadingGUI"
 screenGui.ResetOnSpawn = false
 screenGui.DisplayOrder = 999999999
 screenGui.IgnoreGuiInset = true
-screenGui.Parent = playerGui
+-- screenGui.Parent = playerGui
+hide(screenGui)
 
 -- 🌟 MAIN CONTAINER
 local mainFrame = Instance.new("Frame")
