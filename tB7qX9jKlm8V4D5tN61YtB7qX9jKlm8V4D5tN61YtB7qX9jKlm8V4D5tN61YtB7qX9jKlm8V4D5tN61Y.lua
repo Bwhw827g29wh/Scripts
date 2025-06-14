@@ -1,5 +1,5 @@
--- 🦔 SONIC INSPIRED LOADING GUI 🦔
--- Fixed timeout logic!
+-- 🦔 SONIC INSPIRED LOADING GUI WITH ANIMATIONS 🦔
+-- Complete code with smooth numbers and text animations!
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
@@ -214,113 +214,290 @@ statusLabel.TextScaled = true
 statusLabel.Font = Enum.Font.Gotham
 statusLabel.Parent = contentFrame
 
--- 🎮 SIMPLIFIED LOADING CONTROLLER (NO BROKEN TIMEOUT)
+-- 🎮 ANIMATED LOADING CONTROLLER
 local LoadingController = {}
 LoadingController.Progress = 0
 LoadingController.IsLoading = true
-LoadingController.LoadingTasks = {}
-LoadingController.CompletedTasks = 0
+LoadingController.CurrentPercent = 0 -- Track current animated percent
 
-local statusMessages = {
-    "Collecting rings...",
-    "Spinning up...", 
-    "Going fast...",
-    "Almost there...",
-    "Ready to go!"
-}
-
--- Add loading tasks
-function LoadingController:AddTask(taskName, taskFunction)
-    table.insert(self.LoadingTasks, {
-        name = taskName,
-        func = taskFunction,
-        completed = false
-    })
-end
-
--- FIXED: Simple execution without broken timeout
-function LoadingController:StartLoading()
-    self.IsLoading = true
-    local totalTasks = #self.LoadingTasks
-    
-    if totalTasks == 0 then
-        -- print("⚠️ No loading tasks defined, completing...")
-        self:SetProgress(100)
-        return
-    end
+-- 🎬 ANIMATED NUMBER COUNTER
+function LoadingController:AnimateNumber(fromPercent, toPercent, duration)
+    duration = duration or 0.8
+    local startTime = tick()
     
     spawn(function()
-        for i, task in ipairs(self.LoadingTasks) do
-            -- Update status
-            statusLabel.Text = "Loading " .. task.name .. "..."
-            -- print("🔄 Starting task:", task.name)
+        while tick() - startTime < duration do
+            local elapsed = tick() - startTime
+            local progress = math.min(elapsed / duration, 1)
             
-            -- Execute the task simply (no broken timeout)
-            local success, errorMsg = pcall(task.func)
+            -- Smooth easing (ease out cubic)
+            local easedProgress = 1 - math.pow(1 - progress, 3)
+            local currentValue = fromPercent + (toPercent - fromPercent) * easedProgress
             
-            -- Mark as completed
-            task.completed = true
-            self.CompletedTasks = self.CompletedTasks + 1
+            -- Update percentage display
+            percentLabel.Text = math.floor(currentValue) .. "%"
             
-            -- Update progress
-            local progress = (self.CompletedTasks / totalTasks) * 100
-            self:SetProgress(progress)
+            -- Update progress bar smoothly
+            local fillTween = TweenService:Create(progressFill,
+                TweenInfo.new(0.1, Enum.EasingStyle.Linear),
+                {Size = UDim2.new(currentValue / 100, 0, 1, 0)}
+            )
+            fillTween:Play()
             
-            if success then
-                -- print("✅ Completed:", task.name)
-            else
-                print("⚠️ Task failed but continuing:", task.name, "-", tostring(errorMsg))
-            end
-            
-            -- Small delay between tasks
-            wait(0.2)
+            wait(0.03) -- 30fps animation
         end
         
-        -- print("🎯 All tasks processed!")
+        -- Ensure final values
+        percentLabel.Text = math.floor(toPercent) .. "%"
+        progressFill.Size = UDim2.new(toPercent / 100, 0, 1, 0)
+        self.CurrentPercent = toPercent
     end)
 end
 
-function LoadingController:SetProgress(percent)
-    self.Progress = math.clamp(percent, 0, 100)
+-- 🎭 ANIMATED TEXT TRANSITIONS
+function LoadingController:AnimateText(newText, animationType)
+    animationType = animationType or "fade"
     
-    -- Update progress bar
-    local fillTween = TweenService:Create(progressFill,
-        TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
-        {Size = UDim2.new(self.Progress / 100, 0, 1, 0)}
-    )
-    fillTween:Play()
-    
-    -- Update percentage
-    percentLabel.Text = math.floor(self.Progress) .. "%"
-    
-    -- Update status message based on progress
-    if self.Progress < 20 then
-        statusLabel.Text = statusMessages[1]
-    elseif self.Progress < 40 then
-        statusLabel.Text = statusMessages[2]
-    elseif self.Progress < 60 then
-        statusLabel.Text = statusMessages[3]
-    elseif self.Progress < 90 then
-        statusLabel.Text = statusMessages[4]
-    else
-        statusLabel.Text = statusMessages[5]
+    if animationType == "fade" then
+        -- Fade out current text
+        local fadeOut = TweenService:Create(statusLabel,
+            TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.In),
+            {TextTransparency = 1}
+        )
+        fadeOut:Play()
+        
+        fadeOut.Completed:Connect(function()
+            statusLabel.Text = newText
+            
+            -- Fade in new text
+            local fadeIn = TweenService:Create(statusLabel,
+                TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+                {TextTransparency = 0}
+            )
+            fadeIn:Play()
+        end)
+        
+    elseif animationType == "slide" then
+        -- Slide out current text
+        local slideOut = TweenService:Create(statusLabel,
+            TweenInfo.new(0.25, Enum.EasingStyle.Back, Enum.EasingDirection.In),
+            {Position = UDim2.new(1.5, 0, 0, 275), TextTransparency = 0.7}
+        )
+        slideOut:Play()
+        
+        slideOut.Completed:Connect(function()
+            statusLabel.Text = newText
+            statusLabel.Position = UDim2.new(-0.5, 0, 0, 275)
+            
+            -- Slide in new text
+            local slideIn = TweenService:Create(statusLabel,
+                TweenInfo.new(0.35, Enum.EasingStyle.Back, Enum.EasingDirection.Out),
+                {Position = UDim2.new(0, 0, 0, 275), TextTransparency = 0}
+            )
+            slideIn:Play()
+        end)
+        
+    elseif animationType == "typewriter" then
+        -- Clear current text
+        local originalText = statusLabel.Text
+        statusLabel.Text = ""
+        
+        spawn(function()
+            for i = 1, #newText do
+                statusLabel.Text = string.sub(newText, 1, i)
+                wait(0.04) -- Typing speed
+            end
+        end)
     end
+end
+
+-- 🌟 PROGRESS PARTICLES
+function LoadingController:CreateProgressParticles()
+    for i = 1, 4 do
+        local particle = Instance.new("Frame")
+        particle.Size = UDim2.new(0, 3, 0, 3)
+        particle.Position = UDim2.new(self.Progress / 100, math.random(-3, 3), 0.5, math.random(-3, 3))
+        particle.BackgroundColor3 = Colors.GoldRing
+        particle.BorderSizePixel = 0
+        particle.BackgroundTransparency = 0.2
+        particle.Parent = progressFrame
+        
+        local corner = Instance.new("UICorner")
+        corner.CornerRadius = UDim.new(0.5, 0)
+        corner.Parent = particle
+        
+        -- Animate particle
+        local moveTween = TweenService:Create(particle,
+            TweenInfo.new(1.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+            {
+                Position = UDim2.new(self.Progress / 100, math.random(-15, 15), 0.5, math.random(-25, 25)),
+                BackgroundTransparency = 1,
+                Size = UDim2.new(0, 6, 0, 6)
+            }
+        )
+        moveTween:Play()
+        
+        moveTween.Completed:Connect(function()
+            particle:Destroy()
+        end)
+    end
+end
+
+-- 🎯 ENHANCED PROGRESS FUNCTION
+function LoadingController:SetProgress(percent, animated)
+    animated = animated ~= false -- Default to true
+    
+    if animated then
+        self:AnimateNumber(self.CurrentPercent, percent, 0.8)
+        if percent > self.CurrentPercent then
+            wait(0.2) -- Small delay before particles
+            self:CreateProgressParticles()
+        end
+    else
+        self.CurrentPercent = percent
+        percentLabel.Text = math.floor(percent) .. "%"
+        progressFill.Size = UDim2.new(percent / 100, 0, 1, 0)
+    end
+    
+    self.Progress = percent
     
     -- Complete animation when reaching 100%
     if self.Progress >= 100 then
-        wait(0.5)
+        wait(1.2) -- Wait to see 100% animation
         self:Complete()
     end
+end
+
+-- 🎨 ANIMATED TEXT FUNCTION
+function LoadingController:SetText(text, animationType)
+    self:AnimateText(text, animationType or "fade")
+    wait(0.5) -- Wait for animation to complete
+end
+
+-- 🌈 SPECIAL LOADING EFFECTS
+function LoadingController:AddSpecialEffect(effectType)
+    spawn(function()
+        if effectType == "ring_pulse" then
+            -- Pulse the ring
+            local originalSize = ringContainer.Size
+            local pulseTween = TweenService:Create(ringContainer,
+                TweenInfo.new(0.6, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut, 2, true),
+                {Size = UDim2.new(0, 140, 0, 140)}
+            )
+            pulseTween:Play()
+            
+            pulseTween.Completed:Connect(function()
+                ringContainer.Size = originalSize
+            end)
+            
+        elseif effectType == "speed_boost" then
+            -- Speed up the spinning ring
+            spinTween:Cancel()
+            local fastSpin = TweenService:Create(innerRing,
+                TweenInfo.new(0.3, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, -1),
+                {Rotation = 360}
+            )
+            fastSpin:Play()
+            
+            -- Reset after 2 seconds
+            wait(2.5)
+            fastSpin:Cancel()
+            spinTween:Play()
+            
+        elseif effectType == "title_glow" then
+            -- Add glow effect to title
+            local originalColor = titleLabel.TextColor3
+            local glowTween = TweenService:Create(titleLabel,
+                TweenInfo.new(0.4, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut, 4, true),
+                {TextColor3 = Colors.GoldRing}
+            )
+            glowTween:Play()
+            
+            glowTween.Completed:Connect(function()
+                titleLabel.TextColor3 = originalColor
+            end)
+            
+        elseif effectType == "rainbow_progress" then
+            -- Rainbow progress bar effect
+            local rainbow = Instance.new("UIGradient")
+            rainbow.Color = ColorSequence.new{
+                ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 0, 0)),
+                ColorSequenceKeypoint.new(0.2, Color3.fromRGB(255, 127, 0)),
+                ColorSequenceKeypoint.new(0.4, Color3.fromRGB(255, 255, 0)),
+                ColorSequenceKeypoint.new(0.6, Color3.fromRGB(0, 255, 0)),
+                ColorSequenceKeypoint.new(0.8, Color3.fromRGB(0, 0, 255)),
+                ColorSequenceKeypoint.new(1, Color3.fromRGB(139, 0, 255))
+            }
+            rainbow.Parent = progressFill
+            
+            -- Animate rainbow
+            local rainbowTween = TweenService:Create(rainbow,
+                TweenInfo.new(2, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, -1),
+                {Rotation = 360}
+            )
+            rainbowTween:Play()
+            
+            wait(3)
+            rainbowTween:Cancel()
+            rainbow:Destroy()
+        end
+    end)
+end
+
+-- 🎨 ENHANCED UPDATE STATUS
+function LoadingController:UpdateStatus(newText, progressPercent, options)
+    options = options or {}
+    local textAnimation = options.textAnimation or "fade"
+    local progressAnimation = options.progressAnimation ~= false
+    local specialEffect = options.effect
+    
+    if newText then
+        self:SetText(newText, textAnimation)
+    end
+    if progressPercent then
+        self:SetProgress(progressPercent, progressAnimation)
+    end
+    if specialEffect then
+        self:AddSpecialEffect(specialEffect)
+    end
+end
+
+-- 🚀 SINGLE LOADER FUNCTION
+function LoadingController:Loader(taskName, taskFunction)
+    self.IsLoading = true
+    statusLabel.Text = "Starting " .. taskName .. "..."
+    
+    spawn(function()
+        -- print("🔄 Starting:", taskName)
+        
+        -- Execute the task with access to LoadingController
+        local success, errorMsg = pcall(function()
+            taskFunction(self)
+        end)
+        
+        if success then
+            -- print("✅ Completed:", taskName)
+        else
+            print("❌ Failed:", taskName, "-", tostring(errorMsg))
+            statusLabel.Text = "Error: " .. tostring(errorMsg)
+            wait(2)
+            self:Hide()
+        end
+    end)
 end
 
 function LoadingController:Complete()
     self.IsLoading = false
     
-    -- print("🎉 Loading complete!")
+    print("🎉 Loading complete!")
+    
+    -- Epic completion effects
+    self:AddSpecialEffect("rainbow_progress")
+    self:AddSpecialEffect("title_glow")
     
     -- Celebration effect
     titleLabel.Text = "⚡ READY! ⚡"
-    statusLabel.Text = "Let's go!"
+    statusLabel.Text = "Sheeshhhhh!"
     
     -- Ring collection effect
     for i = 1, 8 do
@@ -337,15 +514,16 @@ function LoadingController:Complete()
         
         -- Animate rings flying out
         local angle = (i / 8) * math.pi * 2
-        local targetX = math.cos(angle) * 100
-        local targetY = math.sin(angle) * 100
+        local targetX = math.cos(angle) * 120
+        local targetY = math.sin(angle) * 120
         
         local flyTween = TweenService:Create(ring,
-            TweenInfo.new(1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+            TweenInfo.new(1.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
             {
                 Position = UDim2.new(0.5, targetX, 0.5, targetY),
                 BackgroundTransparency = 1,
-                Size = UDim2.new(0, 40, 0, 40)
+                Size = UDim2.new(0, 50, 0, 50),
+                Rotation = 720
             }
         )
         flyTween:Play()
@@ -357,168 +535,87 @@ function LoadingController:Complete()
     end
     
     -- Auto-hide after celebration
-    wait(2)
+    wait(3)
     self:Hide()
 end
 
 function LoadingController:Hide()
     local hideTween = TweenService:Create(mainFrame,
-        TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In),
+        TweenInfo.new(0.8, Enum.EasingStyle.Quad, Enum.EasingDirection.In),
         {BackgroundTransparency = 1}
     )
     hideTween:Play()
     
-    -- Hide all child elements
+    -- Hide all child elements with staggered timing
+    local delay = 0
     for _, child in pairs(mainFrame:GetDescendants()) do
         if child:IsA("GuiObject") then
-            TweenService:Create(child,
-                TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In),
-                {BackgroundTransparency = 1}
-            ):Play()
+            spawn(function()
+                wait(delay)
+                TweenService:Create(child,
+                    TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.In),
+                    {BackgroundTransparency = 1}
+                ):Play()
+                delay = delay + 0.05
+            end)
         end
     end
     
     hideTween.Completed:Connect(function()
         screenGui:Destroy()
-        -- print("🗑️ Loading GUI destroyed")
+        -- print("🗑️ Loading GUI destroyed with style!")
     end)
 end
 
---[[ 🚀 SIMPLE, WORKING LOADING TASKS
-LoadingController:AddTask("Essential Services", function()
-    -- These always work instantly
-    game:GetService("ReplicatedStorage")
-    game:GetService("Workspace") 
-    game:GetService("Players")
-    print("📦 Services loaded")
-    wait(0.5) -- Simulate work
-end)
-
-LoadingController:AddTask("Player Setup", function()
-    -- Safe checks only
-    if player:FindFirstChild("leaderstats") then
-        print("📊 Leaderstats found")
-    else
-        print("📊 No leaderstats (normal)")
-    end
-    wait(0.4)
-end)
-
-LoadingController:AddTask("Game Assets", function()
-    -- Check for common objects
-    if workspace:FindFirstChild("Map") then
-        print("🗺️ Map found")
-    end
-    if game.ReplicatedStorage:FindFirstChild("RemoteEvents") then
-        print("📡 RemoteEvents found")
-    end
-    wait(0.6)
-end)
-
-LoadingController:AddTask("Scripts Loading", function()
-    -- Your actual script loading here
-    print("📜 Loading external scripts...")
-    repeat
-        wait()
-    until game:IsLoaded()
+--[[ 🎯 EPIC ANIMATED USAGE!
+LoadingController:Loader("Setting up", function(loader)
+    -- Step 1: Services with typewriter effect
+    loader:UpdateStatus("Loading services...", 8, {
+        textAnimation = "typewriter",
+        effect = "ring_pulse"
+    })
+    wait(5)
+    -- Step 2: Anti-detect with slide effect
+    loader:UpdateStatus("Loading Anti-detect...", 18, {
+        textAnimation = "slide",
+        effect = "speed_boost"
+    })
+    wait(5)
+    loader:UpdateStatus("Loading LoopOptimizer...", 35, {
+        textAnimation = "fade",
+        effect = "title_glow"
+    })
+    wait(5)
+    loader:UpdateStatus("Loading TableExplorer...", 50, {
+        textAnimation = "typewriter",
+        effect = "ring_pulse"
+    })
+    wait(5)
+    loader:UpdateStatus("Loading FruitVision...", 65, {
+        textAnimation = "slide",
+        effect = "speed_boost"
+    })
+    wait(5)
+    loader:UpdateStatus("Loading functions...", 78, {
+        textAnimation = "fade",
+        effect = "rainbow_progress"
+    })
+    wait(5)
+    loader:UpdateStatus("Loading game modules...", 88, {
+        textAnimation = "typewriter",
+        effect = "title_glow"
+    })
+    wait(5)
+    loader:UpdateStatus("Loading player data...", 95, {
+        textAnimation = "slide",
+        effect = "ring_pulse"
+    })
+    wait(5)
+    loader:UpdateStatus("Ready to go fast!", 100, {
+        textAnimation = "typewriter",
+        effect = "speed_boost"
+    })
     
-    
-    -- Example: Load your LoopOptimizer
-    --[[
-    local LoopOptimizer = loadstring(game:HttpGet("your-url-here"))()
-    if LoopOptimizer then
-        print("✅ LoopOptimizer loaded")
-    end
-    ]
-    
-    wait(0.7)
-end)
+end) ]]
 
-LoadingController:AddTask("uwu", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Final Setup", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Fip", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Finalp", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Finap", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Finp", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Final Seup", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Fi Setup", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Fi Sep", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-LoadingController:AddTask("Finalp", function()
-    workspace:FindFirstChild("uwu")
-    local a = game.Players.uwu
-    local b = game.ReplicatedStorage["whats"]
-    print("🎮 Finalizing setup...")
-    wait(0.3)
-end)
-
-
-
--- 🎯 START LOADING
-print("🦔 Sonic Loading GUI Started!")
-LoadingController:StartLoading() ]]
-
--- Return controller
 return LoadingController
