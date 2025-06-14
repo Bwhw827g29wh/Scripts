@@ -493,9 +493,9 @@ function LoadingController:Loader(taskName, taskFunction)
         if success then
             -- print("✅ Completed:", taskName)
         else
-            print("❌ Failed:", taskName, "-", tostring(errorMsg))
+            error("❌ Failed:", taskName, "-", tostring(errorMsg))
             statusLabel.Text = "Error: " .. tostring(errorMsg)
-            wait(2)
+            wait(20)
             self:Hide()
         end
     end)
