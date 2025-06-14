@@ -39,8 +39,8 @@ screenGui.Name = "SonicLoadingGUI"
 screenGui.ResetOnSpawn = false
 screenGui.DisplayOrder = 999999999
 screenGui.IgnoreGuiInset = true
--- screenGui.Parent = playerGui
-hide(screenGui)
+screenGui.Parent = playerGui
+--hide(screenGui)
 
 -- 🌟 MAIN CONTAINER
 local mainFrame = Instance.new("Frame")
