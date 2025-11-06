@@ -1,7 +1,3 @@
-getgenv().UnliCandy = true -- Re-execute this in a separate editor to stop, getgenv().UnliCandy = false
-getgenv().Instant = false -- If u want to get 100k plus instantly but u will crash and lag
-getgenv().Limit = 3000 -- avoid getting banned change this into "nil" if u want no limit
--- All players on the same server will experience the same unlimited candy.
 
 local Remote = game:GetService("ReplicatedStorage").RemoteEvents.CarnivalCompleteShootingGallery
 
