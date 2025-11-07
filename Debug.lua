@@ -1,4792 +1,4783 @@
-("\078\111 \080\108\101\097\115\101"):gsub("\046\043", function(_0x0ETangina)
-	__0x0FbjkNHTangina = _0x0ETangina;
+("\078\111 \080\108\101\097\115\101"):gsub("\046\043", function(_0x0sFallenPartsDestroyHeight)
+	__0x0o_pkeAPutangInaSabiNangWag = _0x0sFallenPartsDestroyHeight;
 end);
 return (function(...)
-	local _0x0ESkilliSSUE = {
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HSkidDetected = "";
-				for _0x0ENigger = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HSkidDetected = _0x0HSkidDetected .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0ENigger]];
+	local _0x0sPleaseImBeggingNooo = {
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SOhab, _0x0VRomans12_19 = _0x0sNigaBytes[#_0x0sNigaBytes], "";
+				for _0x0sBible = 1, #_0x0SOhab, 1 do
+					_0x0VRomans12_19 = _0x0VRomans12_19  .. _0x0SOhab[_0x0sNigaBytes[_0x0sBible]];
 				end;
-				return _0x0HSkidDetected;
+				return _0x0VRomans12_19;
 			end)({
-				2,
-				1,
 				3,
-				"\105\066\113\048\071\080",
-				"\117\122\121\098\049",
-				"\061",
-			}),
-			"\082\086\122\105",
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HPaasa = "";
-				for _0x0EGay = 1, #_0x0EBrainDamage / 2, 1 do
-					_0x0HPaasa = _0x0HPaasa .. _0x0EBrainDamage[#_0x0EBrainDamage / 2 + _0x0EBrainDamage[_0x0EGay]];
-				end;
-				return _0x0HPaasa;
-			end)({
-				1,
-				2,
-				"\114\075\056\103",
-				"\073\081\061\061",
-			}),
-			(function(_0x0ESINGIT, ...)
-				local _0x0HFallenPartsDestroyHeight = "";
-				for _0x0EBakla = 1, #_0x0ESINGIT / 2, 1 do
-					_0x0HFallenPartsDestroyHeight = _0x0HFallenPartsDestroyHeight .. _0x0ESINGIT[#_0x0ESINGIT / 2 + _0x0ESINGIT[_0x0EBakla]];
-				end;
-				return _0x0HFallenPartsDestroyHeight;
-			end)({
 				2,
 				1,
-				4,
-				3,
-				"\103\120\105\103\078\065\100",
-				"\106\088\074\072\054\082",
-				"\061",
-				"\099\050\098\100\049\055",
+				{ "\061", "\113\066\116\103\103\102\061", "\103\120\102\056" },
 			}),
-			"\113\049\061\061",
-			(function(_0x0ETFYouLookingAt, ...)
-				local _0x0HTFYouLookingAt = "";
-				for _0x0ENigaBytes = 1, #_0x0ETFYouLookingAt / 2, 1 do
-					_0x0HTFYouLookingAt = _0x0HTFYouLookingAt .. _0x0ETFYouLookingAt[#_0x0ETFYouLookingAt / 2 + _0x0ETFYouLookingAt[_0x0ENigaBytes]];
+			(function(_0x0sFallenPartsDestroyHeight, ...)
+				local _0x0SNigger, _0x0VNigger = _0x0sFallenPartsDestroyHeight[#_0x0sFallenPartsDestroyHeight], "";
+				for _0x0sSINGIT = 1, #_0x0SNigger, 1 do
+					_0x0VNigger = _0x0VNigger .. _0x0SNigger[_0x0sFallenPartsDestroyHeight[_0x0sSINGIT]];
 				end;
-				return _0x0HTFYouLookingAt;
-			end)({
-				1,
-				2,
-				3,
-				"\101\098",
-				"\053\110\101\076\061",
-				"\061",
-			}),
-			(function(_0x0EPaasa, ...)
-				local _0x0HFallenPartsDestroyHeight = "";
-				for _0x0EOhab = 1, #_0x0EPaasa / 2, 1 do
-					_0x0HFallenPartsDestroyHeight = _0x0HFallenPartsDestroyHeight .. _0x0EPaasa[#_0x0EPaasa / 2 + _0x0EPaasa[_0x0EOhab]];
+				return _0x0VNigger;
+			end)({ 2, 1, { "\050\061", "\080\111" } }),
+			(function(_0x0sSkilliSSUE, ...)
+				local _0x0SIveDoneNothing, _0x0VSINGIT = _0x0sSkilliSSUE[#_0x0sSkilliSSUE], "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0SIveDoneNothing, 1 do
+					_0x0VSINGIT = _0x0VSINGIT .. _0x0SIveDoneNothing[_0x0sSkilliSSUE[_0x0sBroStudyingHowMyBrainWorks]];
 				end;
-				return _0x0HFallenPartsDestroyHeight;
+				return _0x0VSINGIT;
 			end)({
 				4,
-				2,
-				1,
-				3,
-				"\057\081\075\057\086",
-				"\051\071\102\120\071\073",
-				"\120\110",
-				"\047\089\043",
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HTangina, _0x0bKigol = _0x0ETangina[#_0x0ETangina], "";
-				for _0x0EPutangInaSabiNangWag = 1, #_0x0HTangina, 1 do
-					_0x0bKigol = _0x0bKigol .. _0x0HTangina[_0x0ETangina[_0x0EPutangInaSabiNangWag]];
-				end;
-				return _0x0bKigol;
-			end)({
-				3,
-				1,
-				2,
-				{ "\069\080\079\081", "\061\061", "\077\070" },
-			}),
-			(function(_0x0EDick, ...)
-				local _0x0HTanginaMoCge, _0x0bGago = _0x0EDick[#_0x0EDick], "";
-				for _0x0EBoo = 1, #_0x0HTanginaMoCge, 1 do
-					_0x0bGago = _0x0bGago .. _0x0HTanginaMoCge[_0x0EDick[_0x0EBoo]];
-				end;
-				return _0x0bGago;
-			end)({ 2, 1, { "\048\072", "\087\079\073\109\112\121" } }),
-			(function(_0x0ETFYouLookingAt, ...)
-				local _0x0HPaasa = "";
-				for _0x0ETangina = 1, #_0x0ETFYouLookingAt / 2, 1 do
-					_0x0HPaasa = _0x0HPaasa .. _0x0ETFYouLookingAt[#_0x0ETFYouLookingAt / 2 + _0x0ETFYouLookingAt[_0x0ETangina]];
-				end;
-				return _0x0HPaasa;
-			end)({
-				2,
-				1,
-				"\086\081\061\061",
-				"\119\115\043\043",
-			}),
-			(function(_0x0ESHAyBAO, ...)
-				local _0x0HTangina = "";
-				for _0x0EBoo = 1, #_0x0ESHAyBAO / 2, 1 do
-					_0x0HTangina = _0x0HTangina .. _0x0ESHAyBAO[#_0x0ESHAyBAO / 2 + _0x0ESHAyBAO[_0x0EBoo]];
-				end;
-				return _0x0HTangina;
-			end)({
-				2,
-				1,
-				3,
-				"\111\099\106\116",
-				"\105\115\048",
-				"\061",
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HNigger, _0x0bRespect = _0x0ETangina[#_0x0ETangina], "";
-				for _0x0ETerrorist = 1, #_0x0HNigger, 1 do
-					_0x0bRespect = _0x0bRespect .. _0x0HNigger[_0x0ETangina[_0x0ETerrorist]];
-				end;
-				return _0x0bRespect;
-			end)({
-				3,
-				4,
-				2,
-				1,
 				5,
+				2,
+				1,
+				3,
 				{
-					"\101\066\108",
-					"\120\067",
-					"\071\109\112\082\047\120\083",
-					"\065\101\066",
-					"\082",
+					"\070\061",
+					"\120\110\097\065\106\048",
+					"\061",
+					"\055\111\051",
+					"\069\108\048\055",
 				},
 			}),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HBoo = "";
-				for _0x0EBakla = 1, #_0x0EPutangInaSabiNangWag / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag / 2 + _0x0EPutangInaSabiNangWag[_0x0EBakla]];
+			(function(_0x0sGay, ...)
+				local _0x0SOhab, _0x0VNoSkill = _0x0sGay[#_0x0sGay], "";
+				for _0x0sMeow = 1, #_0x0SOhab, 1 do
+					_0x0VNoSkill = _0x0VNoSkill .. _0x0SOhab[_0x0sGay[_0x0sMeow]];
 				end;
-				return _0x0HBoo;
-			end)({
-				1,
-				2,
-				"\089\081\081\098",
-				"\100\076\061\061",
-			}),
-			"\098\100\086\105",
-			(function(_0x0EPlsNo, ...)
-				local _0x0HKigol, _0x0bIveDoneNothing = _0x0EPlsNo[#_0x0EPlsNo], "";
-				for _0x0EGay = 1, #_0x0HKigol, 1 do
-					_0x0bIveDoneNothing = _0x0bIveDoneNothing .. _0x0HKigol[_0x0EPlsNo[_0x0EGay]];
-				end;
-				return _0x0bIveDoneNothing;
-			end)({
-				4,
-				1,
-				5,
-				3,
-				2,
-				{
-					"\076\105",
-					"\088\061",
-					"\114\078\087",
-					"\067\078",
-					"\116\097\055\114\075\081\072",
-				},
-			}),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HMamaMoBlue, _0x0bNigger = _0x0ENoSkill[#_0x0ENoSkill], "";
-				for _0x0ERomans12_19 = 1, #_0x0HMamaMoBlue, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HMamaMoBlue[_0x0ENoSkill[_0x0ERomans12_19]];
-				end;
-				return _0x0bNigger;
-			end)({ 1, 2, { "\079\107\048", "\043\090\098\105\061" } }),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HIveDoneNothing, _0x0bSINGIT = _0x0ESkilliSSUE[#_0x0ESkilliSSUE], "";
-				for _0x0ETerrorist = 1, #_0x0HIveDoneNothing, 1 do
-					_0x0bSINGIT = _0x0bSINGIT .. _0x0HIveDoneNothing[_0x0ESkilliSSUE[_0x0ETerrorist]];
-				end;
-				return _0x0bSINGIT;
-			end)({
-				2,
-				4,
-				5,
-				3,
-				1,
-				{
-					"\048\120\106",
-					"\101\106\053\050\118\121",
-					"\068\072\121\047\086",
-					"\066\048\109",
-					"\089\100\066",
-				},
-			}),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HSkilliSSUE, _0x0bBoo = _0x0EBrainDamage[#_0x0EBrainDamage], "";
-				for _0x0ESINGIT = 1, #_0x0HSkilliSSUE, 1 do
-					_0x0bBoo = _0x0bBoo .. _0x0HSkilliSSUE[_0x0EBrainDamage[_0x0ESINGIT]];
-				end;
-				return _0x0bBoo;
-			end)({
-				1,
-				3,
-				2,
-				{ "\071\109\112\082", "\061", "\047\076\061" },
-			}),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HDiKanaNiyaMahal, _0x0bTanginaMoCge = _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal], "";
-				for _0x0ERomans12_19 = 1, #_0x0HDiKanaNiyaMahal, 1 do
-					_0x0bTanginaMoCge = _0x0bTanginaMoCge .. _0x0HDiKanaNiyaMahal[_0x0EDiKanaNiyaMahal[_0x0ERomans12_19]];
-				end;
-				return _0x0bTanginaMoCge;
-			end)({ 1, 2, { "\052\114\103", "\101\088\049\068\061" } }),
-			(function(_0x0ETanginaMoCge, ...)
-				local _0x0HSkilliSSUE = "";
-				for _0x0EBakla = 1, #_0x0ETanginaMoCge / 2, 1 do
-					_0x0HSkilliSSUE = _0x0HSkilliSSUE .. _0x0ETanginaMoCge[#_0x0ETanginaMoCge / 2 + _0x0ETanginaMoCge[_0x0EBakla]];
-				end;
-				return _0x0HSkilliSSUE;
+				return _0x0VNoSkill;
 			end)({
 				1,
 				2,
 				3,
-				"\080\102\119\084",
-				"\116\101\048\068\097\122",
-				"\090\103\066\081\061\061",
+				{ "\056\111\097", "\057\074", "\056\061\061" },
 			}),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HUrMom = "";
-				for _0x0EGago = 1, #_0x0ENoSkill / 2, 1 do
-					_0x0HUrMom = _0x0HUrMom .. _0x0ENoSkill[#_0x0ENoSkill / 2 + _0x0ENoSkill[_0x0EGago]];
+			(function(_0x0sTangina, ...)
+				local _0x0STerrorist, _0x0VBAYOT = _0x0sTangina[#_0x0sTangina], "";
+				for _0x0sSINGIT = 1, #_0x0STerrorist, 1 do
+					_0x0VBAYOT = _0x0VBAYOT .. _0x0STerrorist[_0x0sTangina[_0x0sSINGIT]];
 				end;
-				return _0x0HUrMom;
+				return _0x0VBAYOT;
+			end)({ 1, 2, { "\065\076\085\104\049\099", "\061\061" } }),
+			(function(_0x0sLove, ...)
+				local _0x0SBroStudyingHowMyBrainWorks, _0x0VTanginaMoCge = _0x0sLove[#_0x0sLove], "";
+				for _0x0sPutangInaSabiNangWag = 1, #_0x0SBroStudyingHowMyBrainWorks, 1 do
+					_0x0VTanginaMoCge = _0x0VTanginaMoCge .. _0x0SBroStudyingHowMyBrainWorks[_0x0sLove[_0x0sPutangInaSabiNangWag]];
+				end;
+				return _0x0VTanginaMoCge;
+			end)({ 2, 1, { "\055\115\080\069\114", "\097\076\047\113\100\097\074" } }),
+			(function(_0x0sTUBOL, ...)
+				local _0x0STangina, _0x0VNoSkill = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sDick = 1, #_0x0STangina, 1 do
+					_0x0VNoSkill = _0x0VNoSkill .. _0x0STangina[_0x0sTUBOL[_0x0sDick]];
+				end;
+				return _0x0VNoSkill;
 			end)({
-				1,
-				3,
-				2,
-				"\081\056\053\119\065\075\073",
-				"\080\069\111",
-				"\047\049",
-			}),
-			(function(_0x0ESHAyBAO, ...)
-				local _0x0HPaasa, _0x0bPleaseImBeggingNooo = _0x0ESHAyBAO[#_0x0ESHAyBAO], "";
-				for _0x0ETerrorist = 1, #_0x0HPaasa, 1 do
-					_0x0bPleaseImBeggingNooo = _0x0bPleaseImBeggingNooo .. _0x0HPaasa[_0x0ESHAyBAO[_0x0ETerrorist]];
-				end;
-				return _0x0bPleaseImBeggingNooo;
-			end)({ 2, 1, { "\061", "\101\078\057\082\101\078\116" } }),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HBoo = "";
-				for _0x0ENoSkill = 1, #_0x0EBrainDamage / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0EBrainDamage[#_0x0EBrainDamage / 2 + _0x0EBrainDamage[_0x0ENoSkill]];
-				end;
-				return _0x0HBoo;
-			end)({
-				1,
-				3,
-				2,
-				"\112\120\073\067\047\072\057",
-				"\120\116",
-				"\120\081\098\079\050\118\109",
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HRomans12_19 = "";
-				for _0x0EBILAT = 1, #_0x0ETangina / 2, 1 do
-					_0x0HRomans12_19 = _0x0HRomans12_19  .. _0x0ETangina[#_0x0ETangina / 2 + _0x0ETangina[_0x0EBILAT]];
-				end;
-				return _0x0HRomans12_19;
-			end)({
-				2,
-				1,
-				3,
-				"\087\049",
-				"\121\109\067\048\107\048\115",
-				"\076\061\061",
-			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HBILAT = "";
-				for _0x0ESHAyBAO = 1, #_0x0ENigger / 2, 1 do
-					_0x0HBILAT = _0x0HBILAT .. _0x0ENigger[#_0x0ENigger / 2 + _0x0ENigger[_0x0ESHAyBAO]];
-				end;
-				return _0x0HBILAT;
-			end)({
-				2,
-				1,
-				"\117\099\088\061\061",
-				"\113\106\074\073\107\122\120",
-			}),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HSkilliSSUE = "";
-				for _0x0EDick = 1, #_0x0ENoSkill / 2, 1 do
-					_0x0HSkilliSSUE = _0x0HSkilliSSUE .. _0x0ENoSkill[#_0x0ENoSkill / 2 + _0x0ENoSkill[_0x0EDick]];
-				end;
-				return _0x0HSkilliSSUE;
-			end)({
-				2,
-				1,
-				"\116\109\098\075\061",
-				"\112\049\113\116\110\076\118",
-			}),
-			(function(_0x0EUrMom, ...)
-				local _0x0HNigger, _0x0bPutangInaSabiNangWag = _0x0EUrMom[#_0x0EUrMom], "";
-				for _0x0EBILAT = 1, #_0x0HNigger, 1 do
-					_0x0bPutangInaSabiNangWag = _0x0bPutangInaSabiNangWag .. _0x0HNigger[_0x0EUrMom[_0x0EBILAT]];
-				end;
-				return _0x0bPutangInaSabiNangWag;
-			end)({
-				3,
-				1,
-				2,
-				{ "\073\109\113\107\122\098", "\047\061", "\073\051\083\048" },
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HRomans12_19 = "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0EMamaMoBlue / 2, 1 do
-					_0x0HRomans12_19 = _0x0HRomans12_19  .. _0x0EMamaMoBlue[#_0x0EMamaMoBlue / 2 + _0x0EMamaMoBlue[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0HRomans12_19;
-			end)({
-				1,
-				2,
-				"\088\107\116\085\051\106",
-				"\119\067",
-			}),
-			(function(_0x0EUrMom, ...)
-				local _0x0HSINGIT = "";
-				for _0x0ENoSkill = 1, #_0x0EUrMom / 2, 1 do
-					_0x0HSINGIT = _0x0HSINGIT .. _0x0EUrMom[#_0x0EUrMom / 2 + _0x0EUrMom[_0x0ENoSkill]];
-				end;
-				return _0x0HSINGIT;
-			end)({
-				3,
-				2,
-				1,
-				4,
-				"\110\116\069\074\097\103\089",
-				"\104\114\112\113\053\047",
-				"\071\090\067\056",
-				"\049\061\061",
-			}),
-			(function(_0x0ETerrorist, ...)
-				local _0x0HRespect = "";
-				for _0x0ETangina = 1, #_0x0ETerrorist / 2, 1 do
-					_0x0HRespect = _0x0HRespect .. _0x0ETerrorist[#_0x0ETerrorist / 2 + _0x0ETerrorist[_0x0ETangina]];
-				end;
-				return _0x0HRespect;
-			end)({
-				2,
-				1,
-				"\061\061",
-				"\099\117\120\080\047\081",
-			}),
-			(function(_0x0EGago, ...)
-				local _0x0HSINGIT, _0x0bGago = _0x0EGago[#_0x0EGago], "";
-				for _0x0ETFYouLookingAt = 1, #_0x0HSINGIT, 1 do
-					_0x0bGago = _0x0bGago .. _0x0HSINGIT[_0x0EGago[_0x0ETFYouLookingAt]];
-				end;
-				return _0x0bGago;
-			end)({ 2, 1, { "\076\054\112\080\061", "\069\049\078" } }),
-			(function(_0x0ENigger, ...)
-				local _0x0HDick, _0x0bNoSkill = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0HDick, 1 do
-					_0x0bNoSkill = _0x0bNoSkill .. _0x0HDick[_0x0ENigger[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0bNoSkill;
-			end)({
-				1,
-				3,
-				2,
-				{ "\079\090\120\105", "\116\061", "\102\070\066\120\119\053" },
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HMamaMoBlue = "";
-				for _0x0ETerrorist = 1, #_0x0ERespect / 2, 1 do
-					_0x0HMamaMoBlue = _0x0HMamaMoBlue .. _0x0ERespect[#_0x0ERespect / 2 + _0x0ERespect[_0x0ETerrorist]];
-				end;
-				return _0x0HMamaMoBlue;
-			end)({
-				5,
-				1,
-				6,
-				4,
-				3,
-				2,
-				"\072\043\047\115\085",
-				"\061",
-				"\076\061",
-				"\111\100\107\108\081",
-				"\051\049\049\073\051\081",
-				"\101\113\089\114\112",
-			}),
-			(function(_0x0EOhab, ...)
-				local _0x0HRomans12_19 = "";
-				for _0x0ETangina = 1, #_0x0EOhab / 2, 1 do
-					_0x0HRomans12_19 = _0x0HRomans12_19  .. _0x0EOhab[#_0x0EOhab / 2 + _0x0EOhab[_0x0ETangina]];
-				end;
-				return _0x0HRomans12_19;
-			end)({
-				4,
-				24,
-				30,
-				25,
-				23,
-				21,
-				34,
-				19,
-				35,
-				20,
-				5,
-				15,
-				13,
-				14,
-				6,
+				8,
 				7,
+				5,
+				1,
+				6,
+				4,
+				3,
+				2,
+				{
+					"\089\118",
+					"\075\118\119\106\102\061\061",
+					"\077\102",
+					"\051\079",
+					"\068\098\105\102\049\056",
+					"\107\077\048\122",
+					"\049\087\090\097\071\053",
+					"\078\087\081\072\075\070\097",
+				},
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SBILAT, _0x0VPleaseImBeggingNooo = _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks], "";
+				for _0x0sGago = 1, #_0x0SBILAT, 1 do
+					_0x0VPleaseImBeggingNooo = _0x0VPleaseImBeggingNooo .. _0x0SBILAT[_0x0sBroStudyingHowMyBrainWorks[_0x0sGago]];
+				end;
+				return _0x0VPleaseImBeggingNooo;
+			end)({
+				1,
+				2,
+				3,
+				{ "\047\083\080", "\057\047", "\113\051\053\116\048\055\061" },
+			}),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SRomans12_19 = "";
+				for _0x0sWagGago = 1, #_0x0sNoSkill / 2, 1 do
+					_0x0SRomans12_19 = _0x0SRomans12_19  .. _0x0sNoSkill[#_0x0sNoSkill / 2 + _0x0sNoSkill[_0x0sWagGago]];
+				end;
+				return _0x0SRomans12_19;
+			end)({
+				1,
+				2,
+				"\066\085\083\047\107\099\061",
+				"\061",
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SGay, _0x0VTFYouLookingAt = _0x0sTanginaMoCge[#_0x0sTanginaMoCge], "";
+				for _0x0sBILAT = 1, #_0x0SGay, 1 do
+					_0x0VTFYouLookingAt = _0x0VTFYouLookingAt .. _0x0SGay[_0x0sTanginaMoCge[_0x0sBILAT]];
+				end;
+				return _0x0VTFYouLookingAt;
+			end)({ 2, 1, { "\061", "\068\043\101\111\118\082\071" } }),
+			(function(_0x0sTerrorist, ...)
+				local _0x0SOhab = "";
+				for _0x0sNigger = 1, #_0x0sTerrorist / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sTerrorist[#_0x0sTerrorist / 2 + _0x0sTerrorist[_0x0sNigger]];
+				end;
+				return _0x0SOhab;
+			end)({
+				3,
+				4,
+				2,
+				1,
+				5,
+				"\069\051\117\100\056",
+				"\089\081",
+				"\055\111\109\053\047\088",
+				"\104\053\047\074\081",
+				"\061\061",
+			}),
+			(function(_0x0sPaasa, ...)
+				local _0x0SPleaseImBeggingNooo, _0x0VSHAyBAO = _0x0sPaasa[#_0x0sPaasa], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SPleaseImBeggingNooo, 1 do
+					_0x0VSHAyBAO = _0x0VSHAyBAO .. _0x0SPleaseImBeggingNooo[_0x0sPaasa[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VSHAyBAO;
+			end)({
+				1,
+				4,
+				3,
+				2,
+				{
+					"\071\087\079",
+					"\070\061\061",
+					"\085\055\069",
+					"\065\075\086",
+				},
+			}),
+			(function(_0x0sPlsNo, ...)
+				local _0x0SPlsNo = "";
+				for _0x0sBILAT = 1, #_0x0sPlsNo / 2, 1 do
+					_0x0SPlsNo = _0x0SPlsNo .. _0x0sPlsNo[#_0x0sPlsNo / 2 + _0x0sPlsNo[_0x0sBILAT]];
+				end;
+				return _0x0SPlsNo;
+			end)({
+				1,
+				2,
+				"\082\104",
+				"\122\122\115\056\061\061",
+			}),
+			(function(_0x0sBAYOT, ...)
+				local _0x0SMeow, _0x0VTerrorist = _0x0sBAYOT[#_0x0sBAYOT], "";
+				for _0x0sOhab = 1, #_0x0SMeow, 1 do
+					_0x0VTerrorist = _0x0VTerrorist .. _0x0SMeow[_0x0sBAYOT[_0x0sOhab]];
+				end;
+				return _0x0VTerrorist;
+			end)({
+				3,
+				4,
+				1,
+				2,
+				{
+					"\073\074\112\088",
+					"\103\099\061\061",
+					"\074\120\075\088\073",
+					"\048\072\071\087\098\099\056",
+				},
+			}),
+			(function(_0x0sPaasa, ...)
+				local _0x0SBAYOT = "";
+				for _0x0sBible = 1, #_0x0sPaasa / 2, 1 do
+					_0x0SBAYOT = _0x0SBAYOT .. _0x0sPaasa[#_0x0sPaasa / 2 + _0x0sPaasa[_0x0sBible]];
+				end;
+				return _0x0SBAYOT;
+			end)({
+				2,
+				1,
+				4,
+				3,
+				"\090\072\100\088",
+				"\047\079",
+				"\111\073\072",
+				"\080\122\051\111\088\053\051",
+			}),
+			(function(_0x0sPleaseImBeggingNooo, ...)
+				local _0x0SBAYOT, _0x0VTangina = _0x0sPleaseImBeggingNooo[#_0x0sPleaseImBeggingNooo], "";
+				for _0x0sSkilliSSUE = 1, #_0x0SBAYOT, 1 do
+					_0x0VTangina = _0x0VTangina .. _0x0SBAYOT[_0x0sPleaseImBeggingNooo[_0x0sSkilliSSUE]];
+				end;
+				return _0x0VTangina;
+			end)({ 1, 2, { "\103\120\106\116\115\119\067", "\076" } }),
+			(function(_0x0sGago, ...)
+				local _0x0STerrorist = "";
+				for _0x0sPlsNo = 1, #_0x0sGago / 2, 1 do
+					_0x0STerrorist = _0x0STerrorist .. _0x0sGago[#_0x0sGago / 2 + _0x0sGago[_0x0sPlsNo]];
+				end;
+				return _0x0STerrorist;
+			end)({
+				2,
+				3,
+				1,
+				"\061",
+				"\057\073",
+				"\105\084\089\090\071",
+			}),
+			(function(_0x0sBILAT, ...)
+				local _0x0SPutangInaSabiNangWag, _0x0VGago = _0x0sBILAT[#_0x0sBILAT], "";
+				for _0x0sMamaMoBlue = 1, #_0x0SPutangInaSabiNangWag, 1 do
+					_0x0VGago = _0x0VGago .. _0x0SPutangInaSabiNangWag[_0x0sBILAT[_0x0sMamaMoBlue]];
+				end;
+				return _0x0VGago;
+			end)({
+				2,
+				4,
+				3,
+				1,
+				5,
+				{
+					"\115\113\076\055",
+					"\121\083\118",
+					"\074\109\055\115",
+					"\079\108",
+					"\104\085\106\106\070\061\061",
+				},
+			}),
+			(function(_0x0sRomans12_19, ...)
+				local _0x0SBoo = "";
+				for _0x0sBILAT = 1, #_0x0sRomans12_19 / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sRomans12_19[#_0x0sRomans12_19 / 2 + _0x0sRomans12_19[_0x0sBILAT]];
+				end;
+				return _0x0SBoo;
+			end)({
+				1,
+				2,
+				"\085\079\120\056\051\103",
+				"\080\048",
+			}),
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SIveDoneNothing = "";
+				for _0x0sPaasa = 1, #_0x0sNigaBytes / 2, 1 do
+					_0x0SIveDoneNothing = _0x0SIveDoneNothing .. _0x0sNigaBytes[#_0x0sNigaBytes / 2 + _0x0sNigaBytes[_0x0sPaasa]];
+				end;
+				return _0x0SIveDoneNothing;
+			end)({
+				1,
+				2,
+				3,
+				4,
+				"\047\074\120\112\047\083",
+				"\080\081\117\053\109",
+				"\069\090\120\112\083\106\083",
+				"\110\061",
+			}),
+			(function(_0x0sRespect, ...)
+				local _0x0STanginaMoCge = "";
+				for _0x0sMamaMoBlue = 1, #_0x0sRespect / 2, 1 do
+					_0x0STanginaMoCge = _0x0STanginaMoCge .. _0x0sRespect[#_0x0sRespect / 2 + _0x0sRespect[_0x0sMamaMoBlue]];
+				end;
+				return _0x0STanginaMoCge;
+			end)({
+				7,
+				2,
+				3,
+				6,
+				5,
+				4,
+				1,
+				"\061",
+				"\121\051\050\051",
+				"\112\100\068\073\072\099\113",
+				"\120\077\099\099\061",
+				"\083\120\098\047\050",
+				"\104\112\116\083\090\111\047",
+				"\090\048\120",
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SRespect, _0x0VBrainDamage = _0x0sTanginaMoCge[#_0x0sTanginaMoCge], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SRespect, 1 do
+					_0x0VBrainDamage = _0x0VBrainDamage .. _0x0SRespect[_0x0sTanginaMoCge[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VBrainDamage;
+			end)({
+				3,
+				1,
+				2,
+				{ "\066\056\061", "\061", "\115\116\071\067" },
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SRomans12_19, _0x0VFallenPartsDestroyHeight = _0x0sNigger[#_0x0sNigger], "";
+				for _0x0sGay = 1, #_0x0SRomans12_19, 1 do
+					_0x0VFallenPartsDestroyHeight = _0x0VFallenPartsDestroyHeight .. _0x0SRomans12_19[_0x0sNigger[_0x0sGay]];
+				end;
+				return _0x0VFallenPartsDestroyHeight;
+			end)({ 2, 1, { "\061", "\066\053\050" } }),
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0SBoo, _0x0VNoSkill = _0x0sIveDoneNothing[#_0x0sIveDoneNothing], "";
+				for _0x0sTerrorist = 1, #_0x0SBoo, 1 do
+					_0x0VNoSkill = _0x0VNoSkill .. _0x0SBoo[_0x0sIveDoneNothing[_0x0sTerrorist]];
+				end;
+				return _0x0VNoSkill;
+			end)({
+				1,
+				4,
+				2,
+				3,
+				{
+					"\074\113\104\053",
+					"\090\057\085\113\071",
+					"\061",
+					"\085\083",
+				},
+			}),
+			(function(_0x0sKigol, ...)
+				local _0x0SMamaMoBlue = "";
+				for _0x0SPaasa = 1, #_0x0sKigol / 2, 1 do
+					_0x0SMamaMoBlue = _0x0SMamaMoBlue .. _0x0sKigol[#_0x0sKigol / 2 + _0x0sKigol[_0x0SPaasa]];
+				end;
+				return _0x0SMamaMoBlue;
+			end)({
+				4,
+				1,
+				3,
+				2,
+				"\082\111\071\079",
+				"\102\061\061",
+				"\086\116\067\122\100",
+				"\106\087\086\068",
+			}),
+			(function(_0x0sTerrorist, ...)
+				local _0x0SNigaBytes, _0x0VBILAT = _0x0sTerrorist[#_0x0sTerrorist], "";
+				for _0x0sBrainDamage = 1, #_0x0SNigaBytes, 1 do
+					_0x0VBILAT = _0x0VBILAT .. _0x0SNigaBytes[_0x0sTerrorist[_0x0sBrainDamage]];
+				end;
+				return _0x0VBILAT;
+			end)({
+				3,
+				1,
+				2,
+				{ "\119\071\078\100", "\070\061\061", "\079\084\116\077\075" },
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SRespect = "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0sNigger / 2, 1 do
+					_0x0SRespect = _0x0SRespect .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0SRespect;
+			end)({
+				3,
+				1,
+				2,
+				"\051\051\080\113\119\116",
+				"\090\112\066\082",
+				"\047\087\072\052\052\101",
+			}),
+			(function(_0x0sPleaseImBeggingNooo, ...)
+				local _0x0SBILAT, _0x0VDick = _0x0sPleaseImBeggingNooo[#_0x0sPleaseImBeggingNooo], "";
+				for _0x0sTerrorist = 1, #_0x0SBILAT, 1 do
+					_0x0VDick = _0x0VDick .. _0x0SBILAT[_0x0sPleaseImBeggingNooo[_0x0sTerrorist]];
+				end;
+				return _0x0VDick;
+			end)({
+				3,
+				1,
+				2,
+				{ "\080\122\051\103\051\053\116", "\048\055\061", "\100\048\081\077\085\083" },
+			}),
+			(function(_0x0sPutangInaSabiNangWag, ...)
+				local _0x0SGago, _0x0VLove = _0x0sPutangInaSabiNangWag[#_0x0sPutangInaSabiNangWag], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SGago, 1 do
+					_0x0VLove = _0x0VLove .. _0x0SGago[_0x0sPutangInaSabiNangWag[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VLove;
+			end)({ 2, 1, { "\049", "\097\111\073" } }),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SOhab, _0x0VIveDoneNothing = _0x0sNoSkill[#_0x0sNoSkill], "";
+				for _0x0sPleaseImBeggingNooo = 1, #_0x0SOhab, 1 do
+					_0x0VIveDoneNothing = _0x0VIveDoneNothing .. _0x0SOhab[_0x0sNoSkill[_0x0sPleaseImBeggingNooo]];
+				end;
+				return _0x0VIveDoneNothing;
+			end)({ 2, 1, { "\061\061", "\049\079\077\043\051\102" } }),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SOhab = "";
+				for _0x0sTanginaMoCge = 1, #_0x0sMamaMoBlue / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sMamaMoBlue[#_0x0sMamaMoBlue / 2 + _0x0sMamaMoBlue[_0x0sTanginaMoCge]];
+				end;
+				return _0x0SOhab;
+			end)({
+				4,
+				1,
+				3,
+				2,
+				5,
+				"\113\104\112\051\083\090\120",
+				"\068\085\103",
+				"\116\120\080",
+				"\051\113\081\072\111",
+				"\054\061",
+			}),
+			"\102\099\106\050",
+			(function(_0x0sNoSkill, ...)
+				local _0x0SSINGIT, _0x0VSINGIT = _0x0sNoSkill[#_0x0sNoSkill], "";
+				for _0x0sOhab = 1, #_0x0SSINGIT, 1 do
+					_0x0VSINGIT = _0x0VSINGIT .. _0x0SSINGIT[_0x0sNoSkill[_0x0sOhab]];
+				end;
+				return _0x0VSINGIT;
+			end)({
+				3,
+				1,
+				2,
+				4,
+				6,
+				5,
+				{
+					"\071\081\079",
+					"\110\069\067\077\100",
+					"\080\065\108\071",
+					"\089\077\112\073\043\086\043",
+					"\057\099\061",
+					"\085\078",
+				},
+			}),
+			(function(_0x0sSINGIT, ...)
+				local _0x0SSINGIT, _0x0VGago = _0x0sSINGIT[#_0x0sSINGIT], "";
+				for _0x0sKigol = 1, #_0x0SSINGIT, 1 do
+					_0x0VGago = _0x0VGago .. _0x0SSINGIT[_0x0sSINGIT[_0x0sKigol]];
+				end;
+				return _0x0VGago;
+			end)({
+				2,
+				3,
+				1,
+				{ "\061\061", "\085\113\088", "\112\085\070" },
+			}),
+			(function(_0x0sTUBOL, ...)
+				local _0x0SBroStudyingHowMyBrainWorks = "";
+				for _0x0sPutangInaSabiNangWag = 1, #_0x0sTUBOL / 2, 1 do
+					_0x0SBroStudyingHowMyBrainWorks = _0x0SBroStudyingHowMyBrainWorks .. _0x0sTUBOL[#_0x0sTUBOL / 2 + _0x0sTUBOL[_0x0sPutangInaSabiNangWag]];
+				end;
+				return _0x0SBroStudyingHowMyBrainWorks;
+			end)({
+				3,
+				35,
+				39,
+				18,
+				37,
+				40,
+				10,
+				8,
+				41,
+				32,
+				16,
+				21,
+				26,
+				5,
+				34,
+				14,
+				15,
+				17,
+				22,
+				38,
+				12,
+				20,
+				30,
+				2,
+				33,
+				13,
+				19,
+				31,
+				28,
+				9,
+				11,
+				25,
+				6,
+				36,
 				29,
 				27,
 				1,
-				36,
-				32,
-				22,
-				8,
-				26,
-				12,
-				2,
+				23,
+				24,
+				4,
+				7,
+				"\113\113\073\099\111",
+				"\103\049\075",
+				"\083\076\098\115\082",
+				"\103\122\102\076\104",
+				"\053\054\087\089\049",
+				"\047\066\103\071\071",
+				"\050\061",
+				"\088\119\116",
+				"\121\122\047\100",
+				"\085\089\083\114\100\068",
+				"\104\082\076\067\076\077\105",
+				"\078\108\108\079\079",
+				"\082\122\082\056\054\085",
+				"\105\050",
+				"\083\055\116\107",
+				"\048\080\087\084\107\113",
+				"\119\098\047\052\121\070",
+				"\122\120\113\113\101\072",
+				"\078\051\051\075",
+				"\088\099\075\105",
+				"\107\100\112\089",
+				"\076\109",
+				"\071\079\049\066\083\050\054",
+				"\119\055\110\069\090\076",
+				"\113\077\108",
+				"\121\074\121\066\057",
+				"\088\107\043\082\081\080\118",
+				"\052\076\117",
+				"\068\051\089",
+				"\118\075\102\085\121\111\119",
+				"\081\056\120\085\097\051",
+				"\073\115\121\112\087",
+				"\072\051\056\101\109",
+				"\110\077\117\100\053",
+				"\067\053\112\076\112\052\089",
+				"\077\047\079\113",
+				"\100\086\053",
+				"\052\069\108\077\109",
+				"\086\077\050\114\086\051",
+				"\087\107\072\108",
+				"\101\069",
+			}),
+			(function(_0x0sSkidDetected, ...)
+				local _0x0SOhab = "";
+				for _0x0sRespect = 1, #_0x0sSkidDetected / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sSkidDetected[#_0x0sSkidDetected / 2 + _0x0sSkidDetected[_0x0sRespect]];
+				end;
+				return _0x0SOhab;
+			end)({
 				3,
-				37,
-				17,
-				28,
-				31,
-				33,
+				2,
+				1,
+				"\083\074\061",
+				"\090\104\085\083\088\114\116",
+				"\111\053\080\082\051\111",
+			}),
+			(function(_0x0sSkidDetected, ...)
+				local _0x0SPutangInaSabiNangWag = "";
+				for _0x0sBoo = 1, #_0x0sSkidDetected / 2, 1 do
+					_0x0SPutangInaSabiNangWag = _0x0SPutangInaSabiNangWag .. _0x0sSkidDetected[#_0x0sSkidDetected / 2 + _0x0sSkidDetected[_0x0sBoo]];
+				end;
+				return _0x0SPutangInaSabiNangWag;
+			end)({
+				2,
+				1,
+				"\075\077",
+				"\047\111\049\104\047\111",
+			}),
+			(function(_0x0sTFYouLookingAt, ...)
+				local _0x0SFallenPartsDestroyHeight = "";
+				for _0x0sWagGago = 1, #_0x0sTFYouLookingAt / 2, 1 do
+					_0x0SFallenPartsDestroyHeight = _0x0SFallenPartsDestroyHeight .. _0x0sTFYouLookingAt[#_0x0sTFYouLookingAt / 2 + _0x0sTFYouLookingAt[_0x0sWagGago]];
+				end;
+				return _0x0SFallenPartsDestroyHeight;
+			end)({
+				1,
+				2,
+				"\109\113\104\104\100\102",
+				"\061\061",
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SOhab = "";
+				for _0x0sDick = 1, #_0x0sBroStudyingHowMyBrainWorks / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks / 2 + _0x0sBroStudyingHowMyBrainWorks[_0x0sDick]];
+				end;
+				return _0x0SOhab;
+			end)({
+				1,
+				3,
+				2,
+				"\103\086\115\073\085\115\088",
+				"\056\061\061",
+				"\101\111",
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SLove = "";
+				for _0x0sMamaMoBlue = 1, #_0x0sTanginaMoCge / 2, 1 do
+					_0x0SLove = _0x0SLove .. _0x0sTanginaMoCge[#_0x0sTanginaMoCge / 2 + _0x0sTanginaMoCge[_0x0sMamaMoBlue]];
+				end;
+				return _0x0SLove;
+			end)({
+				2,
+				4,
+				1,
+				3,
+				"\068\088\089\090",
+				"\098\087\068\112\050",
+				"\048\074\104\119\061",
+				"\120\107\079\100\085\101",
+			}),
+			(function(_0x0sSkilliSSUE, ...)
+				local _0x0SSkilliSSUE = "";
+				for _0x0sTUBOL = 1, #_0x0sSkilliSSUE / 2, 1 do
+					_0x0SSkilliSSUE = _0x0SSkilliSSUE .. _0x0sSkilliSSUE[#_0x0sSkilliSSUE / 2 + _0x0sSkilliSSUE[_0x0sTUBOL]];
+				end;
+				return _0x0SSkilliSSUE;
+			end)({
+				3,
+				2,
+				1,
+				"\103\081\077\085\070\061\061",
+				"\066\085",
+				"\100\048\081",
+			}),
+			"\111\072\100\061",
+			(function(_0x0sNoSkill, ...)
+				local _0x0SPutangInaSabiNangWag = "";
+				for _0x0sSkidDetected = 1, #_0x0sNoSkill / 2, 1 do
+					_0x0SPutangInaSabiNangWag = _0x0SPutangInaSabiNangWag .. _0x0sNoSkill[#_0x0sNoSkill / 2 + _0x0sNoSkill[_0x0sSkidDetected]];
+				end;
+				return _0x0SPutangInaSabiNangWag;
+			end)({
+				10,
+				9,
+				7,
+				3,
 				11,
-				10,
-				18,
-				16,
-				9,
-				"\087\056\068\054\065\071",
-				"\112\053\104",
-				"\086\080\071\090",
-				"\053\070\098\050\117",
-				"\099\122\101\065\050\116\057",
-				"\079\077\080\090\097\080\083",
-				"\107\110\085\050\119\103",
-				"\106\070\100\051",
-				"\061\061",
-				"\077\106\089\089",
-				"\089\051\067\121\069\081\055",
-				"\105\085",
-				"\079\102\099",
-				"\121\090\111",
-				"\050\073\105",
-				"\114\116\043\076",
-				"\067\054\119\069\110\121",
-				"\090\069\054",
-				"\105\048\102\048\104\052\071",
-				"\052\120\055",
-				"\056\057\088",
-				"\054\106\076",
-				"\081\043\097\049\083",
-				"\090\109\104\087\119",
-				"\082\088",
-				"\052\114\121\109",
-				"\057\089\073\100",
-				"\122\082\072\070\072",
-				"\056\086\088\102\054",
-				"\070\104",
-				"\080\121",
-				"\056\055\121\089\066\077\121",
-				"\105\118\082\112\068",
-				"\097\087\051\049\048\084",
-				"\057\072\073\117\087",
-				"\084\084\082\086\086",
-				"\110\108\069\073\075\107\085",
-			}),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HBoo = "";
-				for _0x0HBible = 1, #_0x0ETUBOL / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0ETUBOL[#_0x0ETUBOL / 2 + _0x0ETUBOL[_0x0HBible]];
-				end;
-				return _0x0HBoo;
-			end)({
-				3,
-				2,
 				4,
-				1,
-				"\051\075",
-				"\121\076\068\084\085\070",
-				"\066\052\055\055\117",
-				"\114\069\066",
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HBrainDamage, _0x0bSkidDetected = _0x0EMamaMoBlue[#_0x0EMamaMoBlue], "";
-				for _0x0ENigger = 1, #_0x0HBrainDamage, 1 do
-					_0x0bSkidDetected = _0x0bSkidDetected .. _0x0HBrainDamage[_0x0EMamaMoBlue[_0x0ENigger]];
-				end;
-				return _0x0bSkidDetected;
-			end)({
-				3,
-				2,
-				1,
-				{ "\048\103\119\113\084\109\119", "\116\107\056", "\076\120\066\105\107\043" },
-			}),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HBroStudyingHowMyBrainWorks = "";
-				for _0x0ETangina = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HBroStudyingHowMyBrainWorks = _0x0HBroStudyingHowMyBrainWorks .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0ETangina]];
-				end;
-				return _0x0HBroStudyingHowMyBrainWorks;
-			end)({
-				5,
-				7,
-				9,
-				2,
 				6,
-				3,
-				10,
+				1,
+				12,
 				8,
+				2,
+				13,
+				5,
+				"\051\085\083\051\103",
+				"\081\116\078\112\102",
+				"\084\109\048",
+				"\106\105\075\109",
+				"\107\111\052\070\061",
+				"\101\070\109\108\073\117\103",
+				"\084\116\076\072",
+				"\056\113",
+				"\114\087\112\088\078",
+				"\075\068",
+				"\111\113\120\056\071\109",
+				"\118\067\082\070",
+				"\083\089\116\107",
+			}),
+			(function(_0x0sPleaseImBeggingNooo, ...)
+				local _0x0SSHAyBAO = "";
+				for _0x0sBakla = 1, #_0x0sPleaseImBeggingNooo / 2, 1 do
+					_0x0SSHAyBAO = _0x0SSHAyBAO .. _0x0sPleaseImBeggingNooo[#_0x0sPleaseImBeggingNooo / 2 + _0x0sPleaseImBeggingNooo[_0x0sBakla]];
+				end;
+				return _0x0SSHAyBAO;
+			end)({
+				1,
+				2,
+				"\116\052\050\111\106\051\119",
+				"\104\115\122\100\061",
+			}),
+			(function(_0x0sLove, ...)
+				local _0x0SRomans12_19 = "";
+				for _0x0sBAYOT = 1, #_0x0sLove / 2, 1 do
+					_0x0SRomans12_19 = _0x0SRomans12_19  .. _0x0sLove[#_0x0sLove / 2 + _0x0sLove[_0x0sBAYOT]];
+				end;
+				return _0x0SRomans12_19;
+			end)({
+				5,
+				2,
+				6,
+				3,
 				1,
 				4,
-				"\079\122\087\050\076",
-				"\072\056\087\120\072",
-				"\113\102\119",
+				"\085\083\120\057\116\102",
+				"\066\057\116\048\081\048",
+				"\076\098",
 				"\061\061",
-				"\117\084",
-				"\055\121\056",
-				"\069\114\047\088\055\049\113",
-				"\110\068\050\109",
-				"\052\088\101\079",
-				"\075\120\112\121\097",
+				"\109\113",
+				"\085\103",
 			}),
-			(function(_0x0ETFYouLookingAt, ...)
-				local _0x0HWagGago = "";
-				for _0x0EBoo = 1, #_0x0ETFYouLookingAt / 2, 1 do
-					_0x0HWagGago = _0x0HWagGago .. _0x0ETFYouLookingAt[#_0x0ETFYouLookingAt / 2 + _0x0ETFYouLookingAt[_0x0EBoo]];
+			(function(_0x0sNigger, ...)
+				local _0x0SBoo = "";
+				for _0x0sBAYOT = 1, #_0x0sNigger / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sBAYOT]];
 				end;
-				return _0x0HWagGago;
+				return _0x0SBoo;
 			end)({
-				3,
 				1,
 				2,
-				"\119\101\089\057\110",
-				"\050\049\061\061",
-				"\073\072\111\055\122\078\083",
+				3,
+				"\070\084",
+				"\085\065\079\068\117\087",
+				"\072\051\110\061",
 			}),
-			(function(_0x0ELove, ...)
-				local _0x0HBILAT, _0x0bTangina = _0x0ELove[#_0x0ELove], "";
-				for _0x0EBible = 1, #_0x0HBILAT, 1 do
-					_0x0bTangina = _0x0bTangina .. _0x0HBILAT[_0x0ELove[_0x0EBible]];
+			(function(_0x0sGay, ...)
+				local _0x0SPlsNo, _0x0VNoSkill = _0x0sGay[#_0x0sGay], "";
+				for _0x0sBILAT = 1, #_0x0SPlsNo, 1 do
+					_0x0VNoSkill = _0x0VNoSkill .. _0x0SPlsNo[_0x0sGay[_0x0sBILAT]];
 				end;
-				return _0x0bTangina;
+				return _0x0VNoSkill;
+			end)({ 2, 1, { "\106", "\104\106\043\079\117\050\110" } }),
+			(function(_0x0sBible, ...)
+				local _0x0SRomans12_19 = "";
+				for _0x0sMamaMoBlue = 1, #_0x0sBible / 2, 1 do
+					_0x0SRomans12_19 = _0x0SRomans12_19  .. _0x0sBible[#_0x0sBible / 2 + _0x0sBible[_0x0sMamaMoBlue]];
+				end;
+				return _0x0SRomans12_19;
 			end)({
+				1,
+				2,
+				"\118\071\076\115",
+				"\107\102\061\061",
+			}),
+			(function(_0x0sTerrorist, ...)
+				local _0x0SMamaMoBlue, _0x0VPleaseImBeggingNooo = _0x0sTerrorist[#_0x0sTerrorist], "";
+				for _0x0sGay = 1, #_0x0SMamaMoBlue, 1 do
+					_0x0VPleaseImBeggingNooo = _0x0VPleaseImBeggingNooo .. _0x0SMamaMoBlue[_0x0sTerrorist[_0x0sGay]];
+				end;
+				return _0x0VPleaseImBeggingNooo;
+			end)({ 1, 2, { "\056\082\072\120", "\101\056\061\061" } }),
+			"\115\072\086\061",
+			(function(_0x0sBrainDamage, ...)
+				local _0x0SUrMom, _0x0VOhab = _0x0sBrainDamage[#_0x0sBrainDamage], "";
+				for _0x0sNigaBytes = 1, #_0x0SUrMom, 1 do
+					_0x0VOhab = _0x0VOhab .. _0x0SUrMom[_0x0sBrainDamage[_0x0sNigaBytes]];
+				end;
+				return _0x0VOhab;
+			end)({
+				2,
+				4,
+				3,
+				1,
+				{
+					"\104\100\048\099\061",
+					"\085\083\080\098\116",
+					"\056\109\048\080",
+					"\083\120",
+				},
+			}),
+			(function(_0x0sPaasa, ...)
+				local _0x0SRomans12_19 = "";
+				for _0x0sUrMom = 1, #_0x0sPaasa / 2, 1 do
+					_0x0SRomans12_19 = _0x0SRomans12_19  .. _0x0sPaasa[#_0x0sPaasa / 2 + _0x0sPaasa[_0x0sUrMom]];
+				end;
+				return _0x0SRomans12_19;
+			end)({
+				1,
 				3,
 				2,
+				"\102\050",
+				"\074\071\068",
+				"\053\047\109",
+			}),
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SPaasa = "";
+				for _0x0sNigger = 1, #_0x0sNigaBytes / 2, 1 do
+					_0x0SPaasa = _0x0SPaasa .. _0x0sNigaBytes[#_0x0sNigaBytes / 2 + _0x0sNigaBytes[_0x0sNigger]];
+				end;
+				return _0x0SPaasa;
+			end)({
+				1,
+				2,
+				4,
+				3,
+				"\116\048\112",
+				"\075\097\113\085\121",
+				"\103\073\071",
+				"\087\081\081\109\100",
+			}),
+			(function(_0x0sDick, ...)
+				local _0x0SMeow, _0x0VBroStudyingHowMyBrainWorks = _0x0sDick[#_0x0sDick], "";
+				for _0x0sTangina = 1, #_0x0SMeow, 1 do
+					_0x0VBroStudyingHowMyBrainWorks = _0x0VBroStudyingHowMyBrainWorks .. _0x0SMeow[_0x0sDick[_0x0sTangina]];
+				end;
+				return _0x0VBroStudyingHowMyBrainWorks;
+			end)({
+				1,
+				3,
+				4,
+				2,
+				{
+					"\111\053\080\112",
+					"\061",
+					"\116\048\090",
+					"\120\087\070\061",
+				},
+			}),
+			(function(_0x0sKigol, ...)
+				local _0x0SKigol = "";
+				for _0x0sTerrorist = 1, #_0x0sKigol / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sKigol[#_0x0sKigol / 2 + _0x0sKigol[_0x0sTerrorist]];
+				end;
+				return _0x0SKigol;
+			end)({
+				2,
+				1,
+				3,
+				"\073\111\055",
+				"\053\084",
+				"\109\107\075",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SGago, _0x0VSINGIT = _0x0sNigger[#_0x0sNigger], "";
+				for _0x0sPaasa = 1, #_0x0SGago, 1 do
+					_0x0VSINGIT = _0x0VSINGIT .. _0x0SGago[_0x0sNigger[_0x0sPaasa]];
+				end;
+				return _0x0VSINGIT;
+			end)({
+				4,
+				8,
+				7,
+				9,
+				1,
+				2,
+				6,
+				5,
+				3,
+				{
+					"\115\110\056\105",
+					"\084\066",
+					"\101\112\051\048",
+					"\110\085",
+					"\053\079\043\112",
+					"\055\102\098\074\049\089\100",
+					"\076\043\108\100\055\072",
+					"\053\072\078\099\090\086\088",
+					"\115\084\068\051",
+				},
+			}),
+			(function(_0x0sRespect, ...)
+				local _0x0SNoSkill = "";
+				for _0x0sSHAyBAO = 1, #_0x0sRespect / 2, 1 do
+					_0x0SNoSkill = _0x0SNoSkill .. _0x0sRespect[#_0x0sRespect / 2 + _0x0sRespect[_0x0sSHAyBAO]];
+				end;
+				return _0x0SNoSkill;
+			end)({
+				2,
+				1,
+				"\056\103\099\084",
+				"\068\103\068\117",
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SDiKanaNiyaMahal = "";
+				for _0x0sSHAyBAO = 1, #_0x0sTanginaMoCge / 2, 1 do
+					_0x0SDiKanaNiyaMahal = _0x0SDiKanaNiyaMahal .. _0x0sTanginaMoCge[#_0x0sTanginaMoCge / 2 + _0x0sTanginaMoCge[_0x0sSHAyBAO]];
+				end;
+				return _0x0SDiKanaNiyaMahal;
+			end)({
+				3,
 				1,
 				4,
+				2,
+				"\056\051\047",
+				"\113",
+				"\086\089\083\048\065\076\097",
+				"\110\078\049\104\052",
+			}),
+			"\047\056\061\061",
+			(function(_0x0sTFYouLookingAt, ...)
+				local _0x0SUrMom, _0x0VDiKanaNiyaMahal = _0x0sTFYouLookingAt[#_0x0sTFYouLookingAt], "";
+				for _0x0sNoSkill = 1, #_0x0SUrMom, 1 do
+					_0x0VDiKanaNiyaMahal = _0x0VDiKanaNiyaMahal .. _0x0SUrMom[_0x0sTFYouLookingAt[_0x0sNoSkill]];
+				end;
+				return _0x0VDiKanaNiyaMahal;
+			end)({
+				4,
+				1,
+				3,
+				5,
+				2,
 				{
-					"\120\088",
-					"\109\097\048",
-					"\122\099\101\106\054",
+					"\122\051\081\080\048\085\103",
 					"\061\061",
+					"\076\098\085\083\120\057",
+					"\100\048\081\077\085\083\080",
+					"\116\102",
 				},
 			}),
-			(function(_0x0ESHAyBAO, ...)
-				local _0x0HBible, _0x0bSHAyBAO = _0x0ESHAyBAO[#_0x0ESHAyBAO], "";
-				for _0x0EWagGago = 1, #_0x0HBible, 1 do
-					_0x0bSHAyBAO = _0x0bSHAyBAO .. _0x0HBible[_0x0ESHAyBAO[_0x0EWagGago]];
+			(function(_0x0sSINGIT, ...)
+				local _0x0SKigol = "";
+				for _0x0sTanginaMoCge = 1, #_0x0sSINGIT / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sSINGIT[#_0x0sSINGIT / 2 + _0x0sSINGIT[_0x0sTanginaMoCge]];
 				end;
-				return _0x0bSHAyBAO;
+				return _0x0SKigol;
+			end)({
+				3,
+				1,
+				4,
+				2,
+				"\081\119\116\050\076",
+				"\074\061",
+				"\090\113\081\072\090\068",
+				"\104\116\103",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SMeow = "";
+				for _0x0sIveDoneNothing = 1, #_0x0sNigger / 2, 1 do
+					_0x0SMeow = _0x0SMeow .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sIveDoneNothing]];
+				end;
+				return _0x0SMeow;
+			end)({
+				3,
+				5,
+				1,
+				4,
+				2,
+				"\100\083",
+				"\075\054",
+				"\100\113\081\072\100",
+				"\075\057\109\111",
+				"\048\075\071\109\113\066\112",
+			}),
+			(function(_0x0sTerrorist, ...)
+				local _0x0SGay, _0x0VBakla = _0x0sTerrorist[#_0x0sTerrorist], "";
+				for _0x0sTanginaMoCge = 1, #_0x0SGay, 1 do
+					_0x0VBakla = _0x0VBakla .. _0x0SGay[_0x0sTerrorist[_0x0sTanginaMoCge]];
+				end;
+				return _0x0VBakla;
+			end)({ 2, 1, { "\068\070\061\061", "\055\074\071\107" } }),
+			(function(_0x0sGay, ...)
+				local _0x0SNigger = "";
+				for _0x0sMamaMoBlue = 1, #_0x0sGay / 2, 1 do
+					_0x0SNigger = _0x0SNigger .. _0x0sGay[#_0x0sGay / 2 + _0x0sGay[_0x0sMamaMoBlue]];
+				end;
+				return _0x0SNigger;
+			end)({
+				2,
+				3,
+				1,
+				"\061",
+				"\051\083\081",
+				"\114\085\103\100",
+			}),
+			(function(_0x0sBILAT, ...)
+				local _0x0SOhab = "";
+				for _0x0sDick = 1, #_0x0sBILAT / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sBILAT[#_0x0sBILAT / 2 + _0x0sBILAT[_0x0sDick]];
+				end;
+				return _0x0SOhab;
+			end)({
+				4,
+				5,
+				3,
+				2,
+				1,
+				"\075\120\116\048\073\120",
+				"\051\111",
+				"\081\048",
+				"\109\113\066\057\116",
+				"\048\081\043\100\048",
+			}),
+			(function(_0x0sNigaBytes, ...)
+				local _0x0STFYouLookingAt = "";
+				for _0x0sBAYOT = 1, #_0x0sNigaBytes / 2, 1 do
+					_0x0STFYouLookingAt = _0x0STFYouLookingAt .. _0x0sNigaBytes[#_0x0sNigaBytes / 2 + _0x0sNigaBytes[_0x0sBAYOT]];
+				end;
+				return _0x0STFYouLookingAt;
+			end)({
+				1,
+				2,
+				"\047\079\090\072\100",
+				"\070\061\061",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SKigol = "";
+				for _0x0sPleaseImBeggingNooo = 1, #_0x0sNigger / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sPleaseImBeggingNooo]];
+				end;
+				return _0x0SKigol;
+			end)({
+				1,
+				2,
+				"\067\098\048\103\053\054\086",
+				"\061",
+			}),
+			(function(_0x0sBILAT, ...)
+				local _0x0SSkidDetected = "";
+				for _0x0sSkidDetected = 1, #_0x0sBILAT / 2, 1 do
+					_0x0SSkidDetected = _0x0SSkidDetected .. _0x0sBILAT[#_0x0sBILAT / 2 + _0x0sBILAT[_0x0sSkidDetected]];
+				end;
+				return _0x0SSkidDetected;
 			end)({
 				3,
 				2,
 				1,
-				{ "\051\121\081\061", "\082\077\121\078", "\077\098\087\085" },
+				"\106\070",
+				"\071\077\073",
+				"\098\119\081",
 			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HDiKanaNiyaMahal = "";
-				for _0x0ETerrorist = 1, #_0x0ENigger / 2, 1 do
-					_0x0HDiKanaNiyaMahal = _0x0HDiKanaNiyaMahal .. _0x0ENigger[#_0x0ENigger / 2 + _0x0ENigger[_0x0ETerrorist]];
+			"\088\056\061\061",
+			(function(_0x0sWagGago, ...)
+				local _0x0SPlsNo, _0x0VIveDoneNothing = _0x0sWagGago[#_0x0sWagGago], "";
+				for _0x0sBakla = 1, #_0x0SPlsNo, 1 do
+					_0x0VIveDoneNothing = _0x0VIveDoneNothing .. _0x0SPlsNo[_0x0sWagGago[_0x0sBakla]];
 				end;
-				return _0x0HDiKanaNiyaMahal;
+				return _0x0VIveDoneNothing;
+			end)({
+				3,
+				2,
+				1,
+				{ "\118\070\061", "\117\081", "\099\104\111\110\075\106\083" },
+			}),
+			(function(_0x0sSkilliSSUE, ...)
+				local _0x0SBoo, _0x0VDick = _0x0sSkilliSSUE[#_0x0sSkilliSSUE], "";
+				for _0x0sTangina = 1, #_0x0SBoo, 1 do
+					_0x0VDick = _0x0VDick .. _0x0SBoo[_0x0sSkilliSSUE[_0x0sTangina]];
+				end;
+				return _0x0VDick;
+			end)({
+				1,
+				3,
+				2,
+				{ "\102\054\068\084", "\104", "\114\105\079" },
+			}),
+			(function(_0x0sPlsNo, ...)
+				local _0x0SNigger, _0x0VSINGIT = _0x0sPlsNo[#_0x0sPlsNo], "";
+				for _0x0SNigaBytes = 1, #_0x0SNigger, 1 do
+					_0x0VSINGIT = _0x0VSINGIT .. _0x0SNigger[_0x0sPlsNo[_0x0SNigaBytes]];
+				end;
+				return _0x0VSINGIT;
+			end)({
+				3,
+				2,
+				4,
+				1,
+				{
+					"\061\061",
+					"\107\088",
+					"\047\090\067",
+					"\102\105\066\052\070",
+				},
+			}),
+			(function(_0x0sLove, ...)
+				local _0x0SOhab, _0x0VLove = _0x0sLove[#_0x0sLove], "";
+				for _0x0sSINGIT = 1, #_0x0SOhab, 1 do
+					_0x0VLove = _0x0VLove .. _0x0SOhab[_0x0sLove[_0x0sSINGIT]];
+				end;
+				return _0x0VLove;
+			end)({
+				1,
+				4,
+				3,
+				2,
+				{
+					"\047\079\090",
+					"\099\061",
+					"\120\100\111\081\120\100\069",
+					"\072\100\079\075",
+				},
+			}),
+			(function(_0x0sDiKanaNiyaMahal, ...)
+				local _0x0SRomans12_19 = "";
+				for _0x0sIveDoneNothing = 1, #_0x0sDiKanaNiyaMahal / 2, 1 do
+					_0x0SRomans12_19 = _0x0SRomans12_19  .. _0x0sDiKanaNiyaMahal[#_0x0sDiKanaNiyaMahal / 2 + _0x0sDiKanaNiyaMahal[_0x0sIveDoneNothing]];
+				end;
+				return _0x0SRomans12_19;
+			end)({
+				3,
+				2,
+				1,
+				"\056\061\061",
+				"\068\072\101\090\114\113",
+				"\112\109\109\106\097\065\071",
+			}),
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0SUrMom, _0x0VNigaBytes = _0x0sIveDoneNothing[#_0x0sIveDoneNothing], "";
+				for _0x0sNigger = 1, #_0x0SUrMom, 1 do
+					_0x0VNigaBytes = _0x0VNigaBytes .. _0x0SUrMom[_0x0sIveDoneNothing[_0x0sNigger]];
+				end;
+				return _0x0VNigaBytes;
+			end)({ 2, 1, { "\061", "\100\083\088\112\100\068\055" } }),
+			(function(_0x0sPutangInaSabiNangWag, ...)
+				local _0x0SLove = "";
+				for _0x0sPlsNo = 1, #_0x0sPutangInaSabiNangWag / 2, 1 do
+					_0x0SLove = _0x0SLove .. _0x0sPutangInaSabiNangWag[#_0x0sPutangInaSabiNangWag / 2 + _0x0sPutangInaSabiNangWag[_0x0sPlsNo]];
+				end;
+				return _0x0SLove;
 			end)({
 				1,
 				2,
-				"\047\098\120\110\101\051\083",
-				"\079",
+				"\084\083\071\065\117",
+				"\118\079\120\118\099\061\061",
 			}),
-			(function(_0x0EMeow, ...)
-				local _0x0HGago, _0x0bGay = _0x0EMeow[#_0x0EMeow], "";
-				for _0x0ETUBOL = 1, #_0x0HGago, 1 do
-					_0x0bGay = _0x0bGay .. _0x0HGago[_0x0EMeow[_0x0ETUBOL]];
+			(function(_0x0sSINGIT, ...)
+				local _0x0SMeow, _0x0VUrMom = _0x0sSINGIT[#_0x0sSINGIT], "";
+				for _0x0sNigger = 1, #_0x0SMeow, 1 do
+					_0x0VUrMom = _0x0VUrMom .. _0x0SMeow[_0x0sSINGIT[_0x0sNigger]];
 				end;
-				return _0x0bGay;
+				return _0x0VUrMom;
+			end)({
+				3,
+				2,
+				1,
+				{ "\104\109\048\066\120", "\072\109\111\090", "\100\113\081\072\116\103\081" },
+			}),
+			(function(_0x0sWagGago, ...)
+				local _0x0SGay, _0x0VSHAyBAO = _0x0sWagGago[#_0x0sWagGago], "";
+				for _0x0sSINGIT = 1, #_0x0SGay, 1 do
+					_0x0VSHAyBAO = _0x0VSHAyBAO .. _0x0SGay[_0x0sWagGago[_0x0sSINGIT]];
+				end;
+				return _0x0VSHAyBAO;
+			end)({ 2, 1, { "\120\112\115", "\087\075\090\074\084" } }),
+			(function(_0x0sSINGIT, ...)
+				local _0x0SSHAyBAO, _0x0VIveDoneNothing = _0x0sSINGIT[#_0x0sSINGIT], "";
+				for _0x0sMeow = 1, #_0x0SSHAyBAO, 1 do
+					_0x0VIveDoneNothing = _0x0VIveDoneNothing .. _0x0SSHAyBAO[_0x0sSINGIT[_0x0sMeow]];
+				end;
+				return _0x0VIveDoneNothing;
+			end)({ 1, 2, { "\089\056\061", "\061" } }),
+			(function(_0x0sBILAT, ...)
+				local _0x0STFYouLookingAt, _0x0VLove = _0x0sBILAT[#_0x0sBILAT], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0STFYouLookingAt, 1 do
+					_0x0VLove = _0x0VLove .. _0x0STFYouLookingAt[_0x0sBILAT[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VLove;
+			end)({ 1, 2, { "\051\071", "\122\047\100\118\112\122" } }),
+			(function(_0x0sSkilliSSUE, ...)
+				local _0x0SBoo = "";
+				for _0x0sLove = 1, #_0x0sSkilliSSUE / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sSkilliSSUE[#_0x0sSkilliSSUE / 2 + _0x0sSkilliSSUE[_0x0sLove]];
+				end;
+				return _0x0SBoo;
+			end)({
+				1,
+				2,
+				"\087\056\081\057\120\120\074",
+				"\088\117\069\099\061",
+			}),
+			(function(_0x0sWagGago, ...)
+				local _0x0SBAYOT, _0x0VTUBOL = _0x0sWagGago[#_0x0sWagGago], "";
+				for _0x0sBible = 1, #_0x0SBAYOT, 1 do
+					_0x0VTUBOL = _0x0VTUBOL .. _0x0SBAYOT[_0x0sWagGago[_0x0sBible]];
+				end;
+				return _0x0VTUBOL;
+			end)({
+				2,
+				3,
+				1,
+				{ "\061", "\085\083\088\114", "\116\083\074" },
+			}),
+			(function(_0x0sPlsNo, ...)
+				local _0x0SIveDoneNothing, _0x0VGago = _0x0sPlsNo[#_0x0sPlsNo], "";
+				for _0x0sBible = 1, #_0x0SIveDoneNothing, 1 do
+					_0x0VGago = _0x0VGago .. _0x0SIveDoneNothing[_0x0sPlsNo[_0x0sBible]];
+				end;
+				return _0x0VGago;
+			end)({
+				1,
+				3,
+				2,
+				{ "\080\054\105", "\071\061", "\097\083\104" },
+			}),
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0SBible, _0x0VBILAT = _0x0sIveDoneNothing[#_0x0sIveDoneNothing], "";
+				for _0x0STUBOL = 1, #_0x0SBible, 1 do
+					_0x0VBILAT = _0x0VBILAT .. _0x0SBible[_0x0sIveDoneNothing[_0x0STUBOL]];
+				end;
+				return _0x0VBILAT;
+			end)({ 2, 1, { "\102\077", "\088\076\078\102\047\069" } }),
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0SGay, _0x0VRomans12_19 = _0x0sIveDoneNothing[#_0x0sIveDoneNothing], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SGay, 1 do
+					_0x0VRomans12_19 = _0x0VRomans12_19  .. _0x0SGay[_0x0sIveDoneNothing[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VRomans12_19;
+			end)({
+				6,
+				5,
+				3,
+				4,
+				1,
+				2,
+				{
+					"\070\052\099\056",
+					"\083\108\067\116",
+					"\052\097",
+					"\054\099",
+					"\074\086\114\098\100\105",
+					"\054\101",
+				},
+			}),
+			(function(_0x0sFallenPartsDestroyHeight, ...)
+				local _0x0SKigol = "";
+				for _0x0sNoSkill = 1, #_0x0sFallenPartsDestroyHeight / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sFallenPartsDestroyHeight[#_0x0sFallenPartsDestroyHeight / 2 + _0x0sFallenPartsDestroyHeight[_0x0sNoSkill]];
+				end;
+				return _0x0SKigol;
+			end)({
+				2,
+				1,
+				"\102\052",
+				"\079\052\086\107\084\081",
+			}),
+			(function(_0x0sSkidDetected, ...)
+				local _0x0STUBOL = "";
+				for _0x0sBAYOT = 1, #_0x0sSkidDetected / 2, 1 do
+					_0x0STUBOL = _0x0STUBOL .. _0x0sSkidDetected[#_0x0sSkidDetected / 2 + _0x0sSkidDetected[_0x0sBAYOT]];
+				end;
+				return _0x0STUBOL;
+			end)({
+				3,
+				4,
+				2,
+				1,
+				"\061",
+				"\067\088\099\061",
+				"\112\080\105\100\071\111",
+				"\114\112\120\081\048",
+			}),
+			(function(_0x0sPaasa, ...)
+				local _0x0SMamaMoBlue, _0x0VWagGago = _0x0sPaasa[#_0x0sPaasa], "";
+				for _0x0sGago = 1, #_0x0SMamaMoBlue, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SMamaMoBlue[_0x0sPaasa[_0x0sGago]];
+				end;
+				return _0x0VWagGago;
+			end)({
+				2,
+				3,
+				1,
+				{ "\100\120\078\102\061\061", "\105\077\120\072\111", "\085\053\074\102\101" },
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SBoo = "";
+				for _0x0sKigol = 1, #_0x0sNigger / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sKigol]];
+				end;
+				return _0x0SBoo;
+			end)({
+				3,
+				1,
+				2,
+				"\081\043\100\048",
+				"\081\048",
+				"\109\113\066\057\116\048",
+			}),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SRomans12_19 = "";
+				for _0x0sNigger = 1, #_0x0sMamaMoBlue / 2, 1 do
+					_0x0SRomans12_19 = _0x0SRomans12_19  .. _0x0sMamaMoBlue[#_0x0sMamaMoBlue / 2 + _0x0sMamaMoBlue[_0x0sNigger]];
+				end;
+				return _0x0SRomans12_19;
+			end)({
+				1,
+				2,
+				"\109\113\088\098\047\083",
+				"\074\061",
+			}),
+			(function(_0x0sMeow, ...)
+				local _0x0SPleaseImBeggingNooo, _0x0VTFYouLookingAt = _0x0sMeow[#_0x0sMeow], "";
+				for _0x0sTerrorist = 1, #_0x0SPleaseImBeggingNooo, 1 do
+					_0x0VTFYouLookingAt = _0x0VTFYouLookingAt .. _0x0SPleaseImBeggingNooo[_0x0sMeow[_0x0sTerrorist]];
+				end;
+				return _0x0VTFYouLookingAt;
+			end)({ 1, 2, { "\106\078", "\076\105\050\070\061\061" } }),
+			(function(_0x0sDiKanaNiyaMahal, ...)
+				local _0x0SPaasa, _0x0VNigger = _0x0sDiKanaNiyaMahal[#_0x0sDiKanaNiyaMahal], "";
+				for _0x0sRespect = 1, #_0x0SPaasa, 1 do
+					_0x0VNigger = _0x0VNigger .. _0x0SPaasa[_0x0sDiKanaNiyaMahal[_0x0sRespect]];
+				end;
+				return _0x0VNigger;
+			end)({ 2, 1, { "\051\056\061\061", "\055\111\067\083" } }),
+			(function(_0x0sTerrorist, ...)
+				local _0x0SBoo, _0x0VBible = _0x0sTerrorist[#_0x0sTerrorist], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SBoo, 1 do
+					_0x0VBible = _0x0VBible .. _0x0SBoo[_0x0sTerrorist[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VBible;
+			end)({
+				1,
+				4,
+				2,
+				3,
+				5,
+				{
+					"\090\088\049",
+					"\120\070\072\090",
+					"\072\104\090\109\056\061",
+					"\113\081\054\066\048\097",
+					"\061",
+				},
+			}),
+			"\116\083\081\121",
+			(function(_0x0sBAYOT, ...)
+				local _0x0SDick, _0x0VBakla = _0x0sBAYOT[#_0x0sBAYOT], "";
+				for _0x0sPlsNo = 1, #_0x0SDick, 1 do
+					_0x0VBakla = _0x0VBakla .. _0x0SDick[_0x0sBAYOT[_0x0sPlsNo]];
+				end;
+				return _0x0VBakla;
+			end)({ 1, 2, { "\070\120\071", "\061" } }),
+			(function(_0x0sRespect, ...)
+				local _0x0SBroStudyingHowMyBrainWorks = "";
+				for _0x0sDick = 1, #_0x0sRespect / 2, 1 do
+					_0x0SBroStudyingHowMyBrainWorks = _0x0SBroStudyingHowMyBrainWorks .. _0x0sRespect[#_0x0sRespect / 2 + _0x0sRespect[_0x0sDick]];
+				end;
+				return _0x0SBroStudyingHowMyBrainWorks;
+			end)({
+				1,
+				3,
+				2,
+				4,
+				"\087\111\055\113\109",
+				"\120\086\076\051\069\049\106",
+				"\117\090\066\097",
+				"\100\088\070\061",
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0STUBOL = "";
+				for _0x0sIveDoneNothing = 1, #_0x0sBroStudyingHowMyBrainWorks / 2, 1 do
+					_0x0STUBOL = _0x0STUBOL .. _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks / 2 + _0x0sBroStudyingHowMyBrainWorks[_0x0sIveDoneNothing]];
+				end;
+				return _0x0STUBOL;
+			end)({
+				2,
+				1,
+				4,
+				5,
+				3,
+				"\050\051",
+				"\090\048\120\121\051",
+				"\061",
+				"\112\100\068\073\072\099\113",
+				"\104\112\116\083\099",
+			}),
+			"\074\117\119\061",
+			(function(_0x0sFallenPartsDestroyHeight, ...)
+				local _0x0SBAYOT = "";
+				for _0x0sNigaBytes = 1, #_0x0sFallenPartsDestroyHeight / 2, 1 do
+					_0x0SBAYOT = _0x0SBAYOT .. _0x0sFallenPartsDestroyHeight[#_0x0sFallenPartsDestroyHeight / 2 + _0x0sFallenPartsDestroyHeight[_0x0sNigaBytes]];
+				end;
+				return _0x0SBAYOT;
+			end)({
+				1,
+				2,
+				3,
+				"\104\055\114\085",
+				"\118\102\061",
+				"\061",
+			}),
+			(function(_0x0sRespect, ...)
+				local _0x0SFallenPartsDestroyHeight, _0x0VBakla = _0x0sRespect[#_0x0sRespect], "";
+				for _0x0sPutangInaSabiNangWag = 1, #_0x0SFallenPartsDestroyHeight, 1 do
+					_0x0VBakla = _0x0VBakla .. _0x0SFallenPartsDestroyHeight[_0x0sRespect[_0x0sPutangInaSabiNangWag]];
+				end;
+				return _0x0VBakla;
+			end)({
+				3,
+				2,
+				1,
+				{ "\054", "\100\083\075\057\109\111\075", "\099\113\066\112" },
+			}),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SPlsNo, _0x0VBAYOT = _0x0sNoSkill[#_0x0sNoSkill], "";
+				for _0x0sIveDoneNothing = 1, #_0x0SPlsNo, 1 do
+					_0x0VBAYOT = _0x0VBAYOT .. _0x0SPlsNo[_0x0sNoSkill[_0x0sIveDoneNothing]];
+				end;
+				return _0x0VBAYOT;
+			end)({ 1, 2, { "\097\078\089\103\082", "\097\068\112\071\056\061\061" } }),
+			(function(_0x0sBILAT, ...)
+				local _0x0SFallenPartsDestroyHeight, _0x0VPutangInaSabiNangWag = _0x0sBILAT[#_0x0sBILAT], "";
+				for _0x0sBoo = 1, #_0x0SFallenPartsDestroyHeight, 1 do
+					_0x0VPutangInaSabiNangWag = _0x0VPutangInaSabiNangWag .. _0x0SFallenPartsDestroyHeight[_0x0sBILAT[_0x0sBoo]];
+				end;
+				return _0x0VPutangInaSabiNangWag;
+			end)({ 2, 1, { "\072\099\061\061", "\071\070\089\066" } }),
+			(function(_0x0sBILAT, ...)
+				local _0x0SKigol = "";
+				for _0x0sNigger = 1, #_0x0sBILAT / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sBILAT[#_0x0sBILAT / 2 + _0x0sBILAT[_0x0sNigger]];
+				end;
+				return _0x0SKigol;
+			end)({
+				3,
+				2,
+				1,
+				4,
+				"\121\100",
+				"\048\087\076",
+				"\085\084\101\098",
+				"\122\102\101",
+			}),
+			(function(_0x0sBakla, ...)
+				local _0x0SDick = "";
+				for _0x0sWagGago = 1, #_0x0sBakla / 2, 1 do
+					_0x0SDick = _0x0SDick .. _0x0sBakla[#_0x0sBakla / 2 + _0x0sBakla[_0x0sWagGago]];
+				end;
+				return _0x0SDick;
+			end)({
+				3,
+				2,
+				1,
+				4,
+				5,
+				"\115\087\086\111\066\116",
+				"\115\107",
+				"\114\074\066\071",
+				"\107\116\056",
+				"\061",
+			}),
+			(function(_0x0sRomans12_19, ...)
+				local _0x0SNigaBytes = "";
+				for _0x0sBILAT = 1, #_0x0sRomans12_19 / 2, 1 do
+					_0x0SNigaBytes = _0x0SNigaBytes .. _0x0sRomans12_19[#_0x0sRomans12_19 / 2 + _0x0sRomans12_19[_0x0sBILAT]];
+				end;
+				return _0x0SNigaBytes;
+			end)({
+				2,
+				1,
+				"\121\085\102\061\061",
+				"\051\113\081\072\051\113\081",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SDiKanaNiyaMahal, _0x0VRespect = _0x0sNigger[#_0x0sNigger], "";
+				for _0x0sPaasa = 1, #_0x0SDiKanaNiyaMahal, 1 do
+					_0x0VRespect = _0x0VRespect .. _0x0SDiKanaNiyaMahal[_0x0sNigger[_0x0sPaasa]];
+				end;
+				return _0x0VRespect;
+			end)({ 1, 2, { "\085\083\088\077", "\047\056\061\061" } }),
+			(function(_0x0sGago, ...)
+				local _0x0SBible, _0x0VSkilliSSUE = _0x0sGago[#_0x0sGago], "";
+				for _0x0sPaasa = 1, #_0x0SBible, 1 do
+					_0x0VSkilliSSUE = _0x0VSkilliSSUE .. _0x0SBible[_0x0sGago[_0x0sPaasa]];
+				end;
+				return _0x0VSkilliSSUE;
+			end)({
+				1,
+				3,
+				2,
+				{ "\050\078\051\078", "\061", "\054\056\076\108\052\106\070" },
+			}),
+			(function(_0x0sBible, ...)
+				local _0x0SOhab, _0x0VWagGago = _0x0sBible[#_0x0sBible], "";
+				for _0x0sTanginaMoCge = 1, #_0x0SOhab, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SOhab[_0x0sBible[_0x0sTanginaMoCge]];
+				end;
+				return _0x0VWagGago;
+			end)({
+				1,
+				2,
+				3,
+				{ "\066\073\087\047\087\049\103", "\066\065\099", "\061\061" },
+			}),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SWagGago, _0x0VTangina = _0x0sNoSkill[#_0x0sNoSkill], "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0SWagGago, 1 do
+					_0x0VTangina = _0x0VTangina .. _0x0SWagGago[_0x0sNoSkill[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0VTangina;
+			end)({
+				1,
+				3,
+				2,
+				{ "\086\107\085", "\061\061", "\115\101\103\050\085\068\070" },
+			}),
+			(function(_0x0sGago, ...)
+				local _0x0SRespect, _0x0VTanginaMoCge = _0x0sGago[#_0x0sGago], "";
+				for _0x0sDiKanaNiyaMahal = 1, #_0x0SRespect, 1 do
+					_0x0VTanginaMoCge = _0x0VTanginaMoCge .. _0x0SRespect[_0x0sGago[_0x0sDiKanaNiyaMahal]];
+				end;
+				return _0x0VTanginaMoCge;
+			end)({
+				3,
+				2,
+				4,
+				1,
+				{
+					"\070\061\061",
+					"\114\087\083\073\119\047\111",
+					"\100\113\081\072\111\069\075",
+					"\049\114\116\113\088\122\051",
+				},
+			}),
+			"\075\089\108\052",
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SDiKanaNiyaMahal, _0x0VBakla = _0x0sTanginaMoCge[#_0x0sTanginaMoCge], "";
+				for _0x0sGay = 1, #_0x0SDiKanaNiyaMahal, 1 do
+					_0x0VBakla = _0x0VBakla .. _0x0SDiKanaNiyaMahal[_0x0sTanginaMoCge[_0x0sGay]];
+				end;
+				return _0x0VBakla;
+			end)({ 2, 1, { "\075\112\116\048\100\061", "\085\083\080\077\085\079" } }),
+			"\089\088\056\061",
+			(function(_0x0sWagGago, ...)
+				local _0x0SOhab = "";
+				for _0x0sKigol = 1, #_0x0sWagGago / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sWagGago[#_0x0sWagGago / 2 + _0x0sWagGago[_0x0sKigol]];
+				end;
+				return _0x0SOhab;
+			end)({
+				2,
+				3,
+				1,
+				"\061\061",
+				"\057\071\087",
+				"\067\084\102",
+			}),
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0SPleaseImBeggingNooo = "";
+				for _0x0sSkilliSSUE = 1, #_0x0sIveDoneNothing / 2, 1 do
+					_0x0SPleaseImBeggingNooo = _0x0SPleaseImBeggingNooo .. _0x0sIveDoneNothing[#_0x0sIveDoneNothing / 2 + _0x0sIveDoneNothing[_0x0sSkilliSSUE]];
+				end;
+				return _0x0SPleaseImBeggingNooo;
+			end)({
+				2,
+				1,
+				4,
+				3,
+				5,
+				"\074\072\066",
+				"\043\051\050",
+				"\113\048",
+				"\077\111\109",
+				"\076\111\098\056\061",
+			}),
+			(function(_0x0sRespect, ...)
+				local _0x0STangina = "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0sRespect / 2, 1 do
+					_0x0STangina = _0x0STangina .. _0x0sRespect[#_0x0sRespect / 2 + _0x0sRespect[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0STangina;
+			end)({
+				1,
+				2,
+				"\056\119\070\084\066\102\061",
+				"\061",
+			}),
+			(function(_0x0sTUBOL, ...)
+				local _0x0SSINGIT, _0x0VBoo = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sNigger = 1, #_0x0SSINGIT, 1 do
+					_0x0VBoo = _0x0VBoo .. _0x0SSINGIT[_0x0sTUBOL[_0x0sNigger]];
+				end;
+				return _0x0VBoo;
+			end)({ 1, 2, { "\085\103\076\056\109", "\103\073\052" } }),
+			(function(_0x0sGago, ...)
+				local _0x0SBroStudyingHowMyBrainWorks = "";
+				for _0x0sNigger = 1, #_0x0sGago / 2, 1 do
+					_0x0SBroStudyingHowMyBrainWorks = _0x0SBroStudyingHowMyBrainWorks .. _0x0sGago[#_0x0sGago / 2 + _0x0sGago[_0x0sNigger]];
+				end;
+				return _0x0SBroStudyingHowMyBrainWorks;
+			end)({
+				1,
+				2,
+				"\090\048\066\053\087",
+				"\079\081\077",
+			}),
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SKigol = "";
+				for _0x0sNigger = 1, #_0x0sNigaBytes / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sNigaBytes[#_0x0sNigaBytes / 2 + _0x0sNigaBytes[_0x0sNigger]];
+				end;
+				return _0x0SKigol;
+			end)({
+				1,
+				2,
+				"\050\103\089\113\084\084",
+				"\071\061",
+			}),
+			(function(_0x0sOhab, ...)
+				local _0x0STFYouLookingAt = "";
+				for _0x0sBoo = 1, #_0x0sOhab / 2, 1 do
+					_0x0STFYouLookingAt = _0x0STFYouLookingAt .. _0x0sOhab[#_0x0sOhab / 2 + _0x0sOhab[_0x0sBoo]];
+				end;
+				return _0x0STFYouLookingAt;
+			end)({
+				2,
+				3,
+				4,
+				1,
+				"\073",
+				"\111\084\090\071\122",
+				"\065\120\068\109",
+				"\119\116\067\097\065\122",
+			}),
+			(function(_0x0sTUBOL, ...)
+				local _0x0SBILAT, _0x0VBroStudyingHowMyBrainWorks = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sNigaBytes = 1, #_0x0SBILAT, 1 do
+					_0x0VBroStudyingHowMyBrainWorks = _0x0VBroStudyingHowMyBrainWorks .. _0x0SBILAT[_0x0sTUBOL[_0x0sNigaBytes]];
+				end;
+				return _0x0VBroStudyingHowMyBrainWorks;
+			end)({
+				2,
+				1,
+				3,
+				{ "\056\051\099", "\085\079\120", "\061\061" },
+			}),
+			(function(_0x0sSINGIT, ...)
+				local _0x0SSHAyBAO, _0x0VGago = _0x0sSINGIT[#_0x0sSINGIT], "";
+				for _0x0sSkidDetected = 1, #_0x0SSHAyBAO, 1 do
+					_0x0VGago = _0x0VGago .. _0x0SSHAyBAO[_0x0sSINGIT[_0x0sSkidDetected]];
+				end;
+				return _0x0VGago;
+			end)({
+				3,
+				1,
+				2,
+				{ "\111\099\072\090\112\117", "\069\120\113\051\111\099\061", "\100\053\090\082\081\068\120" },
+			}),
+			(function(_0x0sRomans12_19, ...)
+				local _0x0SPlsNo = "";
+				for _0x0sPaasa = 1, #_0x0sRomans12_19 / 2, 1 do
+					_0x0SPlsNo = _0x0SPlsNo .. _0x0sRomans12_19[#_0x0sRomans12_19 / 2 + _0x0sRomans12_19[_0x0sPaasa]];
+				end;
+				return _0x0SPlsNo;
+			end)({
+				2,
+				1,
+				3,
+				"\050\078",
+				"\051\076\109",
+				"\087\053\074",
+			}),
+			(function(_0x0sPlsNo, ...)
+				local _0x0SFallenPartsDestroyHeight = "";
+				for _0x0sTanginaMoCge = 1, #_0x0sPlsNo / 2, 1 do
+					_0x0SFallenPartsDestroyHeight = _0x0SFallenPartsDestroyHeight .. _0x0sPlsNo[#_0x0sPlsNo / 2 + _0x0sPlsNo[_0x0sTanginaMoCge]];
+				end;
+				return _0x0SFallenPartsDestroyHeight;
+			end)({
+				2,
+				1,
+				3,
+				"\106\075\110\099\061",
+				"\113\099",
+				"\061",
+			}),
+			(function(_0x0sBrainDamage, ...)
+				local _0x0SIveDoneNothing, _0x0VWagGago = _0x0sBrainDamage[#_0x0sBrainDamage], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SIveDoneNothing, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SIveDoneNothing[_0x0sBrainDamage[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VWagGago;
+			end)({ 1, 2, { "\051\113", "\081\072\051\113\055\061" } }),
+			(function(_0x0sKigol, ...)
+				local _0x0SMeow, _0x0VTFYouLookingAt = _0x0sKigol[#_0x0sKigol], "";
+				for _0x0sMeow = 1, #_0x0SMeow, 1 do
+					_0x0VTFYouLookingAt = _0x0VTFYouLookingAt .. _0x0SMeow[_0x0sKigol[_0x0sMeow]];
+				end;
+				return _0x0VTFYouLookingAt;
+			end)({
+				2,
+				1,
+				3,
+				{ "\120\122\051\099\061", "\100\048\081\066\085\103", "\061" },
+			}),
+			(function(_0x0sSkilliSSUE, ...)
+				local _0x0SSINGIT, _0x0VBrainDamage = _0x0sSkilliSSUE[#_0x0sSkilliSSUE], "";
+				for _0x0sNoSkill = 1, #_0x0SSINGIT, 1 do
+					_0x0VBrainDamage = _0x0VBrainDamage .. _0x0SSINGIT[_0x0sSkilliSSUE[_0x0sNoSkill]];
+				end;
+				return _0x0VBrainDamage;
+			end)({
+				1,
+				3,
+				2,
+				4,
+				{
+					"\085\083\080\043\109\113",
+					"\109\111\075",
+					"\066\112\100\083\075\057",
+					"\054",
+				},
+			}),
+			(function(_0x0sBible, ...)
+				local _0x0SSINGIT = "";
+				for _0x0sTFYouLookingAt = 1, #_0x0sBible / 2, 1 do
+					_0x0SSINGIT = _0x0SSINGIT .. _0x0sBible[#_0x0sBible / 2 + _0x0sBible[_0x0sTFYouLookingAt]];
+				end;
+				return _0x0SSINGIT;
+			end)({
+				1,
+				3,
+				2,
+				4,
+				"\085\103\076\086",
+				"\081\121",
+				"\116\113\080\052\051\068",
+				"\109\056\061\061",
+			}),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SUrMom = "";
+				for _0x0sNigaBytes = 1, #_0x0sMamaMoBlue / 2, 1 do
+					_0x0SUrMom = _0x0SUrMom .. _0x0sMamaMoBlue[#_0x0sMamaMoBlue / 2 + _0x0sMamaMoBlue[_0x0sNigaBytes]];
+				end;
+				return _0x0SUrMom;
+			end)({
+				2,
+				1,
+				"\049\110\084",
+				"\088\116\122\101\087",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SSHAyBAO = "";
+				for _0x0SPlsNo = 1, #_0x0sNigger / 2, 1 do
+					_0x0SSHAyBAO = _0x0SSHAyBAO .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0SPlsNo]];
+				end;
+				return _0x0SSHAyBAO;
+			end)({
+				3,
+				1,
+				5,
+				2,
+				4,
+				"\079\043",
+				"\066\052",
+				"\104\090",
+				"\078\111\114\053\122",
+				"\089\057\051\075\087",
+			}),
+			(function(_0x0sDiKanaNiyaMahal, ...)
+				local _0x0SNigaBytes, _0x0VPleaseImBeggingNooo = _0x0sDiKanaNiyaMahal[#_0x0sDiKanaNiyaMahal], "";
+				for _0x0sLove = 1, #_0x0SNigaBytes, 1 do
+					_0x0VPleaseImBeggingNooo = _0x0VPleaseImBeggingNooo .. _0x0SNigaBytes[_0x0sDiKanaNiyaMahal[_0x0sLove]];
+				end;
+				return _0x0VPleaseImBeggingNooo;
+			end)({
+				3,
+				2,
+				1,
+				{ "\102\114\057\099\061", "\075\099\076\101\084", "\083\089" },
+			}),
+			(function(_0x0sDick, ...)
+				local _0x0SMeow = "";
+				for _0x0sNigger = 1, #_0x0sDick / 2, 1 do
+					_0x0SMeow = _0x0SMeow .. _0x0sDick[#_0x0sDick / 2 + _0x0sDick[_0x0sNigger]];
+				end;
+				return _0x0SMeow;
+			end)({
+				2,
+				1,
+				"\122\051\116\098\083\115",
+				"\120\114\068\084\081\087",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SPleaseImBeggingNooo = "";
+				for _0x0sBoo = 1, #_0x0sNigger / 2, 1 do
+					_0x0SPleaseImBeggingNooo = _0x0SPleaseImBeggingNooo .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sBoo]];
+				end;
+				return _0x0SPleaseImBeggingNooo;
+			end)({
+				3,
+				4,
+				2,
+				1,
+				"\061",
+				"\122\051\103\109",
+				"\109\113\066",
+				"\057\116\048\081",
+			}),
+			(function(_0x0sMeow, ...)
+				local _0x0SNigger, _0x0VWagGago = _0x0sMeow[#_0x0sMeow], "";
+				for _0x0sNigger = 1, #_0x0SNigger, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SNigger[_0x0sMeow[_0x0sNigger]];
+				end;
+				return _0x0VWagGago;
+			end)({ 2, 1, { "\111\110\061", "\116\083\080\069\051" } }),
+			(function(_0x0sRomans12_19, ...)
+				local _0x0SNigaBytes, _0x0VBroStudyingHowMyBrainWorks = _0x0sRomans12_19[#_0x0sRomans12_19], "";
+				for _0x0sGago = 1, #_0x0SNigaBytes, 1 do
+					_0x0VBroStudyingHowMyBrainWorks = _0x0VBroStudyingHowMyBrainWorks .. _0x0SNigaBytes[_0x0sRomans12_19[_0x0sGago]];
+				end;
+				return _0x0VBroStudyingHowMyBrainWorks;
+			end)({ 2, 1, { "\090\065\070", "\122\086\084\116\069" } }),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SRomans12_19 = "";
+				for _0x0sPlsNo = 1, #_0x0sNoSkill / 2, 1 do
+					_0x0SRomans12_19 = _0x0SRomans12_19  .. _0x0sNoSkill[#_0x0sNoSkill / 2 + _0x0sNoSkill[_0x0sPlsNo]];
+				end;
+				return _0x0SRomans12_19;
+			end)({
+				3,
+				2,
+				4,
+				1,
+				"\079\117\048\101\119\061",
+				"\088\104",
+				"\050\107",
+				"\055\111\087\075\080\112",
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SNigger, _0x0VBible = _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks], "";
+				for _0x0SBILAT = 1, #_0x0SNigger, 1 do
+					_0x0VBible = _0x0VBible .. _0x0SNigger[_0x0sBroStudyingHowMyBrainWorks[_0x0SBILAT]];
+				end;
+				return _0x0VBible;
+			end)({ 1, 2, { "\100\113\104\104\100", "\048\081\054" } }),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SNigger = "";
+				for _0x0sSHAyBAO = 1, #_0x0sTanginaMoCge / 2, 1 do
+					_0x0SNigger = _0x0SNigger .. _0x0sTanginaMoCge[#_0x0sTanginaMoCge / 2 + _0x0sTanginaMoCge[_0x0sSHAyBAO]];
+				end;
+				return _0x0SNigger;
+			end)({
+				1,
+				2,
+				"\099\117",
+				"\054\061",
+			}),
+			(function(_0x0sGay, ...)
+				local _0x0SBoo = "";
+				for _0x0sIveDoneNothing = 1, #_0x0sGay / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sGay[#_0x0sGay / 2 + _0x0sGay[_0x0sIveDoneNothing]];
+				end;
+				return _0x0SBoo;
+			end)({
+				1,
+				2,
+				3,
+				4,
+				"\068\115",
+				"\057\106\079\121\066\048\118",
+				"\051\107\066\106\119\087",
+				"\088",
+			}),
+			(function(_0x0sSkidDetected, ...)
+				local _0x0SBILAT, _0x0VGay = _0x0sSkidDetected[#_0x0sSkidDetected], "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0SBILAT, 1 do
+					_0x0VGay = _0x0VGay .. _0x0SBILAT[_0x0sSkidDetected[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0VGay;
+			end)({ 2, 1, { "\083\055\057\054\061", "\087\104\097\053\084\080\089" } }),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SMeow = "";
+				for _0x0sTerrorist = 1, #_0x0sNoSkill / 2, 1 do
+					_0x0SMeow = _0x0SMeow .. _0x0sNoSkill[#_0x0sNoSkill / 2 + _0x0sNoSkill[_0x0sTerrorist]];
+				end;
+				return _0x0SMeow;
+			end)({
+				2,
+				5,
+				1,
+				4,
+				3,
+				"\112\051\068\120\120\087",
+				"\047\103\090",
+				"\100\102\061\061",
+				"\083\081\098\085\111\090\057",
+				"\120\116\068\090",
+			}),
+			(function(_0x0sBILAT, ...)
+				local _0x0SWagGago = "";
+				for _0x0sUrMom = 1, #_0x0sBILAT / 2, 1 do
+					_0x0SWagGago = _0x0SWagGago .. _0x0sBILAT[#_0x0sBILAT / 2 + _0x0sBILAT[_0x0sUrMom]];
+				end;
+				return _0x0SWagGago;
+			end)({
+				1,
+				3,
+				2,
+				"\051\072\112\112\097\083\073",
+				"\053\109\077\097\103\090\109",
+				"\052\085",
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SBAYOT = "";
+				for _0x0sTangina = 1, #_0x0sTanginaMoCge / 2, 1 do
+					_0x0SBAYOT = _0x0SBAYOT .. _0x0sTanginaMoCge[#_0x0sTanginaMoCge / 2 + _0x0sTanginaMoCge[_0x0sTangina]];
+				end;
+				return _0x0SBAYOT;
+			end)({
+				1,
+				2,
+				"\100\048",
+				"\081\082\116\069\051\120",
+			}),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SBroStudyingHowMyBrainWorks, _0x0VUrMom = _0x0sMamaMoBlue[#_0x0sMamaMoBlue], "";
+				for _0x0sBible = 1, #_0x0SBroStudyingHowMyBrainWorks, 1 do
+					_0x0VUrMom = _0x0VUrMom .. _0x0SBroStudyingHowMyBrainWorks[_0x0sMamaMoBlue[_0x0sBible]];
+				end;
+				return _0x0VUrMom;
+			end)({
+				6,
+				2,
+				4,
+				3,
+				1,
+				5,
+				{
+					"\119\057\070",
+					"\052\051\080",
+					"\098\120\067\043",
+					"\102\105\109",
+					"\061",
+					"\102\087\067\118\098\099",
+				},
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SRomans12_19, _0x0VBoo = _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SRomans12_19, 1 do
+					_0x0VBoo = _0x0VBoo .. _0x0SRomans12_19[_0x0sBroStudyingHowMyBrainWorks[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VBoo;
+			end)({
+				3,
+				1,
+				2,
+				{ "\081\067\073\053\101", "\097\073\115\055\084", "\076\072\055\085\082\076" },
+			}),
+			(function(_0x0sBakla, ...)
+				local _0x0SDiKanaNiyaMahal, _0x0VMeow = _0x0sBakla[#_0x0sBakla], "";
+				for _0x0sMamaMoBlue = 1, #_0x0SDiKanaNiyaMahal, 1 do
+					_0x0VMeow = _0x0VMeow .. _0x0SDiKanaNiyaMahal[_0x0sBakla[_0x0sMamaMoBlue]];
+				end;
+				return _0x0VMeow;
 			end)({
 				4,
 				1,
 				3,
 				2,
 				{
-					"\089\112\107\101\089\053\053",
-					"\112\117\047\088\061\061",
-					"\084\051\057\086\073\066",
-					"\071\072\112\053\122",
+					"\085\114",
+					"\090\088\111\080",
+					"\116\082\120\051\099",
+					"\115\114\050\121\120",
 				},
 			}),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HLove = "";
-				for _0x0ETFYouLookingAt = 1, #_0x0EBrainDamage / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0EBrainDamage[#_0x0EBrainDamage / 2 + _0x0EBrainDamage[_0x0ETFYouLookingAt]];
+			(function(_0x0sTerrorist, ...)
+				local _0x0SBoo = "";
+				for _0x0sUrMom = 1, #_0x0sTerrorist / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sTerrorist[#_0x0sTerrorist / 2 + _0x0sTerrorist[_0x0sUrMom]];
 				end;
-				return _0x0HLove;
-			end)({
-				2,
-				1,
-				"\054\070\076\061\061",
-				"\110\118\071\117\049\075\077",
-			}),
-			(function(_0x0EBroStudyingHowMyBrainWorks, ...)
-				local _0x0HGay = "";
-				for _0x0EOhab = 1, #_0x0EBroStudyingHowMyBrainWorks / 2, 1 do
-					_0x0HGay = _0x0HGay .. _0x0EBroStudyingHowMyBrainWorks[#_0x0EBroStudyingHowMyBrainWorks / 2 + _0x0EBroStudyingHowMyBrainWorks[_0x0EOhab]];
-				end;
-				return _0x0HGay;
+				return _0x0SBoo;
 			end)({
 				1,
 				2,
-				"\043\101",
-				"\070\048",
+				"\087\053\100\080\048\116",
+				"\075\065",
 			}),
-			(function(_0x0ETanginaMoCge, ...)
-				local _0x0HBroStudyingHowMyBrainWorks, _0x0bBakla = _0x0ETanginaMoCge[#_0x0ETanginaMoCge], "";
-				for _0x0EMeow = 1, #_0x0HBroStudyingHowMyBrainWorks, 1 do
-					_0x0bBakla = _0x0bBakla .. _0x0HBroStudyingHowMyBrainWorks[_0x0ETanginaMoCge[_0x0EMeow]];
+			(function(_0x0sLove, ...)
+				local _0x0SLove, _0x0VDick = _0x0sLove[#_0x0sLove], "";
+				for _0x0sSkidDetected = 1, #_0x0SLove, 1 do
+					_0x0VDick = _0x0VDick .. _0x0SLove[_0x0sLove[_0x0sSkidDetected]];
 				end;
-				return _0x0bBakla;
-			end)({ 2, 1, { "\061", "\115\050\051\054\083\049\061" } }),
-			(function(_0x0EPaasa, ...)
-				local _0x0HIveDoneNothing = "";
-				for _0x0ETangina = 1, #_0x0EPaasa / 2, 1 do
-					_0x0HIveDoneNothing = _0x0HIveDoneNothing .. _0x0EPaasa[#_0x0EPaasa / 2 + _0x0EPaasa[_0x0ETangina]];
-				end;
-				return _0x0HIveDoneNothing;
+				return _0x0VDick;
 			end)({
+				2,
+				3,
+				1,
+				4,
+				{
+					"\102\071",
+					"\054\112\105\057\077",
+					"\112\122\056",
+					"\119\061",
+				},
+			}),
+			"\050\049\071\061",
+			(function(_0x0sKigol, ...)
+				local _0x0SPaasa, _0x0VNoSkill = _0x0sKigol[#_0x0sKigol], "";
+				for _0x0sNigaBytes = 1, #_0x0SPaasa, 1 do
+					_0x0VNoSkill = _0x0VNoSkill .. _0x0SPaasa[_0x0sKigol[_0x0sNigaBytes]];
+				end;
+				return _0x0VNoSkill;
+			end)({
+				2,
+				4,
+				3,
+				1,
+				{
+					"\048\074\103\055\061",
+					"\085\053\075\107\055",
+					"\051\083\085\053\120",
+					"\098\090\120\116\074",
+				},
+			}),
+			(function(_0x0sBible, ...)
+				local _0x0STangina, _0x0VPaasa = _0x0sBible[#_0x0sBible], "";
+				for _0x0sUrMom = 1, #_0x0STangina, 1 do
+					_0x0VPaasa = _0x0VPaasa .. _0x0STangina[_0x0sBible[_0x0sUrMom]];
+				end;
+				return _0x0VPaasa;
+			end)({
+				2,
+				1,
+				3,
+				{ "\086\116\113\080\052", "\047\111\073", "\051\103\099\061" },
+			}),
+			(function(_0x0sFallenPartsDestroyHeight, ...)
+				local _0x0SPlsNo = "";
+				for _0x0sBILAT = 1, #_0x0sFallenPartsDestroyHeight / 2, 1 do
+					_0x0SPlsNo = _0x0SPlsNo .. _0x0sFallenPartsDestroyHeight[#_0x0sFallenPartsDestroyHeight / 2 + _0x0sFallenPartsDestroyHeight[_0x0sBILAT]];
+				end;
+				return _0x0SPlsNo;
+			end)({
+				2,
+				1,
+				"\071\061",
+				"\069\081",
+			}),
+			(function(_0x0sSkilliSSUE, ...)
+				local _0x0SBAYOT, _0x0VWagGago = _0x0sSkilliSSUE[#_0x0sSkilliSSUE], "";
+				for _0x0sNigger = 1, #_0x0SBAYOT, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SBAYOT[_0x0sSkilliSSUE[_0x0sNigger]];
+				end;
+				return _0x0VWagGago;
+			end)({ 2, 1, { "\061\061", "\090\074\055\112\069\099" } }),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SNigaBytes, _0x0VGago = _0x0sNoSkill[#_0x0sNoSkill], "";
+				for _0x0sPaasa = 1, #_0x0SNigaBytes, 1 do
+					_0x0VGago = _0x0VGago .. _0x0SNigaBytes[_0x0sNoSkill[_0x0sPaasa]];
+				end;
+				return _0x0VGago;
+			end)({
+				2,
+				1,
+				3,
+				{ "\085\113", "\104\070\110\067", "\070\061" },
+			}),
+			(function(_0x0sBoo, ...)
+				local _0x0SSINGIT = "";
+				for _0x0sSkilliSSUE = 1, #_0x0sBoo / 2, 1 do
+					_0x0SSINGIT = _0x0SSINGIT .. _0x0sBoo[#_0x0sBoo / 2 + _0x0sBoo[_0x0sSkilliSSUE]];
+				end;
+				return _0x0SSINGIT;
+			end)({
+				2,
+				1,
+				"\056\061\061",
+				"\111\053\080\068\109",
+			}),
+			(function(_0x0sSINGIT, ...)
+				local _0x0SRomans12_19, _0x0VPaasa = _0x0sSINGIT[#_0x0sSINGIT], "";
+				for _0x0sSkilliSSUE = 1, #_0x0SRomans12_19, 1 do
+					_0x0VPaasa = _0x0VPaasa .. _0x0SRomans12_19[_0x0sSINGIT[_0x0sSkilliSSUE]];
+				end;
+				return _0x0VPaasa;
+			end)({
+				2,
+				4,
+				3,
+				1,
+				{
+					"\061",
+					"\085\113\088",
+					"\102\061",
+					"\122\116",
+				},
+			}),
+			(function(_0x0sBakla, ...)
+				local _0x0SDiKanaNiyaMahal = "";
+				for _0x0sIveDoneNothing = 1, #_0x0sBakla / 2, 1 do
+					_0x0SDiKanaNiyaMahal = _0x0SDiKanaNiyaMahal .. _0x0sBakla[#_0x0sBakla / 2 + _0x0sBakla[_0x0sIveDoneNothing]];
+				end;
+				return _0x0SDiKanaNiyaMahal;
+			end)({
+				2,
+				1,
+				"\082\117\102\061\061",
+				"\114\048\074",
+			}),
+			(function(_0x0sKigol, ...)
+				local _0x0STangina, _0x0VSHAyBAO = _0x0sKigol[#_0x0sKigol], "";
+				for _0x0sGay = 1, #_0x0STangina, 1 do
+					_0x0VSHAyBAO = _0x0VSHAyBAO .. _0x0STangina[_0x0sKigol[_0x0sGay]];
+				end;
+				return _0x0VSHAyBAO;
+			end)({
+				7,
+				2,
+				4,
+				3,
+				6,
+				1,
+				8,
+				5,
+				{
+					"\108\088\067\099\078\069\122",
+					"\047\100\098\083\080",
+					"\115\100\081",
+					"\088\108\115\051\076",
+					"\086\043\111\070\061\061",
+					"\110\106\100\081\102\112",
+					"\076\056\043\116\087\112",
+					"\056\099",
+				},
+			}),
+			(function(_0x0sRespect, ...)
+				local _0x0SPaasa = "";
+				for _0x0sPaasa = 1, #_0x0sRespect / 2, 1 do
+					_0x0SPaasa = _0x0SPaasa .. _0x0sRespect[#_0x0sRespect / 2 + _0x0sRespect[_0x0sPaasa]];
+				end;
+				return _0x0SPaasa;
+			end)({
+				1,
+				2,
+				3,
+				"\088\049\112",
+				"\098\113\086\112\117",
+				"\110\047\049\055",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0STangina, _0x0VSHAyBAO = _0x0sNigger[#_0x0sNigger], "";
+				for _0x0sDiKanaNiyaMahal = 1, #_0x0STangina, 1 do
+					_0x0VSHAyBAO = _0x0VSHAyBAO .. _0x0STangina[_0x0sNigger[_0x0sDiKanaNiyaMahal]];
+				end;
+				return _0x0VSHAyBAO;
+			end)({
+				5,
+				6,
+				4,
+				1,
+				3,
+				2,
+				{
+					"\109\103\076",
+					"\113\109\061",
+					"\072\117",
+					"\051\103\076\054",
+					"\097\111",
+					"\073\050\051\111\073\098",
+				},
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SOhab = "";
+				for _0x0sBible = 1, #_0x0sTanginaMoCge / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sTanginaMoCge[#_0x0sTanginaMoCge / 2 + _0x0sTanginaMoCge[_0x0sBible]];
+				end;
+				return _0x0SOhab;
+			end)({
+				2,
+				1,
+				"\121\081\074\054\061",
+				"\047\083\120\054\051\083\081",
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SGay = "";
+				for _0x0sSHAyBAO = 1, #_0x0sTanginaMoCge / 2, 1 do
+					_0x0SGay = _0x0SGay .. _0x0sTanginaMoCge[#_0x0sTanginaMoCge / 2 + _0x0sTanginaMoCge[_0x0sSHAyBAO]];
+				end;
+				return _0x0SGay;
+			end)({
+				1,
+				2,
 				5,
 				4,
 				3,
-				2,
-				1,
-				6,
-				"\108\082\071",
-				"\067\122\098",
-				"\119\066\078\101",
-				"\111\055\122\078\083",
-				"\073\072",
-				"\072\083\110",
+				"\100\048",
+				"\081\077\085\083\080\122",
+				"\073\072\047\103\080\121",
+				"\116\048",
+				"\051\103\051\053",
 			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HSINGIT = "";
-				for _0x0EFallenPartsDestroyHeight = 1, #_0x0ERespect / 2, 1 do
-					_0x0HSINGIT = _0x0HSINGIT .. _0x0ERespect[#_0x0ERespect / 2 + _0x0ERespect[_0x0EFallenPartsDestroyHeight]];
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0STFYouLookingAt = "";
+				for _0x0sBAYOT = 1, #_0x0sIveDoneNothing / 2, 1 do
+					_0x0STFYouLookingAt = _0x0STFYouLookingAt .. _0x0sIveDoneNothing[#_0x0sIveDoneNothing / 2 + _0x0sIveDoneNothing[_0x0sBAYOT]];
 				end;
-				return _0x0HSINGIT;
+				return _0x0STFYouLookingAt;
 			end)({
 				2,
-				6,
+				1,
+				"\099\061\061",
+				"\054\087\050\112\097",
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0STerrorist = "";
+				for _0x0sPaasa = 1, #_0x0sBroStudyingHowMyBrainWorks / 2, 1 do
+					_0x0STerrorist = _0x0STerrorist .. _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks / 2 + _0x0sBroStudyingHowMyBrainWorks[_0x0sPaasa]];
+				end;
+				return _0x0STerrorist;
+			end)({
+				2,
 				3,
+				4,
+				1,
+				"\061\061",
+				"\117\109\104",
+				"\071\120\068",
+				"\105\111\048\056",
+			}),
+			"\073\115\074\065",
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SBILAT = "";
+				for _0x0sBAYOT = 1, #_0x0sBroStudyingHowMyBrainWorks / 2, 1 do
+					_0x0SBILAT = _0x0SBILAT .. _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks / 2 + _0x0sBroStudyingHowMyBrainWorks[_0x0sBAYOT]];
+				end;
+				return _0x0SBILAT;
+			end)({
+				2,
+				1,
+				"\098\053\072\070\061\061",
+				"\076\117",
+			}),
+			(function(_0x0sRespect, ...)
+				local _0x0SSkilliSSUE, _0x0VGay = _0x0sRespect[#_0x0sRespect], "";
+				for _0x0sTangina = 1, #_0x0SSkilliSSUE, 1 do
+					_0x0VGay = _0x0VGay .. _0x0SSkilliSSUE[_0x0sRespect[_0x0sTangina]];
+				end;
+				return _0x0VGay;
+			end)({
+				2,
+				4,
+				3,
+				1,
+				{
+					"\061",
+					"\073\110\112\069\053\055",
+					"\057\102\061",
+					"\068\121",
+				},
+			}),
+			(function(_0x0sNoSkill, ...)
+				local _0x0STFYouLookingAt = "";
+				for _0x0sPleaseImBeggingNooo = 1, #_0x0sNoSkill / 2, 1 do
+					_0x0STFYouLookingAt = _0x0STFYouLookingAt .. _0x0sNoSkill[#_0x0sNoSkill / 2 + _0x0sNoSkill[_0x0sPleaseImBeggingNooo]];
+				end;
+				return _0x0STFYouLookingAt;
+			end)({
+				3,
+				1,
+				2,
+				"\043\047\083\080",
+				"\057\047\113\081\054",
+				"\047\111\073",
+			}),
+			(function(_0x0sTerrorist, ...)
+				local _0x0SDiKanaNiyaMahal = "";
+				for _0x0sBILAT = 1, #_0x0sTerrorist / 2, 1 do
+					_0x0SDiKanaNiyaMahal = _0x0SDiKanaNiyaMahal .. _0x0sTerrorist[#_0x0sTerrorist / 2 + _0x0sTerrorist[_0x0sBILAT]];
+				end;
+				return _0x0SDiKanaNiyaMahal;
+			end)({
+				4,
+				2,
+				3,
+				1,
+				"\061",
+				"\116\048\114\069\080",
+				"\116\083\119\075\112\086",
+				"\087\113\101\105",
+			}),
+			(function(_0x0sRespect, ...)
+				local _0x0SSkidDetected, _0x0VTerrorist = _0x0sRespect[#_0x0sRespect], "";
+				for _0x0sDiKanaNiyaMahal = 1, #_0x0SSkidDetected, 1 do
+					_0x0VTerrorist = _0x0VTerrorist .. _0x0SSkidDetected[_0x0sRespect[_0x0sDiKanaNiyaMahal]];
+				end;
+				return _0x0VTerrorist;
+			end)({ 2, 1, { "\086", "\120\102\101\071\106\078\080" } }),
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SMamaMoBlue = "";
+				for _0x0sTangina = 1, #_0x0sNigaBytes / 2, 1 do
+					_0x0SMamaMoBlue = _0x0SMamaMoBlue .. _0x0sNigaBytes[#_0x0sNigaBytes / 2 + _0x0sNigaBytes[_0x0sTangina]];
+				end;
+				return _0x0SMamaMoBlue;
+			end)({
+				4,
+				3,
+				5,
+				2,
+				1,
+				"\112\116\113\071\061",
+				"\121\109\069\090",
+				"\116\113\080",
+				"\085\103\076\086",
+				"\052\051\068\081",
+			}),
+			"\070\089\054\112",
+			(function(_0x0sLove, ...)
+				local _0x0SNigger, _0x0VRomans12_19 = _0x0sLove[#_0x0sLove], "";
+				for _0x0sTFYouLookingAt = 1, #_0x0SNigger, 1 do
+					_0x0VRomans12_19 = _0x0VRomans12_19  .. _0x0SNigger[_0x0sLove[_0x0sTFYouLookingAt]];
+				end;
+				return _0x0VRomans12_19;
+			end)({
+				2,
+				3,
+				1,
+				{ "\073\097", "\101\065\074\112\107", "\107\104\051\084\118" },
+			}),
+			(function(_0x0sGay, ...)
+				local _0x0SGago = "";
+				for _0x0sSkidDetected = 1, #_0x0sGay / 2, 1 do
+					_0x0SGago = _0x0SGago .. _0x0sGay[#_0x0sGay / 2 + _0x0sGay[_0x0sSkidDetected]];
+				end;
+				return _0x0SGago;
+			end)({
+				4,
+				3,
+				2,
+				5,
+				1,
+				"\061\061",
+				"\114\099\073\070\073\055",
+				"\102\089",
+				"\100\068\103\055\082\118\087",
+				"\066\120\116\089\099\051\099",
+			}),
+			(function(_0x0sOhab, ...)
+				local _0x0SGay = "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0sOhab / 2, 1 do
+					_0x0SGay = _0x0SGay .. _0x0sOhab[#_0x0sOhab / 2 + _0x0sOhab[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0SGay;
+			end)({
+				2,
+				1,
+				"\120\085\070\061\061",
+				"\047\079\090\072\100\083\085",
+			}),
+			(function(_0x0sGay, ...)
+				local _0x0STUBOL, _0x0VTanginaMoCge = _0x0sGay[#_0x0sGay], "";
+				for _0x0sNigger = 1, #_0x0STUBOL, 1 do
+					_0x0VTanginaMoCge = _0x0VTanginaMoCge .. _0x0STUBOL[_0x0sGay[_0x0sNigger]];
+				end;
+				return _0x0VTanginaMoCge;
+			end)({
+				2,
+				1,
+				3,
+				{ "\056\066\103\111", "\050\065\088\053", "\050\070\061\061" },
+			}),
+			"\087\103\056\061",
+			(function(_0x0sBAYOT, ...)
+				local _0x0SBakla = "";
+				for _0x0sPleaseImBeggingNooo = 1, #_0x0sBAYOT / 2, 1 do
+					_0x0SBakla = _0x0SBakla .. _0x0sBAYOT[#_0x0sBAYOT / 2 + _0x0sBAYOT[_0x0sPleaseImBeggingNooo]];
+				end;
+				return _0x0SBakla;
+			end)({
+				1,
+				3,
+				2,
+				"\116\047\073\100",
+				"\056\061\061",
+				"\107\121\080\055\055",
+			}),
+			(function(_0x0sBAYOT, ...)
+				local _0x0SPaasa = "";
+				for _0x0sTUBOL = 1, #_0x0sBAYOT / 2, 1 do
+					_0x0SPaasa = _0x0SPaasa .. _0x0sBAYOT[#_0x0sBAYOT / 2 + _0x0sBAYOT[_0x0sTUBOL]];
+				end;
+				return _0x0SPaasa;
+			end)({
+				1,
+				2,
+				"\117\100\068\102\053\113\088",
+				"\111\099\056\061\061",
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SSINGIT, _0x0VOhab = _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks], "";
+				for _0x0sMeow = 1, #_0x0SSINGIT, 1 do
+					_0x0VOhab = _0x0VOhab .. _0x0SSINGIT[_0x0sBroStudyingHowMyBrainWorks[_0x0sMeow]];
+				end;
+				return _0x0VOhab;
+			end)({ 1, 2, { "\109\105\078\104\107", "\098\097\054" } }),
+			"\086\088\066\071",
+			(function(_0x0sPutangInaSabiNangWag, ...)
+				local _0x0SKigol = "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0sPutangInaSabiNangWag / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sPutangInaSabiNangWag[#_0x0sPutangInaSabiNangWag / 2 + _0x0sPutangInaSabiNangWag[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0SKigol;
+			end)({
+				1,
+				2,
+				"\075\099",
+				"\061\061",
+			}),
+			(function(_0x0sUrMom, ...)
+				local _0x0SGago = "";
+				for _0x0sBILAT = 1, #_0x0sUrMom / 2, 1 do
+					_0x0SGago = _0x0SGago .. _0x0sUrMom[#_0x0sUrMom / 2 + _0x0sUrMom[_0x0sBILAT]];
+				end;
+				return _0x0SGago;
+			end)({
+				1,
+				2,
+				"\100\069",
+				"\120\121",
+			}),
+			(function(_0x0sDiKanaNiyaMahal, ...)
+				local _0x0SKigol = "";
+				for _0x0sBILAT = 1, #_0x0sDiKanaNiyaMahal / 2, 1 do
+					_0x0SKigol = _0x0SKigol .. _0x0sDiKanaNiyaMahal[#_0x0sDiKanaNiyaMahal / 2 + _0x0sDiKanaNiyaMahal[_0x0sBILAT]];
+				end;
+				return _0x0SKigol;
+			end)({
+				1,
+				2,
+				"\068\074\112\113",
+				"\057\099\061\061",
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SBILAT, _0x0VRomans12_19 = _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks], "";
+				for _0x0sBILAT = 1, #_0x0SBILAT, 1 do
+					_0x0VRomans12_19 = _0x0VRomans12_19  .. _0x0SBILAT[_0x0sBroStudyingHowMyBrainWorks[_0x0sBILAT]];
+				end;
+				return _0x0VRomans12_19;
+			end)({
+				3,
+				2,
+				1,
+				{ "\110\061", "\066\057\116\069", "\051\048" },
+			}),
+			(function(_0x0sPutangInaSabiNangWag, ...)
+				local _0x0SDick = "";
+				for _0x0sBILAT = 1, #_0x0sPutangInaSabiNangWag / 2, 1 do
+					_0x0SDick = _0x0SDick .. _0x0sPutangInaSabiNangWag[#_0x0sPutangInaSabiNangWag / 2 + _0x0sPutangInaSabiNangWag[_0x0sBILAT]];
+				end;
+				return _0x0SDick;
+			end)({
+				2,
+				1,
+				"\103\076\068",
+				"\100\069\090\122\047",
+			}),
+			(function(_0x0sWagGago, ...)
+				local _0x0SDick = "";
+				for _0x0sBoo = 1, #_0x0sWagGago / 2, 1 do
+					_0x0SDick = _0x0SDick .. _0x0sWagGago[#_0x0sWagGago / 2 + _0x0sWagGago[_0x0sBoo]];
+				end;
+				return _0x0SDick;
+			end)({
+				1,
+				5,
+				3,
+				4,
+				2,
+				6,
+				"\047\111\073",
+				"\082\120\051\070\061",
+				"\085\083\120\057",
+				"\116\048\104\057\116\113",
+				"\048\085\103\076\098",
+				"\061",
+			}),
+			(function(_0x0sGay, ...)
+				local _0x0SDick = "";
+				for _0x0sBakla = 1, #_0x0sGay / 2, 1 do
+					_0x0SDick = _0x0SDick .. _0x0sGay[#_0x0sGay / 2 + _0x0sGay[_0x0sBakla]];
+				end;
+				return _0x0SDick;
+			end)({
+				4,
+				3,
+				2,
+				1,
+				"\071",
+				"\056\120\122\053",
+				"\085\075\103\075\055",
+				"\087\118",
+			}),
+			(function(_0x0sFallenPartsDestroyHeight, ...)
+				local _0x0SNigger = "";
+				for _0x0sPutangInaSabiNangWag = 1, #_0x0sFallenPartsDestroyHeight / 2, 1 do
+					_0x0SNigger = _0x0SNigger .. _0x0sFallenPartsDestroyHeight[#_0x0sFallenPartsDestroyHeight / 2 + _0x0sFallenPartsDestroyHeight[_0x0sPutangInaSabiNangWag]];
+				end;
+				return _0x0SNigger;
+			end)({
+				4,
+				2,
+				1,
+				3,
+				"\048\073\072\047",
+				"\080\052\111\113\051\053\116",
+				"\103\080\121",
+				"\085\103\076\086\116\113",
+			}),
+			(function(_0x0sBAYOT, ...)
+				local _0x0SDiKanaNiyaMahal, _0x0VDick = _0x0sBAYOT[#_0x0sBAYOT], "";
+				for _0x0sSHAyBAO = 1, #_0x0SDiKanaNiyaMahal, 1 do
+					_0x0VDick = _0x0VDick .. _0x0SDiKanaNiyaMahal[_0x0sBAYOT[_0x0sSHAyBAO]];
+				end;
+				return _0x0VDick;
+			end)({
+				1,
+				3,
+				2,
+				4,
+				{
+					"\048\066\057\117\114\077\115",
+					"\056\061",
+					"\050\089",
+					"\061",
+				},
+			}),
+			"\104\056\061\061",
+			(function(_0x0sBible, ...)
+				local _0x0SWagGago, _0x0VTerrorist = _0x0sBible[#_0x0sBible], "";
+				for _0x0sNoSkill = 1, #_0x0SWagGago, 1 do
+					_0x0VTerrorist = _0x0VTerrorist .. _0x0SWagGago[_0x0sBible[_0x0sNoSkill]];
+				end;
+				return _0x0VTerrorist;
+			end)({
+				2,
+				3,
+				1,
+				{ "\085\056\061\061", "\082\109\101\112\083\084", "\113\090\085\119\052\069" },
+			}),
+			"\082\088\102\122",
+			(function(_0x0sLove, ...)
+				local _0x0SUrMom = "";
+				for _0x0sNigger = 1, #_0x0sLove / 2, 1 do
+					_0x0SUrMom = _0x0SUrMom .. _0x0sLove[#_0x0sLove / 2 + _0x0sLove[_0x0sNigger]];
+				end;
+				return _0x0SUrMom;
+			end)({
+				1,
+				3,
+				2,
+				"\087\083\118\108",
+				"\061",
+				"\085\102\061",
+			}),
+			(function(_0x0sBILAT, ...)
+				local _0x0SMeow = "";
+				for _0x0sRespect = 1, #_0x0sBILAT / 2, 1 do
+					_0x0SMeow = _0x0SMeow .. _0x0sBILAT[#_0x0sBILAT / 2 + _0x0sBILAT[_0x0sRespect]];
+				end;
+				return _0x0SMeow;
+			end)({
+				3,
+				1,
+				2,
+				"\079\104\076\082\043\099",
+				"\061\061",
+				"\098\116\087\106",
+			}),
+			(function(_0x0sBakla, ...)
+				local _0x0SSkilliSSUE, _0x0VSkilliSSUE = _0x0sBakla[#_0x0sBakla], "";
+				for _0x0sNigaBytes = 1, #_0x0SSkilliSSUE, 1 do
+					_0x0VSkilliSSUE = _0x0VSkilliSSUE .. _0x0SSkilliSSUE[_0x0sBakla[_0x0sNigaBytes]];
+				end;
+				return _0x0VSkilliSSUE;
+			end)({
+				5,
+				3,
+				2,
+				1,
+				4,
+				{
+					"\068\103",
+					"\086\052\107",
+					"\090\113\083\069\106\087",
+					"\069",
+					"\047\083\089\051",
+				},
+			}),
+			(function(_0x0sSkilliSSUE, ...)
+				local _0x0STFYouLookingAt, _0x0VBAYOT = _0x0sSkilliSSUE[#_0x0sSkilliSSUE], "";
+				for _0x0sBrainDamage = 1, #_0x0STFYouLookingAt, 1 do
+					_0x0VBAYOT = _0x0VBAYOT .. _0x0STFYouLookingAt[_0x0sSkilliSSUE[_0x0sBrainDamage]];
+				end;
+				return _0x0VBAYOT;
+			end)({
+				3,
+				2,
+				1,
+				{ "\072\047\103\080\121", "\047\113\051\053\116\048\073", "\047\083\080\057" },
+			}),
+			(function(_0x0sBAYOT, ...)
+				local _0x0SRespect = "";
+				for _0x0sSHAyBAO = 1, #_0x0sBAYOT / 2, 1 do
+					_0x0SRespect = _0x0SRespect .. _0x0sBAYOT[#_0x0sBAYOT / 2 + _0x0sBAYOT[_0x0sSHAyBAO]];
+				end;
+				return _0x0SRespect;
+			end)({
+				1,
+				2,
+				"\111\053\080\119\051\103",
+				"\071\061",
+			}),
+			(function(_0x0sSkidDetected, ...)
+				local _0x0SLove, _0x0VBroStudyingHowMyBrainWorks = _0x0sSkidDetected[#_0x0sSkidDetected], "";
+				for _0x0sPutangInaSabiNangWag = 1, #_0x0SLove, 1 do
+					_0x0VBroStudyingHowMyBrainWorks = _0x0VBroStudyingHowMyBrainWorks .. _0x0SLove[_0x0sSkidDetected[_0x0sPutangInaSabiNangWag]];
+				end;
+				return _0x0VBroStudyingHowMyBrainWorks;
+			end)({
+				2,
+				1,
+				4,
+				5,
+				3,
+				{
+					"\104\051",
+					"\116\083\080",
+					"\061",
+					"\079\073\072\100",
+					"\048\120\121\051\056\061",
+				},
+			}),
+			(function(_0x0sTangina, ...)
+				local _0x0SPleaseImBeggingNooo = "";
+				for _0x0sSINGIT = 1, #_0x0sTangina / 2, 1 do
+					_0x0SPleaseImBeggingNooo = _0x0SPleaseImBeggingNooo .. _0x0sTangina[#_0x0sTangina / 2 + _0x0sTangina[_0x0sSINGIT]];
+				end;
+				return _0x0SPleaseImBeggingNooo;
+			end)({
+				3,
+				2,
+				1,
+				"\061\061",
+				"\110\054\074\050\085\054\102",
+				"\116\105\054\055\049\066\073",
+			}),
+			(function(_0x0sRomans12_19, ...)
+				local _0x0SRespect, _0x0VWagGago = _0x0sRomans12_19[#_0x0sRomans12_19], "";
+				for _0x0SBrainDamage = 1, #_0x0SRespect, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SRespect[_0x0sRomans12_19[_0x0SBrainDamage]];
+				end;
+				return _0x0VWagGago;
+			end)({
+				1,
+				2,
+				3,
+				4,
+				{
+					"\090\050\066\105\097\054\080",
+					"\114\090\105\074\066",
+					"\047\069",
+					"\049\117",
+				},
+			}),
+			"\084\078\100\061",
+			(function(_0x0sBrainDamage, ...)
+				local _0x0SBrainDamage, _0x0VIveDoneNothing = _0x0sBrainDamage[#_0x0sBrainDamage], "";
+				for _0x0sGago = 1, #_0x0SBrainDamage, 1 do
+					_0x0VIveDoneNothing = _0x0VIveDoneNothing .. _0x0SBrainDamage[_0x0sBrainDamage[_0x0sGago]];
+				end;
+				return _0x0VIveDoneNothing;
+			end)({
+				3,
+				2,
+				4,
+				1,
+				{
+					"\100",
+					"\065\122\098\050\069\079\101",
+					"\085\103",
+					"\107\073\078\087\054\078",
+				},
+			}),
+			(function(_0x0sUrMom, ...)
+				local _0x0SNigaBytes, _0x0VSHAyBAO = _0x0sUrMom[#_0x0sUrMom], "";
+				for _0x0sOhab = 1, #_0x0SNigaBytes, 1 do
+					_0x0VSHAyBAO = _0x0VSHAyBAO .. _0x0SNigaBytes[_0x0sUrMom[_0x0sOhab]];
+				end;
+				return _0x0VSHAyBAO;
+			end)({
+				5,
+				3,
+				2,
+				4,
+				1,
+				{
+					"\083\074\061",
+					"\104\099\077",
+					"\076\100\068\073",
+					"\100\056\099\072\050\076\116",
+					"\100\098\075",
+				},
+			}),
+			(function(_0x0sSkidDetected, ...)
+				local _0x0SBAYOT, _0x0VBoo = _0x0sSkidDetected[#_0x0sSkidDetected], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SBAYOT, 1 do
+					_0x0VBoo = _0x0VBoo .. _0x0SBAYOT[_0x0sSkidDetected[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VBoo;
+			end)({
+				4,
+				1,
+				2,
+				3,
+				{
+					"\074\065\121\105\122\069",
+					"\049\051",
+					"\113",
+					"\050\103\121",
+				},
+			}),
+			(function(_0x0sBoo, ...)
+				local _0x0SBILAT, _0x0VMeow = _0x0sBoo[#_0x0sBoo], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SBILAT, 1 do
+					_0x0VMeow = _0x0VMeow .. _0x0SBILAT[_0x0sBoo[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VMeow;
+			end)({
+				2,
+				1,
+				3,
+				{ "\066\112\100\083\075\057\109", "\100\113\081\072\109\113", "\111\075\054" },
+			}),
+			(function(_0x0sUrMom, ...)
+				local _0x0SUrMom, _0x0VPleaseImBeggingNooo = _0x0sUrMom[#_0x0sUrMom], "";
+				for _0x0SRomans12_19 = 1, #_0x0SUrMom, 1 do
+					_0x0VPleaseImBeggingNooo = _0x0VPleaseImBeggingNooo .. _0x0SUrMom[_0x0sUrMom[_0x0SRomans12_19]];
+				end;
+				return _0x0VPleaseImBeggingNooo;
+			end)({ 2, 1, { "\112", "\051\113\081\072\047\079\081" } }),
+			(function(_0x0sGay, ...)
+				local _0x0SPaasa = "";
+				for _0x0sSkidDetected = 1, #_0x0sGay / 2, 1 do
+					_0x0SPaasa = _0x0SPaasa .. _0x0sGay[#_0x0sGay / 2 + _0x0sGay[_0x0sSkidDetected]];
+				end;
+				return _0x0SPaasa;
+			end)({
+				1,
+				2,
+				"\077\047\089\082\071",
+				"\099\061\061",
+			}),
+			(function(_0x0sBrainDamage, ...)
+				local _0x0SFallenPartsDestroyHeight, _0x0VRomans12_19 = _0x0sBrainDamage[#_0x0sBrainDamage], "";
+				for _0x0sBILAT = 1, #_0x0SFallenPartsDestroyHeight, 1 do
+					_0x0VRomans12_19 = _0x0VRomans12_19  .. _0x0SFallenPartsDestroyHeight[_0x0sBrainDamage[_0x0sBILAT]];
+				end;
+				return _0x0VRomans12_19;
+			end)({ 2, 1, { "\090\087\079", "\110\088\056\114\049" } }),
+			(function(_0x0sPlsNo, ...)
+				local _0x0SBoo, _0x0VGay = _0x0sPlsNo[#_0x0sPlsNo], "";
+				for _0x0sMeow = 1, #_0x0SBoo, 1 do
+					_0x0VGay = _0x0VGay .. _0x0SBoo[_0x0sPlsNo[_0x0sMeow]];
+				end;
+				return _0x0VGay;
+			end)({ 2, 1, { "\106\101\049\072\061", "\110\100\101\057\072\113\047" } }),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SUrMom, _0x0VPleaseImBeggingNooo = _0x0sMamaMoBlue[#_0x0sMamaMoBlue], "";
+				for _0x0sTanginaMoCge = 1, #_0x0SUrMom, 1 do
+					_0x0VPleaseImBeggingNooo = _0x0VPleaseImBeggingNooo .. _0x0SUrMom[_0x0sMamaMoBlue[_0x0sTanginaMoCge]];
+				end;
+				return _0x0VPleaseImBeggingNooo;
+			end)({ 1, 2, { "\043\084\047\052\111", "\075\100\097" } }),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SBILAT, _0x0VBoo = _0x0sMamaMoBlue[#_0x0sMamaMoBlue], "";
+				for _0x0sSINGIT = 1, #_0x0SBILAT, 1 do
+					_0x0VBoo = _0x0VBoo .. _0x0SBILAT[_0x0sMamaMoBlue[_0x0sSINGIT]];
+				end;
+				return _0x0VBoo;
+			end)({
+				3,
+				2,
+				1,
+				{ "\070\061\061", "\108\121\051\100\050\069\117", "\070\117" },
+			}),
+			(function(_0x0sSkidDetected, ...)
+				local _0x0SBrainDamage = "";
+				for _0x0sRomans12_19 = 1, #_0x0sSkidDetected / 2, 1 do
+					_0x0SBrainDamage = _0x0SBrainDamage .. _0x0sSkidDetected[#_0x0sSkidDetected / 2 + _0x0sSkidDetected[_0x0sRomans12_19]];
+				end;
+				return _0x0SBrainDamage;
+			end)({
+				2,
+				1,
+				"\051\082",
+				"\108\102",
+			}),
+			(function(_0x0sBible, ...)
+				local _0x0SSHAyBAO = "";
+				for _0x0sNigaBytes = 1, #_0x0sBible / 2, 1 do
+					_0x0SSHAyBAO = _0x0SSHAyBAO .. _0x0sBible[#_0x0sBible / 2 + _0x0sBible[_0x0sNigaBytes]];
+				end;
+				return _0x0SSHAyBAO;
+			end)({
+				2,
+				4,
+				3,
+				9,
+				6,
+				8,
+				10,
 				1,
 				5,
 				7,
-				4,
-				"\108\105",
-				"\047\078\057\082\066",
-				"\084\051",
-				"\061\061",
-				"\071\066\052\054",
-				"\056\113\054",
-				"\122\078\120\065\101\076",
+				"\112\117\048\088\121\051",
+				"\111\053",
+				"\105\049\057\111",
+				"\065\056\087",
+				"\053\085\104\051\056\061",
+				"\085\111\090\104\116\048",
+				"\061",
+				"\085\075\116\048",
+				"\069\049\052\051\074\088\099",
+				"\088\117\109\103\075",
 			}),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HNoSkill = "";
-				for _0x0EBAYOT = 1, #_0x0EPutangInaSabiNangWag / 2, 1 do
-					_0x0HNoSkill = _0x0HNoSkill .. _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag / 2 + _0x0EPutangInaSabiNangWag[_0x0EBAYOT]];
+			(function(_0x0sOhab, ...)
+				local _0x0STFYouLookingAt, _0x0VRomans12_19 = _0x0sOhab[#_0x0sOhab], "";
+				for _0x0sBakla = 1, #_0x0STFYouLookingAt, 1 do
+					_0x0VRomans12_19 = _0x0VRomans12_19  .. _0x0STFYouLookingAt[_0x0sOhab[_0x0sBakla]];
 				end;
-				return _0x0HNoSkill;
+				return _0x0VRomans12_19;
 			end)({
-				3,
 				1,
+				5,
 				2,
 				4,
-				"\051\109\113\048",
-				"\053\116\048\056\081\121\048",
-				"\117\119\070\087\119\109",
-				"\053\082\061",
+				3,
+				{
+					"\088\069\053\103",
+					"\086\119\105",
+					"\061\061",
+					"\065\056\102\078\082\056",
+					"\066\088\107\057\052",
+				},
 			}),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HBoo = "";
-				for _0x0EDiKanaNiyaMahal = 1, #_0x0ETUBOL / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0ETUBOL[#_0x0ETUBOL / 2 + _0x0ETUBOL[_0x0EDiKanaNiyaMahal]];
+			(function(_0x0sMeow, ...)
+				local _0x0SBroStudyingHowMyBrainWorks, _0x0VTerrorist = _0x0sMeow[#_0x0sMeow], "";
+				for _0x0SPaasa = 1, #_0x0SBroStudyingHowMyBrainWorks, 1 do
+					_0x0VTerrorist = _0x0VTerrorist .. _0x0SBroStudyingHowMyBrainWorks[_0x0sMeow[_0x0SPaasa]];
 				end;
-				return _0x0HBoo;
+				return _0x0VTerrorist;
 			end)({
+				4,
+				2,
+				5,
 				3,
 				1,
-				2,
-				"\065\122\067\120\113\050\067",
-				"\053\101\081\082\075\061",
-				"\073\082\112\054\047\066\112",
+				6,
+				{
+					"\086\071\099",
+					"\081\087",
+					"\114\110",
+					"\107\085\088\119\107",
+					"\056\068",
+					"\118\115",
+				},
 			}),
-			(function(_0x0EIveDoneNothing, ...)
-				local _0x0HGago = "";
-				for _0x0EWagGago = 1, #_0x0EIveDoneNothing / 2, 1 do
-					_0x0HGago = _0x0HGago .. _0x0EIveDoneNothing[#_0x0EIveDoneNothing / 2 + _0x0EIveDoneNothing[_0x0EWagGago]];
+			(function(_0x0sBAYOT, ...)
+				local _0x0SMamaMoBlue = "";
+				for _0x0sTFYouLookingAt = 1, #_0x0sBAYOT / 2, 1 do
+					_0x0SMamaMoBlue = _0x0SMamaMoBlue .. _0x0sBAYOT[#_0x0sBAYOT / 2 + _0x0sBAYOT[_0x0sTFYouLookingAt]];
 				end;
-				return _0x0HGago;
+				return _0x0SMamaMoBlue;
 			end)({
+				1,
+				2,
+				"\051\113\081\072\051\048",
+				"\081\121\085\102\061\061",
+			}),
+			(function(_0x0sSINGIT, ...)
+				local _0x0STangina = "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0sSINGIT / 2, 1 do
+					_0x0STangina = _0x0STangina .. _0x0sSINGIT[#_0x0sSINGIT / 2 + _0x0sSINGIT[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0STangina;
+			end)({
+				2,
 				1,
 				3,
 				4,
 				5,
-				2,
-				"\047\078\057\082\047",
-				"\102",
-				"\098\113",
-				"\075\050\078\121\107\047\051",
-				"\113\117\050\066\113",
-			}),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HLove = "";
-				for _0x0EPlsNo = 1, #_0x0EPutangInaSabiNangWag / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag / 2 + _0x0EPutangInaSabiNangWag[_0x0EPlsNo]];
-				end;
-				return _0x0HLove;
-			end)({
-				2,
-				1,
-				"\100\113\103\112",
-				"\108\120\097\083",
-			}),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HNigger = "";
-				for _0x0ENigger = 1, #_0x0ENoSkill / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0ENoSkill[#_0x0ENoSkill / 2 + _0x0ENoSkill[_0x0ENigger]];
-				end;
-				return _0x0HNigger;
-			end)({
-				2,
-				1,
-				"\082\061",
-				"\088\053",
-			}),
-			(function(_0x0EBakla, ...)
-				local _0x0HTanginaMoCge = "";
-				for _0x0ETUBOL = 1, #_0x0EBakla / 2, 1 do
-					_0x0HTanginaMoCge = _0x0HTanginaMoCge .. _0x0EBakla[#_0x0EBakla / 2 + _0x0EBakla[_0x0ETUBOL]];
-				end;
-				return _0x0HTanginaMoCge;
-			end)({
-				2,
-				1,
-				3,
-				"\110\089\056",
-				"\083\072\104\111",
-				"\107",
-			}),
-			(function(_0x0ENigaBytes, ...)
-				local _0x0HBrainDamage = "";
-				for _0x0EMeow = 1, #_0x0ENigaBytes / 2, 1 do
-					_0x0HBrainDamage = _0x0HBrainDamage .. _0x0ENigaBytes[#_0x0ENigaBytes / 2 + _0x0ENigaBytes[_0x0EMeow]];
-				end;
-				return _0x0HBrainDamage;
-			end)({
-				1,
-				2,
-				"\050\047\115",
-				"\075\082\047\049\087",
+				"\051\118\087\111",
+				"\109\072\075\113\117\048",
+				"\120\073\055\103",
+				"\073\073\099\099",
+				"\061\061",
 			}),
 			"",
-			(function(_0x0EFallenPartsDestroyHeight, ...)
-				local _0x0HDick, _0x0bGay = _0x0EFallenPartsDestroyHeight[#_0x0EFallenPartsDestroyHeight], "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0HDick, 1 do
-					_0x0bGay = _0x0bGay .. _0x0HDick[_0x0EFallenPartsDestroyHeight[_0x0EBroStudyingHowMyBrainWorks]];
+			(function(_0x0sMeow, ...)
+				local _0x0SGay = "";
+				for _0x0sTerrorist = 1, #_0x0sMeow / 2, 1 do
+					_0x0SGay = _0x0SGay .. _0x0sMeow[#_0x0sMeow / 2 + _0x0sMeow[_0x0sTerrorist]];
 				end;
-				return _0x0bGay;
-			end)({ 1, 2, { "\047\109\113\107", "\122\089\081\061" } }),
-			(function(_0x0EGay, ...)
-				local _0x0HNigaBytes, _0x0bPlsNo = _0x0EGay[#_0x0EGay], "";
-				for _0x0EKigol = 1, #_0x0HNigaBytes, 1 do
-					_0x0bPlsNo = _0x0bPlsNo .. _0x0HNigaBytes[_0x0EGay[_0x0EKigol]];
-				end;
-				return _0x0bPlsNo;
-			end)({
-				2,
-				3,
-				1,
-				4,
-				{
-					"\076\061",
-					"\088\043\081",
-					"\052\068\052\104\083\119",
-					"\061",
-				},
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HPlsNo = "";
-				for _0x0EBAYOT = 1, #_0x0ERespect / 2, 1 do
-					_0x0HPlsNo = _0x0HPlsNo .. _0x0ERespect[#_0x0ERespect / 2 + _0x0ERespect[_0x0EBAYOT]];
-				end;
-				return _0x0HPlsNo;
+				return _0x0SGay;
 			end)({
 				2,
 				1,
-				4,
-				3,
-				"\090\054\069\081\055\057",
-				"\120\056\098",
-				"\049\061\061",
-				"\080\072\115\043",
+				"\110\047\107\056\061\061",
+				"\120\081\043\090\121\098",
 			}),
-			(function(_0x0EIveDoneNothing, ...)
-				local _0x0HBILAT = "";
-				for _0x0ENigger = 1, #_0x0EIveDoneNothing / 2, 1 do
-					_0x0HBILAT = _0x0HBILAT .. _0x0EIveDoneNothing[#_0x0EIveDoneNothing / 2 + _0x0EIveDoneNothing[_0x0ENigger]];
+			(function(_0x0sTFYouLookingAt, ...)
+				local _0x0SBoo = "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0sTFYouLookingAt / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sTFYouLookingAt[#_0x0sTFYouLookingAt / 2 + _0x0sTFYouLookingAt[_0x0sBroStudyingHowMyBrainWorks]];
 				end;
-				return _0x0HBILAT;
+				return _0x0SBoo;
+			end)({
+				2,
+				1,
+				"\051\117\121\102\061\061",
+				"\119\119\115\080\085\074",
+			}),
+			(function(_0x0sBible, ...)
+				local _0x0SRespect = "";
+				for _0x0sOhab = 1, #_0x0sBible / 2, 1 do
+					_0x0SRespect = _0x0SRespect .. _0x0sBible[#_0x0sBible / 2 + _0x0sBible[_0x0sOhab]];
+				end;
+				return _0x0SRespect;
 			end)({
 				2,
 				1,
 				3,
-				"\109\057",
-				"\101\078\057\082\071",
-				"\107",
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HDiKanaNiyaMahal = "";
-				for _0x0ENoSkill = 1, #_0x0ERespect / 2, 1 do
-					_0x0HDiKanaNiyaMahal = _0x0HDiKanaNiyaMahal .. _0x0ERespect[#_0x0ERespect / 2 + _0x0ERespect[_0x0ENoSkill]];
-				end;
-				return _0x0HDiKanaNiyaMahal;
-			end)({
-				1,
-				2,
-				"\073\078\120\065\122",
-				"\088\061\061",
-			}),
-			(function(_0x0ESkidDetected, ...)
-				local _0x0HBoo, _0x0bNigger = _0x0ESkidDetected[#_0x0ESkidDetected], "";
-				for _0x0ETanginaMoCge = 1, #_0x0HBoo, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HBoo[_0x0ESkidDetected[_0x0ETanginaMoCge]];
-				end;
-				return _0x0bNigger;
-			end)({
-				3,
-				1,
-				2,
-				{ "\110\057\080\102", "\061", "\071\051\053\102\101\051\057" },
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HMamaMoBlue = "";
-				for _0x0ELove = 1, #_0x0ERespect / 2, 1 do
-					_0x0HMamaMoBlue = _0x0HMamaMoBlue .. _0x0ERespect[#_0x0ERespect / 2 + _0x0ERespect[_0x0ELove]];
-				end;
-				return _0x0HMamaMoBlue;
-			end)({
-				2,
-				1,
-				"\049\061\061",
-				"\066\067\083\089\050",
-			}),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HDiKanaNiyaMahal, _0x0bSkilliSSUE = _0x0ESkilliSSUE[#_0x0ESkilliSSUE], "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0HDiKanaNiyaMahal, 1 do
-					_0x0bSkilliSSUE = _0x0bSkilliSSUE .. _0x0HDiKanaNiyaMahal[_0x0ESkilliSSUE[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0bSkilliSSUE;
-			end)({
-				1,
-				3,
-				2,
-				{ "\050\078\120\086\071", "\061", "\051\080" },
-			}),
-			(function(_0x0EUrMom, ...)
-				local _0x0HUrMom = "";
-				for _0x0ETangina = 1, #_0x0EUrMom / 2, 1 do
-					_0x0HUrMom = _0x0HUrMom .. _0x0EUrMom[#_0x0EUrMom / 2 + _0x0EUrMom[_0x0ETangina]];
-				end;
-				return _0x0HUrMom;
-			end)({
-				2,
-				4,
-				3,
-				1,
-				"\061",
-				"\073\051\083\086",
-				"\043\047\098\081",
-				"\122\051\053\049\050\098\083",
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HKigol, _0x0bBakla = _0x0ERespect[#_0x0ERespect], "";
-				for _0x0ENigger = 1, #_0x0HKigol, 1 do
-					_0x0bBakla = _0x0bBakla .. _0x0HKigol[_0x0ERespect[_0x0ENigger]];
-				end;
-				return _0x0bBakla;
-			end)({
-				15,
-				9,
-				12,
-				2,
-				8,
-				6,
-				5,
-				14,
-				4,
-				10,
-				13,
-				11,
-				3,
-				1,
-				7,
-				{
-					"\055\106\107\120\099\106\054",
-					"\101\110\069\053",
-					"\072\122",
-					"\056\056\067\109\110\106",
-					"\078\102\043\120\070",
-					"\066\050\054\086\119\118\068",
-					"\049\061\061",
-					"\082\109\111\087\079\101\101",
-					"\108\088\090\050\112\114\055",
-					"\080\052\065\078",
-					"\057\089\110",
-					"\114\075\088\076\086\097\085",
-					"\085\089\078\081\112",
-					"\080\066\079\056\100\056\067",
-					"\119\087",
-				},
-			}),
-			(function(_0x0EOhab, ...)
-				local _0x0HSkidDetected = "";
-				for _0x0ENigger = 1, #_0x0EOhab / 2, 1 do
-					_0x0HSkidDetected = _0x0HSkidDetected .. _0x0EOhab[#_0x0EOhab / 2 + _0x0EOhab[_0x0ENigger]];
-				end;
-				return _0x0HSkidDetected;
-			end)({
-				2,
-				1,
-				"\068\113\113\067\100\055",
-				"\065\118",
-			}),
-			"\072\088\061\061",
-			(function(_0x0EWagGago, ...)
-				local _0x0HOhab = "";
-				for _0x0ETanginaMoCge = 1, #_0x0EWagGago / 2, 1 do
-					_0x0HOhab = _0x0HOhab .. _0x0EWagGago[#_0x0EWagGago / 2 + _0x0EWagGago[_0x0ETanginaMoCge]];
-				end;
-				return _0x0HOhab;
-			end)({
-				4,
-				1,
-				2,
-				3,
-				"\120\101\122\089",
-				"\107\089\050\089\113\085",
-				"\073\049\061\061",
-				"\080\056\120\079\072\098",
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HRomans12_19, _0x0bSHAyBAO = _0x0EMamaMoBlue[#_0x0EMamaMoBlue], "";
-				for _0x0ESHAyBAO = 1, #_0x0HRomans12_19, 1 do
-					_0x0bSHAyBAO = _0x0bSHAyBAO .. _0x0HRomans12_19[_0x0EMamaMoBlue[_0x0ESHAyBAO]];
-				end;
-				return _0x0bSHAyBAO;
-			end)({
-				1,
-				4,
-				3,
-				2,
-				{
-					"\077\101\108",
-					"\097\107\081\061\061",
-					"\109\049\119\098\076",
-					"\104\113\102",
-				},
-			}),
-			"\118\081\061\061",
-			"\082\083\088\061",
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HSkidDetected = "";
-				for _0x0EDiKanaNiyaMahal = 1, #_0x0EPutangInaSabiNangWag / 2, 1 do
-					_0x0HSkidDetected = _0x0HSkidDetected .. _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag / 2 + _0x0EPutangInaSabiNangWag[_0x0EDiKanaNiyaMahal]];
-				end;
-				return _0x0HSkidDetected;
-			end)({
-				1,
-				3,
-				2,
-				"\074\070\109\055\090\083\069",
-				"\061\061",
-				"\100\120\081",
-			}),
-			(function(_0x0EBible, ...)
-				local _0x0HSINGIT, _0x0bLove = _0x0EBible[#_0x0EBible], "";
-				for _0x0EDick = 1, #_0x0HSINGIT, 1 do
-					_0x0bLove = _0x0bLove .. _0x0HSINGIT[_0x0EBible[_0x0EDick]];
-				end;
-				return _0x0bLove;
-			end)({ 1, 2, { "\052\078", "\047\061" } }),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HTangina = "";
-				for _0x0ELove = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HTangina = _0x0HTangina .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0ELove]];
-				end;
-				return _0x0HTangina;
-			end)({
-				2,
-				3,
-				1,
-				"\048\081\061\061",
-				"\071\054\114\103",
-				"\079\049\088\107",
-			}),
-			(function(_0x0EBILAT, ...)
-				local _0x0HBILAT, _0x0bDiKanaNiyaMahal = _0x0EBILAT[#_0x0EBILAT], "";
-				for _0x0ETUBOL = 1, #_0x0HBILAT, 1 do
-					_0x0bDiKanaNiyaMahal = _0x0bDiKanaNiyaMahal .. _0x0HBILAT[_0x0EBILAT[_0x0ETUBOL]];
-				end;
-				return _0x0bDiKanaNiyaMahal;
-			end)({
-				2,
-				3,
-				1,
-				{ "\065\071\104\047", "\114\047", "\071\075" },
-			}),
-			(function(_0x0EGago, ...)
-				local _0x0HNigaBytes = "";
-				for _0x0EMeow = 1, #_0x0EGago / 2, 1 do
-					_0x0HNigaBytes = _0x0HNigaBytes .. _0x0EGago[#_0x0EGago / 2 + _0x0EGago[_0x0EMeow]];
-				end;
-				return _0x0HNigaBytes;
-			end)({
-				1,
-				3,
-				5,
-				2,
-				4,
-				"\047\078\057\082\066\056\113",
-				"\049\050\098\083",
-				"\054\084\120\083\086\122",
-				"\043\047\098\081\061",
-				"\051\053",
-			}),
-			(function(_0x0EOhab, ...)
-				local _0x0HRespect, _0x0bGay = _0x0EOhab[#_0x0EOhab], "";
-				for _0x0ENigger = 1, #_0x0HRespect, 1 do
-					_0x0bGay = _0x0bGay .. _0x0HRespect[_0x0EOhab[_0x0ENigger]];
-				end;
-				return _0x0bGay;
-			end)({
-				2,
-				1,
-				3,
-				{ "\101\067\122\098", "\071\051\083\117\071\078", "\116\061" },
-			}),
-			(function(_0x0EBoo, ...)
-				local _0x0HNigaBytes, _0x0bBAYOT = _0x0EBoo[#_0x0EBoo], "";
-				for _0x0EUrMom = 1, #_0x0HNigaBytes, 1 do
-					_0x0bBAYOT = _0x0bBAYOT .. _0x0HNigaBytes[_0x0EBoo[_0x0EUrMom]];
-				end;
-				return _0x0bBAYOT;
-			end)({ 1, 2, { "\079\077\107\073\121\085\053", "\080" } }),
-			"\079\065\067\114",
-			(function(_0x0ENigaBytes, ...)
-				local _0x0HMamaMoBlue = "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0ENigaBytes / 2, 1 do
-					_0x0HMamaMoBlue = _0x0HMamaMoBlue .. _0x0ENigaBytes[#_0x0ENigaBytes / 2 + _0x0ENigaBytes[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0HMamaMoBlue;
-			end)({
-				1,
-				2,
-				"\078\122\052\048\089\078\117",
-				"\102",
-			}),
-			(function(_0x0EGago, ...)
-				local _0x0HFallenPartsDestroyHeight = "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0EGago / 2, 1 do
-					_0x0HFallenPartsDestroyHeight = _0x0HFallenPartsDestroyHeight .. _0x0EGago[#_0x0EGago / 2 + _0x0EGago[_0x0EBroStudyingHowMyBrainWorks]];
-				end;
-				return _0x0HFallenPartsDestroyHeight;
-			end)({
-				2,
-				1,
-				3,
-				"\090\051\113\050\080\084\084",
-				"\076\080\074\074\109\047",
-				"\067\057\051\080\081\061\061",
-			}),
-			(function(_0x0ETFYouLookingAt, ...)
-				local _0x0HGago = "";
-				for _0x0ESkidDetected = 1, #_0x0ETFYouLookingAt / 2, 1 do
-					_0x0HGago = _0x0HGago .. _0x0ETFYouLookingAt[#_0x0ETFYouLookingAt / 2 + _0x0ETFYouLookingAt[_0x0ESkidDetected]];
-				end;
-				return _0x0HGago;
-			end)({
-				3,
-				4,
-				2,
-				1,
-				"\061\061",
-				"\083\047\076",
-				"\099\105\104",
-				"\087\056\072\082",
-			}),
-			(function(_0x0EGago, ...)
-				local _0x0HRespect, _0x0bBAYOT = _0x0EGago[#_0x0EGago], "";
-				for _0x0EMamaMoBlue = 1, #_0x0HRespect, 1 do
-					_0x0bBAYOT = _0x0bBAYOT .. _0x0HRespect[_0x0EGago[_0x0EMamaMoBlue]];
-				end;
-				return _0x0bBAYOT;
-			end)({
-				3,
-				5,
-				8,
-				2,
-				7,
-				4,
-				6,
-				9,
-				1,
-				{
-					"\110",
-					"\048\100\104\052\068\119\104",
-					"\122\106\083\080\121\097",
-					"\116\078\047",
-					"\108\076\089\067\049\049\076",
-					"\052\116\110",
-					"\070\118\066\117",
-					"\099\106\055\082\053\043",
-					"\090\084\070",
-				},
-			}),
-			"\074\113\116\054",
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HBoo = "";
-				for _0x0ELove = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0ELove]];
-				end;
-				return _0x0HBoo;
-			end)({
-				1,
-				2,
-				"\110\076\051\111",
-				"\054\088\061\061",
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HSINGIT = "";
-				for _0x0ESkilliSSUE = 1, #_0x0EMamaMoBlue / 2, 1 do
-					_0x0HSINGIT = _0x0HSINGIT .. _0x0EMamaMoBlue[#_0x0EMamaMoBlue / 2 + _0x0EMamaMoBlue[_0x0ESkilliSSUE]];
-				end;
-				return _0x0HSINGIT;
-			end)({
-				2,
-				1,
-				"\053\086\071\049\061\061",
-				"\118\078",
-			}),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HIveDoneNothing = "";
-				for _0x0EUrMom = 1, #_0x0ENoSkill / 2, 1 do
-					_0x0HIveDoneNothing = _0x0HIveDoneNothing .. _0x0ENoSkill[#_0x0ENoSkill / 2 + _0x0ENoSkill[_0x0EUrMom]];
-				end;
-				return _0x0HIveDoneNothing;
-			end)({
-				6,
-				7,
-				4,
-				1,
-				5,
-				2,
-				3,
-				"\107\050",
-				"\100\118\072\114",
-				"\061",
-				"\051\073\086\116\057",
-				"\071\085\120",
-				"\085\082\079",
-				"\090\084",
-			}),
-			(function(_0x0EBroStudyingHowMyBrainWorks, ...)
-				local _0x0HSkilliSSUE, _0x0bBible = _0x0EBroStudyingHowMyBrainWorks[#_0x0EBroStudyingHowMyBrainWorks], "";
-				for _0x0EBAYOT = 1, #_0x0HSkilliSSUE, 1 do
-					_0x0bBible = _0x0bBible .. _0x0HSkilliSSUE[_0x0EBroStudyingHowMyBrainWorks[_0x0EBAYOT]];
-				end;
-				return _0x0bBible;
-			end)({ 1, 2, { "\077\075", "\114\061" } }),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HBILAT, _0x0bNigger = _0x0ETUBOL[#_0x0ETUBOL], "";
-				for _0x0EPutangInaSabiNangWag = 1, #_0x0HBILAT, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HBILAT[_0x0ETUBOL[_0x0EPutangInaSabiNangWag]];
-				end;
-				return _0x0bNigger;
-			end)({
-				4,
-				3,
-				1,
-				2,
-				{
-					"\112\102\121\072\108\088\061",
-					"\061",
-					"\053\043\108\068\112\108",
-					"\047\068\083\101\116\099",
-				},
-			}),
-			"\053\083\118\070",
-			(function(_0x0EGay, ...)
-				local _0x0HBakla = "";
-				for _0x0EBoo = 1, #_0x0EGay / 2, 1 do
-					_0x0HBakla = _0x0HBakla .. _0x0EGay[#_0x0EGay / 2 + _0x0EGay[_0x0EBoo]];
-				end;
-				return _0x0HBakla;
-			end)({
-				2,
-				1,
-				"\099\117\110\087",
-				"\103\121\110\047",
-			}),
-			(function(_0x0EKigol, ...)
-				local _0x0HSHAyBAO = "";
-				for _0x0EMamaMoBlue = 1, #_0x0EKigol / 2, 1 do
-					_0x0HSHAyBAO = _0x0HSHAyBAO .. _0x0EKigol[#_0x0EKigol / 2 + _0x0EKigol[_0x0EMamaMoBlue]];
-				end;
-				return _0x0HSHAyBAO;
-			end)({
-				3,
-				1,
-				2,
-				"\050\078\121\107\047\051\113",
-				"\117\050\066\113\102",
-				"\047\078\057\082",
-			}),
-			(function(_0x0EWagGago, ...)
-				local _0x0HLove = "";
-				for _0x0EBrainDamage = 1, #_0x0EWagGago / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0EWagGago[#_0x0EWagGago / 2 + _0x0EWagGago[_0x0EBrainDamage]];
-				end;
-				return _0x0HLove;
-			end)({
-				3,
-				4,
-				2,
-				1,
-				"\072\047\057\113\069",
-				"\048\080\057\043",
-				"\047\089\108\072\108",
-				"\109\112",
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HMamaMoBlue, _0x0bSkilliSSUE = _0x0ETangina[#_0x0ETangina], "";
-				for _0x0ELove = 1, #_0x0HMamaMoBlue, 1 do
-					_0x0bSkilliSSUE = _0x0bSkilliSSUE .. _0x0HMamaMoBlue[_0x0ETangina[_0x0ELove]];
-				end;
-				return _0x0bSkilliSSUE;
-			end)({
-				4,
-				2,
-				1,
-				5,
-				3,
-				{
-					"\082\119",
-					"\086\104\054\105",
-					"\105\061",
-					"\122\068\083",
-					"\047\049\048\114\112",
-				},
-			}),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HDiKanaNiyaMahal, _0x0bTanginaMoCge = _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal], "";
-				for _0x0EKigol = 1, #_0x0HDiKanaNiyaMahal, 1 do
-					_0x0bTanginaMoCge = _0x0bTanginaMoCge .. _0x0HDiKanaNiyaMahal[_0x0EDiKanaNiyaMahal[_0x0EKigol]];
-				end;
-				return _0x0bTanginaMoCge;
-			end)({ 1, 2, { "\078\120\067\043\117\103", "\076\057" } }),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HGay, _0x0bKigol = _0x0ESkilliSSUE[#_0x0ESkilliSSUE], "";
-				for _0x0EKigol = 1, #_0x0HGay, 1 do
-					_0x0bKigol = _0x0bKigol .. _0x0HGay[_0x0ESkilliSSUE[_0x0EKigol]];
-				end;
-				return _0x0bKigol;
-			end)({ 2, 1, { "\061", "\077\078\102" } }),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HFallenPartsDestroyHeight, _0x0bBroStudyingHowMyBrainWorks = _0x0ENoSkill[#_0x0ENoSkill], "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0HFallenPartsDestroyHeight, 1 do
-					_0x0bBroStudyingHowMyBrainWorks = _0x0bBroStudyingHowMyBrainWorks .. _0x0HFallenPartsDestroyHeight[_0x0ENoSkill[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0bBroStudyingHowMyBrainWorks;
-			end)({
-				3,
-				2,
-				1,
-				{ "\088\061\061", "\087\120\112", "\090\105\052\051\057\053" },
-			}),
-			(function(_0x0ERomans12_19, ...)
-				local _0x0HSHAyBAO = "";
-				for _0x0ENoSkill = 1, #_0x0ERomans12_19 / 2, 1 do
-					_0x0HSHAyBAO = _0x0HSHAyBAO .. _0x0ERomans12_19[#_0x0ERomans12_19 / 2 + _0x0ERomans12_19[_0x0ENoSkill]];
-				end;
-				return _0x0HSHAyBAO;
-			end)({
-				1,
-				3,
-				2,
-				"\071\109\112",
-				"\076\061\061",
-				"\082\047\051\073\053\073",
-			}),
-			(function(_0x0ETerrorist, ...)
-				local _0x0HNigaBytes = "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0ETerrorist / 2, 1 do
-					_0x0HNigaBytes = _0x0HNigaBytes .. _0x0ETerrorist[#_0x0ETerrorist / 2 + _0x0ETerrorist[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0HNigaBytes;
-			end)({
-				2,
-				1,
-				3,
-				"\065\103\050\072\049",
-				"\068\108\101\049\071",
-				"\061\061",
-			}),
-			(function(_0x0ERomans12_19, ...)
-				local _0x0HNigaBytes, _0x0bBible = _0x0ERomans12_19[#_0x0ERomans12_19], "";
-				for _0x0EBILAT = 1, #_0x0HNigaBytes, 1 do
-					_0x0bBible = _0x0bBible .. _0x0HNigaBytes[_0x0ERomans12_19[_0x0EBILAT]];
-				end;
-				return _0x0bBible;
-			end)({
-				1,
-				2,
-				3,
-				{ "\066\067\083\079\101\066", "\112\043\073\051\120\054\122", "\051\080\061" },
-			}),
-			(function(_0x0EKigol, ...)
-				local _0x0HUrMom = "";
-				for _0x0EGago = 1, #_0x0EKigol / 2, 1 do
-					_0x0HUrMom = _0x0HUrMom .. _0x0EKigol[#_0x0EKigol / 2 + _0x0EKigol[_0x0EGago]];
-				end;
-				return _0x0HUrMom;
-			end)({
-				2,
-				1,
-				"\076\061\061",
-				"\057\105\103\083\106",
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HBoo, _0x0bTFYouLookingAt = _0x0ERespect[#_0x0ERespect], "";
-				for _0x0ENoSkill = 1, #_0x0HBoo, 1 do
-					_0x0bTFYouLookingAt = _0x0bTFYouLookingAt .. _0x0HBoo[_0x0ERespect[_0x0ENoSkill]];
-				end;
-				return _0x0bTFYouLookingAt;
-			end)({
-				1,
-				2,
-				3,
-				{ "\071\066\052\043", "\071\066", "\113\048" },
-			}),
-			(function(_0x0ENigaBytes, ...)
-				local _0x0HLove = "";
-				for _0x0ESHAyBAO = 1, #_0x0ENigaBytes / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0ENigaBytes[#_0x0ENigaBytes / 2 + _0x0ENigaBytes[_0x0ESHAyBAO]];
-				end;
-				return _0x0HLove;
-			end)({
-				1,
-				2,
-				"\050\071\080\053\090",
-				"\081\061\061",
-			}),
-			(function(_0x0EKigol, ...)
-				local _0x0HBrainDamage = "";
-				for _0x0EWagGago = 1, #_0x0EKigol / 2, 1 do
-					_0x0HBrainDamage = _0x0HBrainDamage .. _0x0EKigol[#_0x0EKigol / 2 + _0x0EKigol[_0x0EWagGago]];
-				end;
-				return _0x0HBrainDamage;
-			end)({
-				1,
-				2,
-				"\120\079\116\089\072",
-				"\076\061\061",
-			}),
-			(function(_0x0EPlsNo, ...)
-				local _0x0HBrainDamage = "";
-				for _0x0ERomans12_19 = 1, #_0x0EPlsNo / 2, 1 do
-					_0x0HBrainDamage = _0x0HBrainDamage .. _0x0EPlsNo[#_0x0EPlsNo / 2 + _0x0EPlsNo[_0x0ERomans12_19]];
-				end;
-				return _0x0HBrainDamage;
-			end)({
-				5,
-				4,
-				3,
-				2,
-				1,
-				"\076\061\061",
-				"\122\078\120\065\101",
-				"\071\066\052\054",
-				"\066\078\108\105",
-				"\047\078\057\082",
-			}),
-			(function(_0x0ELove, ...)
-				local _0x0HSINGIT = "";
-				for _0x0EMamaMoBlue = 1, #_0x0ELove / 2, 1 do
-					_0x0HSINGIT = _0x0HSINGIT .. _0x0ELove[#_0x0ELove / 2 + _0x0ELove[_0x0EMamaMoBlue]];
-				end;
-				return _0x0HSINGIT;
-			end)({
-				1,
-				4,
-				2,
-				3,
-				"\047\103\119\047",
-				"\081\115\105\047",
-				"\121\111\105\061",
-				"\115\122\073\115",
-			}),
-			(function(_0x0ETerrorist, ...)
-				local _0x0HMeow, _0x0bTangina = _0x0ETerrorist[#_0x0ETerrorist], "";
-				for _0x0EOhab = 1, #_0x0HMeow, 1 do
-					_0x0bTangina = _0x0bTangina .. _0x0HMeow[_0x0ETerrorist[_0x0EOhab]];
-				end;
-				return _0x0bTangina;
-			end)({ 2, 1, { "\105\088\061\061", "\043\086\112\119" } }),
-			(function(_0x0ESINGIT, ...)
-				local _0x0HBrainDamage = "";
-				for _0x0EBakla = 1, #_0x0ESINGIT / 2, 1 do
-					_0x0HBrainDamage = _0x0HBrainDamage .. _0x0ESINGIT[#_0x0ESINGIT / 2 + _0x0ESINGIT[_0x0EBakla]];
-				end;
-				return _0x0HBrainDamage;
-			end)({
-				2,
-				1,
-				3,
-				"\108\107",
-				"\052\104\112\079\115",
-				"\097",
-			}),
-			"\066\082\047\061",
-			(function(_0x0EPlsNo, ...)
-				local _0x0HTFYouLookingAt = "";
-				for _0x0ERespect = 1, #_0x0EPlsNo / 2, 1 do
-					_0x0HTFYouLookingAt = _0x0HTFYouLookingAt .. _0x0EPlsNo[#_0x0EPlsNo / 2 + _0x0EPlsNo[_0x0ERespect]];
-				end;
-				return _0x0HTFYouLookingAt;
-			end)({
-				8,
-				2,
-				3,
-				6,
-				5,
-				7,
-				1,
-				4,
-				"\101\076\061",
-				"\108\098\073\072\111",
-				"\086\073",
-				"\061",
-				"\117\122\098\043\117",
-				"\051\053",
-				"\122\078\079\053",
-				"\071\066",
-			}),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HWagGago = "";
-				for _0x0ETangina = 1, #_0x0EDiKanaNiyaMahal / 2, 1 do
-					_0x0HWagGago = _0x0HWagGago .. _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal / 2 + _0x0EDiKanaNiyaMahal[_0x0ETangina]];
-				end;
-				return _0x0HWagGago;
-			end)({
-				2,
-				1,
-				"\053\049\101\081\061\061",
-				"\073\109",
-			}),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HSINGIT, _0x0bNigaBytes = _0x0ETUBOL[#_0x0ETUBOL], "";
-				for _0x0ESkilliSSUE = 1, #_0x0HSINGIT, 1 do
-					_0x0bNigaBytes = _0x0bNigaBytes .. _0x0HSINGIT[_0x0ETUBOL[_0x0ESkilliSSUE]];
-				end;
-				return _0x0bNigaBytes;
-			end)({
-				2,
-				3,
-				1,
-				4,
-				{
-					"\066\069\049\070\049\049",
-					"\101\067\110\109\100",
-					"\122\078\104\067\105\104\119",
-					"\061\061",
-				},
-			}),
-			(function(_0x0ELove, ...)
-				local _0x0HUrMom = "";
-				for _0x0EBakla = 1, #_0x0ELove / 2, 1 do
-					_0x0HUrMom = _0x0HUrMom .. _0x0ELove[#_0x0ELove / 2 + _0x0ELove[_0x0EBakla]];
-				end;
-				return _0x0HUrMom;
-			end)({
-				1,
-				2,
-				3,
-				"\085\077\105\053\115",
-				"\098\103",
-				"\049\088\081\061\061",
-			}),
-			(function(_0x0EBoo, ...)
-				local _0x0HNigger, _0x0bSkilliSSUE = _0x0EBoo[#_0x0EBoo], "";
-				for _0x0ESkilliSSUE = 1, #_0x0HNigger, 1 do
-					_0x0bSkilliSSUE = _0x0bSkilliSSUE .. _0x0HNigger[_0x0EBoo[_0x0ESkilliSSUE]];
-				end;
-				return _0x0bSkilliSSUE;
-			end)({
-				4,
-				1,
-				3,
-				2,
-				{
-					"\083\109\076\122\120",
-					"\067",
-					"\070\107\086\084\100\076",
-					"\047\085\108\049",
-				},
-			}),
-			(function(_0x0ETFYouLookingAt, ...)
-				local _0x0HIveDoneNothing, _0x0bPleaseImBeggingNooo = _0x0ETFYouLookingAt[#_0x0ETFYouLookingAt], "";
-				for _0x0ESkidDetected = 1, #_0x0HIveDoneNothing, 1 do
-					_0x0bPleaseImBeggingNooo = _0x0bPleaseImBeggingNooo .. _0x0HIveDoneNothing[_0x0ETFYouLookingAt[_0x0ESkidDetected]];
-				end;
-				return _0x0bPleaseImBeggingNooo;
-			end)({
-				2,
-				1,
-				3,
-				{ "\043\043\047", "\047\078", "\098\057\102" },
-			}),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HRespect, _0x0bTanginaMoCge = _0x0ETUBOL[#_0x0ETUBOL], "";
-				for _0x0EBoo = 1, #_0x0HRespect, 1 do
-					_0x0bTanginaMoCge = _0x0bTanginaMoCge .. _0x0HRespect[_0x0ETUBOL[_0x0EBoo]];
-				end;
-				return _0x0bTanginaMoCge;
-			end)({
-				2,
-				3,
-				4,
-				1,
-				{
-					"\061",
-					"\101\078\057",
-					"\082\101\098",
-					"\057\110\073\088\061",
-				},
-			}),
-			(function(_0x0EBible, ...)
-				local _0x0HBible = "";
-				for _0x0EMeow = 1, #_0x0EBible / 2, 1 do
-					_0x0HBible = _0x0HBible .. _0x0EBible[#_0x0EBible / 2 + _0x0EBible[_0x0EMeow]];
-				end;
-				return _0x0HBible;
-			end)({
-				2,
-				1,
-				"\119\109\088\061\061",
-				"\056\083\115\102\113\113\052",
-			}),
-			(function(_0x0EGay, ...)
-				local _0x0HDick = "";
-				for _0x0EUrMom = 1, #_0x0EGay / 2, 1 do
-					_0x0HDick = _0x0HDick .. _0x0EGay[#_0x0EGay / 2 + _0x0EGay[_0x0EUrMom]];
-				end;
-				return _0x0HDick;
-			end)({
-				2,
-				1,
-				"\061",
-				"\047\050\122\074\075\049\061",
-			}),
-			(function(_0x0EOhab, ...)
-				local _0x0HNoSkill, _0x0bRomans12_19 = _0x0EOhab[#_0x0EOhab], "";
-				for _0x0ELove = 1, #_0x0HNoSkill, 1 do
-					_0x0bRomans12_19 = _0x0bRomans12_19  .. _0x0HNoSkill[_0x0EOhab[_0x0ELove]];
-				end;
-				return _0x0bRomans12_19;
-			end)({
-				2,
-				3,
-				1,
-				4,
-				{
-					"\107\101\051\112\053\122",
-					"\101\078\057\082",
-					"\066\078\043",
-					"\053\083\089\073\072\102\061",
-				},
-			}),
-			(function(_0x0EDick, ...)
-				local _0x0HKigol, _0x0bBakla = _0x0EDick[#_0x0EDick], "";
-				for _0x0EIveDoneNothing = 1, #_0x0HKigol, 1 do
-					_0x0bBakla = _0x0bBakla .. _0x0HKigol[_0x0EDick[_0x0EIveDoneNothing]];
-				end;
-				return _0x0bBakla;
-			end)({
-				1,
-				3,
-				4,
-				2,
-				{
-					"\073\051",
-					"\113\117\050\066\113\102",
-					"\083\104",
-					"\050\078\121\107\047\051",
-				},
-			}),
-			(function(_0x0EBible, ...)
-				local _0x0HNigger, _0x0bTFYouLookingAt = _0x0EBible[#_0x0EBible], "";
-				for _0x0EWagGago = 1, #_0x0HNigger, 1 do
-					_0x0bTFYouLookingAt = _0x0bTFYouLookingAt .. _0x0HNigger[_0x0EBible[_0x0EWagGago]];
-				end;
-				return _0x0bTFYouLookingAt;
-			end)({
-				1,
-				3,
-				2,
-				{ "\100\055", "\076\061\061", "\050\105\090" },
-			}),
-			(function(_0x0EGago, ...)
-				local _0x0HSHAyBAO, _0x0bKigol = _0x0EGago[#_0x0EGago], "";
-				for _0x0ESHAyBAO = 1, #_0x0HSHAyBAO, 1 do
-					_0x0bKigol = _0x0bKigol .. _0x0HSHAyBAO[_0x0EGago[_0x0ESHAyBAO]];
-				end;
-				return _0x0bKigol;
-			end)({ 2, 1, { "\105\103", "\102\065" } }),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HFallenPartsDestroyHeight = "";
-				for _0x0EMeow = 1, #_0x0EDiKanaNiyaMahal / 2, 1 do
-					_0x0HFallenPartsDestroyHeight = _0x0HFallenPartsDestroyHeight .. _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal / 2 + _0x0EDiKanaNiyaMahal[_0x0EMeow]];
-				end;
-				return _0x0HFallenPartsDestroyHeight;
-			end)({
-				1,
-				3,
-				2,
-				"\102\085\084\078",
-				"\061\061",
-				"\073\081",
-			}),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HBible, _0x0bNigger = _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal], "";
-				for _0x0ETUBOL = 1, #_0x0HBible, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HBible[_0x0EDiKanaNiyaMahal[_0x0ETUBOL]];
-				end;
-				return _0x0bNigger;
-			end)({ 1, 2, { "\050\078", "\043\043\047\088\061\061" } }),
-			(function(_0x0ESINGIT, ...)
-				local _0x0HGay, _0x0bNigger = _0x0ESINGIT[#_0x0ESINGIT], "";
-				for _0x0ENigger = 1, #_0x0HGay, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HGay[_0x0ESINGIT[_0x0ENigger]];
-				end;
-				return _0x0bNigger;
-			end)({
-				2,
-				4,
-				3,
-				1,
-				{
-					"\048\081\080\114\081\061\061",
-					"\069\114\083",
-					"\070\072",
-					"\065\118\121\081",
-				},
-			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HPlsNo = "";
-				for _0x0EGago = 1, #_0x0ENigger / 2, 1 do
-					_0x0HPlsNo = _0x0HPlsNo .. _0x0ENigger[#_0x0ENigger / 2 + _0x0ENigger[_0x0EGago]];
-				end;
-				return _0x0HPlsNo;
-			end)({
-				1,
-				2,
-				"\107\070\057\106\051\121\079",
-				"\072",
-			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HSkilliSSUE = "";
-				for _0x0ESHAyBAO = 1, #_0x0ENigger / 2, 1 do
-					_0x0HSkilliSSUE = _0x0HSkilliSSUE .. _0x0ENigger[#_0x0ENigger / 2 + _0x0ENigger[_0x0ESHAyBAO]];
-				end;
-				return _0x0HSkilliSSUE;
-			end)({
-				2,
-				3,
-				1,
-				"\081\049\061",
-				"\070\102\106\049\083\070\055",
-				"\080\082",
-			}),
-			"\111\121\050\061",
-			(function(_0x0EBakla, ...)
-				local _0x0HMeow = "";
-				for _0x0EKigol = 1, #_0x0EBakla / 2, 1 do
-					_0x0HMeow = _0x0HMeow .. _0x0EBakla[#_0x0EBakla / 2 + _0x0EBakla[_0x0EKigol]];
-				end;
-				return _0x0HMeow;
-			end)({
-				4,
-				1,
-				5,
-				2,
-				3,
-				"\049\047",
-				"\082\071\099\113\108\122\098",
-				"\114\061",
-				"\108\066\073",
-				"\099\112\102\085\098\068",
-			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HSHAyBAO, _0x0bTUBOL = _0x0EBAYOT[#_0x0EBAYOT], "";
-				for _0x0EDick = 1, #_0x0HSHAyBAO, 1 do
-					_0x0bTUBOL = _0x0bTUBOL .. _0x0HSHAyBAO[_0x0EBAYOT[_0x0EDick]];
-				end;
-				return _0x0bTUBOL;
-			end)({
-				1,
-				4,
-				5,
-				2,
-				3,
-				{
-					"\073\120",
-					"\116\078",
-					"\081\088\061\061",
-					"\053\099\047\056\053\120",
-					"\122\102\057\098\108\098",
-				},
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HUrMom, _0x0bFallenPartsDestroyHeight = _0x0ERespect[#_0x0ERespect], "";
-				for _0x0EOhab = 1, #_0x0HUrMom, 1 do
-					_0x0bFallenPartsDestroyHeight = _0x0bFallenPartsDestroyHeight .. _0x0HUrMom[_0x0ERespect[_0x0EOhab]];
-				end;
-				return _0x0bFallenPartsDestroyHeight;
-			end)({ 2, 1, { "\068\076\061\061", "\108\105\052\103" } }),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HPaasa = "";
-				for _0x0ESkidDetected = 1, #_0x0EMamaMoBlue / 2, 1 do
-					_0x0HPaasa = _0x0HPaasa .. _0x0EMamaMoBlue[#_0x0EMamaMoBlue / 2 + _0x0EMamaMoBlue[_0x0ESkidDetected]];
-				end;
-				return _0x0HPaasa;
-			end)({
-				3,
-				2,
-				4,
-				5,
-				6,
-				1,
-				"\075\061",
-				"\101\082\103\068\108",
-				"\047\065\050\047\057",
-				"\084\107\120\086\089\098",
-				"\115\053\102\051",
-				"\110\101",
-			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HLove, _0x0bFallenPartsDestroyHeight = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0EWagGago = 1, #_0x0HLove, 1 do
-					_0x0bFallenPartsDestroyHeight = _0x0bFallenPartsDestroyHeight .. _0x0HLove[_0x0ENigger[_0x0EWagGago]];
-				end;
-				return _0x0bFallenPartsDestroyHeight;
-			end)({
-				2,
-				3,
-				1,
-				{ "\089", "\047\056\112\065\071", "\072\111" },
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HBroStudyingHowMyBrainWorks, _0x0bTFYouLookingAt = _0x0ERespect[#_0x0ERespect], "";
-				for _0x0ETFYouLookingAt = 1, #_0x0HBroStudyingHowMyBrainWorks, 1 do
-					_0x0bTFYouLookingAt = _0x0bTFYouLookingAt .. _0x0HBroStudyingHowMyBrainWorks[_0x0ERespect[_0x0ETFYouLookingAt]];
-				end;
-				return _0x0bTFYouLookingAt;
-			end)({
-				2,
-				1,
-				3,
-				{ "\066\112\090\115\049", "\100\112", "\054" },
-			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HKigol, _0x0bMamaMoBlue = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0HKigol, 1 do
-					_0x0bMamaMoBlue = _0x0bMamaMoBlue .. _0x0HKigol[_0x0ENigger[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0bMamaMoBlue;
-			end)({ 2, 1, { "\061", "\102\081\061" } }),
-			(function(_0x0EBroStudyingHowMyBrainWorks, ...)
-				local _0x0HBrainDamage = "";
-				for _0x0EFallenPartsDestroyHeight = 1, #_0x0EBroStudyingHowMyBrainWorks / 2, 1 do
-					_0x0HBrainDamage = _0x0HBrainDamage .. _0x0EBroStudyingHowMyBrainWorks[#_0x0EBroStudyingHowMyBrainWorks / 2 + _0x0EBroStudyingHowMyBrainWorks[_0x0EFallenPartsDestroyHeight]];
-				end;
-				return _0x0HBrainDamage;
-			end)({
-				3,
-				1,
-				2,
-				"\075\121\073\099\052\071\118",
-				"\109\073\090",
-				"\085\102\113\111\101\102",
-			}),
-			(function(_0x0EBible, ...)
-				local _0x0HTangina = "";
-				for _0x0EMamaMoBlue = 1, #_0x0EBible / 2, 1 do
-					_0x0HTangina = _0x0HTangina .. _0x0EBible[#_0x0EBible / 2 + _0x0EBible[_0x0EMamaMoBlue]];
-				end;
-				return _0x0HTangina;
-			end)({
-				1,
-				2,
-				"\054\080\051\110\070\116",
-				"\122\102",
-			}),
-			(function(_0x0EBoo, ...)
-				local _0x0HBroStudyingHowMyBrainWorks = "";
-				for _0x0EGay = 1, #_0x0EBoo / 2, 1 do
-					_0x0HBroStudyingHowMyBrainWorks = _0x0HBroStudyingHowMyBrainWorks .. _0x0EBoo[#_0x0EBoo / 2 + _0x0EBoo[_0x0EGay]];
-				end;
-				return _0x0HBroStudyingHowMyBrainWorks;
-			end)({
-				3,
-				6,
-				2,
-				10,
-				9,
-				4,
-				5,
-				7,
-				11,
-				1,
-				8,
-				"\119\049",
-				"\056\074\043\081",
-				"\105\102\068\077\055\119",
-				"\074\081",
-				"\097\113",
-				"\115\049",
-				"\117\085",
-				"\061\061",
-				"\100\106\097\086\121\119",
-				"\076\103",
-				"\122\081\117\110\107\055",
-			}),
-			(function(_0x0EFallenPartsDestroyHeight, ...)
-				local _0x0HWagGago = "";
-				for _0x0ESkidDetected = 1, #_0x0EFallenPartsDestroyHeight / 2, 1 do
-					_0x0HWagGago = _0x0HWagGago .. _0x0EFallenPartsDestroyHeight[#_0x0EFallenPartsDestroyHeight / 2 + _0x0EFallenPartsDestroyHeight[_0x0ESkidDetected]];
-				end;
-				return _0x0HWagGago;
-			end)({
-				2,
-				1,
-				"\101\072\083\098",
-				"\073\109\053\049",
-			}),
-			"\103\075\049\061",
-			(function(_0x0EBakla, ...)
-				local _0x0HWagGago, _0x0bBAYOT = _0x0EBakla[#_0x0EBakla], "";
-				for _0x0ELove = 1, #_0x0HWagGago, 1 do
-					_0x0bBAYOT = _0x0bBAYOT .. _0x0HWagGago[_0x0EBakla[_0x0ELove]];
-				end;
-				return _0x0bBAYOT;
-			end)({
-				2,
-				1,
-				3,
-				4,
-				{
-					"\104\105\105\083\111",
-					"\076\047\078",
-					"\074\043\114\106\079\107",
-					"\056\116",
-				},
-			}),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HDiKanaNiyaMahal = "";
-				for _0x0EMeow = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HDiKanaNiyaMahal = _0x0HDiKanaNiyaMahal .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0EMeow]];
-				end;
-				return _0x0HDiKanaNiyaMahal;
-			end)({
-				4,
-				3,
-				1,
-				2,
-				"\117\073",
-				"\078\075\061",
-				"\043\067\073\051\112",
-				"\080\078",
-			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HGago, _0x0bRespect = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0ESkilliSSUE = 1, #_0x0HGago, 1 do
-					_0x0bRespect = _0x0bRespect .. _0x0HGago[_0x0ENigger[_0x0ESkilliSSUE]];
-				end;
-				return _0x0bRespect;
-			end)({
-				2,
-				5,
-				3,
-				4,
-				1,
-				{
-					"\061",
-					"\112\080\083\110\101\102",
-					"\068\121\090\085\056",
-					"\052\068\080\098\082",
-					"\067\057\108",
-				},
-			}),
-			(function(_0x0EWagGago, ...)
-				local _0x0HSkilliSSUE, _0x0bNoSkill = _0x0EWagGago[#_0x0EWagGago], "";
-				for _0x0EBakla = 1, #_0x0HSkilliSSUE, 1 do
-					_0x0bNoSkill = _0x0bNoSkill .. _0x0HSkilliSSUE[_0x0EWagGago[_0x0EBakla]];
-				end;
-				return _0x0bNoSkill;
-			end)({
-				3,
-				1,
-				5,
-				6,
-				2,
-				4,
-				{
-					"\108\068\101",
-					"\072\111\082\085\078",
-					"\118\066",
-					"\050\061",
-					"\066\108\086\101\072\111",
-					"\102\050",
-				},
-			}),
-			(function(_0x0EPaasa, ...)
-				local _0x0HNigger = "";
-				for _0x0EBrainDamage = 1, #_0x0EPaasa / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0EPaasa[#_0x0EPaasa / 2 + _0x0EPaasa[_0x0EBrainDamage]];
-				end;
-				return _0x0HNigger;
-			end)({
-				1,
-				2,
-				3,
-				"\079\067\054",
-				"\090\115\076\061",
+				"\118\048\102\061",
+				"\099\068\107\100\047\073\116",
 				"\061",
 			}),
-			(function(_0x0EMeow, ...)
-				local _0x0HNigger = "";
-				for _0x0ENigaBytes = 1, #_0x0EMeow / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0EMeow[#_0x0EMeow / 2 + _0x0EMeow[_0x0ENigaBytes]];
+			(function(_0x0sDick, ...)
+				local _0x0SKigol, _0x0VBoo = _0x0sDick[#_0x0sDick], "";
+				for _0x0sIveDoneNothing = 1, #_0x0SKigol, 1 do
+					_0x0VBoo = _0x0VBoo .. _0x0SKigol[_0x0sDick[_0x0sIveDoneNothing]];
 				end;
-				return _0x0HNigger;
+				return _0x0VBoo;
+			end)({ 1, 2, { "\082\077\054", "\067\098\099\061\061" } }),
+			(function(_0x0sUrMom, ...)
+				local _0x0SDiKanaNiyaMahal = "";
+				for _0x0sNoSkill = 1, #_0x0sUrMom / 2, 1 do
+					_0x0SDiKanaNiyaMahal = _0x0SDiKanaNiyaMahal .. _0x0sUrMom[#_0x0sUrMom / 2 + _0x0sUrMom[_0x0sNoSkill]];
+				end;
+				return _0x0SDiKanaNiyaMahal;
 			end)({
-				1,
 				3,
 				4,
+				1,
+				5,
 				2,
-				"\043\103\048",
+				"\099\080\100\105",
 				"\061",
-				"\107\049\065\122\122\113",
-				"\107\115\053\052\049\061",
+				"\114\114\078\078\067\112",
+				"\118\081\079\051\100\115\057",
+				"\108\050",
 			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HMamaMoBlue, _0x0bTUBOL = _0x0EBAYOT[#_0x0EBAYOT], "";
-				for _0x0HBible = 1, #_0x0HMamaMoBlue, 1 do
-					_0x0bTUBOL = _0x0bTUBOL .. _0x0HMamaMoBlue[_0x0EBAYOT[_0x0HBible]];
+			(function(_0x0sPutangInaSabiNangWag, ...)
+				local _0x0SNigaBytes = "";
+				for _0x0sPaasa = 1, #_0x0sPutangInaSabiNangWag / 2, 1 do
+					_0x0SNigaBytes = _0x0SNigaBytes .. _0x0sPutangInaSabiNangWag[#_0x0sPutangInaSabiNangWag / 2 + _0x0sPutangInaSabiNangWag[_0x0sPaasa]];
 				end;
-				return _0x0bTUBOL;
-			end)({ 1, 2, { "\047\047", "\052\107\081\088\061\061" } }),
-			(function(_0x0ESINGIT, ...)
-				local _0x0HKigol = "";
-				for _0x0EFallenPartsDestroyHeight = 1, #_0x0ESINGIT / 2, 1 do
-					_0x0HKigol = _0x0HKigol .. _0x0ESINGIT[#_0x0ESINGIT / 2 + _0x0ESINGIT[_0x0EFallenPartsDestroyHeight]];
-				end;
-				return _0x0HKigol;
-			end)({
-				1,
-				2,
-				"\100\119\056\055\113\079",
-				"\109\103\089\049\061\061",
-			}),
-			(function(_0x0EBILAT, ...)
-				local _0x0HNigger, _0x0bBrainDamage = _0x0EBILAT[#_0x0EBILAT], "";
-				for _0x0ETanginaMoCge = 1, #_0x0HNigger, 1 do
-					_0x0bBrainDamage = _0x0bBrainDamage .. _0x0HNigger[_0x0EBILAT[_0x0ETanginaMoCge]];
-				end;
-				return _0x0bBrainDamage;
-			end)({
-				4,
-				1,
-				3,
-				2,
-				{
-					"\100\083\065\099",
-					"\061\061",
-					"\055\072\068\071\049",
-					"\051\099\085\073\087",
-				},
-			}),
-			(function(_0x0ESkidDetected, ...)
-				local _0x0HSHAyBAO, _0x0bKigol = _0x0ESkidDetected[#_0x0ESkidDetected], "";
-				for _0x0EPutangInaSabiNangWag = 1, #_0x0HSHAyBAO, 1 do
-					_0x0bKigol = _0x0bKigol .. _0x0HSHAyBAO[_0x0ESkidDetected[_0x0EPutangInaSabiNangWag]];
-				end;
-				return _0x0bKigol;
+				return _0x0SNigaBytes;
 			end)({
 				2,
 				1,
-				3,
-				{ "\111\076\087\089\065\122\049", "\115\109\087\048", "\061" },
+				"\070\061\061",
+				"\051\048\120\121\051",
 			}),
-			(function(_0x0EFallenPartsDestroyHeight, ...)
-				local _0x0HLove = "";
-				for _0x0ESINGIT = 1, #_0x0EFallenPartsDestroyHeight / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0EFallenPartsDestroyHeight[#_0x0EFallenPartsDestroyHeight / 2 + _0x0EFallenPartsDestroyHeight[_0x0ESINGIT]];
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SFallenPartsDestroyHeight = "";
+				for _0x0sSkidDetected = 1, #_0x0sBroStudyingHowMyBrainWorks / 2, 1 do
+					_0x0SFallenPartsDestroyHeight = _0x0SFallenPartsDestroyHeight .. _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks / 2 + _0x0sBroStudyingHowMyBrainWorks[_0x0sSkidDetected]];
 				end;
-				return _0x0HLove;
+				return _0x0SFallenPartsDestroyHeight;
 			end)({
-				2,
-				6,
-				3,
-				7,
 				1,
 				5,
-				8,
+				2,
 				4,
-				"\077\069\090",
-				"\082\108",
-				"\051\083",
-				"\102\061",
-				"\069\078",
-				"\097\097\102\116",
-				"\043\048",
-				"\113\072\083",
+				3,
+				"\047\111\073\043",
+				"\069\090\112",
+				"\057\047\113\081\054",
+				"\116\113\076\043\047\083\080",
+				"\051\068\081\121\109",
 			}),
-			(function(_0x0EMeow, ...)
-				local _0x0HMamaMoBlue = "";
-				for _0x0ESINGIT = 1, #_0x0EMeow / 2, 1 do
-					_0x0HMamaMoBlue = _0x0HMamaMoBlue .. _0x0EMeow[#_0x0EMeow / 2 + _0x0EMeow[_0x0ESINGIT]];
+			(function(_0x0sBoo, ...)
+				local _0x0SNigaBytes = "";
+				for _0x0sRespect = 1, #_0x0sBoo / 2, 1 do
+					_0x0SNigaBytes = _0x0SNigaBytes .. _0x0sBoo[#_0x0sBoo / 2 + _0x0sBoo[_0x0sRespect]];
 				end;
-				return _0x0HMamaMoBlue;
+				return _0x0SNigaBytes;
 			end)({
 				5,
-				2,
-				3,
-				1,
 				4,
-				"\066\113\053\122\098",
-				"\117\122\098\057\104\047",
-				"\098\057\098\101",
-				"\108\053",
-				"\050\078\121",
-			}),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HFallenPartsDestroyHeight, _0x0bSINGIT = _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal], "";
-				for _0x0ERespect = 1, #_0x0HFallenPartsDestroyHeight, 1 do
-					_0x0bSINGIT = _0x0bSINGIT .. _0x0HFallenPartsDestroyHeight[_0x0EDiKanaNiyaMahal[_0x0ERespect]];
-				end;
-				return _0x0bSINGIT;
-			end)({
+				3,
 				2,
 				1,
-				5,
-				6,
-				3,
-				4,
-				{
-					"\084\114\086\114\053\108",
-					"\086\099\067\078\090\111\099",
-					"\097\070\106\080",
-					"\081\061\061",
-					"\118\071\074\104\109\090",
-					"\057\101\089\081\116\118",
-				},
+				"\099\061\061",
+				"\079\084\068\109\074",
+				"\082\079\074",
+				"\076\085\043\080\049\057",
+				"\113\050\070\109\105\102\102",
 			}),
-			"\082\088\061\061",
-			(function(_0x0EBroStudyingHowMyBrainWorks, ...)
-				local _0x0HDick, _0x0bBILAT = _0x0EBroStudyingHowMyBrainWorks[#_0x0EBroStudyingHowMyBrainWorks], "";
-				for _0x0EBILAT = 1, #_0x0HDick, 1 do
-					_0x0bBILAT = _0x0bBILAT .. _0x0HDick[_0x0EBroStudyingHowMyBrainWorks[_0x0EBILAT]];
+			(function(_0x0sSkidDetected, ...)
+				local _0x0SSkilliSSUE = "";
+				for _0x0sSINGIT = 1, #_0x0sSkidDetected / 2, 1 do
+					_0x0SSkilliSSUE = _0x0SSkilliSSUE .. _0x0sSkidDetected[#_0x0sSkidDetected / 2 + _0x0sSkidDetected[_0x0sSINGIT]];
 				end;
-				return _0x0bBILAT;
-			end)({ 2, 1, { "\106\073\088\077\108\086\051", "\122\087\069\049\087" } }),
-			(function(_0x0EIveDoneNothing, ...)
-				local _0x0HRespect = "";
-				for _0x0ELove = 1, #_0x0EIveDoneNothing / 2, 1 do
-					_0x0HRespect = _0x0HRespect .. _0x0EIveDoneNothing[#_0x0EIveDoneNothing / 2 + _0x0EIveDoneNothing[_0x0ELove]];
-				end;
-				return _0x0HRespect;
+				return _0x0SSkilliSSUE;
 			end)({
-				4,
+				1,
+				2,
+				"\106\052\069\109",
+				"\066\066\074\051",
+			}),
+			(function(_0x0sMeow, ...)
+				local _0x0STFYouLookingAt, _0x0VTerrorist = _0x0sMeow[#_0x0sMeow], "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0STFYouLookingAt, 1 do
+					_0x0VTerrorist = _0x0VTerrorist .. _0x0STFYouLookingAt[_0x0sMeow[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0VTerrorist;
+			end)({ 1, 2, { "\065\098\113\122\116\082\071", "\061" } }),
+			(function(_0x0sUrMom, ...)
+				local _0x0SNigaBytes = "";
+				for _0x0sBILAT = 1, #_0x0sUrMom / 2, 1 do
+					_0x0SNigaBytes = _0x0SNigaBytes .. _0x0sUrMom[#_0x0sUrMom / 2 + _0x0sUrMom[_0x0sBILAT]];
+				end;
+				return _0x0SNigaBytes;
+			end)({
 				2,
 				5,
 				3,
+				4,
 				1,
-				6,
-				"\070\071\115\099",
-				"\113\071\048\056\054\105",
-				"\121\119",
-				"\079\117\099",
-				"\066\086\054\065",
+				"\122\053\056\061",
+				"\087\121",
+				"\057\109\050\114\105\050\111",
+				"\105\066\053\086",
+				"\069\105\097",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SNigger, _0x0VBroStudyingHowMyBrainWorks = _0x0sNigger[#_0x0sNigger], "";
+				for _0x0sBible = 1, #_0x0SNigger, 1 do
+					_0x0VBroStudyingHowMyBrainWorks = _0x0VBroStudyingHowMyBrainWorks .. _0x0SNigger[_0x0sNigger[_0x0sBible]];
+				end;
+				return _0x0VBroStudyingHowMyBrainWorks;
+			end)({ 2, 1, { "\061\061", "\116\103\088\072\047\070" } }),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SDiKanaNiyaMahal = "";
+				for _0x0sSHAyBAO = 1, #_0x0sMamaMoBlue / 2, 1 do
+					_0x0SDiKanaNiyaMahal = _0x0SDiKanaNiyaMahal .. _0x0sMamaMoBlue[#_0x0sMamaMoBlue / 2 + _0x0sMamaMoBlue[_0x0sSHAyBAO]];
+				end;
+				return _0x0SDiKanaNiyaMahal;
+			end)({
+				2,
+				1,
 				"\085",
+				"\071\052\121\068\098\081\089",
 			}),
-			(function(_0x0ETanginaMoCge, ...)
-				local _0x0HNoSkill = "";
-				for _0x0ERomans12_19 = 1, #_0x0ETanginaMoCge / 2, 1 do
-					_0x0HNoSkill = _0x0HNoSkill .. _0x0ETanginaMoCge[#_0x0ETanginaMoCge / 2 + _0x0ETanginaMoCge[_0x0ERomans12_19]];
+			(function(_0x0sDiKanaNiyaMahal, ...)
+				local _0x0SNigger = "";
+				for _0x0sBoo = 1, #_0x0sDiKanaNiyaMahal / 2, 1 do
+					_0x0SNigger = _0x0SNigger .. _0x0sDiKanaNiyaMahal[#_0x0sDiKanaNiyaMahal / 2 + _0x0sDiKanaNiyaMahal[_0x0sBoo]];
 				end;
-				return _0x0HNoSkill;
-			end)({
-				1,
-				2,
-				"\117\073\107\043\073\075",
-				"\081\048\068\081\061\061",
-			}),
-			(function(_0x0ETanginaMoCge, ...)
-				local _0x0HMeow = "";
-				for _0x0ETangina = 1, #_0x0ETanginaMoCge / 2, 1 do
-					_0x0HMeow = _0x0HMeow .. _0x0ETanginaMoCge[#_0x0ETanginaMoCge / 2 + _0x0ETanginaMoCge[_0x0ETangina]];
-				end;
-				return _0x0HMeow;
-			end)({
-				1,
-				2,
-				"\073\051\120\054\122",
-				"\051\080\061",
-			}),
-			(function(_0x0EFallenPartsDestroyHeight, ...)
-				local _0x0HTFYouLookingAt = "";
-				for _0x0EBoo = 1, #_0x0EFallenPartsDestroyHeight / 2, 1 do
-					_0x0HTFYouLookingAt = _0x0HTFYouLookingAt .. _0x0EFallenPartsDestroyHeight[#_0x0EFallenPartsDestroyHeight / 2 + _0x0EFallenPartsDestroyHeight[_0x0EBoo]];
-				end;
-				return _0x0HTFYouLookingAt;
-			end)({
-				2,
-				3,
-				1,
-				"\116\102",
-				"\083\085\088\104\057",
-				"\113\066\117\088\068",
-			}),
-			(function(_0x0EBILAT, ...)
-				local _0x0HTangina, _0x0bGago = _0x0EBILAT[#_0x0EBILAT], "";
-				for _0x0EPaasa = 1, #_0x0HTangina, 1 do
-					_0x0bGago = _0x0bGago .. _0x0HTangina[_0x0EBILAT[_0x0EPaasa]];
-				end;
-				return _0x0bGago;
-			end)({ 2, 1, { "\061", "\049\105\051\116\098\081\061" } }),
-			(function(_0x0EDick, ...)
-				local _0x0HWagGago = "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0EDick / 2, 1 do
-					_0x0HWagGago = _0x0HWagGago .. _0x0EDick[#_0x0EDick / 2 + _0x0EDick[_0x0EBroStudyingHowMyBrainWorks]];
-				end;
-				return _0x0HWagGago;
-			end)({
-				2,
-				1,
-				"\054\073\072\047\061",
-				"\101\051\057",
-			}),
-			(function(_0x0EPleaseImBeggingNooo, ...)
-				local _0x0HNigger = "";
-				for _0x0EGay = 1, #_0x0EPleaseImBeggingNooo / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0EPleaseImBeggingNooo[#_0x0EPleaseImBeggingNooo / 2 + _0x0EPleaseImBeggingNooo[_0x0EGay]];
-				end;
-				return _0x0HNigger;
+				return _0x0SNigger;
 			end)({
 				4,
 				3,
 				1,
 				2,
-				"\110\101\051\120\110",
-				"\073\109\116\061",
-				"\057\048\050\078\057",
-				"\112\078\057\082\112\051",
+				"\086\055\082",
+				"\056\061",
+				"\115\104",
+				"\098\048\081\056\082",
 			}),
-			(function(_0x0EFallenPartsDestroyHeight, ...)
-				local _0x0HTanginaMoCge, _0x0bPlsNo = _0x0EFallenPartsDestroyHeight[#_0x0EFallenPartsDestroyHeight], "";
-				for _0x0EBILAT = 1, #_0x0HTanginaMoCge, 1 do
-					_0x0bPlsNo = _0x0bPlsNo .. _0x0HTanginaMoCge[_0x0EFallenPartsDestroyHeight[_0x0EBILAT]];
+			"\047\115\086\061",
+			"\104\102\061\061",
+			(function(_0x0sKigol, ...)
+				local _0x0STangina = "";
+				for _0x0sPutangInaSabiNangWag = 1, #_0x0sKigol / 2, 1 do
+					_0x0STangina = _0x0STangina .. _0x0sKigol[#_0x0sKigol / 2 + _0x0sKigol[_0x0sPutangInaSabiNangWag]];
 				end;
-				return _0x0bPlsNo;
-			end)({ 2, 1, { "\071\111", "\122\114\057\099\043\090" } }),
-			(function(_0x0ERomans12_19, ...)
-				local _0x0HBroStudyingHowMyBrainWorks, _0x0bBAYOT = _0x0ERomans12_19[#_0x0ERomans12_19], "";
-				for _0x0EDick = 1, #_0x0HBroStudyingHowMyBrainWorks, 1 do
-					_0x0bBAYOT = _0x0bBAYOT .. _0x0HBroStudyingHowMyBrainWorks[_0x0ERomans12_19[_0x0EDick]];
+				return _0x0STangina;
+			end)({
+				3,
+				1,
+				2,
+				"\116\083\056",
+				"\061",
+				"\100\083\073\104",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SNigaBytes = "";
+				for _0x0sTFYouLookingAt = 1, #_0x0sNigger / 2, 1 do
+					_0x0SNigaBytes = _0x0SNigaBytes .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sTFYouLookingAt]];
 				end;
-				return _0x0bBAYOT;
+				return _0x0SNigaBytes;
 			end)({
 				2,
 				3,
 				1,
-				{ "\051\049\061", "\047\051\108", "\043\122" },
+				"\065\116\110\070\073",
+				"\087\088",
+				"\077\050\088\082\089",
 			}),
-			(function(_0x0EBible, ...)
-				local _0x0HNigger = "";
-				for _0x0ESkidDetected = 1, #_0x0EBible / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0EBible[#_0x0EBible / 2 + _0x0EBible[_0x0ESkidDetected]];
+			(function(_0x0sTangina, ...)
+				local _0x0STerrorist, _0x0VWagGago = _0x0sTangina[#_0x0sTangina], "";
+				for _0x0sTerrorist = 1, #_0x0STerrorist, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0STerrorist[_0x0sTangina[_0x0sTerrorist]];
 				end;
-				return _0x0HNigger;
-			end)({
-				1,
-				2,
-				"\071\066\108\055\122\078",
-				"\083\119\101\072\081\061",
-			}),
-			(function(_0x0EDick, ...)
-				local _0x0HPutangInaSabiNangWag = "";
-				for _0x0EPaasa = 1, #_0x0EDick / 2, 1 do
-					_0x0HPutangInaSabiNangWag = _0x0HPutangInaSabiNangWag .. _0x0EDick[#_0x0EDick / 2 + _0x0EDick[_0x0EPaasa]];
+				return _0x0VWagGago;
+			end)({ 1, 2, { "\073\115\100", "\113\090\053\076\069" } }),
+			(function(_0x0sTUBOL, ...)
+				local _0x0SDiKanaNiyaMahal, _0x0VSkidDetected = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sGago = 1, #_0x0SDiKanaNiyaMahal, 1 do
+					_0x0VSkidDetected = _0x0VSkidDetected .. _0x0SDiKanaNiyaMahal[_0x0sTUBOL[_0x0sGago]];
 				end;
-				return _0x0HPutangInaSabiNangWag;
+				return _0x0VSkidDetected;
 			end)({
 				3,
+				1,
+				5,
+				4,
+				2,
+				{
+					"\070\082\074\068",
+					"\075\090\078\105\080",
+					"\075\113",
+					"\052\081",
+					"\052\089\066\115\084\101\086",
+				},
+			}),
+			(function(_0x0sTUBOL, ...)
+				local _0x0SBible, _0x0VRespect = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sTanginaMoCge = 1, #_0x0SBible, 1 do
+					_0x0VRespect = _0x0VRespect .. _0x0SBible[_0x0sTUBOL[_0x0sTanginaMoCge]];
+				end;
+				return _0x0VRespect;
+			end)({
+				3,
+				1,
+				2,
+				4,
+				{
+					"\109\106",
+					"\112\068\079\053\054",
+					"\098\053\089\050\065\100",
+					"\110\109\100",
+				},
+			}),
+			"\072\083\066\075",
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SKigol, _0x0VWagGago = _0x0sNigaBytes[#_0x0sNigaBytes], "";
+				for _0x0sKigol = 1, #_0x0SKigol, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SKigol[_0x0sNigaBytes[_0x0sKigol]];
+				end;
+				return _0x0VWagGago;
+			end)({ 2, 1, { "\053\103\052\074", "\078\112\085\056" } }),
+			(function(_0x0sTUBOL, ...)
+				local _0x0SBILAT, _0x0VBakla = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sTanginaMoCge = 1, #_0x0SBILAT, 1 do
+					_0x0VBakla = _0x0VBakla .. _0x0SBILAT[_0x0sTUBOL[_0x0sTanginaMoCge]];
+				end;
+				return _0x0VBakla;
+			end)({
+				5,
+				2,
+				4,
+				3,
+				1,
+				{
+					"\079\055\061",
+					"\083\081\077\109",
+					"\121\051\083\088\121\085",
+					"\113\081",
+					"\090\113\081\072\090",
+				},
+			}),
+			(function(_0x0sTanginaMoCge, ...)
+				local _0x0SNoSkill, _0x0VTUBOL = _0x0sTanginaMoCge[#_0x0sTanginaMoCge], "";
+				for _0x0sIveDoneNothing = 1, #_0x0SNoSkill, 1 do
+					_0x0VTUBOL = _0x0VTUBOL .. _0x0SNoSkill[_0x0sTanginaMoCge[_0x0sIveDoneNothing]];
+				end;
+				return _0x0VTUBOL;
+			end)({ 1, 2, { "\085\083\080\121\085\103", "\053\114\051\111\110\061" } }),
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SSkidDetected, _0x0VPleaseImBeggingNooo = _0x0sNigaBytes[#_0x0sNigaBytes], "";
+				for _0x0sPutangInaSabiNangWag = 1, #_0x0SSkidDetected, 1 do
+					_0x0VPleaseImBeggingNooo = _0x0VPleaseImBeggingNooo .. _0x0SSkidDetected[_0x0sNigaBytes[_0x0sPutangInaSabiNangWag]];
+				end;
+				return _0x0VPleaseImBeggingNooo;
+			end)({
+				2,
+				3,
+				1,
+				{ "\082", "\119\056", "\114\080\086\116\056" },
+			}),
+			(function(_0x0sBILAT, ...)
+				local _0x0STangina, _0x0VSHAyBAO = _0x0sBILAT[#_0x0sBILAT], "";
+				for _0x0sGago = 1, #_0x0STangina, 1 do
+					_0x0VSHAyBAO = _0x0VSHAyBAO .. _0x0STangina[_0x0sBILAT[_0x0sGago]];
+				end;
+				return _0x0VSHAyBAO;
+			end)({
+				3,
+				1,
+				2,
+				{ "\053\080\069\068\067\084\105", "\102\061\061", "\055\053" },
+			}),
+			(function(_0x0sDick, ...)
+				local _0x0SFallenPartsDestroyHeight = "";
+				for _0x0sIveDoneNothing = 1, #_0x0sDick / 2, 1 do
+					_0x0SFallenPartsDestroyHeight = _0x0SFallenPartsDestroyHeight .. _0x0sDick[#_0x0sDick / 2 + _0x0sDick[_0x0sIveDoneNothing]];
+				end;
+				return _0x0SFallenPartsDestroyHeight;
+			end)({
+				1,
+				2,
+				4,
+				3,
+				"\068\097\112",
+				"\120\111\078\114\052\084",
+				"\106\083\070\061",
+				"\073\114\112\074\090\110\088",
+			}),
+			(function(_0x0sUrMom, ...)
+				local _0x0SNigger, _0x0VBroStudyingHowMyBrainWorks = _0x0sUrMom[#_0x0sUrMom], "";
+				for _0x0sPaasa = 1, #_0x0SNigger, 1 do
+					_0x0VBroStudyingHowMyBrainWorks = _0x0VBroStudyingHowMyBrainWorks .. _0x0SNigger[_0x0sUrMom[_0x0sPaasa]];
+				end;
+				return _0x0VBroStudyingHowMyBrainWorks;
+			end)({
+				2,
+				3,
+				4,
+				5,
+				1,
+				6,
+				{
+					"\054\075\102\080\066\072\076",
+					"\086\081\104\090\100",
+					"\085\121",
+					"\073\085\110\050\071\087",
+					"\067\117\117\097\084\100",
+					"\081\115\112\099\061\061",
+				},
+			}),
+			(function(_0x0sTUBOL, ...)
+				local _0x0SPlsNo, _0x0VPleaseImBeggingNooo = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SPlsNo, 1 do
+					_0x0VPleaseImBeggingNooo = _0x0VPleaseImBeggingNooo .. _0x0SPlsNo[_0x0sTUBOL[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VPleaseImBeggingNooo;
+			end)({
+				3,
+				1,
+				2,
+				4,
+				{
+					"\085\083\047\054",
+					"\055\066\116\050\066\053\100",
+					"\055\072",
+					"\050\082\075\074\054\071\061",
+				},
+			}),
+			(function(_0x0sDiKanaNiyaMahal, ...)
+				local _0x0SBroStudyingHowMyBrainWorks = "";
+				for _0x0sBroStudyingHowMyBrainWorks = 1, #_0x0sDiKanaNiyaMahal / 2, 1 do
+					_0x0SBroStudyingHowMyBrainWorks = _0x0SBroStudyingHowMyBrainWorks .. _0x0sDiKanaNiyaMahal[#_0x0sDiKanaNiyaMahal / 2 + _0x0sDiKanaNiyaMahal[_0x0sBroStudyingHowMyBrainWorks]];
+				end;
+				return _0x0SBroStudyingHowMyBrainWorks;
+			end)({
 				2,
 				1,
-				"\061\061",
-				"\121\073\072\057\048\073\076",
-				"\047\098\057",
+				"\061",
+				"\097\113\120\098\047\056\061",
 			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HDiKanaNiyaMahal, _0x0bNigger = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0EBrainDamage = 1, #_0x0HDiKanaNiyaMahal, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HDiKanaNiyaMahal[_0x0ENigger[_0x0EBrainDamage]];
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0SIveDoneNothing = "";
+				for _0x0sNigger = 1, #_0x0sIveDoneNothing / 2, 1 do
+					_0x0SIveDoneNothing = _0x0SIveDoneNothing .. _0x0sIveDoneNothing[#_0x0sIveDoneNothing / 2 + _0x0sIveDoneNothing[_0x0sNigger]];
 				end;
-				return _0x0bNigger;
-			end)({ 1, 2, { "\116\100\068\052\110", "\076\083\100" } }),
-			"\090\101\105\061",
-			(function(_0x0ERomans12_19, ...)
-				local _0x0HUrMom, _0x0bRomans12_19 = _0x0ERomans12_19[#_0x0ERomans12_19], "";
-				for _0x0EBrainDamage = 1, #_0x0HUrMom, 1 do
-					_0x0bRomans12_19 = _0x0bRomans12_19  .. _0x0HUrMom[_0x0ERomans12_19[_0x0EBrainDamage]];
-				end;
-				return _0x0bRomans12_19;
-			end)({ 2, 1, { "\061", "\118\105\110\053\057\049\061" } }),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HNoSkill = "";
-				for _0x0EBible = 1, #_0x0ENoSkill / 2, 1 do
-					_0x0HNoSkill = _0x0HNoSkill .. _0x0ENoSkill[#_0x0ENoSkill / 2 + _0x0ENoSkill[_0x0EBible]];
-				end;
-				return _0x0HNoSkill;
+				return _0x0SIveDoneNothing;
 			end)({
 				6,
-				4,
 				1,
-				2,
-				3,
-				8,
-				7,
 				5,
-				"\082\081\078",
-				"\043\107",
-				"\122\051\112",
-				"\068\101\107\047\089\108",
-				"\048\081\081\061\061",
-				"\112\098\053\110\101",
-				"\051\053\086\071\068\053",
-				"\066\071",
-			}),
-			(function(_0x0EKigol, ...)
-				local _0x0HNoSkill, _0x0bDick = _0x0EKigol[#_0x0EKigol], "";
-				for _0x0EBrainDamage = 1, #_0x0HNoSkill, 1 do
-					_0x0bDick = _0x0bDick .. _0x0HNoSkill[_0x0EKigol[_0x0EBrainDamage]];
-				end;
-				return _0x0bDick;
-			end)({ 1, 2, { "\051\114\068\100\078\081", "\061\061" } }),
-			(function(_0x0EGago, ...)
-				local _0x0HBrainDamage, _0x0bIveDoneNothing = _0x0EGago[#_0x0EGago], "";
-				for _0x0ENoSkill = 1, #_0x0HBrainDamage, 1 do
-					_0x0bIveDoneNothing = _0x0bIveDoneNothing .. _0x0HBrainDamage[_0x0EGago[_0x0ENoSkill]];
-				end;
-				return _0x0bIveDoneNothing;
-			end)({
 				3,
 				2,
-				1,
-				{ "\110\101\049\061\061", "\108\082\047\098\053", "\122\051\083\043\101\109" },
-			}),
-			(function(_0x0ERespect, ...)
-				local _0x0HTFYouLookingAt, _0x0bSkilliSSUE = _0x0ERespect[#_0x0ERespect], "";
-				for _0x0ETangina = 1, #_0x0HTFYouLookingAt, 1 do
-					_0x0bSkilliSSUE = _0x0bSkilliSSUE .. _0x0HTFYouLookingAt[_0x0ERespect[_0x0ETangina]];
-				end;
-				return _0x0bSkilliSSUE;
-			end)({
-				3,
-				2,
-				1,
-				{ "\051\088\117\088\061\061", "\069\116", "\051\107\048\051" },
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HTFYouLookingAt = "";
-				for _0x0EFallenPartsDestroyHeight = 1, #_0x0ETangina / 2, 1 do
-					_0x0HTFYouLookingAt = _0x0HTFYouLookingAt .. _0x0ETangina[#_0x0ETangina / 2 + _0x0ETangina[_0x0EFallenPartsDestroyHeight]];
-				end;
-				return _0x0HTFYouLookingAt;
-			end)({
-				2,
-				1,
-				"\075\115\081\076\061\061",
-				"\057\098\107\107\118\051",
-			}),
-			(function(_0x0ESkidDetected, ...)
-				local _0x0HBILAT = "";
-				for _0x0EDick = 1, #_0x0ESkidDetected / 2, 1 do
-					_0x0HBILAT = _0x0HBILAT .. _0x0ESkidDetected[#_0x0ESkidDetected / 2 + _0x0ESkidDetected[_0x0EDick]];
-				end;
-				return _0x0HBILAT;
-			end)({
-				2,
-				1,
-				"\117\050\066\113\102",
-				"\081\078\121\107\047\051\113",
-			}),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HDick, _0x0bSkidDetected = _0x0EBrainDamage[#_0x0EBrainDamage], "";
-				for _0x0EBakla = 1, #_0x0HDick, 1 do
-					_0x0bSkidDetected = _0x0bSkidDetected .. _0x0HDick[_0x0EBrainDamage[_0x0EBakla]];
-				end;
-				return _0x0bSkidDetected;
-			end)({ 2, 1, { "\076\061", "\090\049" } }),
-			(function(_0x0EDick, ...)
-				local _0x0HBakla = "";
-				for _0x0EBakla = 1, #_0x0EDick / 2, 1 do
-					_0x0HBakla = _0x0HBakla .. _0x0EDick[#_0x0EDick / 2 + _0x0EDick[_0x0EBakla]];
-				end;
-				return _0x0HBakla;
-			end)({
-				3,
-				1,
-				2,
-				"\065\101\072",
-				"\101\067\122\098\116\061",
-				"\047\098\057\048\073\051\083",
-			}),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HRespect, _0x0bFallenPartsDestroyHeight = _0x0EBrainDamage[#_0x0EBrainDamage], "";
-				for _0x0EIveDoneNothing = 1, #_0x0HRespect, 1 do
-					_0x0bFallenPartsDestroyHeight = _0x0bFallenPartsDestroyHeight .. _0x0HRespect[_0x0EBrainDamage[_0x0EIveDoneNothing]];
-				end;
-				return _0x0bFallenPartsDestroyHeight;
-			end)({
-				3,
-				1,
-				2,
-				{ "\107\070\055\070", "\068\051\049\061\061", "\102\078\047" },
-			}),
-			(function(_0x0EBoo, ...)
-				local _0x0HNigger, _0x0bNigger = _0x0EBoo[#_0x0EBoo], "";
-				for _0x0EKigol = 1, #_0x0HNigger, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HNigger[_0x0EBoo[_0x0EKigol]];
-				end;
-				return _0x0bNigger;
-			end)({ 1, 2, { "\098\076\061", "\061" } }),
-			(function(_0x0EUrMom, ...)
-				local _0x0HNigger, _0x0bTFYouLookingAt = _0x0EUrMom[#_0x0EUrMom], "";
-				for _0x0EBakla = 1, #_0x0HNigger, 1 do
-					_0x0bTFYouLookingAt = _0x0bTFYouLookingAt .. _0x0HNigger[_0x0EUrMom[_0x0EBakla]];
-				end;
-				return _0x0bTFYouLookingAt;
-			end)({
-				3,
-				2,
-				1,
 				4,
-				{
-					"\053\084\076\061",
-					"\122\098\112",
-					"\066\067\083\107",
-					"\061",
-				},
+				"\076\077\074",
+				"\076\047\070\061",
+				"\073\077\055",
+				"\061",
+				"\054\051\089",
+				"\100\072\073\101\100\074",
 			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HTangina, _0x0bTerrorist = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0ERomans12_19 = 1, #_0x0HTangina, 1 do
-					_0x0bTerrorist = _0x0bTerrorist .. _0x0HTangina[_0x0ENigger[_0x0ERomans12_19]];
+			(function(_0x0sNigger, ...)
+				local _0x0SBakla = "";
+				for _0x0sMamaMoBlue = 1, #_0x0sNigger / 2, 1 do
+					_0x0SBakla = _0x0SBakla .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sMamaMoBlue]];
 				end;
-				return _0x0bTerrorist;
+				return _0x0SBakla;
 			end)({
+				3,
+				1,
+				2,
+				"\119\047\111\049\114\116",
+				"\113\088\122\051\070\061\061",
+				"\100\113\081\072\111\113\073",
+			}),
+			(function(_0x0sSHAyBAO, ...)
+				local _0x0SOhab = "";
+				for _0x0sOhab = 1, #_0x0sSHAyBAO / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sSHAyBAO[#_0x0sSHAyBAO / 2 + _0x0sSHAyBAO[_0x0sOhab]];
+				end;
+				return _0x0SOhab;
+			end)({
+				2,
+				1,
+				"\119\061",
+				"\108\047\101\073\109\122",
+			}),
+			(function(_0x0sUrMom, ...)
+				local _0x0SPleaseImBeggingNooo = "";
+				for _0x0sMeow = 1, #_0x0sUrMom / 2, 1 do
+					_0x0SPleaseImBeggingNooo = _0x0SPleaseImBeggingNooo .. _0x0sUrMom[#_0x0sUrMom / 2 + _0x0sUrMom[_0x0sMeow]];
+				end;
+				return _0x0SPleaseImBeggingNooo;
+			end)({
+				3,
 				2,
 				4,
 				1,
-				3,
-				{
-					"\107\053\118\082",
-					"\081\086\120\105\080",
-					"\053\100\072\051\068\061",
-					"\099\050\121\122\066",
-				},
+				"\061\061",
+				"\066\078\051\055\084",
+				"\077\053\103\051\109\069\086",
+				"\107\087\115\049\077\070",
 			}),
-			"\115\081\061\061",
-			(function(_0x0ETerrorist, ...)
-				local _0x0HLove, _0x0bNigger = _0x0ETerrorist[#_0x0ETerrorist], "";
-				for _0x0ENigger = 1, #_0x0HLove, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HLove[_0x0ETerrorist[_0x0ENigger]];
+			(function(_0x0sLove, ...)
+				local _0x0STerrorist = "";
+				for _0x0sNigaBytes = 1, #_0x0sLove / 2, 1 do
+					_0x0STerrorist = _0x0STerrorist .. _0x0sLove[#_0x0sLove / 2 + _0x0sLove[_0x0sNigaBytes]];
 				end;
-				return _0x0bNigger;
-			end)({ 1, 2, { "\111\098\071\105\078\077\078", "\071" } }),
-			(function(_0x0ETanginaMoCge, ...)
-				local _0x0HDick = "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0ETanginaMoCge / 2, 1 do
-					_0x0HDick = _0x0HDick .. _0x0ETanginaMoCge[#_0x0ETanginaMoCge / 2 + _0x0ETanginaMoCge[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0HDick;
+				return _0x0STerrorist;
 			end)({
 				3,
+				1,
+				2,
+				"\112\116\083\090\122",
+				"\051\103\071\061",
+				"\090\113\081\072\099\113\104",
+			}),
+			"\110\056\061\061",
+			"\099\097\076\057",
+			(function(_0x0sIveDoneNothing, ...)
+				local _0x0SNoSkill = "";
+				for _0x0sRespect = 1, #_0x0sIveDoneNothing / 2, 1 do
+					_0x0SNoSkill = _0x0SNoSkill .. _0x0sIveDoneNothing[#_0x0sIveDoneNothing / 2 + _0x0sIveDoneNothing[_0x0sRespect]];
+				end;
+				return _0x0SNoSkill;
+			end)({
 				2,
 				1,
+				"\116\068\099\061",
+				"\100\079\075\112",
+			}),
+			(function(_0x0sPaasa, ...)
+				local _0x0SWagGago = "";
+				for _0x0sSHAyBAO = 1, #_0x0sPaasa / 2, 1 do
+					_0x0SWagGago = _0x0SWagGago .. _0x0sPaasa[#_0x0sPaasa / 2 + _0x0sPaasa[_0x0sSHAyBAO]];
+				end;
+				return _0x0SWagGago;
+			end)({
+				1,
+				3,
+				4,
+				5,
+				2,
+				"\052\100\072\099",
+				"\054\061",
+				"\090\086\114",
+				"\121\082\085\080",
+				"\054\090\079",
+			}),
+			(function(_0x0sTerrorist, ...)
+				local _0x0SLove = "";
+				for _0x0sNigger = 1, #_0x0sTerrorist / 2, 1 do
+					_0x0SLove = _0x0SLove .. _0x0sTerrorist[#_0x0sTerrorist / 2 + _0x0sTerrorist[_0x0sNigger]];
+				end;
+				return _0x0SLove;
+			end)({
+				5,
+				4,
+				3,
+				1,
+				2,
+				6,
+				"\079\088",
+				"\069\099\074\090\109\090\074",
+				"\051\072\090",
+				"\122\100\081",
+				"\116\117\050",
 				"\055\061",
-				"\047\109\115\083\066\043\099",
-				"\079\068\121\072\067\069\082",
 			}),
-			(function(_0x0EGago, ...)
-				local _0x0HSHAyBAO, _0x0bTUBOL = _0x0EGago[#_0x0EGago], "";
-				for _0x0ETerrorist = 1, #_0x0HSHAyBAO, 1 do
-					_0x0bTUBOL = _0x0bTUBOL .. _0x0HSHAyBAO[_0x0EGago[_0x0ETerrorist]];
+			(function(_0x0sUrMom, ...)
+				local _0x0SSkidDetected, _0x0VBILAT = _0x0sUrMom[#_0x0sUrMom], "";
+				for _0x0sNigaBytes = 1, #_0x0SSkidDetected, 1 do
+					_0x0VBILAT = _0x0VBILAT .. _0x0SSkidDetected[_0x0sUrMom[_0x0sNigaBytes]];
 				end;
-				return _0x0bTUBOL;
+				return _0x0VBILAT;
 			end)({
 				1,
-				3,
+				10,
+				12,
+				9,
 				2,
-				{ "\047\098\057", "\101\053", "\079\122\056" },
-			}),
-			(function(_0x0EMeow, ...)
-				local _0x0HDiKanaNiyaMahal, _0x0bTFYouLookingAt = _0x0EMeow[#_0x0EMeow], "";
-				for _0x0ESkilliSSUE = 1, #_0x0HDiKanaNiyaMahal, 1 do
-					_0x0bTFYouLookingAt = _0x0bTFYouLookingAt .. _0x0HDiKanaNiyaMahal[_0x0EMeow[_0x0ESkilliSSUE]];
-				end;
-				return _0x0bTFYouLookingAt;
-			end)({ 1, 2, { "\108\088", "\061\061" } }),
-			(function(_0x0EPleaseImBeggingNooo, ...)
-				local _0x0HNigger = "";
-				for _0x0EOhab = 1, #_0x0EPleaseImBeggingNooo / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0EPleaseImBeggingNooo[#_0x0EPleaseImBeggingNooo / 2 + _0x0EPleaseImBeggingNooo[_0x0EOhab]];
-				end;
-				return _0x0HNigger;
-			end)({
-				4,
-				1,
-				3,
-				2,
-				"\081\078",
-				"\112\065\101\072\075\061",
-				"\043\107\122\051",
-				"\112\078\057\082",
-			}),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HFallenPartsDestroyHeight, _0x0bSkilliSSUE = _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal], "";
-				for _0x0ERomans12_19 = 1, #_0x0HFallenPartsDestroyHeight, 1 do
-					_0x0bSkilliSSUE = _0x0bSkilliSSUE .. _0x0HFallenPartsDestroyHeight[_0x0EDiKanaNiyaMahal[_0x0ERomans12_19]];
-				end;
-				return _0x0bSkilliSSUE;
-			end)({
-				1,
-				2,
-				3,
-				{ "\081\075\052\114\117\052", "\103\085\073\079\050\103\113", "\053\052\090" },
-			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HBakla = "";
-				for _0x0ETFYouLookingAt = 1, #_0x0EBAYOT / 2, 1 do
-					_0x0HBakla = _0x0HBakla .. _0x0EBAYOT[#_0x0EBAYOT / 2 + _0x0EBAYOT[_0x0ETFYouLookingAt]];
-				end;
-				return _0x0HBakla;
-			end)({
-				2,
-				1,
-				"\061\061",
-				"\106\103\057\098\069\076",
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HDick, _0x0bBroStudyingHowMyBrainWorks = _0x0ETangina[#_0x0ETangina], "";
-				for _0x0ETUBOL = 1, #_0x0HDick, 1 do
-					_0x0bBroStudyingHowMyBrainWorks = _0x0bBroStudyingHowMyBrainWorks .. _0x0HDick[_0x0ETangina[_0x0ETUBOL]];
-				end;
-				return _0x0bBroStudyingHowMyBrainWorks;
-			end)({
-				5,
-				1,
-				2,
-				8,
-				3,
-				7,
+				15,
 				6,
+				5,
+				16,
+				7,
+				3,
+				11,
+				8,
 				4,
+				14,
+				13,
 				{
-					"\047\110\072\106\072",
-					"\076\100",
-					"\047\113\076\073\097",
-					"\081\061\061",
-					"\097\122",
-					"\112\112",
-					"\049\101\087",
-					"\070\043",
+					"\109\077\100\052\098\054\111",
+					"\070\085\100\102",
+					"\111\112\097\050\076",
+					"\080\106",
+					"\075\122\108\080\066\118",
+					"\113\079\122\047\057\067\057",
+					"\081\090\048\048\098",
+					"\076\111",
+					"\097\106\066\052\076\118\103",
+					"\084\050\056\107\117\077\111",
+					"\054\050",
+					"\056\054\120\049\110\053",
+					"\070\061\061",
+					"\070\084\111\090",
+					"\043\121\068\114",
+					"\056\113\111\122\112",
 				},
 			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HLove, _0x0bPutangInaSabiNangWag = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0EGago = 1, #_0x0HLove, 1 do
-					_0x0bPutangInaSabiNangWag = _0x0bPutangInaSabiNangWag .. _0x0HLove[_0x0ENigger[_0x0EGago]];
+			(function(_0x0sLove, ...)
+				local _0x0SPlsNo, _0x0VGay = _0x0sLove[#_0x0sLove], "";
+				for _0x0sBrainDamage = 1, #_0x0SPlsNo, 1 do
+					_0x0VGay = _0x0VGay .. _0x0SPlsNo[_0x0sLove[_0x0sBrainDamage]];
 				end;
-				return _0x0bPutangInaSabiNangWag;
+				return _0x0VGay;
 			end)({
-				10,
-				6,
-				8,
 				1,
-				12,
-				4,
-				9,
 				5,
+				2,
+				4,
+				3,
+				{
+					"\100\048",
+					"\072\085\079\049",
+					"\099\061",
+					"\068\051\111",
+					"\075\071\111\113\104",
+				},
+			}),
+			(function(_0x0sTFYouLookingAt, ...)
+				local _0x0SBILAT, _0x0VFallenPartsDestroyHeight = _0x0sTFYouLookingAt[#_0x0sTFYouLookingAt], "";
+				for _0x0sNigger = 1, #_0x0SBILAT, 1 do
+					_0x0VFallenPartsDestroyHeight = _0x0VFallenPartsDestroyHeight .. _0x0SBILAT[_0x0sTFYouLookingAt[_0x0sNigger]];
+				end;
+				return _0x0VFallenPartsDestroyHeight;
+			end)({
+				3,
+				1,
+				2,
+				{ "\072\115\122\099\061", "\061", "\107\109\052\048\101\113" },
+			}),
+			"\105\099\061\061",
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SBoo = "";
+				for _0x0sPlsNo = 1, #_0x0sMamaMoBlue / 2, 1 do
+					_0x0SBoo = _0x0SBoo .. _0x0sMamaMoBlue[#_0x0sMamaMoBlue / 2 + _0x0sMamaMoBlue[_0x0sPlsNo]];
+				end;
+				return _0x0SBoo;
+			end)({
+				4,
+				1,
+				5,
+				3,
+				2,
+				"\053\080",
+				"\057\116\102\061\061",
+				"\085\083\120",
+				"\047\083\080\057\047",
+				"\048\085\103\076\098",
+			}),
+			(function(_0x0sNigger, ...)
+				local _0x0SBAYOT = "";
+				for _0x0sDiKanaNiyaMahal = 1, #_0x0sNigger / 2, 1 do
+					_0x0SBAYOT = _0x0SBAYOT .. _0x0sNigger[#_0x0sNigger / 2 + _0x0sNigger[_0x0sDiKanaNiyaMahal]];
+				end;
+				return _0x0SBAYOT;
+			end)({
+				2,
+				1,
+				"\072\051\099\061\061",
+				"\109\068\120",
+			}),
+			(function(_0x0sDiKanaNiyaMahal, ...)
+				local _0x0SPaasa, _0x0VWagGago = _0x0sDiKanaNiyaMahal[#_0x0sDiKanaNiyaMahal], "";
+				for _0x0sFallenPartsDestroyHeight = 1, #_0x0SPaasa, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SPaasa[_0x0sDiKanaNiyaMahal[_0x0sFallenPartsDestroyHeight]];
+				end;
+				return _0x0VWagGago;
+			end)({
+				20,
 				11,
 				7,
-				3,
-				2,
-				{
-					"\116\114\071\057\050\053\073",
-					"\101\082\110\053\068\061",
-					"\081\104\097\097\121\119",
-					"\056\077\088\121\085",
-					"\065\083",
-					"\100\117\069\121\076",
-					"\074\082\109\069\065\070\083",
-					"\114\106\074\071",
-					"\121\115\051",
-					"\109\080\056",
-					"\051\053\122\104\054",
-					"\108\076\109",
-				},
-			}),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HTFYouLookingAt = "";
-				for _0x0EDick = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HTFYouLookingAt = _0x0HTFYouLookingAt .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0EDick]];
-				end;
-				return _0x0HTFYouLookingAt;
-			end)({
-				39,
-				9,
+				25,
 				21,
+				29,
+				8,
 				26,
-				37,
-				42,
 				5,
-				44,
-				23,
-				45,
-				40,
-				27,
-				13,
-				6,
 				22,
+				1,
+				18,
+				15,
+				19,
+				37,
 				3,
-				10,
+				14,
+				6,
+				4,
+				12,
+				9,
 				32,
 				16,
-				20,
-				35,
-				30,
-				41,
-				46,
-				2,
-				17,
-				11,
-				4,
-				43,
-				28,
-				12,
 				38,
-				1,
-				19,
-				34,
-				18,
-				36,
-				29,
-				47,
-				31,
 				33,
-				7,
-				15,
-				25,
-				8,
+				31,
+				39,
+				17,
+				13,
+				10,
+				34,
+				36,
+				28,
+				30,
+				27,
+				23,
+				35,
 				24,
-				14,
-				"\085\049",
-				"\056\053",
-				"\047\067",
-				"\049\052",
-				"\082\081\107",
-				"\099\089\082\103\109",
-				"\118\070\100\113\102",
-				"\081\117\101\117\049\051\051",
-				"\108\051",
-				"\083\114\054\077",
-				"\088\077\068\098",
-				"\101\112\098\109\068\115",
-				"\107\053\075\084\071\057",
-				"\116\119\050\061",
-				"\079\074\080\076\048\090\085",
-				"\097\119\109\100",
-				"\073\086\108",
-				"\077\049",
-				"\049\057\102\057\099",
-				"\114\120\068\106",
-				"\102\078\048\082",
-				"\065\111\104",
-				"\105\053\084\083\076\102",
-				"\121\112\068\065\119\078",
-				"\053\119\104\080",
-				"\097\089\085",
-				"\084\119\121\112\071\111\087",
-				"\106\082\116\101\078\120",
-				"\109\051\110\100",
-				"\088\102\086\075\114",
-				"\089\112\075\066\078\083",
-				"\110\097\076\107\120",
-				"\088\106",
-				"\089\121\105",
-				"\106\101\107\112\071",
-				"\090\106\105",
-				"\070\075",
-				"\077\105\069\121\082",
-				"\100\050",
-				"\104\101\118\069",
-				"\055\067\081\056\074\088",
-				"\086\088",
-				"\101\119\055\115",
-				"\080\105\111",
-				"\048\085\113\104\074\068\114",
-				"\043\087\113\110",
-				"\057\076",
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HWagGago = "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0EMamaMoBlue / 2, 1 do
-					_0x0HWagGago = _0x0HWagGago .. _0x0EMamaMoBlue[#_0x0EMamaMoBlue / 2 + _0x0EMamaMoBlue[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0HWagGago;
-			end)({
 				2,
-				1,
-				"\049\061\061",
-				"\073\051\120\048\071",
-			}),
-			(function(_0x0EPleaseImBeggingNooo, ...)
-				local _0x0HDick = "";
-				for _0x0ESHAyBAO = 1, #_0x0EPleaseImBeggingNooo / 2, 1 do
-					_0x0HDick = _0x0HDick .. _0x0EPleaseImBeggingNooo[#_0x0EPleaseImBeggingNooo / 2 + _0x0EPleaseImBeggingNooo[_0x0ESHAyBAO]];
-				end;
-				return _0x0HDick;
-			end)({
-				1,
-				2,
-				"\073\072\111\049\050\072",
-				"\108\119",
-			}),
-			(function(_0x0EBakla, ...)
-				local _0x0HMeow = "";
-				for _0x0EUrMom = 1, #_0x0EBakla / 2, 1 do
-					_0x0HMeow = _0x0HMeow .. _0x0EBakla[#_0x0EBakla / 2 + _0x0EBakla[_0x0EUrMom]];
-				end;
-				return _0x0HMeow;
-			end)({
-				1,
-				3,
-				2,
-				"\089\113\117",
-				"\110\070\114\088\061\061",
-				"\121\098\118",
-			}),
-			(function(_0x0EPleaseImBeggingNooo, ...)
-				local _0x0HBrainDamage = "";
-				for _0x0EMeow = 1, #_0x0EPleaseImBeggingNooo / 2, 1 do
-					_0x0HBrainDamage = _0x0HBrainDamage .. _0x0EPleaseImBeggingNooo[#_0x0EPleaseImBeggingNooo / 2 + _0x0EPleaseImBeggingNooo[_0x0EMeow]];
-				end;
-				return _0x0HBrainDamage;
-			end)({
-				1,
-				2,
-				"\082\055",
-				"\080\061",
-			}),
-			(function(_0x0EMeow, ...)
-				local _0x0HGago, _0x0bTangina = _0x0EMeow[#_0x0EMeow], "";
-				for _0x0EMamaMoBlue = 1, #_0x0HGago, 1 do
-					_0x0bTangina = _0x0bTangina .. _0x0HGago[_0x0EMeow[_0x0EMamaMoBlue]];
-				end;
-				return _0x0bTangina;
-			end)({
-				3,
-				1,
-				2,
-				{ "\071\076\061", "\061", "\122\072\120\082" },
-			}),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HBoo = "";
-				for _0x0EBible = 1, #_0x0ETUBOL / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0ETUBOL[#_0x0ETUBOL / 2 + _0x0ETUBOL[_0x0EBible]];
-				end;
-				return _0x0HBoo;
-			end)({
-				3,
-				2,
-				1,
-				"\101\066\114\061",
-				"\073\072\067\054",
-				"\073\051\083\110",
-			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HGay = "";
-				for _0x0ETangina = 1, #_0x0EBAYOT / 2, 1 do
-					_0x0HGay = _0x0HGay .. _0x0EBAYOT[#_0x0EBAYOT / 2 + _0x0EBAYOT[_0x0ETangina]];
-				end;
-				return _0x0HGay;
-			end)({
-				2,
-				1,
-				"\061",
-				"\116\114\075\108\114\056\081",
-			}),
-			(function(_0x0EKigol, ...)
-				local _0x0HPutangInaSabiNangWag, _0x0bTerrorist = _0x0EKigol[#_0x0EKigol], "";
-				for _0x0ESkilliSSUE = 1, #_0x0HPutangInaSabiNangWag, 1 do
-					_0x0bTerrorist = _0x0bTerrorist .. _0x0HPutangInaSabiNangWag[_0x0EKigol[_0x0ESkilliSSUE]];
-				end;
-				return _0x0bTerrorist;
-			end)({ 1, 2, { "\084\043\088", "\114\067\056\103\056" } }),
-			(function(_0x0ETerrorist, ...)
-				local _0x0HSINGIT = "";
-				for _0x0ENoSkill = 1, #_0x0ETerrorist / 2, 1 do
-					_0x0HSINGIT = _0x0HSINGIT .. _0x0ETerrorist[#_0x0ETerrorist / 2 + _0x0ETerrorist[_0x0ENoSkill]];
-				end;
-				return _0x0HSINGIT;
-			end)({
-				1,
-				2,
-				"\077\085\090\116\113\098\053",
-				"\069\056\081\061\061",
-			}),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HBAYOT = "";
-				for _0x0ELove = 1, #_0x0EPutangInaSabiNangWag / 2, 1 do
-					_0x0HBAYOT = _0x0HBAYOT .. _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag / 2 + _0x0EPutangInaSabiNangWag[_0x0ELove]];
-				end;
-				return _0x0HBAYOT;
-			end)({
-				2,
-				1,
-				4,
-				3,
-				"\082\047\109\113\053",
-				"\071\109\112",
-				"\056\081\061",
-				"\047\066\057\053\047",
-			}),
-			(function(_0x0ESINGIT, ...)
-				local _0x0HNigger = "";
-				for _0x0ENoSkill = 1, #_0x0ESINGIT / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0ESINGIT[#_0x0ESINGIT / 2 + _0x0ESINGIT[_0x0ENoSkill]];
-				end;
-				return _0x0HNigger;
-			end)({
-				3,
-				2,
-				1,
-				4,
-				"\105\121\117\054",
-				"\115\119\068",
-				"\108\065\051\103\090\087\087",
-				"\117\079",
-			}),
-			(function(_0x0EGago, ...)
-				local _0x0HGago = "";
-				for _0x0ESINGIT = 1, #_0x0EGago / 2, 1 do
-					_0x0HGago = _0x0HGago .. _0x0EGago[#_0x0EGago / 2 + _0x0EGago[_0x0ESINGIT]];
-				end;
-				return _0x0HGago;
-			end)({
-				2,
-				5,
-				1,
-				4,
-				3,
-				"\085\089",
-				"\080\078\120",
-				"\110\047\102\102\061",
-				"\113\079\050\098\112",
-				"\121\122\051\055\075",
-			}),
-			(function(_0x0EDick, ...)
-				local _0x0HTangina, _0x0bTUBOL = _0x0EDick[#_0x0EDick], "";
-				for _0x0ESINGIT = 1, #_0x0HTangina, 1 do
-					_0x0bTUBOL = _0x0bTUBOL .. _0x0HTangina[_0x0EDick[_0x0ESINGIT]];
-				end;
-				return _0x0bTUBOL;
-			end)({ 1, 2, { "\086\080\075\073\084\074\077", "\087\079\047\070\061" } }),
-			(function(_0x0EGago, ...)
-				local _0x0HRespect, _0x0bBrainDamage = _0x0EGago[#_0x0EGago], "";
-				for _0x0EPutangInaSabiNangWag = 1, #_0x0HRespect, 1 do
-					_0x0bBrainDamage = _0x0bBrainDamage .. _0x0HRespect[_0x0EGago[_0x0EPutangInaSabiNangWag]];
-				end;
-				return _0x0bBrainDamage;
-			end)({
-				3,
-				1,
-				2,
-				{ "\106\119\079", "\116", "\097\101\068\070" },
-			}),
-			(function(_0x0EPlsNo, ...)
-				local _0x0HUrMom, _0x0bPlsNo = _0x0EPlsNo[#_0x0EPlsNo], "";
-				for _0x0ETerrorist = 1, #_0x0HUrMom, 1 do
-					_0x0bPlsNo = _0x0bPlsNo .. _0x0HUrMom[_0x0EPlsNo[_0x0ETerrorist]];
-				end;
-				return _0x0bPlsNo;
-			end)({
-				1,
-				2,
-				3,
-				{ "\100\113\113\048\108\076\068", "\100\088\088", "\049\061" },
-			}),
-			(function(_0x0EOhab, ...)
-				local _0x0HBrainDamage = "";
-				for _0x0ENigger = 1, #_0x0EOhab / 2, 1 do
-					_0x0HBrainDamage = _0x0HBrainDamage .. _0x0EOhab[#_0x0EOhab / 2 + _0x0EOhab[_0x0ENigger]];
-				end;
-				return _0x0HBrainDamage;
-			end)({
-				2,
-				4,
-				3,
-				1,
-				"\061\061",
-				"\084\072\079\090\080\098\120",
-				"\110\057\099\112\053\057\049",
-				"\072\084\102\120",
-			}),
-			(function(_0x0EBILAT, ...)
-				local _0x0HIveDoneNothing = "";
-				for _0x0ETerrorist = 1, #_0x0EBILAT / 2, 1 do
-					_0x0HIveDoneNothing = _0x0HIveDoneNothing .. _0x0EBILAT[#_0x0EBILAT / 2 + _0x0EBILAT[_0x0ETerrorist]];
-				end;
-				return _0x0HIveDoneNothing;
-			end)({
-				3,
-				2,
-				4,
-				1,
-				"\105\065\070",
-				"\077\082\087\122\077\083",
-				"\108\086",
-				"\056\053\049\075\104",
-			}),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HTUBOL = "";
-				for _0x0ENigaBytes = 1, #_0x0EBrainDamage / 2, 1 do
-					_0x0HTUBOL = _0x0HTUBOL .. _0x0EBrainDamage[#_0x0EBrainDamage / 2 + _0x0EBrainDamage[_0x0ENigaBytes]];
-				end;
-				return _0x0HTUBOL;
-			end)({
-				2,
-				1,
-				3,
-				"\073\072\053\065\101\081",
-				"\047\098\057\121",
-				"\061\061",
-			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HBILAT, _0x0bDick = _0x0EBAYOT[#_0x0EBAYOT], "";
-				for _0x0EUrMom = 1, #_0x0HBILAT, 1 do
-					_0x0bDick = _0x0bDick .. _0x0HBILAT[_0x0EBAYOT[_0x0EUrMom]];
-				end;
-				return _0x0bDick;
-			end)({
-				2,
-				3,
-				1,
-				{ "\088\061\061", "\052\102", "\114\119\082" },
-			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HMeow, _0x0bRespect = _0x0EBAYOT[#_0x0EBAYOT], "";
-				for _0x0ESHAyBAO = 1, #_0x0HMeow, 1 do
-					_0x0bRespect = _0x0bRespect .. _0x0HMeow[_0x0EBAYOT[_0x0ESHAyBAO]];
-				end;
-				return _0x0bRespect;
-			end)({
-				3,
-				2,
-				1,
-				{ "\061", "\056\114", "\101\098\121\117\122" },
-			}),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HLove = "";
-				for _0x0EDick = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0EDick]];
-				end;
-				return _0x0HLove;
-			end)({
-				3,
-				1,
-				2,
-				"\065\078\101\109\111\082\086",
-				"\084\050\061",
-				"\077\086",
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HOhab, _0x0bTFYouLookingAt = _0x0ETangina[#_0x0ETangina], "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0HOhab, 1 do
-					_0x0bTFYouLookingAt = _0x0bTFYouLookingAt .. _0x0HOhab[_0x0ETangina[_0x0EBroStudyingHowMyBrainWorks]];
-				end;
-				return _0x0bTFYouLookingAt;
-			end)({ 2, 1, { "\061\061", "\073\078\120\107\073\076" } }),
-			"\073\077\049\061",
-			(function(_0x0ERespect, ...)
-				local _0x0HPlsNo, _0x0bGago = _0x0ERespect[#_0x0ERespect], "";
-				for _0x0EBoo = 1, #_0x0HPlsNo, 1 do
-					_0x0bGago = _0x0bGago .. _0x0HPlsNo[_0x0ERespect[_0x0EBoo]];
-				end;
-				return _0x0bGago;
-			end)({
-				1,
-				5,
-				2,
-				4,
-				3,
 				{
-					"\073\072\111\055",
-					"\057\110\050\056\112\107",
-					"\061",
-					"\122\078\075",
-					"\122\078\083\119\101\089",
-				},
-			}),
-			(function(_0x0EIveDoneNothing, ...)
-				local _0x0HBakla = "";
-				for _0x0ELove = 1, #_0x0EIveDoneNothing / 2, 1 do
-					_0x0HBakla = _0x0HBakla .. _0x0EIveDoneNothing[#_0x0EIveDoneNothing / 2 + _0x0EIveDoneNothing[_0x0ELove]];
-				end;
-				return _0x0HBakla;
-			end)({
-				2,
-				3,
-				1,
-				"\088\061\061",
-				"\119\099",
-				"\104\088\077\117\050\074\053",
-			}),
-			(function(_0x0EPaasa, ...)
-				local _0x0HLove = "";
-				for _0x0ETFYouLookingAt = 1, #_0x0EPaasa / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0EPaasa[#_0x0EPaasa / 2 + _0x0EPaasa[_0x0ETFYouLookingAt]];
-				end;
-				return _0x0HLove;
-			end)({
-				2,
-				1,
-				"\055\088\061\061",
-				"\075\120\108\107",
-			}),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HNigger = "";
-				for _0x0ETangina = 1, #_0x0EBrainDamage / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0EBrainDamage[#_0x0EBrainDamage / 2 + _0x0EBrainDamage[_0x0ETangina]];
-				end;
-				return _0x0HNigger;
-			end)({
-				2,
-				1,
-				"\107\047\089\116\061",
-				"\047\051\120",
-			}),
-			"\087\076\061\061",
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HDick = "";
-				for _0x0EKigol = 1, #_0x0EBrainDamage / 2, 1 do
-					_0x0HDick = _0x0HDick .. _0x0EBrainDamage[#_0x0EBrainDamage / 2 + _0x0EBrainDamage[_0x0EKigol]];
-				end;
-				return _0x0HDick;
-			end)({
-				4,
-				1,
-				2,
-				3,
-				"\071\067\083\098\073\072",
-				"\111\086\073\051",
-				"\053\117\122\088\061\061",
-				"\071\051\083\117",
-			}),
-			(function(_0x0ESHAyBAO, ...)
-				local _0x0HPleaseImBeggingNooo, _0x0bWagGago = _0x0ESHAyBAO[#_0x0ESHAyBAO], "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0HPleaseImBeggingNooo, 1 do
-					_0x0bWagGago = _0x0bWagGago .. _0x0HPleaseImBeggingNooo[_0x0ESHAyBAO[_0x0EBroStudyingHowMyBrainWorks]];
-				end;
-				return _0x0bWagGago;
-			end)({
-				3,
-				1,
-				2,
-				{ "\104\047", "\098\057\098", "\050\078\121\117\122\098\057" },
-			}),
-			(function(_0x0EFallenPartsDestroyHeight, ...)
-				local _0x0HMeow, _0x0bTUBOL = _0x0EFallenPartsDestroyHeight[#_0x0EFallenPartsDestroyHeight], "";
-				for _0x0EGay = 1, #_0x0HMeow, 1 do
-					_0x0bTUBOL = _0x0bTUBOL .. _0x0HMeow[_0x0EFallenPartsDestroyHeight[_0x0EGay]];
-				end;
-				return _0x0bTUBOL;
-			end)({ 2, 1, { "\054", "\054\101\102\073\086\066\087" } }),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HWagGago = "";
-				for _0x0EDiKanaNiyaMahal = 1, #_0x0ENoSkill / 2, 1 do
-					_0x0HWagGago = _0x0HWagGago .. _0x0ENoSkill[#_0x0ENoSkill / 2 + _0x0ENoSkill[_0x0EDiKanaNiyaMahal]];
-				end;
-				return _0x0HWagGago;
-			end)({
-				2,
-				3,
-				1,
-				4,
-				"\105\082\079\048\121\106",
-				"\085\104\081\112\098",
-				"\113\121\086",
-				"\070\061",
-			}),
-			(function(_0x0EPleaseImBeggingNooo, ...)
-				local _0x0HIveDoneNothing, _0x0bWagGago = _0x0EPleaseImBeggingNooo[#_0x0EPleaseImBeggingNooo], "";
-				for _0x0EDick = 1, #_0x0HIveDoneNothing, 1 do
-					_0x0bWagGago = _0x0bWagGago .. _0x0HIveDoneNothing[_0x0EPleaseImBeggingNooo[_0x0EDick]];
-				end;
-				return _0x0bWagGago;
-			end)({
-				1,
-				3,
-				2,
-				{ "\050\104\108\108", "\114\057\083\075\057", "\077\047\085" },
-			}),
-			(function(_0x0EBoo, ...)
-				local _0x0HNigger, _0x0bWagGago = _0x0EBoo[#_0x0EBoo], "";
-				for _0x0ELove = 1, #_0x0HNigger, 1 do
-					_0x0bWagGago = _0x0bWagGago .. _0x0HNigger[_0x0EBoo[_0x0ELove]];
-				end;
-				return _0x0bWagGago;
-			end)({
-				2,
-				1,
-				3,
-				{ "\085\122\086\082", "\117\070\119", "\109\047\082\119\043" },
-			}),
-			(function(_0x0ETFYouLookingAt, ...)
-				local _0x0HFallenPartsDestroyHeight, _0x0bLove = _0x0ETFYouLookingAt[#_0x0ETFYouLookingAt], "";
-				for _0x0HWagGago = 1, #_0x0HFallenPartsDestroyHeight, 1 do
-					_0x0bLove = _0x0bLove .. _0x0HFallenPartsDestroyHeight[_0x0ETFYouLookingAt[_0x0HWagGago]];
-				end;
-				return _0x0bLove;
-			end)({
-				3,
-				1,
-				2,
-				4,
-				{
-					"\120\071\109\052\090\098\117",
-					"\104\051\077\089",
-					"\050\099\109\088\103",
-					"\121\105\081\061",
-				},
-			}),
-			(function(_0x0EPlsNo, ...)
-				local _0x0HDiKanaNiyaMahal, _0x0bRomans12_19 = _0x0EPlsNo[#_0x0EPlsNo], "";
-				for _0x0ESkidDetected = 1, #_0x0HDiKanaNiyaMahal, 1 do
-					_0x0bRomans12_19 = _0x0bRomans12_19  .. _0x0HDiKanaNiyaMahal[_0x0EPlsNo[_0x0ESkidDetected]];
-				end;
-				return _0x0bRomans12_19;
-			end)({
-				1,
-				2,
-				3,
-				4,
-				{
-					"\072\089",
-					"\108\079\071\072\079",
-					"\102\101",
-					"\082\043\118\050\053\101\071",
-				},
-			}),
-			(function(_0x0ESkidDetected, ...)
-				local _0x0HPaasa = "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0ESkidDetected / 2, 1 do
-					_0x0HPaasa = _0x0HPaasa .. _0x0ESkidDetected[#_0x0ESkidDetected / 2 + _0x0ESkidDetected[_0x0EBroStudyingHowMyBrainWorks]];
-				end;
-				return _0x0HPaasa;
-			end)({
-				1,
-				3,
-				4,
-				2,
-				6,
-				5,
-				"\066\067\070\049\084",
-				"\102\043\080",
-				"\099\052",
-				"\051\050\098\107\119\085",
-				"\111\089\071\072\111\043",
-				"\050\072",
-			}),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HIveDoneNothing, _0x0bLove = _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag], "";
-				for _0x0ERomans12_19 = 1, #_0x0HIveDoneNothing, 1 do
-					_0x0bLove = _0x0bLove .. _0x0HIveDoneNothing[_0x0EPutangInaSabiNangWag[_0x0ERomans12_19]];
-				end;
-				return _0x0bLove;
-			end)({
-				3,
-				2,
-				4,
-				5,
-				1,
-				{
-					"\083\110",
-					"\117\071",
-					"\071\051\083",
-					"\078\101\067\122\098\108\082",
-					"\071\072",
-				},
-			}),
-			(function(_0x0ELove, ...)
-				local _0x0HUrMom, _0x0bRespect = _0x0ELove[#_0x0ELove], "";
-				for _0x0ENigger = 1, #_0x0HUrMom, 1 do
-					_0x0bRespect = _0x0bRespect .. _0x0HUrMom[_0x0ELove[_0x0ENigger]];
-				end;
-				return _0x0bRespect;
-			end)({ 2, 1, { "\061", "\107\121\054\053\072\119\050" } }),
-			(function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HPaasa = "";
-				for _0x0EFallenPartsDestroyHeight = 1, #_0x0EDiKanaNiyaMahal / 2, 1 do
-					_0x0HPaasa = _0x0HPaasa .. _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal / 2 + _0x0EDiKanaNiyaMahal[_0x0EFallenPartsDestroyHeight]];
-				end;
-				return _0x0HPaasa;
-			end)({
-				2,
-				1,
-				"\061\061",
-				"\086\056\049\074\101\076",
-			}),
-			"\118\066\108\052",
-			(function(_0x0EWagGago, ...)
-				local _0x0HBrainDamage, _0x0bMeow = _0x0EWagGago[#_0x0EWagGago], "";
-				for _0x0EMeow = 1, #_0x0HBrainDamage, 1 do
-					_0x0bMeow = _0x0bMeow .. _0x0HBrainDamage[_0x0EWagGago[_0x0EMeow]];
-				end;
-				return _0x0bMeow;
-			end)({
-				3,
-				4,
-				2,
-				1,
-				{
-					"\112\104",
-					"\072\083\122\115\112",
-					"\071\071\065\050",
-					"\116\077\088\074\108",
-				},
-			}),
-			(function(_0x0ETerrorist, ...)
-				local _0x0HGay, _0x0bFallenPartsDestroyHeight = _0x0ETerrorist[#_0x0ETerrorist], "";
-				for _0x0EBrainDamage = 1, #_0x0HGay, 1 do
-					_0x0bFallenPartsDestroyHeight = _0x0bFallenPartsDestroyHeight .. _0x0HGay[_0x0ETerrorist[_0x0EBrainDamage]];
-				end;
-				return _0x0bFallenPartsDestroyHeight;
-			end)({
-				2,
-				1,
-				3,
-				5,
-				4,
-				{
-					"\086\111\069\088",
-					"\076\043\079",
-					"\119\065",
-					"\075\112",
-					"\113\119\078\087\106",
-				},
-			}),
-			(function(_0x0EBroStudyingHowMyBrainWorks, ...)
-				local _0x0HTanginaMoCge, _0x0bTUBOL = _0x0EBroStudyingHowMyBrainWorks[#_0x0EBroStudyingHowMyBrainWorks], "";
-				for _0x0ESkidDetected = 1, #_0x0HTanginaMoCge, 1 do
-					_0x0bTUBOL = _0x0bTUBOL .. _0x0HTanginaMoCge[_0x0EBroStudyingHowMyBrainWorks[_0x0ESkidDetected]];
-				end;
-				return _0x0bTUBOL;
-			end)({
-				2,
-				3,
-				1,
-				{ "\067\077\098\108\066\084", "\074\075\114\098\101\073", "\085\053\100\068" },
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HDick = "";
-				for _0x0ETFYouLookingAt = 1, #_0x0EMamaMoBlue / 2, 1 do
-					_0x0HDick = _0x0HDick .. _0x0EMamaMoBlue[#_0x0EMamaMoBlue / 2 + _0x0EMamaMoBlue[_0x0ETFYouLookingAt]];
-				end;
-				return _0x0HDick;
-			end)({
-				3,
-				1,
-				2,
-				5,
-				4,
-				"\070\115",
-				"\065\074\097",
-				"\109\089\043\053",
-				"\087\073\057\114\061",
-				"\117\075",
-			}),
-			(function(_0x0EWagGago, ...)
-				local _0x0HWagGago = "";
-				for _0x0ESHAyBAO = 1, #_0x0EWagGago / 2, 1 do
-					_0x0HWagGago = _0x0HWagGago .. _0x0EWagGago[#_0x0EWagGago / 2 + _0x0EWagGago[_0x0ESHAyBAO]];
-				end;
-				return _0x0HWagGago;
-			end)({
-				2,
-				1,
-				"\048",
-				"\112\098\121\067\084\109\057",
-			}),
-			(function(_0x0EIveDoneNothing, ...)
-				local _0x0HPutangInaSabiNangWag = "";
-				for _0x0ENigger = 1, #_0x0EIveDoneNothing / 2, 1 do
-					_0x0HPutangInaSabiNangWag = _0x0HPutangInaSabiNangWag .. _0x0EIveDoneNothing[#_0x0EIveDoneNothing / 2 + _0x0EIveDoneNothing[_0x0ENigger]];
-				end;
-				return _0x0HPutangInaSabiNangWag;
-			end)({
-				2,
-				3,
-				1,
-				"\061",
-				"\122\051",
-				"\083\056\101\066\114",
-			}),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HMeow = "";
-				for _0x0EBoo = 1, #_0x0EPutangInaSabiNangWag / 2, 1 do
-					_0x0HMeow = _0x0HMeow .. _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag / 2 + _0x0EPutangInaSabiNangWag[_0x0EBoo]];
-				end;
-				return _0x0HMeow;
-			end)({
-				1,
-				4,
-				5,
-				6,
-				2,
-				3,
-				"\111\083\115\119\055\070\078",
-				"\071\049",
-				"\061",
-				"\102\083",
-				"\090\048",
-				"\078\070",
-			}),
-			"\122\051\057\110",
-			(function(_0x0ELove, ...)
-				local _0x0HBible, _0x0bBible = _0x0ELove[#_0x0ELove], "";
-				for _0x0ERespect = 1, #_0x0HBible, 1 do
-					_0x0bBible = _0x0bBible .. _0x0HBible[_0x0ELove[_0x0ERespect]];
-				end;
-				return _0x0bBible;
-			end)({
-				3,
-				1,
-				2,
-				{ "\103\074", "\047\078", "\117\086\088\070" },
-			}),
-			(function(_0x0EPleaseImBeggingNooo, ...)
-				local _0x0HBible = "";
-				for _0x0EMeow = 1, #_0x0EPleaseImBeggingNooo / 2, 1 do
-					_0x0HBible = _0x0HBible .. _0x0EPleaseImBeggingNooo[#_0x0EPleaseImBeggingNooo / 2 + _0x0EPleaseImBeggingNooo[_0x0EMeow]];
-				end;
-				return _0x0HBible;
-			end)({
-				3,
-				1,
-				2,
-				"\050\108\067\119\068\081\055",
-				"\055",
-				"\065\056\113\043",
-			}),
-			(function(_0x0EPlsNo, ...)
-				local _0x0HBroStudyingHowMyBrainWorks, _0x0bDick = _0x0EPlsNo[#_0x0EPlsNo], "";
-				for _0x0ETFYouLookingAt = 1, #_0x0HBroStudyingHowMyBrainWorks, 1 do
-					_0x0bDick = _0x0bDick .. _0x0HBroStudyingHowMyBrainWorks[_0x0EPlsNo[_0x0ETFYouLookingAt]];
-				end;
-				return _0x0bDick;
-			end)({
-				2,
-				5,
-				1,
-				3,
-				4,
-				{
-					"\108\082\081\078",
-					"\112\098\053\110\101\068\101",
-					"\043\107\122\051",
-					"\081\061",
-					"\107\047\089",
-				},
-			}),
-			(function(_0x0EBrainDamage, ...)
-				local _0x0HBakla, _0x0bRespect = _0x0EBrainDamage[#_0x0EBrainDamage], "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0HBakla, 1 do
-					_0x0bRespect = _0x0bRespect .. _0x0HBakla[_0x0EBrainDamage[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0bRespect;
-			end)({ 2, 1, { "\061", "\101\078\120\079\101\081\061" } }),
-			(function(_0x0ESINGIT, ...)
-				local _0x0HKigol = "";
-				for _0x0EBible = 1, #_0x0ESINGIT / 2, 1 do
-					_0x0HKigol = _0x0HKigol .. _0x0ESINGIT[#_0x0ESINGIT / 2 + _0x0ESINGIT[_0x0EBible]];
-				end;
-				return _0x0HKigol;
-			end)({
-				2,
-				1,
-				"\119\100\090\057\115",
-				"\101\119\088\085\068\089\065",
-			}),
-			(function(_0x0ETerrorist, ...)
-				local _0x0HOhab, _0x0bBoo = _0x0ETerrorist[#_0x0ETerrorist], "";
-				for _0x0ELove = 1, #_0x0HOhab, 1 do
-					_0x0bBoo = _0x0bBoo .. _0x0HOhab[_0x0ETerrorist[_0x0ELove]];
-				end;
-				return _0x0bBoo;
-			end)({ 2, 1, { "\047\061", "\051\111\089\068\114\074" } }),
-			(function(_0x0EFallenPartsDestroyHeight, ...)
-				local _0x0HNigger = "";
-				for _0x0EBoo = 1, #_0x0EFallenPartsDestroyHeight / 2, 1 do
-					_0x0HNigger = _0x0HNigger .. _0x0EFallenPartsDestroyHeight[#_0x0EFallenPartsDestroyHeight / 2 + _0x0EFallenPartsDestroyHeight[_0x0EBoo]];
-				end;
-				return _0x0HNigger;
-			end)({
-				2,
-				1,
-				"\053\110",
-				"\047\056",
-			}),
-			(function(_0x0ETangina, ...)
-				local _0x0HBakla = "";
-				for _0x0ERespect = 1, #_0x0ETangina / 2, 1 do
-					_0x0HBakla = _0x0HBakla .. _0x0ETangina[#_0x0ETangina / 2 + _0x0ETangina[_0x0ERespect]];
-				end;
-				return _0x0HBakla;
-			end)({
-				3,
-				2,
-				4,
-				1,
-				"\061",
-				"\082\116\114\051\051",
-				"\076\085\055\104",
-				"\110\116\089\082\116\102",
-			}),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HMamaMoBlue, _0x0bNigger = _0x0ENoSkill[#_0x0ENoSkill], "";
-				for _0x0EPleaseImBeggingNooo = 1, #_0x0HMamaMoBlue, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HMamaMoBlue[_0x0ENoSkill[_0x0EPleaseImBeggingNooo]];
-				end;
-				return _0x0bNigger;
-			end)({ 1, 2, { "\071\066\108\104\071\051\083", "\117\071\078\057\102" } }),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HBoo = "";
-				for _0x0EWagGago = 1, #_0x0EPutangInaSabiNangWag / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag / 2 + _0x0EPutangInaSabiNangWag[_0x0EWagGago]];
-				end;
-				return _0x0HBoo;
-			end)({
-				4,
-				3,
-				2,
-				1,
-				"\043\122\072\080\061",
-				"\122\068\111",
-				"\057\105",
-				"\112\078\057\082\112\089",
-			}),
-			(function(_0x0ESHAyBAO, ...)
-				local _0x0HTangina, _0x0bBroStudyingHowMyBrainWorks = _0x0ESHAyBAO[#_0x0ESHAyBAO], "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0HTangina, 1 do
-					_0x0bBroStudyingHowMyBrainWorks = _0x0bBroStudyingHowMyBrainWorks .. _0x0HTangina[_0x0ESHAyBAO[_0x0EBroStudyingHowMyBrainWorks]];
-				end;
-				return _0x0bBroStudyingHowMyBrainWorks;
-			end)({ 2, 1, { "\081\061\061", "\050\089\053\082\101" } }),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HTangina, _0x0bSkilliSSUE = _0x0ETUBOL[#_0x0ETUBOL], "";
-				for _0x0EWagGago = 1, #_0x0HTangina, 1 do
-					_0x0bSkilliSSUE = _0x0bSkilliSSUE .. _0x0HTangina[_0x0ETUBOL[_0x0EWagGago]];
-				end;
-				return _0x0bSkilliSSUE;
-			end)({
-				5,
-				3,
-				2,
-				1,
-				4,
-				{
-					"\116\072\109\081\074",
-					"\110\101",
-					"\072\105",
-					"\097",
-					"\121\101\116\069\101\084",
-				},
-			}),
-			"\075\049\061\061",
-			(function(_0x0EUrMom, ...)
-				local _0x0HPlsNo = "";
-				for _0x0EBroStudyingHowMyBrainWorks = 1, #_0x0EUrMom / 2, 1 do
-					_0x0HPlsNo = _0x0HPlsNo .. _0x0EUrMom[#_0x0EUrMom / 2 + _0x0EUrMom[_0x0EBroStudyingHowMyBrainWorks]];
-				end;
-				return _0x0HPlsNo;
-			end)({
-				1,
-				3,
-				2,
-				"\047\078\057",
-				"\112\043\050\098\121\053",
-				"\082\122\072\057\082\050\066",
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HGay = "";
-				for _0x0HDick = 1, #_0x0EMamaMoBlue / 2, 1 do
-					_0x0HGay = _0x0HGay .. _0x0EMamaMoBlue[#_0x0EMamaMoBlue / 2 + _0x0EMamaMoBlue[_0x0HDick]];
-				end;
-				return _0x0HGay;
-			end)({
-				2,
-				1,
-				3,
-				"\116\116\049\061",
-				"\052\075\056\043\052\052\054",
-				"\061",
-			}),
-			"\114\057\122\119",
-			(function(_0x0EKigol, ...)
-				local _0x0HGay = "";
-				for _0x0EPaasa = 1, #_0x0EKigol / 2, 1 do
-					_0x0HGay = _0x0HGay .. _0x0EKigol[#_0x0EKigol / 2 + _0x0EKigol[_0x0EPaasa]];
-				end;
-				return _0x0HGay;
-			end)({
-				1,
-				2,
-				"\075\083\070",
-				"\061",
-			}),
-			(function(_0x0ESINGIT, ...)
-				local _0x0HMamaMoBlue = "";
-				for _0x0EBible = 1, #_0x0ESINGIT / 2, 1 do
-					_0x0HMamaMoBlue = _0x0HMamaMoBlue .. _0x0ESINGIT[#_0x0ESINGIT / 2 + _0x0ESINGIT[_0x0EBible]];
-				end;
-				return _0x0HMamaMoBlue;
-			end)({
-				2,
-				1,
-				"\090\057\047\080\076\061",
-				"\066\090\080\119\084\108",
-			}),
-			(function(_0x0EPaasa, ...)
-				local _0x0HSkilliSSUE = "";
-				for _0x0EDiKanaNiyaMahal = 1, #_0x0EPaasa / 2, 1 do
-					_0x0HSkilliSSUE = _0x0HSkilliSSUE .. _0x0EPaasa[#_0x0EPaasa / 2 + _0x0EPaasa[_0x0EDiKanaNiyaMahal]];
-				end;
-				return _0x0HSkilliSSUE;
-			end)({
-				5,
-				3,
-				1,
-				2,
-				4,
-				"\043\071\118\056",
-				"\100\106\056\114\070\118\102",
-				"\072\048",
-				"\061",
-				"\068\069\103\110\101\097",
-			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HPleaseImBeggingNooo = "";
-				for _0x0EBrainDamage = 1, #_0x0EBAYOT / 2, 1 do
-					_0x0HPleaseImBeggingNooo = _0x0HPleaseImBeggingNooo .. _0x0EBAYOT[#_0x0EBAYOT / 2 + _0x0EBAYOT[_0x0EBrainDamage]];
-				end;
-				return _0x0HPleaseImBeggingNooo;
-			end)({
-				2,
-				3,
-				1,
-				"\061",
-				"\054\105",
-				"\056\049\101\088\061",
-			}),
-			(function(_0x0EOhab, ...)
-				local _0x0HNigaBytes = "";
-				for _0x0ERespect = 1, #_0x0EOhab / 2, 1 do
-					_0x0HNigaBytes = _0x0HNigaBytes .. _0x0EOhab[#_0x0EOhab / 2 + _0x0EOhab[_0x0ERespect]];
-				end;
-				return _0x0HNigaBytes;
-			end)({
-				5,
-				2,
-				4,
-				1,
-				3,
-				"\083\116\067\088\061",
-				"\084\109",
-				"\061",
-				"\043\097\076\114",
-				"\074\121\089\078",
-			}),
-			(function(_0x0ELove, ...)
-				local _0x0HKigol, _0x0bTerrorist = _0x0ELove[#_0x0ELove], "";
-				for _0x0ENigger = 1, #_0x0HKigol, 1 do
-					_0x0bTerrorist = _0x0bTerrorist .. _0x0HKigol[_0x0ELove[_0x0ENigger]];
-				end;
-				return _0x0bTerrorist;
-			end)({
-				1,
-				2,
-				4,
-				3,
-				{
-					"\080\051\108",
-					"\043\065",
+					"\057\078\086\115\072\072\101",
 					"\061\061",
-					"\113\072\080\083\049",
+					"\108\116",
+					"\086\116\118\054\049\081",
+					"\115\122\100",
+					"\049\081",
+					"\056\047\111\100\089",
+					"\109\076\119",
+					"\072\067\043",
+					"\113\070",
+					"\072\115\097\112\055",
+					"\087\119\086\079",
+					"\050\070\097",
+					"\101\068\119\066\119\069\099",
+					"\090\073",
+					"\050\101\110\066",
+					"\117\069\099",
+					"\088\079\056\043\101",
+					"\101\075\122\055\121\074\056",
+					"\117\066\069\115\047",
+					"\110\051\117\082\052",
+					"\077\078\078",
+					"\073\047",
+					"\100\105\113\111\090\102",
+					"\117\112\098\077",
+					"\073\074\048",
+					"\101\056\100\078\089\084",
+					"\057\071\086\072\057\072",
+					"\076\086\088",
+					"\106\116\088\048",
+					"\082\088\099\066\047",
+					"\118\051\071",
+					"\056\099\068\051\117\079",
+					"\114\068\077",
+					"\115\107\056\076",
+					"\054\105\088\104",
+					"\105\112\121\088\114",
+					"\117\055\107\084\088",
+					"\073\109\097\079\053\110\087",
 				},
 			}),
-			(function(_0x0EPutangInaSabiNangWag, ...)
-				local _0x0HIveDoneNothing, _0x0bGago = _0x0EPutangInaSabiNangWag[#_0x0EPutangInaSabiNangWag], "";
-				for _0x0EBILAT = 1, #_0x0HIveDoneNothing, 1 do
-					_0x0bGago = _0x0bGago .. _0x0HIveDoneNothing[_0x0EPutangInaSabiNangWag[_0x0EBILAT]];
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SSHAyBAO, _0x0VTangina = _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks], "";
+				for _0x0sKigol = 1, #_0x0SSHAyBAO, 1 do
+					_0x0VTangina = _0x0VTangina .. _0x0SSHAyBAO[_0x0sBroStudyingHowMyBrainWorks[_0x0sKigol]];
 				end;
-				return _0x0bGago;
-			end)({
-				3,
-				2,
-				1,
-				{ "\051\121\121", "\088\050", "\082\107\102\119\108\103\116" },
-			}),
-			(function(_0x0EBakla, ...)
-				local _0x0HRespect = "";
-				for _0x0EBrainDamage = 1, #_0x0EBakla / 2, 1 do
-					_0x0HRespect = _0x0HRespect .. _0x0EBakla[#_0x0EBakla / 2 + _0x0EBakla[_0x0EBrainDamage]];
-				end;
-				return _0x0HRespect;
+				return _0x0VTangina;
 			end)({
 				1,
-				3,
-				5,
 				4,
+				3,
 				2,
-				"\050\080\114\078\122\053",
+				{
+					"\066\080",
+					"\089\068\108\065\061",
+					"\055\118\111",
+					"\099\074\103\057\086\112",
+				},
+			}),
+			"\050\102\061\061",
+			(function(_0x0sBible, ...)
+				local _0x0SNigger = "";
+				for _0x0sNoSkill = 1, #_0x0sBible / 2, 1 do
+					_0x0SNigger = _0x0SNigger .. _0x0sBible[#_0x0sBible / 2 + _0x0sBible[_0x0sNoSkill]];
+				end;
+				return _0x0SNigger;
+			end)({
+				3,
+				2,
+				1,
+				4,
+				"\115\067\056\061",
+				"\087\120\052\105",
+				"\077\102\102",
+				"\061",
+			}),
+			(function(_0x0sUrMom, ...)
+				local _0x0SSINGIT = "";
+				for _0x0sBoo = 1, #_0x0sUrMom / 2, 1 do
+					_0x0SSINGIT = _0x0SSINGIT .. _0x0sUrMom[#_0x0sUrMom / 2 + _0x0sUrMom[_0x0sBoo]];
+				end;
+				return _0x0SSINGIT;
+			end)({
+				3,
+				2,
+				1,
+				"\051\056\061\061",
+				"\088\112",
+				"\068\099\106\077\102\078",
+			}),
+			(function(_0x0sBroStudyingHowMyBrainWorks, ...)
+				local _0x0SBrainDamage = "";
+				for _0x0sNigaBytes = 1, #_0x0sBroStudyingHowMyBrainWorks / 2, 1 do
+					_0x0SBrainDamage = _0x0SBrainDamage .. _0x0sBroStudyingHowMyBrainWorks[#_0x0sBroStudyingHowMyBrainWorks / 2 + _0x0sBroStudyingHowMyBrainWorks[_0x0sNigaBytes]];
+				end;
+				return _0x0SBrainDamage;
+			end)({
+				3,
+				2,
+				1,
+				"\080\082",
+				"\121\051\083",
+				"\100\048\088",
+			}),
+			(function(_0x0sPleaseImBeggingNooo, ...)
+				local _0x0SBAYOT = "";
+				for _0x0sTanginaMoCge = 1, #_0x0sPleaseImBeggingNooo / 2, 1 do
+					_0x0SBAYOT = _0x0SBAYOT .. _0x0sPleaseImBeggingNooo[#_0x0sPleaseImBeggingNooo / 2 + _0x0sPleaseImBeggingNooo[_0x0sTanginaMoCge]];
+				end;
+				return _0x0SBAYOT;
+			end)({
+				2,
+				1,
 				"\061\061",
-				"\101\098",
-				"\107\101\049",
-				"\108\053\057\116\085\051\108",
+				"\065\054\099\112\070\099",
 			}),
-			(function(_0x0ENigaBytes, ...)
-				local _0x0HNigaBytes, _0x0bDick = _0x0ENigaBytes[#_0x0ENigaBytes], "";
-				for _0x0ENoSkill = 1, #_0x0HNigaBytes, 1 do
-					_0x0bDick = _0x0bDick .. _0x0HNigaBytes[_0x0ENigaBytes[_0x0ENoSkill]];
+			(function(_0x0sTUBOL, ...)
+				local _0x0SSkidDetected, _0x0VWagGago = _0x0sTUBOL[#_0x0sTUBOL], "";
+				for _0x0sOhab = 1, #_0x0SSkidDetected, 1 do
+					_0x0VWagGago = _0x0VWagGago .. _0x0SSkidDetected[_0x0sTUBOL[_0x0sOhab]];
 				end;
-				return _0x0bDick;
+				return _0x0VWagGago;
 			end)({
 				1,
-				3,
-				2,
-				4,
-				{
-					"\047\098",
-					"\043\082\073\109\052",
-					"\113\075\066\078",
-					"\089\101\066\081\061",
-				},
-			}),
-			(function(_0x0ENoSkill, ...)
-				local _0x0HSkidDetected = "";
-				for _0x0EMeow = 1, #_0x0ENoSkill / 2, 1 do
-					_0x0HSkidDetected = _0x0HSkidDetected .. _0x0ENoSkill[#_0x0ENoSkill / 2 + _0x0ENoSkill[_0x0EMeow]];
-				end;
-				return _0x0HSkidDetected;
-			end)({
-				1,
-				2,
-				"\066\067\083",
-				"\105\101\072\075\061",
-			}),
-			"\057\081\065\118",
-			(function(_0x0ERomans12_19, ...)
-				local _0x0HBAYOT, _0x0bPlsNo = _0x0ERomans12_19[#_0x0ERomans12_19], "";
-				for _0x0EDick = 1, #_0x0HBAYOT, 1 do
-					_0x0bPlsNo = _0x0bPlsNo .. _0x0HBAYOT[_0x0ERomans12_19[_0x0EDick]];
-				end;
-				return _0x0bPlsNo;
-			end)({
-				2,
-				4,
-				3,
-				1,
-				{
-					"\061",
-					"\050\078\121\117\122\098\057",
-					"\073\051\053\117\122\088\061",
-					"\098\073\072\111\086",
-				},
-			}),
-			(function(_0x0EMamaMoBlue, ...)
-				local _0x0HMeow = "";
-				for _0x0ENoSkill = 1, #_0x0EMamaMoBlue / 2, 1 do
-					_0x0HMeow = _0x0HMeow .. _0x0EMamaMoBlue[#_0x0EMamaMoBlue / 2 + _0x0EMamaMoBlue[_0x0ENoSkill]];
-				end;
-				return _0x0HMeow;
-			end)({
-				1,
-				2,
-				"\087\074",
-				"\085\106\097\067\114\061",
-			}),
-			(function(_0x0ENigaBytes, ...)
-				local _0x0HBILAT, _0x0bBAYOT = _0x0ENigaBytes[#_0x0ENigaBytes], "";
-				for _0x0ETUBOL = 1, #_0x0HBILAT, 1 do
-					_0x0bBAYOT = _0x0bBAYOT .. _0x0HBILAT[_0x0ENigaBytes[_0x0ETUBOL]];
-				end;
-				return _0x0bBAYOT;
-			end)({ 1, 2, { "\103\076\108\072\121", "\113\084\056\056\088\069\114" } }),
-			(function(_0x0EIveDoneNothing, ...)
-				local _0x0HMamaMoBlue, _0x0bNigger = _0x0EIveDoneNothing[#_0x0EIveDoneNothing], "";
-				for _0x0ESkilliSSUE = 1, #_0x0HMamaMoBlue, 1 do
-					_0x0bNigger = _0x0bNigger .. _0x0HMamaMoBlue[_0x0EIveDoneNothing[_0x0ESkilliSSUE]];
-				end;
-				return _0x0bNigger;
-			end)({ 1, 2, { "\043\084\088\106\106\076", "\061\061" } }),
-			(function(_0x0ETangina, ...)
-				local _0x0HBILAT = "";
-				for _0x0EPlsNo = 1, #_0x0ETangina / 2, 1 do
-					_0x0HBILAT = _0x0HBILAT .. _0x0ETangina[#_0x0ETangina / 2 + _0x0ETangina[_0x0EPlsNo]];
-				end;
-				return _0x0HBILAT;
-			end)({
-				2,
-				1,
-				"\055\043\043\105\088",
-				"\110\115\106",
-			}),
-			(function(_0x0ETUBOL, ...)
-				local _0x0HPutangInaSabiNangWag = "";
-				for _0x0ENigger = 1, #_0x0ETUBOL / 2, 1 do
-					_0x0HPutangInaSabiNangWag = _0x0HPutangInaSabiNangWag .. _0x0ETUBOL[#_0x0ETUBOL / 2 + _0x0ETUBOL[_0x0ENigger]];
-				end;
-				return _0x0HPutangInaSabiNangWag;
-			end)({
-				3,
 				5,
-				4,
-				2,
-				1,
-				"\108\082\071\072\083\110",
-				"\067\122\098",
-				"\047\098\057\048\073",
-				"\065\101\072\101",
-				"\051\083",
-			}),
-			(function(_0x0ENigaBytes, ...)
-				local _0x0HPutangInaSabiNangWag = "";
-				for _0x0EMeow = 1, #_0x0ENigaBytes / 2, 1 do
-					_0x0HPutangInaSabiNangWag = _0x0HPutangInaSabiNangWag .. _0x0ENigaBytes[#_0x0ENigaBytes / 2 + _0x0ENigaBytes[_0x0EMeow]];
-				end;
-				return _0x0HPutangInaSabiNangWag;
-			end)({
-				2,
-				4,
 				3,
-				1,
-				"\061",
-				"\101\078\057",
-				"\088\061",
-				"\082\101\078\057\110\073",
-			}),
-			(function(_0x0ETanginaMoCge, ...)
-				local _0x0HFallenPartsDestroyHeight = "";
-				for _0x0ESkilliSSUE = 1, #_0x0ETanginaMoCge / 2, 1 do
-					_0x0HFallenPartsDestroyHeight = _0x0HFallenPartsDestroyHeight .. _0x0ETanginaMoCge[#_0x0ETanginaMoCge / 2 + _0x0ETanginaMoCge[_0x0ESkilliSSUE]];
-				end;
-				return _0x0HFallenPartsDestroyHeight;
-			end)({
 				4,
-				3,
 				2,
-				1,
-				"\079",
-				"\121\076",
-				"\113\112\100",
-				"\090\114",
-			}),
-			(function(_0x0EWagGago, ...)
-				local _0x0HPaasa = "";
-				for _0x0EOhab = 1, #_0x0EWagGago / 2, 1 do
-					_0x0HPaasa = _0x0HPaasa .. _0x0EWagGago[#_0x0EWagGago / 2 + _0x0EWagGago[_0x0EOhab]];
-				end;
-				return _0x0HPaasa;
-			end)({
-				2,
-				1,
-				"\065\101\072\050\061",
-				"\050\078\121\117\122\098\057",
-			}),
-			(function(_0x0ENigger, ...)
-				local _0x0HGay, _0x0bIveDoneNothing = _0x0ENigger[#_0x0ENigger], "";
-				for _0x0EBible = 1, #_0x0HGay, 1 do
-					_0x0bIveDoneNothing = _0x0bIveDoneNothing .. _0x0HGay[_0x0ENigger[_0x0EBible]];
-				end;
-				return _0x0bIveDoneNothing;
-			end)({
-				3,
-				2,
-				1,
-				4,
 				{
-					"\072\111\086\073\051\053\117",
-					"\065\101\057\083\098\073",
-					"\047\098\057\048\073\051\083",
-					"\122\088\061\061",
+					"\100\113\081\072\111\069\075",
+					"\100\048\099\061",
+					"\120\056\109",
+					"\048\080\104",
+					"\114\087\088\080\098\116\083",
 				},
 			}),
-			(function(_0x0ESkilliSSUE, ...)
-				local _0x0HLove = "";
-				for _0x0EPutangInaSabiNangWag = 1, #_0x0ESkilliSSUE / 2, 1 do
-					_0x0HLove = _0x0HLove .. _0x0ESkilliSSUE[#_0x0ESkilliSSUE / 2 + _0x0ESkilliSSUE[_0x0EPutangInaSabiNangWag]];
+			(function(_0x0sRomans12_19, ...)
+				local _0x0SBroStudyingHowMyBrainWorks, _0x0VTFYouLookingAt = _0x0sRomans12_19[#_0x0sRomans12_19], "";
+				for _0x0sBrainDamage = 1, #_0x0SBroStudyingHowMyBrainWorks, 1 do
+					_0x0VTFYouLookingAt = _0x0VTFYouLookingAt .. _0x0SBroStudyingHowMyBrainWorks[_0x0sRomans12_19[_0x0sBrainDamage]];
 				end;
-				return _0x0HLove;
+				return _0x0VTFYouLookingAt;
+			end)({ 2, 1, { "\081\099\061\061", "\072\101\120\122" } }),
+			(function(_0x0sMamaMoBlue, ...)
+				local _0x0SUrMom = "";
+				for _0x0sSkidDetected = 1, #_0x0sMamaMoBlue / 2, 1 do
+					_0x0SUrMom = _0x0SUrMom .. _0x0sMamaMoBlue[#_0x0sMamaMoBlue / 2 + _0x0sMamaMoBlue[_0x0sSkidDetected]];
+				end;
+				return _0x0SUrMom;
 			end)({
 				1,
 				3,
 				2,
-				"\106\099\110\055\088\049",
-				"\061",
-				"\112\049\049\088\061",
+				"\078\071\074\069\055",
+				"\057\070\105\047",
+				"\114\106\104",
 			}),
-			(function(_0x0EIveDoneNothing, ...)
-				local _0x0HRomans12_19 = "";
-				for _0x0ETerrorist = 1, #_0x0EIveDoneNothing / 2, 1 do
-					_0x0HRomans12_19 = _0x0HRomans12_19  .. _0x0EIveDoneNothing[#_0x0EIveDoneNothing / 2 + _0x0EIveDoneNothing[_0x0ETerrorist]];
+			(function(_0x0sOhab, ...)
+				local _0x0SDick, _0x0VBoo = _0x0sOhab[#_0x0sOhab], "";
+				for _0x0sPleaseImBeggingNooo = 1, #_0x0SDick, 1 do
+					_0x0VBoo = _0x0VBoo .. _0x0SDick[_0x0sOhab[_0x0sPleaseImBeggingNooo]];
 				end;
-				return _0x0HRomans12_19;
+				return _0x0VBoo;
+			end)({
+				1,
+				2,
+				4,
+				3,
+				{
+					"\103\043",
+					"\120\067\117\069\118",
+					"\102\061",
+					"\049\068\088\110\102\120\101",
+				},
+			}),
+			(function(_0x0sPaasa, ...)
+				local _0x0STanginaMoCge, _0x0VDick = _0x0sPaasa[#_0x0sPaasa], "";
+				for _0x0sPlsNo = 1, #_0x0STanginaMoCge, 1 do
+					_0x0VDick = _0x0VDick .. _0x0STanginaMoCge[_0x0sPaasa[_0x0sPlsNo]];
+				end;
+				return _0x0VDick;
+			end)({
+				1,
+				3,
+				2,
+				{ "\051\113\088\082", "\061\061", "\051\099" },
+			}),
+			(function(_0x0sNigaBytes, ...)
+				local _0x0SBible = "";
+				for _0x0sGago = 1, #_0x0sNigaBytes / 2, 1 do
+					_0x0SBible = _0x0SBible .. _0x0sNigaBytes[#_0x0sNigaBytes / 2 + _0x0sNigaBytes[_0x0sGago]];
+				end;
+				return _0x0SBible;
+			end)({
+				1,
+				2,
+				"\080\056\061",
+				"\061",
+			}),
+			(function(_0x0sNoSkill, ...)
+				local _0x0SNigaBytes = "";
+				for _0x0sKigol = 1, #_0x0sNoSkill / 2, 1 do
+					_0x0SNigaBytes = _0x0SNigaBytes .. _0x0sNoSkill[#_0x0sNoSkill / 2 + _0x0sNoSkill[_0x0sKigol]];
+				end;
+				return _0x0SNigaBytes;
+			end)({
+				3,
+				2,
+				1,
+				"\081\110\077\081\050\071\061",
+				"\120\053\081\098\104\048\117",
+				"\117\069\100\071\073\068",
+			}),
+			(function(_0x0sBible, ...)
+				local _0x0SLove = "";
+				for _0x0sTangina = 1, #_0x0sBible / 2, 1 do
+					_0x0SLove = _0x0SLove .. _0x0sBible[#_0x0sBible / 2 + _0x0sBible[_0x0sTangina]];
+				end;
+				return _0x0SLove;
 			end)({
 				4,
 				5,
-				3,
-				1,
 				2,
-				"\104\071\051\083",
-				"\117\071\078\057\102",
-				"\122\078\111",
-				"\071\066\108\104\101\089",
-				"\057\110\050\056\112\107",
-			}),
-			(function(_0x0EBAYOT, ...)
-				local _0x0HGay = "";
-				for _0x0EBakla = 1, #_0x0EBAYOT / 2, 1 do
-					_0x0HGay = _0x0HGay .. _0x0EBAYOT[#_0x0EBAYOT / 2 + _0x0EBAYOT[_0x0EBakla]];
-				end;
-				return _0x0HGay;
-			end)({
-				3,
 				1,
-				2,
-				"\107\065\068\117",
-				"\076\061\061",
-				"\050\090\054\054\082",
+				3,
+				"\105\086",
+				"\048\097\079\111\065\115",
+				"\061",
+				"\108\056",
+				"\120\078\051\108\082",
 			}),
 		};
-	for _0x0EGay, _0x0HWagGago in ipairs({ { (985896 - 118700) + -867195, 505367 + (-734929 + 229843) }, { 589544 - 589543, 553053 + -553003 }, { -131000 + (-272157 + 403208), 332673 - 332392 } }) do
-		while _0x0HWagGago[((34514 - 255979) - (-960047)) + -738581] < _0x0HWagGago[(-219070 - (-953260)) - 734188] do
-			_0x0ESkilliSSUE[_0x0HWagGago[(-837370 - (-132276)) + ((-803969 - ((-123448 - 653925) + 121956)) - ((933170 - 998219) - 788598))]], _0x0ESkilliSSUE[_0x0HWagGago[(((1017270 + (-373717 - 781917)) - 189912) + -718634) - (-1046912)]], _0x0HWagGago[-270332 + (991702 + -721369)], _0x0HWagGago[-408906 + 408908] = _0x0ESkilliSSUE[_0x0HWagGago[623795 - ((-343511 + 743818) + (239884 + -16398))]], _0x0ESkilliSSUE[_0x0HWagGago[((-361709 - 812595) - (-361359)) - (-812946)]], _0x0HWagGago[531363 - 531362] + (871407 - 871406), _0x0HWagGago[((-615043 + 442715) + 645446) + -473116] - (-686484 - (-874797 + ((-989335 + 1600354) + (((485641 + 79516) + -86525) + -901339))));
+	for _0x0sWagGago, _0x0SDick in ipairs({ { ((626462 + -1654261) - (-584051)) + 443749, -94272 + 94553 }, { 562989 + -562988, -196302 + (-115333 + 311913) }, { -139985 - (-140264), (164700 + (-564792 - (-286258))) - (-114115) } }) do
+		while _0x0SDick[-385074 + 385075] < _0x0SDick[-651152 + 651154] do
+			_0x0sPleaseImBeggingNooo[_0x0SDick[((-876820 - (-220803)) - 246167) + 902185]], _0x0sPleaseImBeggingNooo[_0x0SDick[(338918 - (-16486)) + -355402]], _0x0SDick[-782995 + 782996], _0x0SDick[193606 - 193604] = _0x0sPleaseImBeggingNooo[_0x0SDick[((-1207751 - (-911807)) + 780342) + ((701235 + -1683847) - (-630619 + 132403))]], _0x0sPleaseImBeggingNooo[_0x0SDick[-107332 - (-107333)]], _0x0SDick[-80855 - (-80856)] + (121604 - 121603), _0x0SDick[357717 - 357715] - (502872 - 502871);
 		end;
 	end;
-	local function _0x0HKigol(_0x0EPlsNo, ...)
-		return _0x0ESkilliSSUE[_0x0EPlsNo + (1072341 - 1022926)];
+	local function _0x0SMamaMoBlue(_0x0sBoo, ...)
+		return _0x0sPleaseImBeggingNooo[_0x0sBoo - (-575947 + ((1091988 - (-681823 + 1253143)) - (-168486 - (-109430))))];
 	end;
 	do
-		local _0x0EPutangInaSabiNangWag = table.insert;
-		local _0x0HUrMom = {
-				r = 205473 + -205465,
-				k = -934759 - (-934800),
-				w = -242852 + 242895,
-				K = -242712 + 242768,
-				y = (-12411 + (14233 - 195331)) - ((-408972 - (-508713)) + -293299),
-				W = -617173 - (-617232),
-				R = 99066 - 99014,
-				["\048"] = -378947 - (-378998),
-				j = -824558 + 824568,
-				h = (-342087 + -688911) + ((488776 + 133997) - (-408256)),
-				l = (217879 + -125364) + (50007 + (415379 + -557888)),
-				S = -340745 + (477398 + -136592),
-				p = 151492 - (((((-72168 + 2806710) - 884296) - 1017333) + -1137698) + 456260),
-				["\056"] = -131125 + (393678 - 262498),
-				["\054"] = 345194 - 345160,
-				n = -694651 + 694697,
-				M = 37903 - (775659 - 737758),
-				["\043"] = -539628 - (-539661),
-				s = 13063 - (-670710 + 683759),
-				d = -362109 - (-362124),
-				O = -129956 - (-130001),
-				["\052"] = -10302 - (753091 - 763394),
-				J = (721047 - 994144) - (-273155),
-				a = (475808 + -792772) + 317027,
-				["\050"] = -78586 + 78610,
-				T = (-1097113 - (-150548)) + 946595,
-				N = -120266 + 120320,
-				B = -800006 - (-251039 + ((100741 - (-699719)) + (((-1146361 - (-202223)) + -667888) - (-896142 + 633566)))),
-				["\047"] = -924303 - (-924331),
-				i = 441572 + -441528,
-				f = (-599494 - (-658554 - 172916)) + -231940,
-				g = -115902 - (-115964),
-				e = 402822 + (248487 - 651284),
-				I = -895709 - (-895738),
-				E = (340484 + -1320339) + ((-143701 + (-1048553 + 346692)) + (((3772120 - (51129 + (1734797 - (((417582 - (-120811 + (((696635 + -476013) - 972660) + (-50265 - (-319091))))) - 559407) - (-228099 + (342273 + (-8270 + -386573))))))) - (-259642 - ((202821 - (1513465 - 748219)) - (-4151)))) - 604970)),
-				U = -9066 + 9085,
-				t = ((1037211 - 189379) - 349425) - 498395,
-				q = 858105 - 858096,
-				H = (379622 - 85186) + (-395129 - (-100715)),
-				V = (-452501 - (-150240)) - (-302296),
-				Q = 741391 - 741375,
-				X = 3540 + (-970491 + 966983),
-				D = -247227 + 247231,
-				x = 925621 - (-377092 + 1302708),
-				o = -942693 - (-942750),
-				["\049"] = -18208 + 18256,
-				z = 806207 - 806180,
-				A = 825677 - 825627,
-				["\053"] = 607595 - 607558,
-				b = 835803 + -835765,
-				["\055"] = -581301 + 581341,
-				["\057"] = -30270 + 30291,
-				P = 691229 + (-327787 - (156076 - (-207346))),
-				C = -863570 - (-863623),
-				m = (1034452 + -181451) - 852994,
-				L = 861137 - (-927496 + (((3939299 - 358931) - (-727 - (-985689))) - 806773)),
-				Y = 774152 + (961462 + -1735575),
-				c = ((1125887 - 974533) - 497586) - (-346235),
-				v = -85315 - (-85333),
-				["\051"] = 548056 - 548050,
-				F = -707659 - (-707719),
-				Z = ((160247 + (174896 + -1349434)) + ((-466285 + 1902256) - (497178 - 722283))) - ((-1215987 - (-203822)) + (((-435316 + (77198 - (-452270))) + 932576) + (714568 + -82357))),
-				G = -871649 - (-871675),
-				u = (290225 - 966885) - (-676707),
-			};
-		local _0x0bBoo = string.sub;
-		local _0x0qBakla = math[(function(_0x0EMeow, ...)
-				local _0x0HOhab, _0x0bFallenPartsDestroyHeight = _0x0EMeow[#_0x0EMeow], "";
-				for _0x0ERespect = 1, #_0x0HOhab, 1 do
-					_0x0bFallenPartsDestroyHeight = _0x0bFallenPartsDestroyHeight .. _0x0HOhab[_0x0EMeow[_0x0ERespect]];
+		local _0x0sDick = type;
+		local _0x0SIveDoneNothing = string.sub;
+		local _0x0VIveDoneNothing = table[(function(_0x0sTerrorist, ...)
+				local _0x0SRomans12_19, _0x0VSINGIT = _0x0sTerrorist[#_0x0sTerrorist], "";
+				for _0x0sTangina = 1, #_0x0SRomans12_19, 1 do
+					_0x0VSINGIT = _0x0VSINGIT .. _0x0SRomans12_19[_0x0sTerrorist[_0x0sTangina]];
 				end;
-				return _0x0bFallenPartsDestroyHeight;
-			end)({ 2, 1, { "\111\114", "\102\108\111" } })];
-		local _0x0ZBoo = _0x0ESkilliSSUE;
-		local _0x0cMamaMoBlue = table[(function(_0x0ENigaBytes, ...)
-				local _0x0HSHAyBAO, _0x0bBible = _0x0ENigaBytes[#_0x0ENigaBytes], "";
-				for _0x0EIveDoneNothing = 1, #_0x0HSHAyBAO, 1 do
-					_0x0bBible = _0x0bBible .. _0x0HSHAyBAO[_0x0ENigaBytes[_0x0EIveDoneNothing]];
+				return _0x0VSINGIT;
+			end)({ 1, 2, { "\099\111", "\110\099\097\116" } })];
+		local _0x0yPutangInaSabiNangWag = table[(function(_0x0sMamaMoBlue, ...)
+				local _0x0SOhab = "";
+				for _0x0sNigger = 1, #_0x0sMamaMoBlue / 2, 1 do
+					_0x0SOhab = _0x0SOhab .. _0x0sMamaMoBlue[#_0x0sMamaMoBlue / 2 + _0x0sMamaMoBlue[_0x0sNigger]];
 				end;
-				return _0x0bBible;
-			end)({ 1, 2, { "\099\111\110", "\099\097\116" } })];
-		local _0x0IIveDoneNothing = type;
-		local _0x0RSkidDetected = string.len;
-		local _0x0BOhab = string[(function(_0x0EBible, ...)
-				local _0x0HBoo = "";
-				for _0x0EMeow = 1, #_0x0EBible / 2, 1 do
-					_0x0HBoo = _0x0HBoo .. _0x0EBible[#_0x0EBible / 2 + _0x0EBible[_0x0EMeow]];
-				end;
-				return _0x0HBoo;
+				return _0x0SOhab;
 			end)({
-				1,
 				2,
-				"\099\104\097",
-				"\114",
+				1,
+				"\114\116",
+				"\105\110\115\101",
 			})];
-		for _0x0EBroStudyingHowMyBrainWorks = (861145 + -622729) - 238415, #_0x0ZBoo, -50577 - (-50578) do
-			local _0x0HNigger = _0x0ZBoo[_0x0EBroStudyingHowMyBrainWorks];
-			if _0x0IIveDoneNothing(_0x0HNigger) == (function(_0x0EDiKanaNiyaMahal, ...)
-				local _0x0HSkilliSSUE = "";
-				for _0x0ESHAyBAO = 1, #_0x0EDiKanaNiyaMahal / 2, 1 do
-					_0x0HSkilliSSUE = _0x0HSkilliSSUE .. _0x0EDiKanaNiyaMahal[#_0x0EDiKanaNiyaMahal / 2 + _0x0EDiKanaNiyaMahal[_0x0ESHAyBAO]];
+		local _0x0GBAYOT = {
+				d = (-904396 - (-843812)) - (-60612),
+				["\054"] = (492882 - 989351) + (((948327 - (-127079 - (-432078))) - 445815) + 298992),
+				D = -171639 - (-820914 - (-649236)),
+				j = -400898 - (-400912),
+				a = (1370138 - 861502) - 508618,
+				["\057"] = (-953260 + 71316) - (-881991),
+				O = -998903 - (-998910),
+				["\047"] = 16138 + -16112,
+				X = 827204 - (((-371534 + (187875 + 1437989)) - 810367) - (-383236)),
+				["\055"] = 104219 - 104207,
+				e = 896798 + -896788,
+				g = 857944 - (1733526 - 875604),
+				Y = -85435 + 85437,
+				c = -718265 - (-1373411 - (-655130)),
+				s = 1024532 + (583829 + -1608302),
+				["\053"] = -193359 - (-801606 + (1493842 - 885648)),
+				R = -111918 + 111963,
+				B = 677771 - (1544165 - 866443),
+				["\048"] = -749904 + 749942,
+				G = 621846 + (-889261 + 267471),
+				["\049"] = 23192 - 23191,
+				o = ((-606246 - 887323) - (-617165)) + 876427,
+				["\056"] = (481369 - 565019) - (((372479 + 372561) + -154335) - (-620326 + (759675 - (-535054)))),
+				m = -901669 - (-901693),
+				y = (((((374419 + 397679) - 184733) + -531084) + -1364828) - (-430055)) - (-878538),
+				Z = 503746 + -503729,
+				C = ((-1723712 - (((1849689 - 259362) - 694197) + -1591673)) + (85320 - (-383617))) + 559247,
+				["\043"] = -151105 + 151136,
+				k = (-966676 + (-948080 + 1786870)) - (-127944),
+				A = -569174 + 569234,
+				v = 37678 - 37667,
+				r = 564747 - ((-1425853 - (-652702)) + (1344368 - 6504)),
+				h = (-5277 + -854185) + 859495,
+				x = -847610 + 847647,
+				H = (1756533 - ((1407291 - 986267) + 333269)) + (-1803077 - (-800889)),
+				f = -694437 - (-694469),
+				N = (-856380 + -91542) + ((2388832 - 722364) - 718484),
+				V = -369241 - ((-193489 - (-711477)) - (1422913 - 535644)),
+				i = 284697 - 284694,
+				E = (-987708 + (-467827 + ((113600 + (((-232993 + -142824) + 280046) + -721912)) + ((-6713 + -664807) + (-591536 + 4287598))))) - (768460 + ((-90935 - (-539563 + 834378)) + 482159)),
+				["\052"] = -395222 - (-395265),
+				b = 677166 - 677131,
+				F = -245760 + 245760,
+				Q = 762869 + ((-169482 + (-403543 - (-83356))) - 273179),
+				K = (597964 + -1106810) - (-508855),
+				W = -649368 + 649398,
+				I = 642294 - 642281,
+				w = 840968 + -840924,
+				t = -851537 - (-851564),
+				L = (-1706010 - (-1020793)) - (-701896 - (-16622)),
+				T = 755429 + -755366,
+				J = ((-68884 + 1732646) - ((54241 - 668356) + (1378752 - 136921))) - 1036026,
+				U = -774719 - (-774748),
+				z = -619771 + 619821,
+				["\050"] = (941079 + (-661704 + -522202)) - (548321 + ((-407636 + (-335251 + (-482001 - 178382))) - (-815953 - (((-1093325 - (-1780819 - (-191663 + (-469336 - 122208)))) + -389882) - (-281760))))),
+				n = 196016 - (-599985 + (460936 - (-335057))),
+				l = (-597286 + 1583043) - (1070654 - 84939),
+				u = ((604783 + (369595 - (-707859))) - 966839) - 715379,
+				S = 874332 - ((331703 + ((202338 - (295966 - (-185375))) + 399659)) + 421967),
+				q = -446041 + 446095,
+				P = (985683 - (((105250 - (-741887)) + 204315) - (1470755 - 1004745))) + -400180,
+				p = -381190 - (-381231),
+				M = 590673 + (((661490 + ((-994455 - 497521) - (-542315))) + 337224) - 639675),
+				["\051"] = -157120 - (((-803634 + (-794066 - (-865707))) - (-205589 + -340867)) + 28392),
+			};
+		local _0x0DNigger = math[(function(_0x0sPleaseImBeggingNooo, ...)
+				local _0x0SPaasa, _0x0VTFYouLookingAt = _0x0sPleaseImBeggingNooo[#_0x0sPleaseImBeggingNooo], "";
+				for _0x0sSINGIT = 1, #_0x0SPaasa, 1 do
+					_0x0VTFYouLookingAt = _0x0VTFYouLookingAt .. _0x0SPaasa[_0x0sPleaseImBeggingNooo[_0x0sSINGIT]];
 				end;
-				return _0x0HSkilliSSUE;
-			end)({
-				1,
-				2,
-				"\115\116\114\105",
-				"\110\103",
-			}) then
-				local _0x0ENigger = _0x0RSkidDetected(_0x0HNigger);
-				local _0x0HMeow = {};
-				local _0x0bBakla = (287000 + -356274) + 69275;
-				local _0x0qTUBOL = (460156 + 444869) + -905025;
-				local _0x0ZPlsNo = (((-1030173 + 995857) - 611009) + (-1038024 - (-840430))) + 842919;
-				while _0x0bBakla <= _0x0ENigger do
-					local _0x0EDiKanaNiyaMahal = _0x0bBoo(_0x0HNigger, _0x0bBakla, _0x0bBakla);
-					local _0x0HOhab = _0x0HUrMom[_0x0EDiKanaNiyaMahal];
-					if _0x0HOhab then
-						_0x0qTUBOL = _0x0qTUBOL + _0x0HOhab * (17818 + -17754) ^ ((613589 - (305610 - (-1085899 - (-1506567 - (-728644))))) - _0x0ZPlsNo);
-						_0x0ZPlsNo = _0x0ZPlsNo + (985602 - (-533355 + (641570 + 877386)));
-						if _0x0ZPlsNo == 146816 - 146812 then
-							_0x0ZPlsNo = 86418 + (-918801 - (-832383));
-							local _0x0EBakla = _0x0qBakla(_0x0qTUBOL / (88723 - 23187));
-							local _0x0HBroStudyingHowMyBrainWorks = _0x0qBakla((_0x0qTUBOL % (327905 - 262369)) / ((829251 - 702888) + -126107));
-							local _0x0bMamaMoBlue = _0x0qTUBOL % (-1029561 + (917285 - ((1014258 + -1896800) + (-852715 + 1622725))));
-							_0x0EPutangInaSabiNangWag(_0x0HMeow, _0x0BOhab(_0x0EBakla, _0x0HBroStudyingHowMyBrainWorks, _0x0bMamaMoBlue));
-							_0x0qTUBOL = 676323 + (-714889 - (-962476 - (-923910)));
+				return _0x0VTFYouLookingAt;
+			end)({ 1, 2, { "\102\108\111\111", "\114" } })];
+		local _0x0YBrainDamage = string.len;
+		local _0x0BKigol = _0x0sPleaseImBeggingNooo;
+		local _0x0MBAYOT = string[(function(_0x0sTanginaMoCge, ...)
+				local _0x0SNoSkill, _0x0VBakla = _0x0sTanginaMoCge[#_0x0sTanginaMoCge], "";
+				for _0x0sSkilliSSUE = 1, #_0x0SNoSkill, 1 do
+					_0x0VBakla = _0x0VBakla .. _0x0SNoSkill[_0x0sTanginaMoCge[_0x0sSkilliSSUE]];
+				end;
+				return _0x0VBakla;
+			end)({ 1, 2, { "\099\104\097", "\114" } })];
+		for _0x0sBoo = -693425 + (-361034 + 1054460), #_0x0BKigol, (875295 + -970075) - (414122 + -508903) do
+			local _0x0SFallenPartsDestroyHeight = _0x0BKigol[_0x0sBoo];
+			if _0x0sDick(_0x0SFallenPartsDestroyHeight) == "\115\116\114\105\110\103" then
+				local _0x0sLove = _0x0YBrainDamage(_0x0SFallenPartsDestroyHeight);
+				local _0x0STangina = {};
+				local _0x0VOhab = (-204072 + 803556) - 599483;
+				local _0x0yBakla = (539962 - 455775) + -84187;
+				local _0x0GRespect = (-679855 - (-598078)) - (-81777);
+				while _0x0VOhab <= _0x0sLove do
+					local _0x0sSHAyBAO = _0x0SIveDoneNothing(_0x0SFallenPartsDestroyHeight, _0x0VOhab, _0x0VOhab);
+					local _0x0VLove = _0x0GBAYOT[_0x0sSHAyBAO];
+					if _0x0VLove then
+						_0x0yBakla = _0x0yBakla + _0x0VLove * (515555 - 515491) ^ ((-525453 - ((526440 - 1040454) - 11442)) - _0x0GRespect);
+						_0x0GRespect = _0x0GRespect + (-403367 - (-403368));
+						if _0x0GRespect == ((354877 - (-346231)) - (-980676 + 884850)) - 796930 then
+							_0x0GRespect = 576489 + ((-229649 - 741015) + 394175);
+							local _0x0sBroStudyingHowMyBrainWorks = _0x0DNigger(_0x0yBakla / ((1635172 - 537676) - 1031960));
+							local _0x0SUrMom = _0x0DNigger((_0x0yBakla % ((-143296 - 639412) + 848244)) / ((-247811 + -609388) + 857455));
+							local _0x0VBoo = _0x0yBakla % (-399349 - (-399605));
+							_0x0yPutangInaSabiNangWag(_0x0STangina, _0x0MBAYOT(_0x0sBroStudyingHowMyBrainWorks, _0x0SUrMom, _0x0VBoo));
+							_0x0yBakla = (251608 + -432436) - (-180828);
 						end;
-					elseif _0x0EDiKanaNiyaMahal == "\061" then
-						_0x0EPutangInaSabiNangWag(_0x0HMeow, _0x0BOhab(_0x0qBakla(_0x0qTUBOL / ((510129 + -1212469) + (((1103496 - 852017) + (1380491 - (118206 - ((739462 + -1578358) - (-637619 + 92129))))) - 452482)))));
-						if _0x0bBakla >= _0x0ENigger or _0x0bBoo(_0x0HNigger, _0x0bBakla + (403456 + -403455), _0x0bBakla + ((836685 - (-144327)) + ((-62172 - (-220402)) + ((-240046 - (-138970)) - (1710175 - 672010))))) ~= "\061" then
-							_0x0EPutangInaSabiNangWag(_0x0HMeow, _0x0BOhab(_0x0qBakla((_0x0qTUBOL % ((-781556 + -41140) + (-628977 + (2011371 - (1165274 - 671112))))) / ((53017 - (122658 + -905444)) + -835547))));
+					elseif _0x0sSHAyBAO == "\061" then
+						_0x0yPutangInaSabiNangWag(_0x0STangina, _0x0MBAYOT(_0x0DNigger(_0x0yBakla / (971983 + (496347 + -1402794)))));
+						if _0x0VOhab >= _0x0sLove or _0x0SIveDoneNothing(_0x0SFallenPartsDestroyHeight, _0x0VOhab + ((-175493 - 654487) - ((-2710762 - (-886418)) - (-1958162 - (-963799)))), _0x0VOhab + (412598 + (-957759 - (-634984 + 89822)))) ~= "\061" then
+							_0x0yPutangInaSabiNangWag(_0x0STangina, _0x0MBAYOT(_0x0DNigger((_0x0yBakla % (1028131 + -962595)) / (-301455 - (-301711)))));
 						end;
 						break;
 					end;
-					_0x0bBakla = _0x0bBakla + ((((1016464 + ((((194982 - (-355723)) - (-670546 + 1400190)) + 3482) - 748716)) - 304406) + 885425) - (-195650 + 868959));
+					_0x0VOhab = _0x0VOhab + (((-287890 - 107402) - (-284393)) + 110900);
 				end;
-				_0x0ZBoo[_0x0EBroStudyingHowMyBrainWorks] = _0x0cMamaMoBlue(_0x0HMeow);
+				_0x0BKigol[_0x0sBoo] = _0x0VIveDoneNothing(_0x0STangina);
 			end;
 		end;
 	end;
-	return (function(_0x0ETUBOL, _0x0bMamaMoBlue, _0x0qMamaMoBlue, _0x0ZPlsNo, _0x0cBAYOT, _0x0ITangina, _0x0RTFYouLookingAt, _0x0jTangina, _0x0eNigger, _0x0mMeow, _0x0HBoo, _0x0OWagGago, _0x0JBakla, _0x0BBible, _0x0iOhab, _0x0LTanginaMoCge, _0x0gFallenPartsDestroyHeight, _0x0oTUBOL, _0x0VIveDoneNothing, _0x0XPleaseImBeggingNooo, _0x0rBrainDamage, _0x0QPlsNo, _0x0SBroStudyingHowMyBrainWorks, ...)
-		_0x0jTangina, _0x0OWagGago, _0x0mMeow, _0x0JBakla, _0x0VIveDoneNothing, _0x0iOhab, _0x0QPlsNo, _0x0rBrainDamage, _0x0XPleaseImBeggingNooo, _0x0LTanginaMoCge, _0x0gFallenPartsDestroyHeight, _0x0HBoo, _0x0oTUBOL, _0x0eNigger, _0x0SBroStudyingHowMyBrainWorks, _0x0BBible = function(_0x0EDiKanaNiyaMahal, _0x0HMamaMoBlue, ...)
-				local _0x0bGay = _0x0iOhab(_0x0HMamaMoBlue);
-				local _0x0qGago = function(_0x0ETanginaMoCge, _0x0HKigol, _0x0bPleaseImBeggingNooo, _0x0qGay, ...)
-						return _0x0HBoo(_0x0EDiKanaNiyaMahal, {
-							_0x0ETanginaMoCge,
-							_0x0HKigol,
-							_0x0bPleaseImBeggingNooo,
-							_0x0qGay,
-						}, _0x0HMamaMoBlue, _0x0bGay);
+	return (function(_0x0sSINGIT, _0x0VBakla, _0x0yOhab, _0x0GLove, _0x0DNigger, _0x0YGay, _0x0BNigger, _0x0MRomans12_19, _0x0HFallenPartsDestroyHeight, _0x0ZNigaBytes, _0x0WWagGago, _0x0KDiKanaNiyaMahal, _0x0LBoo, _0x0APlsNo, _0x0TPlsNo, _0x0RPaasa, _0x0pNigger, _0x0nKigol, _0x0ONoSkill, _0x0SRomans12_19, _0x0bBoo, ...)
+		_0x0WWagGago, _0x0ZNigaBytes, _0x0RPaasa, _0x0pNigger, _0x0HFallenPartsDestroyHeight, _0x0MRomans12_19, _0x0nKigol, _0x0APlsNo, _0x0LBoo, _0x0TPlsNo, _0x0SRomans12_19, _0x0bBoo, _0x0ONoSkill, _0x0KDiKanaNiyaMahal = function(_0x0sTanginaMoCge, _0x0SNoSkill, ...)
+				local _0x0VWagGago = _0x0ONoSkill(_0x0SNoSkill);
+				local _0x0yGay = function(_0x0sTerrorist, _0x0SRespect, _0x0VTUBOL, _0x0yUrMom, _0x0GRomans12_19, _0x0DTanginaMoCge, ...)
+						return _0x0SRomans12_19(_0x0sTanginaMoCge, {
+							_0x0sTerrorist,
+							_0x0SRespect,
+							_0x0VTUBOL,
+							_0x0yUrMom,
+							_0x0GRomans12_19,
+							_0x0DTanginaMoCge,
+						}, _0x0SNoSkill, _0x0VWagGago);
 					end;
-				return _0x0qGago;
-			end, {}, function(_0x0EBILAT, _0x0HTanginaMoCge, ...)
-				local _0x0bMeow = _0x0iOhab(_0x0HTanginaMoCge);
-				local _0x0qNoSkill = function(_0x0ERomans12_19, _0x0HDick, ...)
-						return _0x0HBoo(_0x0EBILAT, { _0x0ERomans12_19, _0x0HDick }, _0x0HTanginaMoCge, _0x0bMeow);
+				return _0x0yGay;
+			end, ((956837 + -1931855) + 1063855) + -88837, function(_0x0sPlsNo, _0x0SBroStudyingHowMyBrainWorks, ...)
+				local _0x0VMamaMoBlue = _0x0ONoSkill(_0x0SBroStudyingHowMyBrainWorks);
+				local _0x0yDiKanaNiyaMahal = function(_0x0sNigaBytes, ...)
+						return _0x0SRomans12_19(_0x0sPlsNo, { _0x0sNigaBytes }, _0x0SBroStudyingHowMyBrainWorks, _0x0VMamaMoBlue);
 					end;
-				return _0x0qNoSkill;
-			end, function(...)
-				_0x0eNigger = _0x0eNigger + (1012877 + -1012876);
-				_0x0OWagGago[_0x0eNigger] = -1003647 - (-1003648);
-				return _0x0eNigger;
-			end, function(_0x0ENigger, ...)
-				local _0x0HBroStudyingHowMyBrainWorks, _0x0bIveDoneNothing = 544942 - 544941, _0x0ENigger[1027435 + (865899 + (-852735 + -1040598))];
-				while _0x0bIveDoneNothing do
-					_0x0OWagGago[_0x0bIveDoneNothing], _0x0HBroStudyingHowMyBrainWorks = _0x0OWagGago[_0x0bIveDoneNothing] - (-501787 + 501788), _0x0HBroStudyingHowMyBrainWorks + ((814401 + -1531199) + 716799);
-					if 93697 + (3102 - 96799) == _0x0OWagGago[_0x0bIveDoneNothing] then
-						_0x0OWagGago[_0x0bIveDoneNothing], _0x0BBible[_0x0bIveDoneNothing] = nil, nil;
-					end;
-					_0x0bIveDoneNothing = _0x0ENigger[_0x0HBroStudyingHowMyBrainWorks];
+				return _0x0yDiKanaNiyaMahal;
+			end, function(_0x0sGago, ...)
+				_0x0HFallenPartsDestroyHeight[_0x0sGago] = _0x0HFallenPartsDestroyHeight[_0x0sGago] - (-517303 + ((424133 - 555138) + 648309));
+				if ((((-907849 + 802407) + 986188) - 515338) + (-364225 + (642283 - (-877889 - (-831387))))) + -689968 == _0x0HFallenPartsDestroyHeight[_0x0sGago] then
+					_0x0HFallenPartsDestroyHeight[_0x0sGago], _0x0MRomans12_19[_0x0sGago] = nil, nil;
 				end;
-			end, function(_0x0EIveDoneNothing, ...)
-				for _0x0ERomans12_19 = -528375 + 528376, #_0x0EIveDoneNothing, (-1454153 - (-884955)) + 569199 do
-					_0x0OWagGago[_0x0EIveDoneNothing[_0x0ERomans12_19]] = _0x0OWagGago[_0x0EIveDoneNothing[_0x0ERomans12_19]] + ((-435538 - (184620 + (854719 + -1513537))) + -38659);
-				end;
-				if _0x0qMamaMoBlue then
-					local _0x0ERespect = _0x0qMamaMoBlue(true);
-					local _0x0HSINGIT = _0x0cBAYOT(_0x0ERespect);
-					_0x0HSINGIT[_0x0HKigol(-427389 - (-378204))], _0x0HSINGIT[_0x0HKigol(-894591 - (-845288))], _0x0HSINGIT[_0x0HKigol((333694 - (-371152)) + -754225)] = _0x0EIveDoneNothing, _0x0VIveDoneNothing, function(...)
-							return 2661302 - (((972566 + -989373) + ((-87323 + (222435 + -1019408)) + 412882)) - (-442716));
-						end;
-					return _0x0ERespect;
-				else
-					return _0x0ZPlsNo({}, { [_0x0HKigol((((-245718 + -1456971) - (-326085)) - (-479224)) + 848077)] = _0x0VIveDoneNothing, [_0x0HKigol((-380648 - (-933234)) + -601771)] = _0x0EIveDoneNothing, [_0x0HKigol(-422092 + 372713)] = function(...)
-							return 3458393 - (803682 + -52096);
-						end });
-				end;
-			end, function(_0x0ETerrorist, _0x0HNoSkill, ...)
-				local _0x0bWagGago = _0x0iOhab(_0x0HNoSkill);
-				local _0x0qBrainDamage = function(_0x0EMamaMoBlue, ...)
-						return _0x0HBoo(_0x0ETerrorist, { _0x0EMamaMoBlue }, _0x0HNoSkill, _0x0bWagGago);
+			end, {}, {}, function(_0x0sBible, _0x0SBILAT, ...)
+				local _0x0VPaasa = _0x0ONoSkill(_0x0SBILAT);
+				local _0x0yGago = function(_0x0sNigaBytes, _0x0SSkilliSSUE, _0x0VDick, _0x0yBroStudyingHowMyBrainWorks, ...)
+						return _0x0SRomans12_19(_0x0sBible, {
+							_0x0sNigaBytes,
+							_0x0SSkilliSSUE,
+							_0x0VDick,
+							_0x0yBroStudyingHowMyBrainWorks,
+						}, _0x0SBILAT, _0x0VPaasa);
 					end;
-				return _0x0qBrainDamage;
-			end, function(_0x0EBoo, _0x0HIveDoneNothing, ...)
-				local _0x0bSHAyBAO = _0x0iOhab(_0x0HIveDoneNothing);
-				local _0x0qSkilliSSUE = function(...)
-						return _0x0HBoo(_0x0EBoo, {}, _0x0HIveDoneNothing, _0x0bSHAyBAO);
+				return _0x0yGago;
+			end, function(_0x0sTerrorist, _0x0SRespect, ...)
+				local _0x0VBILAT = _0x0ONoSkill(_0x0SRespect);
+				local _0x0yNigaBytes = function(...)
+						return _0x0SRomans12_19(_0x0sTerrorist, {}, _0x0SRespect, _0x0VBILAT);
 					end;
-				return _0x0qSkilliSSUE;
-			end, function(_0x0EPaasa, _0x0bLove, ...)
-				local _0x0qTerrorist = _0x0iOhab(_0x0bLove);
-				local _0x0ZTUBOL = function(...)
-						return _0x0HBoo(_0x0EPaasa, { ... }, _0x0bLove, _0x0qTerrorist);
+				return _0x0yNigaBytes;
+			end, function(_0x0sWagGago, _0x0SOhab, ...)
+				local _0x0VBroStudyingHowMyBrainWorks = _0x0ONoSkill(_0x0SOhab);
+				local _0x0ySkilliSSUE = function(...)
+						return _0x0SRomans12_19(_0x0sWagGago, { ... }, _0x0SOhab, _0x0VBroStudyingHowMyBrainWorks);
 					end;
-				return _0x0ZTUBOL;
-			end, function(_0x0EPutangInaSabiNangWag, _0x0HUrMom, ...)
-				local _0x0bSkidDetected = _0x0iOhab(_0x0HUrMom);
-				local _0x0qDiKanaNiyaMahal = function(_0x0ETFYouLookingAt, _0x0HPutangInaSabiNangWag, _0x0bNigger, ...)
-						return _0x0HBoo(_0x0EPutangInaSabiNangWag, { _0x0ETFYouLookingAt, _0x0HPutangInaSabiNangWag, _0x0bNigger }, _0x0HUrMom, _0x0bSkidDetected);
+				return _0x0ySkilliSSUE;
+			end, function(_0x0sWagGago, _0x0SDiKanaNiyaMahal, ...)
+				local _0x0VDick = _0x0ONoSkill(_0x0SDiKanaNiyaMahal);
+				local _0x0yUrMom = function(_0x0sTerrorist, _0x0SBILAT, _0x0VBoo, ...)
+						return _0x0SRomans12_19(_0x0sWagGago, { _0x0sTerrorist, _0x0SBILAT, _0x0VBoo }, _0x0SDiKanaNiyaMahal, _0x0VDick);
 					end;
-				return _0x0qDiKanaNiyaMahal;
-			end, function(_0x0EBoo, ...)
-				_0x0OWagGago[_0x0EBoo] = _0x0OWagGago[_0x0EBoo] - (-632010 + 632011);
-				if _0x0OWagGago[_0x0EBoo] == 254736 + -254736 then
-					_0x0OWagGago[_0x0EBoo], _0x0BBible[_0x0EBoo] = nil, nil;
-				end;
-			end, function(_0x0EDiKanaNiyaMahal, _0x0HSkidDetected, _0x0bTerrorist, _0x0qTUBOL, ...)
-				local _0x0CKigol, _0x0ZSkilliSSUE, _0x0zBAYOT, _0x0QMeow, _0x0ADick, _0x0kPlsNo, _0x0oSkidDetected, _0x0VDick, _0x0uBrainDamage, _0x0pUrMom, _0x0yOhab, _0x0cBoo, _0x0aSkidDetected, _0x0wTanginaMoCge, _0x0ECBAYOT, _0x0DUrMom, _0x0sGago, _0x0tBILAT, _0x0iFallenPartsDestroyHeight, _0x0rBILAT, _0x0HCOhab, _0x0lNigger, _0x0RBible, _0x0JMeow, _0x0BTerrorist, _0x0FBoo, _0x0YBroStudyingHowMyBrainWorks, _0x0xMeow, _0x0gDick, _0x0hRespect, _0x0mFallenPartsDestroyHeight, _0x0MTUBOL, _0x0KRomans12_19, _0x0ILove, _0x0dMeow, _0x0OTerrorist, _0x0LSkilliSSUE, _0x0PRomans12_19, _0x0GMamaMoBlue, _0x0nTangina, _0x0NTanginaMoCge, _0x0vGay, _0x0XBILAT, _0x0SPlsNo, _0x0eTerrorist, _0x0UBoo, _0x0WRespect, _0x0TRespect, _0x0fPaasa;
-				while _0x0EDiKanaNiyaMahal do
-					if _0x0EDiKanaNiyaMahal < (750858 + 8914738) - 1022179 then
-						if _0x0EDiKanaNiyaMahal < 153387 + 3881709 then
-							if _0x0EDiKanaNiyaMahal < 1805444 - (-372587) then
-								if _0x0EDiKanaNiyaMahal < 230868 + (1522102 - 611366) then
-									if _0x0EDiKanaNiyaMahal < 1237497 - ((-998516 + (15078 + 909648)) + ((1057984 - 119992) + -220835)) then
-										if _0x0EDiKanaNiyaMahal < 1061050 - 767299 then
-											if _0x0EDiKanaNiyaMahal < -187890 - (-305552) then
-												if _0x0EDiKanaNiyaMahal < (82922 - 79527) - (-36663) then
-													if _0x0EDiKanaNiyaMahal < (((-791371 + 662511) - (-840696 - (-53981))) + (-387073 + ((123057 + ((1260966 - (406758 - (-144377))) + (((1374562 - 549757) + -2866614) - 231969))) - (-218928 - (-441514 - (-488605)))))) - (-794941 - 135309) then
-														_0x0EDiKanaNiyaMahal = _0x0fPaasa;
-														_0x0EDiKanaNiyaMahal = (730840 + (-551094 + 5970013)) - (-822103 - (-324124 + (-670530 - (-166670 - (948870 - 112977)))));
-														_0x0rBILAT = _0x0hRespect;
+				return _0x0yUrMom;
+			end, function(_0x0sPaasa, _0x0SUrMom, _0x0VTUBOL, _0x0yPaasa, ...)
+				local _0x0ISkilliSSUE, _0x0LTFYouLookingAt, _0x0JBILAT, _0x0ASkilliSSUE, _0x0kTangina, _0x0fBroStudyingHowMyBrainWorks, _0x0TBible, _0x0zSINGIT, _0x0ZIveDoneNothing, _0x0SDOhab, _0x0GPlsNo, _0x0COhab, _0x0vGay, _0x0dPleaseImBeggingNooo, _0x0pSINGIT, _0x0nBakla, _0x0qTFYouLookingAt, _0x0OTerrorist, _0x0HGay, _0x0YBible, _0x0FBakla, _0x0wBILAT, _0x0QSkilliSSUE, _0x0KTanginaMoCge, _0x0gOhab, _0x0rIveDoneNothing, _0x0NKigol, _0x0lBible, _0x0mWagGago, _0x0uMamaMoBlue, _0x0bLove, _0x0sDNoSkill, _0x0UBILAT, _0x0BTanginaMoCge, _0x0aUrMom, _0x0tTerrorist, _0x0PWagGago, _0x0iUrMom, _0x0EOhab, _0x0eRomans12_19, _0x0xMamaMoBlue, _0x0XTanginaMoCge, _0x0WNigaBytes, _0x0oUrMom, _0x0cPaasa, _0x0MFallenPartsDestroyHeight, _0x0hPutangInaSabiNangWag, _0x0DSINGIT, _0x0jDiKanaNiyaMahal;
+				while _0x0sPaasa do
+					if _0x0sPaasa < -471956 + 8864904 then
+						if _0x0sPaasa < 4483314 - (-32592) then
+							if _0x0sPaasa < -457983 + 2936077 then
+								if _0x0sPaasa < 1164665 - (-128896) then
+									if _0x0sPaasa < -358773 + 898809 then
+										if _0x0sPaasa < -77145 + 335291 then
+											if _0x0sPaasa < -164421 + 323737 then
+												if _0x0sPaasa < -535528 - (-680930) then
+													if _0x0sPaasa < 844575 + -795602 then
+														_0x0uMamaMoBlue = _0x0SMamaMoBlue(((107693 - (112928 + 884358)) + 1619186) - ((2239068 - 676697) - 836664));
+														_0x0XTanginaMoCge = _0x0SMamaMoBlue(700017 + -696006);
+														_0x0NKigol = _0x0sSINGIT[_0x0uMamaMoBlue];
+														_0x0gOhab = _0x0sPaasa;
+														_0x0uMamaMoBlue = _0x0NKigol(_0x0vGay);
+														_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0YBible];
+														_0x0dPleaseImBeggingNooo = ((13369278482738 - 247303) - (221919 + (-212359 - (((711049 + (337915 + ((634747 + -1233396) - 181309))) + ((-331115 - 663765) + 1570692)) - (-58215 + -42969))))) - 761215;
+														_0x0lBible = _0x0qTFYouLookingAt(_0x0XTanginaMoCge, _0x0dPleaseImBeggingNooo);
+														_0x0NKigol = _0x0jDiKanaNiyaMahal[_0x0lBible];
+														_0x0PWagGago = _0x0uMamaMoBlue ~= _0x0NKigol;
+														_0x0sPaasa = _0x0PWagGago and (-26196 + 2928963) - (351724 - 339599) or ((974975 + -1952817) + (-791893 + 8737293)) - (-555292);
+														_0x0tTerrorist = _0x0PWagGago;
 													else
-														_0x0hRespect = _0x0HKigol(450195 + (-1013197 + 513743));
-														_0x0mFallenPartsDestroyHeight = _0x0HKigol(650745 - 700050);
-														_0x0fPaasa = 30785626387949 - 973426;
-														_0x0CKigol = _0x0HKigol((862434 - 982184) + 70433);
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0mFallenPartsDestroyHeight];
-														_0x0KRomans12_19 = 3559527010152 - 600052;
-														_0x0oSkidDetected = _0x0BBible[_0x0bTerrorist[517979 - (-687540 + (-519250 + 1724768))]];
-														_0x0rBILAT = _0x0BBible[_0x0bTerrorist[276079 + -276077]];
-														_0x0QMeow = _0x0rBILAT(_0x0hRespect, _0x0fPaasa);
-														_0x0SPlsNo = _0x0oSkidDetected[_0x0QMeow];
-														_0x0QMeow = _0x0BBible[_0x0bTerrorist[149328 - (-39248 + 188575)]];
-														_0x0hRespect = _0x0BBible[_0x0bTerrorist[964813 - 964811]];
-														_0x0fPaasa = _0x0hRespect(_0x0CKigol, _0x0KRomans12_19);
-														_0x0rBILAT = _0x0QMeow[_0x0fPaasa];
-														_0x0oSkidDetected = _0x0XBILAT .. _0x0rBILAT;
-														_0x0LSkilliSSUE = _0x0SPlsNo .. _0x0oSkidDetected;
-														_0x0mFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal(_0x0LSkilliSSUE);
-														_0x0EDiKanaNiyaMahal = 1129960 - (-134772);
+														_0x0sPaasa = _0x0WNigaBytes;
+														_0x0LTFYouLookingAt = _0x0ASkilliSSUE;
+														_0x0sPaasa = 7002757 - (-992651);
 													end;
 												else
-													_0x0KRomans12_19 = _0x0BBible[_0x0bTerrorist[109105 - 109102]];
-													_0x0NTanginaMoCge = { _0x0KRomans12_19(_0x0rBILAT) };
-													_0x0TRespect = _0x0NTanginaMoCge[867096 + -867094];
-													_0x0vGay = _0x0NTanginaMoCge[720530 - 720529];
-													_0x0NTanginaMoCge = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0vGay and 3120848 - ((348904 - 747747) + (313929 + (369244 - 928956))) or -13658 + 12103940;
-													_0x0KRomans12_19 = _0x0vGay;
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue(((((-1583630 - (-851792)) - 174944) - (-801644)) + 380874) + -271704);
+													_0x0sPaasa = _0x0sSINGIT[_0x0LTFYouLookingAt];
+													_0x0EOhab = 420794 + (32528523330017 - (-676276));
+													_0x0WNigaBytes = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0oUrMom = _0x0SMamaMoBlue(780159 - 776218);
+													_0x0TBible = _0x0MRomans12_19[_0x0YBible];
+													_0x0nBakla = _0x0TBible(_0x0oUrMom, _0x0EOhab);
+													_0x0ASkilliSSUE = _0x0WNigaBytes[_0x0nBakla];
+													_0x0LTFYouLookingAt = _0x0sPaasa(_0x0ASkilliSSUE);
+													_0x0LTFYouLookingAt = _0x0ZIveDoneNothing;
+													_0x0sPaasa = _0x0ZIveDoneNothing and 17255678 - 563675 or -570875 + 3809596;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < ((808085 + -870849) - (-650708)) + -366813 then
-													_0x0SPlsNo = _0x0HKigol(686077 + -735491);
-													_0x0gDick = _0x0HKigol((1212260 - (-912406 + 1486890)) + -686948);
-													_0x0oSkidDetected = ((-966436 + 705574) + 6968100454019) - (-1018051);
-													_0x0VDick = _0x0ETUBOL[_0x0gDick];
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[128091 + -128090]];
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[(1528826 - 557186) + -971638]];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0gDick = _0x0XBILAT[_0x0LSkilliSSUE];
-													_0x0EDiKanaNiyaMahal = _0x0VDick[_0x0gDick];
-													_0x0gDick = .1;
-													_0x0VDick = _0x0EDiKanaNiyaMahal(_0x0gDick);
-													_0x0EDiKanaNiyaMahal = 2249455 - 690635;
+												if _0x0sPaasa < 679572 - 495579 then
+													_0x0PWagGago = _0x0MRomans12_19[_0x0VTUBOL[-47186 + 47187]];
+													_0x0rIveDoneNothing = _0x0sPaasa;
+													_0x0qTFYouLookingAt = 137315 + (-859681 + ((29275814099062 - (-355774)) - (58326 + -119657)));
+													_0x0NKigol = _0x0MRomans12_19[_0x0VTUBOL[712897 + (-1241787 - ((((210166 - (-372366)) + (1043995 + ((186512 + -674197) + -153020))) + -654313) - (983519 - 123118)))]];
+													_0x0jDiKanaNiyaMahal = _0x0SMamaMoBlue((593135 + 213822) + (671790 + (-1978748 - (((775454 + -806618) + -592315) + 119581))));
+													_0x0uMamaMoBlue = _0x0NKigol(_0x0jDiKanaNiyaMahal, _0x0qTFYouLookingAt);
+													_0x0tTerrorist = _0x0SMamaMoBlue(734357 + (231574 - 961932));
+													_0x0tTerrorist = _0x0EOhab[_0x0tTerrorist];
+													_0x0gOhab = _0x0PWagGago[_0x0uMamaMoBlue];
+													_0x0tTerrorist = _0x0tTerrorist(_0x0EOhab, _0x0gOhab);
+													_0x0JBILAT = _0x0tTerrorist;
+													_0x0sPaasa = _0x0tTerrorist and 991948 + 4537101 or 13656837 - 805071;
 												else
-													_0x0KRomans12_19 = _0x0RBible;
-													_0x0NTanginaMoCge = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0RBible and 349206 + 7982815 or (296575 + 16536837) - (1508739 - 596076);
+													_0x0ZIveDoneNothing, _0x0pSINGIT = _0x0OTerrorist(_0x0bLove, _0x0ZIveDoneNothing);
+													_0x0sPaasa = _0x0ZIveDoneNothing and (970853 - 739916) + 1864235 or (-537385 - 389277) + (14619962 - 521147);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 104728 - (-458945) then
-												if _0x0EDiKanaNiyaMahal < -199143 + (-814032 + 1540447) then
-													if _0x0EDiKanaNiyaMahal < 834956 - (-40736 + 446629) then
-														_0x0EDiKanaNiyaMahal = _0x0kPlsNo;
-														_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge and (-470612 - (-945153)) + 12070261 or (-851767 - (-714697 - (-380325))) + (91089 + 16835745);
+											if _0x0sPaasa < 734404 + (203768 + ((((804143 - 772246) - (-774932)) - 723034) + -517789)) then
+												if _0x0sPaasa < (-103000 - (-90885)) - (610368 + -978670) then
+													if _0x0sPaasa < 663802 - 332232 then
+														_0x0LTFYouLookingAt = _0x0sPaasa;
+														_0x0WNigaBytes = _0x0SMamaMoBlue(-922386 - (-1079917 - (-476213 - (-322516))));
+														_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+														_0x0pSINGIT = _0x0ASkilliSSUE;
+														_0x0sPaasa = _0x0ASkilliSSUE and -483397 + 10040061 or -376257 + 4586258;
 													else
-														_0x0EDiKanaNiyaMahal = _0x0uBrainDamage;
-														_0x0EDiKanaNiyaMahal = -317842 + (((786193 + (1043431 + ((12240421 - (-894815)) - (-348429)))) - 157737) - (-626585));
-														_0x0KRomans12_19 = _0x0kPlsNo;
+														_0x0pSINGIT = _0x0LTFYouLookingAt;
+														_0x0sPaasa = _0x0ASkilliSSUE;
+														_0x0sPaasa = _0x0LTFYouLookingAt and -492117 + 2036867 or (876312 + (11702703 - ((-801767 - ((((-382134 + 1045973) - 504050) + ((-566180 - 275486) - (-606302))) - ((990165 - 933381) - (-149713)))) + (155653 - (-272219))))) - (639478 + (-187335 + -707162));
 													end;
 												else
-													_0x0XBILAT = _0x0HKigol(122425 - (-792205 + ((1075355 - (-329273 - 201519)) - 642199)));
-													_0x0gDick = _0x0ETUBOL[_0x0XBILAT];
-													_0x0VDick = _0x0gDick;
-													_0x0EDiKanaNiyaMahal = _0x0gDick and (-788128 - (-1326360 - (-867462))) + 14605827 or 874730 + 15368767;
+													_0x0PWagGago = _0x0SMamaMoBlue(487518 + (-859322 + (1233295 - 857626)));
+													_0x0aUrMom = _0x0sPaasa;
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0oUrMom = _0x0nBakla;
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0NKigol = 22621076198360 - 757353;
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago, _0x0NKigol);
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0gOhab];
+													_0x0mWagGago = _0x0oUrMom == _0x0JBILAT;
+													_0x0sPaasa = _0x0mWagGago and (490585 + 5492661) - 281638 or (-983129 + 9607956) - ((240380 - (-654438)) + -285773);
+													_0x0vGay = _0x0mWagGago;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (-486377 - (-54976)) - ((898412 + -129946) + -1772113) then
-													_0x0oSkidDetected = _0x0EDiKanaNiyaMahal;
-													_0x0QMeow = _0x0HKigol(580201 + -629528);
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT and (11897685 - 255976) - (-706475) or (20821 + -844522) + 7877517;
-													_0x0SPlsNo = _0x0rBILAT;
+												if _0x0sPaasa < (159798 - ((-388021 - (-217369 + 198697)) + -645521)) - 665238 then
+													_0x0rIveDoneNothing = _0x0sPaasa;
+													_0x0sPaasa = _0x0bLove and -277273 + 3838460 or 711174 + 7363063;
+													_0x0JBILAT = _0x0bLove;
+													_0x0oUrMom = _0x0aUrMom;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT and (659487 + (858352 + -2319624)) + 6921186 or -320078 + ((479075 + 11361533) - (-859571));
+													_0x0sPaasa = _0x0vGay and ((214747 + 13738735) - 614673) - 600699 or 15450239 - (-94497);
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < -62258 + 1008758 then
-											if _0x0EDiKanaNiyaMahal < -1019202 + 1783057 then
-												if _0x0EDiKanaNiyaMahal < (((-702739 + 2703995) - 468072) - (723238 + 28425)) + -109092 then
-													if _0x0EDiKanaNiyaMahal < 180642 - (-444526) then
-														_0x0dMeow = ((-793287 + 971906) - 67579) + 15666615198445;
-														_0x0EDiKanaNiyaMahal = (730159 - 1045930) + ((-231268 + 389084) + 11423890);
-														_0x0lNigger = _0x0HKigol(604641 - ((-594551 + 1117382) + 131218));
-														_0x0GMamaMoBlue = _0x0HKigol(742261 - 791651);
-														_0x0tBILAT = _0x0ETUBOL[_0x0lNigger];
-														_0x0MTUBOL = _0x0BBible[_0x0ILove];
-														_0x0pUrMom = _0x0BBible[_0x0RBible];
-														_0x0UBoo = _0x0pUrMom(_0x0GMamaMoBlue, _0x0dMeow);
-														_0x0lNigger = _0x0MTUBOL[_0x0UBoo];
-														_0x0uBrainDamage = _0x0tBILAT[_0x0lNigger];
-														_0x0NTanginaMoCge = _0x0uBrainDamage;
+										if _0x0sPaasa < (((-754907 - 69560) + 1988137) - 438572) - (((-78173 - (-682858)) - 548513) + (315709 + -353564)) then
+											if _0x0sPaasa < 1051150 - 453030 then
+												if _0x0sPaasa < (-112322 - (-361443)) + 312845 then
+													if _0x0sPaasa < (364392 + 294710) - 105382 then
+														_0x0OTerrorist = _0x0SMamaMoBlue(529230 + -525305);
+														_0x0ZIveDoneNothing = _0x0sSINGIT[_0x0OTerrorist];
+														_0x0sPaasa = _0x0ZIveDoneNothing and 2289329 - (-968315) or 9921082 - (-301672);
+														_0x0bLove = _0x0ZIveDoneNothing;
 													else
-														_0x0vGay = _0x0NTanginaMoCge;
-														_0x0EDiKanaNiyaMahal = _0x0kPlsNo;
-														_0x0EDiKanaNiyaMahal = -473834 + (452473 + 10435497);
+														_0x0TBible, _0x0oUrMom = _0x0ASkilliSSUE(_0x0WNigaBytes, _0x0TBible);
+														_0x0sPaasa = _0x0TBible and 11559629 - (-1546442 - (-631491)) or (14139620 - (((((-740372 + ((-928225 + 2545844) - 233137)) - 454258) + -690444) + 158788) - 151550)) - (-894828);
 													end;
 												else
-													_0x0eTerrorist = nil;
-													_0x0EDiKanaNiyaMahal = -618115 + 10560062;
-													_0x0JMeow = nil;
+													_0x0GPlsNo = #_0x0WNigaBytes;
+													_0x0TBible = 523714 + -523714;
+													_0x0sPaasa = _0x0GPlsNo == _0x0TBible;
+													_0x0sPaasa = _0x0sPaasa and 493439 + (((14342803 - (22035 + 569672)) - (-290101)) - ((-705028 - (-921807)) + -1248433)) or 582514 + 15658854;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (-821003 + 377117) + 1240925 then
-													_0x0ZSkilliSSUE = {};
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol((281246 + 166829) + ((-58467 + -934782) - (-495945)))];
+												if _0x0sPaasa < -364779 + 1024857 then
+													_0x0aUrMom = _0x0JBILAT;
+													_0x0sPaasa = _0x0rIveDoneNothing;
+													_0x0sPaasa = -364237 + 6919505;
 												else
-													_0x0gDick = _0x0EDiKanaNiyaMahal;
-													_0x0mFallenPartsDestroyHeight = _0x0HKigol(-277874 + 228478);
-													_0x0XBILAT = _0x0ETUBOL[_0x0mFallenPartsDestroyHeight];
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT and 14540333 - (-960883 + 1543243) or -433575 + 4949801;
-													_0x0VDick = _0x0XBILAT;
+													_0x0aUrMom = 80455 + 34265106862867;
+													_0x0nBakla = _0x0SMamaMoBlue((-475739 + -275716) - (-755412));
+													_0x0sPaasa = 92383 - (-243453);
+													_0x0vGay = _0x0SMamaMoBlue(-316400 + 320338);
+													_0x0TBible = _0x0sSINGIT[_0x0nBakla];
+													_0x0oUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0EOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0ISkilliSSUE = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+													_0x0nBakla = _0x0oUrMom[_0x0ISkilliSSUE];
+													_0x0WNigaBytes = _0x0TBible[_0x0nBakla];
+													_0x0LTFYouLookingAt = _0x0WNigaBytes;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (2617119 - 726316) - 804133 then
-												if _0x0EDiKanaNiyaMahal < (-911151 + 657322) + 1265746 then
-													_0x0oSkidDetected = _0x0HKigol(121751 - 171040);
-													_0x0SPlsNo = _0x0ETUBOL[_0x0oSkidDetected];
-													_0x0LSkilliSSUE = _0x0EDiKanaNiyaMahal;
-													_0x0mFallenPartsDestroyHeight = _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = _0x0SPlsNo and 325633 + 8650848 or (6564747 - (-626396)) - (-104795);
+											if _0x0sPaasa < -857447 + 1988045 then
+												if _0x0sPaasa < -442818 + 1485510 then
+													_0x0gOhab = _0x0SMamaMoBlue((1131824 - 922909) + -205115);
+													_0x0mWagGago = _0x0SMamaMoBlue(-962173 - (-966065));
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = (-77411 + 31884438178822) - 150303;
+													_0x0sPaasa = (3998865 - 167625) - (336929 - (377977 + -81573));
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0vGay = _0x0aUrMom[_0x0mWagGago];
+													_0x0EOhab = _0x0vGay;
 												else
-													_0x0XBILAT = _0x0JMeow;
-													_0x0EDiKanaNiyaMahal = _0x0JMeow and -337829 + (2663325 - 410050) or (6555688 - ((-1460315 - (-130825 - 560283)) - (((1147718 - 162575) - 568560) - ((1369973 - (-340457)) - (496467 - (-418893)))))) - 797570;
+													_0x0sPaasa = _0x0LTFYouLookingAt and 6155373 - (-521834) or 965722 + 12141149;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -688632 + 1805510 then
-													_0x0SPlsNo = _0x0HKigol(828288 + -877597);
-													_0x0vGay = 8733962497386 - (356635 - 929816);
-													_0x0KRomans12_19 = _0x0HKigol(450150 + -499432);
-													_0x0XBILAT = _0x0ETUBOL[_0x0SPlsNo];
-													_0x0NTanginaMoCge = -461014 + 4570625369147;
-													_0x0QMeow = _0x0BBible[_0x0bTerrorist[-434042 + 434043]];
-													_0x0hRespect = _0x0BBible[_0x0bTerrorist[(-681892 + 1181057) - 499163]];
-													_0x0fPaasa = _0x0hRespect(_0x0KRomans12_19, _0x0vGay);
-													_0x0rBILAT = _0x0QMeow[_0x0fPaasa];
-													_0x0TRespect = _0x0HKigol(-1083395 - (-1034082));
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[(-338846 - (-25946)) - ((-193951 + -1051008) - (-817175 - (-102503 + 217386)))]];
-													_0x0KRomans12_19 = _0x0BBible[_0x0bTerrorist[(-259405 + (-418380 + ((1473954 - 316003) - 384101))) - 96063]];
-													_0x0vGay = _0x0KRomans12_19(_0x0TRespect, _0x0NTanginaMoCge);
-													_0x0hRespect = _0x0fPaasa[_0x0vGay];
-													_0x0QMeow = _0x0LSkilliSSUE .. _0x0hRespect;
-													_0x0EDiKanaNiyaMahal = 1022711 + ((643643 + 5901637) - 848192);
-													_0x0oSkidDetected = _0x0rBILAT .. _0x0QMeow;
-													_0x0vGay = _0x0HKigol(-668949 - (-619688));
-													_0x0hRespect = _0x0BBible[_0x0bTerrorist[(54129 - (-493597)) + -547725]];
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[534939 - 534937]];
-													_0x0TRespect = (32302 + 27456681447461) - 38016;
-													_0x0KRomans12_19 = _0x0fPaasa(_0x0vGay, _0x0TRespect);
-													_0x0QMeow = _0x0hRespect[_0x0KRomans12_19];
-													_0x0rBILAT = _0x0iFallenPartsDestroyHeight[_0x0QMeow];
-													_0x0SPlsNo = _0x0XBILAT(_0x0oSkidDetected, _0x0rBILAT);
+												if _0x0sPaasa < -717707 + 1898371 then
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue(39231 - (435242 + -399860));
+													_0x0sPaasa = _0x0sSINGIT[_0x0ASkilliSSUE];
+													_0x0nBakla = { _0x0sPaasa(_0x0LTFYouLookingAt) };
+													_0x0WNigaBytes = _0x0nBakla[682279 + ((-714922 + (377504 - (-156187))) + -501046)];
+													_0x0TBible = _0x0nBakla[78839 - 78836];
+													_0x0sPaasa = 984503 + -430540;
+													_0x0ASkilliSSUE = _0x0nBakla[919620 + -919619];
 												else
-													_0x0vGay, _0x0TRespect = _0x0CKigol(_0x0KRomans12_19, _0x0vGay);
-													_0x0EDiKanaNiyaMahal = _0x0vGay and 5892454 - 31974 or (888592 + -1540261) + (17044984 - (580849 - (-258830 + 1104179)));
+													_0x0nBakla = _0x0SMamaMoBlue((287510 + -992535) - (-708920));
+													_0x0TBible = _0x0sSINGIT[_0x0nBakla];
+													_0x0aUrMom = 1032004 + 8245829109613;
+													_0x0nBakla = _0x0TBible(_0x0pSINGIT);
+													_0x0vGay = _0x0SMamaMoBlue(408806 + -404965);
+													_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[23249 - 23248]];
+													_0x0EOhab = _0x0MRomans12_19[_0x0VTUBOL[-876937 - (-876939)]];
+													_0x0ISkilliSSUE = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+													_0x0TBible = _0x0oUrMom[_0x0ISkilliSSUE];
+													_0x0WNigaBytes = _0x0nBakla == _0x0TBible;
+													_0x0sPaasa = _0x0WNigaBytes and -547399 + 16262300 or 2957332 - (-581945);
+													_0x0ASkilliSSUE = _0x0WNigaBytes;
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < -339718 + 2064437 then
-										if _0x0EDiKanaNiyaMahal < (((-125324 + -779097) + (-574819 - (-867200))) + 1616116) + (998834 - 575774) then
-											if _0x0EDiKanaNiyaMahal < (658887 - (-287189)) - (-1353522 - (-1017646)) then
-												if _0x0EDiKanaNiyaMahal < (-651860 + (692869 + 139716)) + 1084196 then
-													if _0x0EDiKanaNiyaMahal < 440359 + 722553 then
-														_0x0SPlsNo = _0x0HKigol(-661665 + 612510);
-														_0x0EDiKanaNiyaMahal = (619696 + 368895) - (-335956);
-														_0x0LSkilliSSUE = _0x0ETUBOL[_0x0SPlsNo];
-														_0x0mFallenPartsDestroyHeight = _0x0JMeow(_0x0LSkilliSSUE);
-														_0x0XBILAT = _0x0mFallenPartsDestroyHeight;
+									if _0x0sPaasa < 290832 + 1796756 then
+										if _0x0sPaasa < 2767737 - 1016525 then
+											if _0x0sPaasa < 1152540 - (589567 - 972002) then
+												if _0x0sPaasa < 829533 - (907906 + -1551122) then
+													if _0x0sPaasa < 386919 + 931214 then
+														_0x0EOhab = (-437511 - (-110971 + -498195)) + -163885;
+														_0x0TBible = _0x0WNigaBytes;
+														_0x0oUrMom = _0x0TBible % _0x0EOhab;
+														_0x0EOhab = -504190 - (-504190);
+														_0x0sPaasa = _0x0oUrMom == _0x0EOhab;
+														_0x0sPaasa = _0x0sPaasa and (346316 + -716017) + 6774320 or (-890039 - ((417220 - (1001575 - 471092)) - 210924)) + (7968578 - (-56893 - 565819));
 													else
-														_0x0oSkidDetected = _0x0HKigol(348679 + -397933);
-														_0x0SPlsNo = _0x0ETUBOL[_0x0oSkidDetected];
-														_0x0oSkidDetected = _0x0SPlsNo(_0x0gDick);
-														_0x0CKigol = -14046 + 2939745929473;
-														_0x0rBILAT = _0x0BBible[_0x0bTerrorist[(689378 + 9665) - 699042]];
-														_0x0QMeow = _0x0BBible[_0x0bTerrorist[-917708 + 917710]];
-														_0x0fPaasa = _0x0HKigol(-878145 - (-828799));
-														_0x0hRespect = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-														_0x0SPlsNo = _0x0rBILAT[_0x0hRespect];
-														_0x0LSkilliSSUE = _0x0oSkidDetected == _0x0SPlsNo;
-														_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE;
-														_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE and (729306 + -1443898) + 5207073 or 10882323 - (((((6345 + (-376560 + 34746)) + 1350136) + -1653504) - (-912494)) + (460483 + -1151818));
+														_0x0ZIveDoneNothing = _0x0OTerrorist;
+														_0x0sPaasa = _0x0KTanginaMoCge;
+														_0x0sPaasa = (905425 + 4625292) - (-133069 + 150999);
 													end;
 												else
-													_0x0LSkilliSSUE = _0x0HKigol(-430157 + 380964);
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0XBILAT = _0x0JMeow(_0x0mFallenPartsDestroyHeight);
-													_0x0EDiKanaNiyaMahal = -623618 + 8216999;
-													_0x0gDick = _0x0XBILAT;
+													_0x0sPaasa = _0x0ISkilliSSUE and -89559 + 9686886 or (-1842068 - (-834272)) + (12714630 - (((-539361 + (((872226 - 556056) - 771014) - (-876207))) - (-268564)) + -885600));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -45512 + 1415363 then
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT and 369987 + (6635024 - 235298) or 4116519 - (-397465 + ((-866901 + 707017) + ((-146436 + (738870 - (-144740))) - (-703966))));
+												if _0x0sPaasa < (221166 + (-4740 + 833353)) - (-110913 - (606507 - 174185)) then
+													_0x0LTFYouLookingAt = _0x0bLove;
+													_0x0sPaasa = _0x0bLove and 13239336 - (-533995 + 900837) or (-915981 + 2390172) - 354541;
 												else
-													_0x0JMeow = _0x0BTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist and 8369462 - (-649249) or (1011150 - (601230 - (116962 + 133332))) + 59062;
+													_0x0sPaasa = _0x0ZIveDoneNothing and 11472912 - 514846 or -669414 + 15392527;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -504573 + ((65934 + (1936818 - (-710279))) - 640130) then
-												if _0x0EDiKanaNiyaMahal < 2373196 - 815356 then
-													if _0x0EDiKanaNiyaMahal < (2222438 - 163322) - (359965 - (-205403)) then
-														_0x0EDiKanaNiyaMahal = _0x0QMeow;
-														_0x0EDiKanaNiyaMahal = ((-1346486 - (-1360138 - (-714452))) + (12765634 - 210906)) - 87075;
-														_0x0SPlsNo = _0x0rBILAT;
+											if _0x0sPaasa < (936249 + (((-880943 + -618187) - ((4412 + (756174 - 831138)) + 769610)) - (-339193))) + 2915852 then
+												if _0x0sPaasa < (((501997 - (-83308)) + -570075) + 2136119) - 360994 then
+													if _0x0sPaasa < -238144 + 2022863 then
+														_0x0vGay = {};
+														_0x0aUrMom = _0x0bBoo();
+														_0x0MRomans12_19[_0x0aUrMom] = _0x0vGay;
+														_0x0vGay = _0x0bBoo();
+														_0x0mWagGago = _0x0nKigol(851070 + 3441403, {
+																_0x0BTanginaMoCge,
+																_0x0YBible,
+																_0x0aUrMom,
+																_0x0vGay,
+															});
+														_0x0JBILAT = _0x0SMamaMoBlue(((-592759 + -414833) + 848780) + 162803);
+														_0x0MRomans12_19[_0x0vGay] = _0x0mWagGago;
+														_0x0mWagGago = _0x0sSINGIT[_0x0JBILAT];
+														_0x0JBILAT = _0x0mWagGago();
+														_0x0rIveDoneNothing = _0x0SMamaMoBlue((970834 - 740821) - (-674134 - (-900268)));
+														_0x0mWagGago = _0x0sSINGIT[_0x0rIveDoneNothing];
+														_0x0qTFYouLookingAt = (-137385 - (-86133)) + 12727514688856;
+														_0x0rIveDoneNothing = _0x0mWagGago();
+														_0x0jDiKanaNiyaMahal = _0x0SMamaMoBlue((((((2089788 - (564620 + ((-123416 + 274424) + (((408699 + 393931) - (((-63223 + -778695) + 1135951) + 302772)) + (10988 - (-113456)))))) + -1029030) + 1013972) + (-244319 + -995005)) + 372094) + -157572);
+														_0x0mWagGago = _0x0MRomans12_19[_0x0vGay];
+														_0x0PWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0NKigol = _0x0MRomans12_19[_0x0YBible];
+														_0x0uMamaMoBlue = _0x0NKigol(_0x0jDiKanaNiyaMahal, _0x0qTFYouLookingAt);
+														_0x0gOhab = _0x0PWagGago[_0x0uMamaMoBlue];
+														_0x0PWagGago = 915362 + (-935501 - (-20139));
+														_0x0tTerrorist = _0x0mWagGago(_0x0JBILAT, _0x0rIveDoneNothing, _0x0gOhab, _0x0PWagGago);
+														_0x0PWagGago = _0x0SMamaMoBlue(((183987 + -952377) + (349842 - 110057)) + 532586);
+														_0x0gOhab = _0x0sSINGIT[_0x0PWagGago];
+														_0x0mWagGago = _0x0gOhab;
+														_0x0tTerrorist = _0x0sPaasa;
+														_0x0sPaasa = _0x0gOhab and (427616 + -21934) + (13855501 - 564502) or 642146 + (474286 + 9623823);
 													else
-														_0x0LSkilliSSUE = _0x0oSkidDetected;
-														_0x0EDiKanaNiyaMahal = _0x0rBILAT;
-														_0x0EDiKanaNiyaMahal = 8500258 - (-801716);
+														_0x0sPaasa = _0x0LTFYouLookingAt and (904812 + 14262038) - (-651505) or 251556 + 3928946;
 													end;
 												else
-													_0x0LSkilliSSUE = _0x0HKigol(-1050933 - (-1001723));
-													_0x0gDick = _0x0BBible[_0x0bTerrorist[421351 - 421350]];
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[((16350 - (-621148)) - (-154418)) - (1492970 - 701056)]];
-													_0x0SPlsNo = 32878360448896 - 199289;
-													_0x0EDiKanaNiyaMahal = _0x0HKigol(22898 - 72093);
-													_0x0mFallenPartsDestroyHeight = _0x0XBILAT(_0x0LSkilliSSUE, _0x0SPlsNo);
-													_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight[_0x0EDiKanaNiyaMahal];
-													_0x0SPlsNo = _0x0HKigol((888367 - 930500) + -7086);
-													_0x0VDick = _0x0gDick[_0x0mFallenPartsDestroyHeight];
-													_0x0gDick = true;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0iFallenPartsDestroyHeight, _0x0VDick, _0x0gDick);
-													_0x0VDick = _0x0EDiKanaNiyaMahal;
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[(903495 - ((1589423 - 427581) - 717951)) + (-926739 - (-467136))]];
-													_0x0oSkidDetected = 645556 + 29131222922606;
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[(-1019312 + 539573) + 479741]];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0gDick = _0x0XBILAT[_0x0LSkilliSSUE];
-													_0x0XBILAT = true;
-													_0x0EDiKanaNiyaMahal = _0x0HKigol(((-727029 + 1391721) + ((-2304553 - (-159981 - 838619)) - (((960926 - 737529) - ((905652 + -1729675) + (304941 + 1395079))) + (321307 + -55153)))) + 205620);
-													_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight[_0x0EDiKanaNiyaMahal];
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0iFallenPartsDestroyHeight, _0x0gDick, _0x0XBILAT);
-													_0x0gDick = _0x0EDiKanaNiyaMahal;
-													_0x0XBILAT = _0x0VDick;
-													_0x0EDiKanaNiyaMahal = _0x0VDick and 14862555 - 644341 or 3509221 - 602427;
+													_0x0sPaasa = _0x0JBILAT;
+													_0x0tTerrorist = _0x0sPaasa;
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(-256380 - (-260195));
+													_0x0PWagGago = _0x0SMamaMoBlue(-220362 + 224202);
+													_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+													_0x0gOhab = _0x0sSINGIT[_0x0PWagGago];
+													_0x0sPaasa = _0x0gOhab and 842872 + 10469308 or 5030572 - (-232266);
+													_0x0rIveDoneNothing = _0x0gOhab;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 2118093 - 517190 then
-													_0x0oSkidDetected = _0x0HKigol(-441733 - (-392395));
-													_0x0SPlsNo = _0x0ETUBOL[_0x0oSkidDetected];
-													_0x0fPaasa = _0x0HKigol(((-1531341 - (983513 + -1729024)) + 941654) - (-1014169 + (((72687 + -901783) - (-738998)) + 1309361)));
-													_0x0oSkidDetected = _0x0SPlsNo(_0x0VDick);
-													_0x0SPlsNo = _0x0HKigol(((1191702 - 348472) + -397986) + -494651);
-													_0x0SPlsNo = _0x0oSkidDetected[_0x0SPlsNo];
-													_0x0SPlsNo = _0x0SPlsNo(_0x0oSkidDetected);
-													_0x0CKigol = ((-1253582 - (-607850)) + 31010587795124) - 311725;
-													_0x0rBILAT = _0x0BBible[_0x0bTerrorist[719118 - 719117]];
-													_0x0QMeow = _0x0BBible[_0x0bTerrorist[(518491 + -1322078) + 803589]];
-													_0x0hRespect = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-													_0x0oSkidDetected = _0x0rBILAT[_0x0hRespect];
-													_0x0LSkilliSSUE = _0x0SPlsNo ~= _0x0oSkidDetected;
-													_0x0EDiKanaNiyaMahal = 15803604 - (884533 - 34481);
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE;
+												if _0x0sPaasa < 246666 + 1789288 then
+													_0x0GPlsNo = { _0x0YBible };
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(253565 + -249777)];
 												else
-													_0x0XBILAT = nil;
-													_0x0EDiKanaNiyaMahal = 2410523 - (-1029747 - (-207542));
+													_0x0DSINGIT = _0x0SUrMom[-1040374 - (-1040375)];
+													_0x0YBible = _0x0SUrMom[-1026995 - (-1026997)];
+													_0x0sPaasa = _0x0MRomans12_19[_0x0VTUBOL[(-459152 + (268241 + -613149)) + ((690672 + 28536) + 84853)]];
+													_0x0BTanginaMoCge = _0x0sPaasa;
+													_0x0sPaasa = _0x0BTanginaMoCge[_0x0YBible];
+													_0x0sPaasa = _0x0sPaasa and 10730894 - (-979753 + 1508123) or 8667998 - 149241;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < (431656 - 816514) + 2365322 then
-											if _0x0EDiKanaNiyaMahal < 2196519 - 272605 then
-												if _0x0EDiKanaNiyaMahal < (3487774 - 654534) - 931479 then
-													if _0x0EDiKanaNiyaMahal < 2523844 - 684507 then
-														_0x0GMamaMoBlue = 456186 + 16999091473080;
-														_0x0lNigger = _0x0BBible[_0x0bTerrorist[-887159 + ((((-1525252 - (-1272399 - (-584082))) + 1104699) + -1102886) + 1722282)]];
-														_0x0kPlsNo = _0x0EDiKanaNiyaMahal;
-														_0x0UBoo = _0x0HKigol(-724903 + 675661);
-														_0x0uBrainDamage = _0x0HKigol((-686569 + 1049626) + (378126 + -790542));
-														_0x0uBrainDamage = _0x0QMeow[_0x0uBrainDamage];
-														_0x0MTUBOL = _0x0BBible[_0x0bTerrorist[289258 + -289256]];
-														_0x0pUrMom = _0x0MTUBOL(_0x0UBoo, _0x0GMamaMoBlue);
-														_0x0tBILAT = _0x0lNigger[_0x0pUrMom];
-														_0x0uBrainDamage = _0x0uBrainDamage(_0x0QMeow, _0x0tBILAT);
-														_0x0EDiKanaNiyaMahal = _0x0uBrainDamage and 185904 + 469140 or ((1612076 - (-367181)) - ((914220 - 471265) + -1364971)) - (408678 + -1355166);
-														_0x0NTanginaMoCge = _0x0uBrainDamage;
+										if _0x0sPaasa < 985696 + (332321 + (505703 - (-417821))) then
+											if _0x0sPaasa < 1176562 - ((-1320984 - (-957736)) - 571290) then
+												if _0x0sPaasa < (-867073 - (670788 + ((((-786016 + 1607354) - 701662) - (-532640)) + -1319258))) + (-519152 + 3498872) then
+													if _0x0sPaasa < 2525624 - (-194046 + 621316) then
+														_0x0KTanginaMoCge = _0x0ZIveDoneNothing;
+														_0x0sPaasa = _0x0SMamaMoBlue((1000130 - (-130526 - (-960755))) + -165993);
+														_0x0WNigaBytes = _0x0SMamaMoBlue(-488314 + 492222);
+														_0x0WNigaBytes = _0x0pSINGIT[_0x0WNigaBytes];
+														_0x0sPaasa = _0x0MFallenPartsDestroyHeight[_0x0sPaasa];
+														_0x0sPaasa = _0x0sPaasa(_0x0MFallenPartsDestroyHeight);
+														_0x0LTFYouLookingAt = _0x0SMamaMoBlue(306514 - (1302871 - 1000356));
+														_0x0LTFYouLookingAt = _0x0sPaasa[_0x0LTFYouLookingAt];
+														_0x0ASkilliSSUE = { _0x0WNigaBytes(_0x0pSINGIT) };
+														_0x0LTFYouLookingAt = _0x0LTFYouLookingAt(_0x0sPaasa, _0x0VBakla(_0x0ASkilliSSUE));
+														_0x0sPaasa = _0x0LTFYouLookingAt and 14402653 - (73144 + 470157) or -687068 + (11214590 - (-591602));
 													else
-														_0x0mFallenPartsDestroyHeight = _0x0HKigol(7894 - (-412717 + (801248 - 331349)));
-														_0x0XBILAT = _0x0ETUBOL[_0x0mFallenPartsDestroyHeight];
-														_0x0VDick = _0x0XBILAT;
-														_0x0gDick = _0x0EDiKanaNiyaMahal;
-														_0x0EDiKanaNiyaMahal = _0x0XBILAT and (-597079 + (-292485 + 15562333)) - (-830073) or (-132197 + 818512) + ((261055 + -1065646) + (7211021 - (-291738 + -253222)));
+														_0x0mWagGago = _0x0SMamaMoBlue(515549 - 511663);
+														_0x0rIveDoneNothing = _0x0SMamaMoBlue((634400 - 972031) - ((687069 + -2037406) - (-1008791)));
+														_0x0PWagGago = -33377 + (-1002989 + 23148039456447);
+														_0x0sPaasa = 497303 + ((750425 + 287450) - 7367);
+														_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+														_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+														_0x0rIveDoneNothing = { _0x0JBILAT() };
+														_0x0gOhab = _0x0SMamaMoBlue(894227 - ((1755502 - 353851) - 511333));
+														_0x0mWagGago = _0x0aUrMom(_0x0VBakla(_0x0rIveDoneNothing));
+														_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+														_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+														_0x0aUrMom = _0x0JBILAT[_0x0tTerrorist];
+														_0x0vGay = _0x0mWagGago ~= _0x0aUrMom;
+														_0x0ISkilliSSUE = _0x0vGay;
 													end;
 												else
-													_0x0mFallenPartsDestroyHeight = _0x0JMeow(_0x0gDick);
-													_0x0EDiKanaNiyaMahal = 5578749 - (-570089);
-													_0x0XBILAT = _0x0mFallenPartsDestroyHeight;
+													_0x0vGay = _0x0SMamaMoBlue(((637369 - 26321) + (997080 + (-1390488 - (-115671)))) - 329348);
+													_0x0sPaasa = -230451 + 16465921;
+													_0x0ISkilliSSUE = _0x0sSINGIT[_0x0vGay];
+													_0x0oUrMom = _0x0ISkilliSSUE;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -48704 + (((1274733 - ((1045163 + (518281 + -2472858)) + (1259300 - (-185014)))) + ((-669720 + ((742892 + 1670402) - ((599763 + (-290790 + -466071)) - (-34734)))) - (-113121))) - (310690 - (260424 + -677047))) then
-													_0x0KRomans12_19 = _0x0HKigol(-703960 + (487161 - (-167489)));
-													_0x0hRespect = _0x0BBible[_0x0bTerrorist[184739 + -184738]];
-													_0x0vGay = 32365218009713 - 429498;
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[(((-433904 + -1198945) - (-812112)) + (1396132 - (-75929))) + -651322]];
-													_0x0CKigol = _0x0fPaasa(_0x0KRomans12_19, _0x0vGay);
-													_0x0QMeow = _0x0hRespect[_0x0CKigol];
-													_0x0EDiKanaNiyaMahal = (15018628 - (-373011)) - (781222 + -540289);
-													_0x0rBILAT = _0x0QMeow;
+												if _0x0sPaasa < -902067 + (-570285 + (-197306 + ((448120 + -1112724) + 4475048))) then
+													_0x0sPaasa = (852963 - 161753) + 12415661;
+													_0x0LTFYouLookingAt = nil;
 												else
-													_0x0QMeow = _0x0EDiKanaNiyaMahal;
-													_0x0fPaasa = _0x0HKigol(452466 - 501726);
-													_0x0hRespect = _0x0ETUBOL[_0x0fPaasa];
-													_0x0EDiKanaNiyaMahal = _0x0hRespect and 7829252 - 849481 or 16625392 - ((-595057 + ((-50794 + (-1401780 - (-679170))) + ((-134617 + (-375882 - (-954995))) + 1012902))) + 699028);
-													_0x0rBILAT = _0x0hRespect;
+													_0x0JBILAT = _0x0MRomans12_19[_0x0VTUBOL[968701 + (-456144 - (839973 - 327417))]];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[(346218 - (-285415)) + ((-1860402 - (-443473)) - (-785298))]];
+													_0x0PWagGago = -464820 + (2187114107948 - 221928);
+													_0x0gOhab = _0x0SMamaMoBlue(-915792 + 919848);
+													_0x0aUrMom = _0x0SMamaMoBlue(-603984 + (((790490 + -656839) + 879618) - 405286));
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0aUrMom = _0x0EOhab[_0x0aUrMom];
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0aUrMom = _0x0aUrMom(_0x0EOhab, _0x0mWagGago);
+													_0x0vGay = _0x0aUrMom;
+													_0x0sPaasa = _0x0aUrMom and 169197 + 11648738 or 11350901 - 411684;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (1761458 - 151342) - (-479148) then
-												if _0x0EDiKanaNiyaMahal < (545440 + 2378961) - 875288 then
-													_0x0NTanginaMoCge = _0x0uBrainDamage;
-													_0x0EDiKanaNiyaMahal = _0x0tBILAT;
-													_0x0EDiKanaNiyaMahal = (((855357 + 460121) - 599914) - (-780486)) - 841006;
+											if _0x0sPaasa < ((298284 + -278750) - (-307169)) + 2005193 then
+												if _0x0sPaasa < -867273 + 3139442 then
+													_0x0bLove = _0x0MFallenPartsDestroyHeight;
+													_0x0sPaasa = _0x0SMamaMoBlue(-876547 - (-880546));
+													_0x0sPaasa = _0x0YBible[_0x0sPaasa];
+													_0x0sPaasa = _0x0sPaasa(_0x0YBible, _0x0ZIveDoneNothing);
+													_0x0sPaasa = _0x0sPaasa and 13632618 - (-313526) or 778125 + 5207198;
 												else
-													_0x0fPaasa = nil;
-													_0x0EDiKanaNiyaMahal = 234388 + 904424;
-													_0x0TRespect = nil;
+													_0x0aUrMom = _0x0SMamaMoBlue((423937 + -1233571) + 813526);
+													_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+													_0x0ISkilliSSUE = _0x0sPaasa;
+													_0x0oUrMom = _0x0sPaasa;
+													_0x0sPaasa = _0x0vGay and 514144 + 380088 or 3111137 - (-679578);
+													_0x0EOhab = _0x0vGay;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -697269 + 2868538 then
-													_0x0VDick, _0x0XBILAT = _0x0eTerrorist(_0x0iFallenPartsDestroyHeight, _0x0VDick);
-													_0x0EDiKanaNiyaMahal = _0x0VDick and 8394539 - (-503334) or -974425 + 7333883;
+												if _0x0sPaasa < 181091 + 2225473 then
+													_0x0ISkilliSSUE = _0x0TBible;
+													_0x0sPaasa = _0x0ISkilliSSUE;
+													_0x0WNigaBytes[_0x0ISkilliSSUE] = _0x0sPaasa;
+													_0x0ISkilliSSUE = nil;
+													_0x0sPaasa = -532400 + (16231512 - (((-228690 - (-141710)) + -379182) + ((-228164 - (-759782)) - (-118080))));
 												else
-													_0x0cBoo = _0x0HSkidDetected[641988 + (-479567 + -162420)];
-													_0x0EDiKanaNiyaMahal = _0x0HKigol(990214 + -1039621);
-													_0x0EDiKanaNiyaMahal = _0x0cBoo[_0x0EDiKanaNiyaMahal];
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0cBoo);
-													_0x0ZSkilliSSUE = _0x0HKigol(-891697 + (950769 + -108218));
-													_0x0ILove = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-													_0x0OTerrorist = _0x0BBible[_0x0bTerrorist[-671615 - (-671616)]];
-													_0x0JMeow = { _0x0EDiKanaNiyaMahal(_0x0OTerrorist) };
-													_0x0ZSkilliSSUE = _0x0JMeow[62581 + -62580];
-													_0x0RBible = _0x0JMeow[-641818 - (-242509 + -399311)];
-													_0x0BTerrorist = _0x0JMeow[362994 - 362991];
-													_0x0EDiKanaNiyaMahal = -540372 + 11623232;
-													_0x0OTerrorist = _0x0ZSkilliSSUE;
+													_0x0sPaasa = _0x0bLove and ((122245 - ((110337 - (1273836 - 693677)) - (-184073))) - 881492) + 14467548 or 3565871 - 647;
 												end;
 											end;
 										end;
 									end;
 								end;
 							else
-								if _0x0EDiKanaNiyaMahal < -20148 + 3113225 then
-									if _0x0EDiKanaNiyaMahal < 624939 + (934223 + 977948) then
-										if _0x0EDiKanaNiyaMahal < (-874978 + 3000670) - (-691136 - (-394894)) then
-											if _0x0EDiKanaNiyaMahal < 1669113 - (-1233538 - (-190776 - 461391)) then
-												if _0x0EDiKanaNiyaMahal < 425480 + 1814307 then
-													if _0x0EDiKanaNiyaMahal < -719396 + 2920055 then
-														_0x0SPlsNo = _0x0EDiKanaNiyaMahal;
-														_0x0rBILAT = _0x0HKigol((870156 + -1859892) - (-940389));
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0rBILAT];
-														_0x0mFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal;
-														_0x0EDiKanaNiyaMahal = _0x0oSkidDetected and 7603651 - 72046 or 7978358 - 487949;
-														_0x0LSkilliSSUE = _0x0oSkidDetected;
+								if _0x0sPaasa < 3183127 - (-271210) then
+									if _0x0sPaasa < (256670 - (1153902 - 783849)) + 3029233 then
+										if _0x0sPaasa < 2081296 - (-682465) then
+											if _0x0sPaasa < -84361 + 2674187 then
+												if _0x0sPaasa < (222039 - 336014) + (454587 + 2226326) then
+													if _0x0sPaasa < 3276599 - (223139 - (-502457)) then
+														_0x0rIveDoneNothing = _0x0SMamaMoBlue(298466 - 294434);
+														_0x0sPaasa = 5469601 - (-96162 + (-327105 + (-844078 - (-956204))));
+														_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+														_0x0gOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0jDiKanaNiyaMahal = 522828064310 - (-240748 - 550298);
+														_0x0PWagGago = _0x0MRomans12_19[_0x0YBible];
+														_0x0uMamaMoBlue = _0x0SMamaMoBlue((-395704 + -636286) + 1035867);
+														_0x0NKigol = _0x0PWagGago(_0x0uMamaMoBlue, _0x0jDiKanaNiyaMahal);
+														_0x0tTerrorist = _0x0gOhab[_0x0NKigol];
+														_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0mWagGago);
 													else
-														_0x0EDiKanaNiyaMahal = _0x0fPaasa and ((-175325 + -1565532) - (-312997 + -488655)) + 9307457 or -834362 + (-823309 + 1725861);
+														_0x0TBible = _0x0YBible[_0x0KTanginaMoCge];
+														_0x0WNigaBytes = _0x0TBible ~= _0x0pSINGIT;
+														_0x0sPaasa = _0x0WNigaBytes and (598773 - (-329042)) + 2952003 or -528837 + (8792042 - (-400670));
+														_0x0ASkilliSSUE = _0x0WNigaBytes;
 													end;
 												else
-													_0x0oSkidDetected = (-765534 - (-227318)) - (-606793 + 68576);
-													_0x0EDiKanaNiyaMahal = _0x0BBible[_0x0bTerrorist[32814 - 32811]];
-													_0x0mFallenPartsDestroyHeight = true;
-													_0x0EDiKanaNiyaMahal[_0x0gDick] = _0x0mFallenPartsDestroyHeight;
-													_0x0EDiKanaNiyaMahal = _0x0BBible[_0x0bTerrorist[(205589 - 267227) - (-61642)]];
-													_0x0LSkilliSSUE = _0x0ILove[_0x0VDick];
-													_0x0SPlsNo = _0x0BTerrorist + _0x0oSkidDetected;
-													_0x0mFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal(_0x0gDick, _0x0LSkilliSSUE, _0x0XBILAT, _0x0SPlsNo);
-													_0x0EDiKanaNiyaMahal = 894786 + 4632300;
+													_0x0KTanginaMoCge = 23911430027278 - 863161;
+													_0x0HGay = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0bLove = _0x0MRomans12_19[_0x0YBible];
+													_0x0TBible = _0x0SMamaMoBlue(-592199 - (-596051));
+													_0x0aUrMom = _0x0SMamaMoBlue(-736975 + 740766);
+													_0x0OTerrorist = _0x0SMamaMoBlue(-75517 - ((-1010959 - (-627524)) + 303915));
+													_0x0ZIveDoneNothing = _0x0bLove(_0x0OTerrorist, _0x0KTanginaMoCge);
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue(960153 + (221867 + (((-553470 - 163877) + (-2109976 - ((645305 + -1918697) - (-585920)))) - (-961751))));
+													_0x0MFallenPartsDestroyHeight = _0x0HGay[_0x0ZIveDoneNothing];
+													_0x0WNigaBytes = 18273430099045 - (-27009);
+													_0x0pSINGIT = _0x0SMamaMoBlue(17562 + -13783);
+													_0x0EOhab = (8882105558862 - (((-563351 + 46332) - (-629556)) + -790088)) - (-638041);
+													_0x0oUrMom = _0x0SMamaMoBlue(-649578 - (-653471));
+													_0x0LTFYouLookingAt = 24470683391141 - (-203892);
+													_0x0nBakla = 117973 + 11798775573336;
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0HGay = true;
+													_0x0vGay = 615693 + 7745933001980;
+													_0x0OTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0KTanginaMoCge = _0x0OTerrorist(_0x0pSINGIT, _0x0LTFYouLookingAt);
+													_0x0bLove = _0x0ZIveDoneNothing[_0x0KTanginaMoCge];
+													_0x0ZIveDoneNothing = true;
+													_0x0KTanginaMoCge = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue((-12940 - 96437) - (-113258));
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0YBible];
+													_0x0LTFYouLookingAt = _0x0pSINGIT(_0x0ASkilliSSUE, _0x0WNigaBytes);
+													_0x0OTerrorist = _0x0KTanginaMoCge[_0x0LTFYouLookingAt];
+													_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0YBible];
+													_0x0KTanginaMoCge = true;
+													_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0TBible, _0x0nBakla);
+													_0x0pSINGIT = _0x0LTFYouLookingAt[_0x0WNigaBytes];
+													_0x0LTFYouLookingAt = true;
+													_0x0WNigaBytes = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0TBible = _0x0MRomans12_19[_0x0YBible];
+													_0x0nBakla = _0x0TBible(_0x0oUrMom, _0x0EOhab);
+													_0x0ASkilliSSUE = _0x0WNigaBytes[_0x0nBakla];
+													_0x0WNigaBytes = true;
+													_0x0nBakla = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = 16319262142720 - (889462 - 626955);
+													_0x0oUrMom = _0x0MRomans12_19[_0x0YBible];
+													_0x0EOhab = _0x0oUrMom(_0x0ISkilliSSUE, _0x0vGay);
+													_0x0TBible = _0x0nBakla[_0x0EOhab];
+													_0x0EOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0YBible];
+													_0x0vGay = _0x0ISkilliSSUE(_0x0aUrMom, _0x0mWagGago);
+													_0x0nBakla = true;
+													_0x0oUrMom = _0x0EOhab[_0x0vGay];
+													_0x0EOhab = true;
+													_0x0sPaasa = {
+															[_0x0MFallenPartsDestroyHeight] = _0x0HGay,
+															[_0x0bLove] = _0x0ZIveDoneNothing,
+															[_0x0OTerrorist] = _0x0KTanginaMoCge,
+															[_0x0pSINGIT] = _0x0LTFYouLookingAt,
+															[_0x0ASkilliSSUE] = _0x0WNigaBytes,
+															[_0x0TBible] = _0x0nBakla,
+															[_0x0oUrMom] = _0x0EOhab,
+														};
+													_0x0MFallenPartsDestroyHeight = _0x0sPaasa;
+													_0x0ZIveDoneNothing = _0x0SMamaMoBlue((((53597 + 247657) + -142289) - (-239990 - ((433311 + -1137700) + 488151))) - 178802);
+													_0x0HGay = _0x0SMamaMoBlue((433376 - (1034667 + -469567)) + 135610);
+													_0x0sPaasa = _0x0sSINGIT[_0x0HGay];
+													_0x0bLove = _0x0sSINGIT[_0x0ZIveDoneNothing];
+													_0x0ZIveDoneNothing = { _0x0bLove() };
+													_0x0HGay = _0x0sPaasa(_0x0VBakla(_0x0ZIveDoneNothing));
+													_0x0bLove = _0x0MFallenPartsDestroyHeight[_0x0HGay];
+													_0x0sPaasa = not _0x0bLove;
+													_0x0sPaasa = _0x0sPaasa and 16817525 - 815425 or -582348 + (190496 - ((((435604 + 130715) + -1343584) - (8048 - 103077)) + (-1226605 - (-963624))));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 2318861 - (-35072) then
-													_0x0EDiKanaNiyaMahal = _0x0JMeow and -851417 + 9672675 or (662097 + 14234871) - (-86144 - (-945802));
+												if _0x0sPaasa < ((90428 + 82394) + (861677 + -1747215)) + (-131850 + (3111981 - ((-632685 - 74477) + 352701))) then
+													_0x0PWagGago = _0x0SMamaMoBlue(((((-476764 + -925266) - (50908 + -1044827)) - (576069 + -1314101)) + -639404) + 313272);
+													_0x0sPaasa = _0x0gOhab;
+													_0x0gOhab = _0x0sSINGIT[_0x0PWagGago];
+													_0x0sPaasa = 686570 + 5335008;
+													_0x0nBakla = {
+															_0x0oUrMom,
+															_0x0EOhab,
+															_0x0vGay,
+															_0x0aUrMom,
+															_0x0mWagGago,
+															_0x0JBILAT,
+															_0x0rIveDoneNothing,
+															_0x0tTerrorist,
+															_0x0gOhab,
+														};
+													_0x0EOhab = _0x0SMamaMoBlue(((942904 + -704669) + 190500) - 424886);
+													_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+													_0x0mWagGago = { _0x0oUrMom(_0x0TBible) };
+													_0x0EOhab = _0x0mWagGago[-734153 + 734154];
+													_0x0aUrMom = _0x0mWagGago[-413655 + ((-487932 + 852313) + 49277)];
+													_0x0vGay = _0x0mWagGago[(555389 - 989943) + 434556];
 												else
-													_0x0KRomans12_19 = _0x0HKigol(((-1230745 - (-149997)) - (-541319)) - (-490082));
-													_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-													_0x0uBrainDamage = 695993 + (-39856 + 4390632827409);
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0kPlsNo = _0x0HKigol(942805 - 992048);
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0fPaasa = _0x0CKigol[_0x0KRomans12_19];
-													_0x0EDiKanaNiyaMahal = 12502024 - (1123392 - 360138);
-													_0x0rBILAT = _0x0fPaasa;
+													_0x0ZIveDoneNothing = nil;
+													_0x0sPaasa = 13495377 - 546098;
+													_0x0bLove = nil;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -615497 + (4032710 - ((1355255 - 929133) + 535707)) then
-												if _0x0EDiKanaNiyaMahal < 2636791 - 193252 then
-													if _0x0EDiKanaNiyaMahal < 1380115 - (-374334 - (-237851 + 910128)) then
-														_0x0SPlsNo = _0x0EDiKanaNiyaMahal;
-														_0x0rBILAT = _0x0HKigol(447719 - 497072);
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0rBILAT];
-														_0x0LSkilliSSUE = _0x0oSkidDetected;
-														_0x0EDiKanaNiyaMahal = _0x0oSkidDetected and (-788148 + -89259) + 10179381 or -870295 + 7270614;
+											if _0x0sPaasa < (609740 - 857097) + 3068177 then
+												if _0x0sPaasa < 2450612 - (-368499) then
+													if _0x0sPaasa < -327260 + 3122742 then
+														_0x0bLove = _0x0MRomans12_19[_0x0VTUBOL[847545 - 847544]];
+														_0x0pSINGIT = 574897 + 17690743517283;
+														_0x0KTanginaMoCge = _0x0SMamaMoBlue((545323 - 191339) - (577881 - 227890));
+														_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[-510658 + 510660]];
+														_0x0OTerrorist = _0x0ZIveDoneNothing(_0x0KTanginaMoCge, _0x0pSINGIT);
+														_0x0sPaasa = (-61841 + 742583) + 6242175;
+														_0x0HGay = _0x0bLove[_0x0OTerrorist];
+														_0x0GPlsNo = _0x0HGay;
 													else
-														_0x0hRespect = _0x0HKigol(-988224 + 938886);
-														_0x0TRespect = ((84704 + 8855764699137) - (-385010)) - 170720;
-														_0x0QMeow = _0x0ETUBOL[_0x0hRespect];
-														_0x0hRespect = _0x0QMeow(_0x0VDick);
-														_0x0fPaasa = _0x0BBible[_0x0bTerrorist[-241873 - (-241874)]];
-														_0x0vGay = _0x0HKigol(460947 + ((-103422 + -827743) + 421049));
-														_0x0CKigol = _0x0BBible[_0x0bTerrorist[-894290 + (-964688 + 1858980)]];
-														_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-														_0x0EDiKanaNiyaMahal = -139439 + 11587673;
-														_0x0QMeow = _0x0fPaasa[_0x0KRomans12_19];
-														_0x0rBILAT = _0x0hRespect == _0x0QMeow;
-														_0x0SPlsNo = _0x0rBILAT;
+														_0x0ZIveDoneNothing, _0x0pSINGIT = _0x0OTerrorist(_0x0bLove, _0x0ZIveDoneNothing);
+														_0x0sPaasa = _0x0ZIveDoneNothing and 278850 + 11300833 or ((((-979063 - (-733810)) - (-96112)) + -1254649) - (-744740)) + 6070806;
 													end;
 												else
-													_0x0VDick = _0x0HKigol((-107793 + (-127548 - 691453)) + 877387);
-													_0x0VDick = _0x0eTerrorist[_0x0VDick];
-													_0x0JMeow = _0x0BTerrorist;
-													_0x0iFallenPartsDestroyHeight = { _0x0VDick(_0x0eTerrorist) };
-													_0x0EDiKanaNiyaMahal = _0x0HKigol(-985334 + (316097 - (-619878)));
-													_0x0EDiKanaNiyaMahal = _0x0ILove[_0x0EDiKanaNiyaMahal];
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0ILove, _0x0bMamaMoBlue(_0x0iFallenPartsDestroyHeight));
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and ((-1608635 - (-161699 - 591234)) - (117260 + (((((92019 - ((253502 - 459482) + (-1631862 - (-1022720)))) - 845) + -2148836) - (-853409)) + -198252))) + 13057648 or -325360 + (((4375252 - (-495554)) - 544065) - (-777598 + -229024));
+													_0x0KTanginaMoCge = _0x0SMamaMoBlue(329090 - 325286);
+													_0x0BTanginaMoCge = _0x0SMamaMoBlue(940697 - (1564710 - 627851));
+													_0x0GPlsNo = _0x0sSINGIT[_0x0BTanginaMoCge];
+													_0x0OTerrorist = -481841 + 3130341708612;
+													_0x0MFallenPartsDestroyHeight = _0x0MRomans12_19[_0x0VTUBOL[(588756 + -1498304) - (-909549)]];
+													_0x0ZIveDoneNothing = _0x0SMamaMoBlue(-771689 + 775641);
+													_0x0HGay = _0x0MRomans12_19[_0x0VTUBOL[40741 + (-315548 + 274809)]];
+													_0x0bLove = _0x0HGay(_0x0ZIveDoneNothing, _0x0OTerrorist);
+													_0x0BTanginaMoCge = _0x0MFallenPartsDestroyHeight[_0x0bLove];
+													_0x0sPaasa = _0x0GPlsNo[_0x0BTanginaMoCge];
+													_0x0GPlsNo = _0x0sPaasa(_0x0YBible);
+													_0x0BTanginaMoCge = _0x0GPlsNo;
+													_0x0pSINGIT = 26379781782091 - (-90568);
+													_0x0bLove = _0x0MRomans12_19[_0x0VTUBOL[(793827 - 391713) + (((-1613941 - (-50357)) - (411454 - 926510)) - (-646415))]];
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[805512 + -805510]];
+													_0x0OTerrorist = _0x0ZIveDoneNothing(_0x0KTanginaMoCge, _0x0pSINGIT);
+													_0x0HGay = _0x0bLove[_0x0OTerrorist];
+													_0x0MFallenPartsDestroyHeight = _0x0BTanginaMoCge[_0x0HGay];
+													_0x0GPlsNo = _0x0MFallenPartsDestroyHeight;
+													_0x0sPaasa = _0x0MFallenPartsDestroyHeight and 755436 + 7239382 or (402881 + 146700) + (6330869 - (-426449));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 1541479 - (-970052) then
-													_0x0iFallenPartsDestroyHeight = _0x0HKigol((1014993 + (13592 + (-319349 + -337215))) + -421331);
-													_0x0OTerrorist = _0x0BBible[_0x0bTerrorist[-886579 + 886580]];
-													_0x0JMeow = _0x0BBible[_0x0bTerrorist[-760814 - (-328753 - 432063)]];
-													_0x0VDick = 811963 + (((365918 - (1222769 - 836349)) + 31741313396523) - (-119512));
-													_0x0eTerrorist = _0x0JMeow(_0x0iFallenPartsDestroyHeight, _0x0VDick);
-													_0x0EDiKanaNiyaMahal = 906782 + ((171285 + -121866) + 13890865);
-													_0x0BTerrorist = _0x0OTerrorist[_0x0eTerrorist];
-													_0x0ZSkilliSSUE = _0x0BTerrorist;
+												if _0x0sPaasa < ((-493252 + (1267093 - 573880)) + 1784156) - (-922685) then
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(-90332 - (-94218));
+													_0x0dPleaseImBeggingNooo = _0x0SMamaMoBlue(((-1502890 - (468156 + -1170572)) + 1491444) - 687094);
+													_0x0NKigol = _0x0sSINGIT[_0x0uMamaMoBlue];
+													_0x0uMamaMoBlue = _0x0NKigol(_0x0vGay);
+													_0x0kTangina = -464756 + 14705564072552;
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0lBible = _0x0MRomans12_19[_0x0YBible];
+													_0x0XTanginaMoCge = _0x0lBible(_0x0dPleaseImBeggingNooo, _0x0kTangina);
+													_0x0jDiKanaNiyaMahal = _0x0qTFYouLookingAt[_0x0XTanginaMoCge];
+													_0x0NKigol = _0x0SMamaMoBlue((-1575455 - ((722815 - 481742) + -985194)) - (-835333));
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0NKigol];
+													_0x0NKigol = _0x0NKigol(_0x0uMamaMoBlue, _0x0jDiKanaNiyaMahal);
+													_0x0PWagGago = not _0x0NKigol;
+													_0x0tTerrorist = _0x0PWagGago;
+													_0x0sPaasa = -704166 + 8227016;
 												else
-													_0x0GMamaMoBlue = _0x0HKigol(-123804 - (-80015 - (-5612)));
-													_0x0eTerrorist = nil;
-													_0x0UBoo = _0x0ETUBOL[_0x0GMamaMoBlue];
-													_0x0VDick = nil;
-													_0x0uBrainDamage = _0x0gFallenPartsDestroyHeight(_0x0uBrainDamage);
-													_0x0WRespect = _0x0HKigol((15828 + -473797) - (-408676));
-													_0x0PRomans12_19 = _0x0HKigol(((((((-508050 + -155503) + 1206119) - (-270596)) - (420710 - (((840623 + -1640754) + 722900) + 496554))) + -366553) + (610206 - 202343)) + (-462211 - (993348 - 553208)));
-													_0x0mFallenPartsDestroyHeight = _0x0gFallenPartsDestroyHeight(_0x0mFallenPartsDestroyHeight);
-													_0x0gDick = nil;
-													_0x0dMeow = _0x0BBible[_0x0ILove];
-													_0x0nTangina = ((-249913 + 2420006268523) - 926848) - (-888367);
-													_0x0YBroStudyingHowMyBrainWorks = 23649013041387 - 178804;
-													_0x0SPlsNo = nil;
-													_0x0fPaasa = _0x0gFallenPartsDestroyHeight(_0x0fPaasa);
-													_0x0zBAYOT = _0x0BBible[_0x0RBible];
-													_0x0wTanginaMoCge = _0x0zBAYOT(_0x0PRomans12_19, _0x0nTangina);
-													_0x0GMamaMoBlue = _0x0dMeow[_0x0wTanginaMoCge];
-													_0x0ZSkilliSSUE = {};
-													_0x0pUrMom = _0x0UBoo[_0x0GMamaMoBlue];
-													_0x0zBAYOT = _0x0HKigol(812262 + (-1711737 - (-850074)));
-													_0x0MTUBOL = _0x0lNigger(_0x0pUrMom);
-													_0x0dMeow = _0x0ETUBOL[_0x0zBAYOT];
-													_0x0wTanginaMoCge = _0x0BBible[_0x0ILove];
-													_0x0XBILAT = nil;
-													_0x0PRomans12_19 = _0x0BBible[_0x0RBible];
-													_0x0NTanginaMoCge = _0x0gFallenPartsDestroyHeight(_0x0NTanginaMoCge);
-													_0x0nTangina = _0x0PRomans12_19(_0x0WRespect, _0x0YBroStudyingHowMyBrainWorks);
-													_0x0iFallenPartsDestroyHeight = nil;
-													_0x0zBAYOT = _0x0wTanginaMoCge[_0x0nTangina];
-													_0x0kPlsNo = _0x0gFallenPartsDestroyHeight(_0x0kPlsNo);
-													_0x0GMamaMoBlue = _0x0dMeow[_0x0zBAYOT];
-													_0x0BTerrorist = nil;
-													_0x0WRespect = 28015464822655 - (-346589);
-													_0x0nTangina = _0x0HKigol(1044526 + -1093797);
-													_0x0zBAYOT = _0x0BBible[_0x0ILove];
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol((-517175 + -207733) - (-675771))];
-													_0x0wTanginaMoCge = _0x0BBible[_0x0RBible];
-													_0x0JMeow = nil;
-													_0x0OTerrorist = nil;
-													_0x0PRomans12_19 = _0x0wTanginaMoCge(_0x0nTangina, _0x0WRespect);
-													_0x0dMeow = _0x0zBAYOT[_0x0PRomans12_19];
-													_0x0PRomans12_19 = _0x0HKigol(458028 + -507234);
-													_0x0QMeow = _0x0gFallenPartsDestroyHeight(_0x0QMeow);
-													_0x0UBoo = _0x0GMamaMoBlue[_0x0dMeow];
-													_0x0vGay = nil;
-													_0x0nTangina = 6630240823277 - (-409846);
-													_0x0tBILAT = _0x0gFallenPartsDestroyHeight(_0x0tBILAT);
-													_0x0CKigol = _0x0gFallenPartsDestroyHeight(_0x0CKigol);
-													_0x0KRomans12_19 = nil;
-													_0x0dMeow = _0x0BBible[_0x0ILove];
-													_0x0oSkidDetected = nil;
-													_0x0LSkilliSSUE = nil;
-													_0x0zBAYOT = _0x0BBible[_0x0RBible];
-													_0x0RBible = _0x0gFallenPartsDestroyHeight(_0x0RBible);
-													_0x0rBILAT = nil;
-													_0x0wTanginaMoCge = _0x0zBAYOT(_0x0PRomans12_19, _0x0nTangina);
-													_0x0TRespect = nil;
-													_0x0GMamaMoBlue = _0x0dMeow[_0x0wTanginaMoCge];
-													_0x0pUrMom = _0x0UBoo[_0x0GMamaMoBlue];
-													_0x0MTUBOL = _0x0lNigger(_0x0pUrMom);
-													_0x0ILove = _0x0gFallenPartsDestroyHeight(_0x0ILove);
-													_0x0lNigger = nil;
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(((-925411 - (((310785 + 279372) + (389981 + ((-825088 + 1261678) + -873127))) - (918597 - 235270))) + 1819193) + -1029683);
+													_0x0mWagGago = _0x0sPaasa;
+													_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+													_0x0sPaasa = _0x0JBILAT and 6121653 - (466856 + -900471) or 14802494 - (-280504);
+													_0x0aUrMom = _0x0JBILAT;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 3237951 - (-31946 + ((369783 + (-145340 + 1075087)) - 982613)) then
-											if _0x0EDiKanaNiyaMahal < 3090117 - (586959 - 308245) then
-												if _0x0EDiKanaNiyaMahal < (-961568 + (7113 + ((2788744 - (-987122)) - 875301))) - (-616311 + -46036) then
-													if _0x0EDiKanaNiyaMahal < -36818 + 2632128 then
-														_0x0JMeow = nil;
-														_0x0EDiKanaNiyaMahal = 5008070 - 708186;
-														_0x0eTerrorist = nil;
+										if _0x0sPaasa < 159356 + 3087064 then
+											if _0x0sPaasa < 3849944 - (263577 - (-619612 + 242460)) then
+												if _0x0sPaasa < -999270 + 4095424 then
+													if _0x0sPaasa < (1302272 - 854352) + 2607109 then
+														_0x0DSINGIT = _0x0SUrMom[(-25410 - (-861232)) + (-913221 + 77400)];
+														_0x0sPaasa = _0x0SMamaMoBlue(806832 - (-662895 + 1465819));
+														_0x0sPaasa = _0x0DSINGIT[_0x0sPaasa];
+														_0x0sPaasa = _0x0sPaasa(_0x0DSINGIT);
+														_0x0GPlsNo = _0x0SMamaMoBlue(-468215 - (-472064));
+														_0x0YBible = _0x0sPaasa;
+														_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+														_0x0HGay = _0x0MRomans12_19[_0x0VTUBOL[410284 + -410283]];
+														_0x0bLove = { _0x0sPaasa(_0x0HGay) };
+														_0x0BTanginaMoCge = _0x0bLove[((((-272217 + 914236) + -1208221) + -270623) + 506869) + (((-855932 + -132972) + 1199) + 1317663)];
+														_0x0GPlsNo = _0x0bLove[371822 + (-1295482 - (-923661))];
+														_0x0MFallenPartsDestroyHeight = _0x0bLove[-386006 + 386009];
+														_0x0HGay = _0x0GPlsNo;
+														_0x0sPaasa = 14534737 - 342107;
 													else
-														_0x0oSkidDetected = _0x0HKigol(-950927 + 901555);
-														_0x0LSkilliSSUE = _0x0EDiKanaNiyaMahal;
-														_0x0SPlsNo = _0x0ETUBOL[_0x0oSkidDetected];
-														_0x0EDiKanaNiyaMahal = _0x0SPlsNo and 272210 + 2346611 or 1509796 - 945776;
-														_0x0mFallenPartsDestroyHeight = _0x0SPlsNo;
+														_0x0LTFYouLookingAt = _0x0SMamaMoBlue(-257225 - (-1158942 - (-897833)));
+														_0x0pSINGIT = _0x0sSINGIT[_0x0LTFYouLookingAt];
+														_0x0sPaasa = _0x0pSINGIT and 8462867 - 465472 or (-815215 + 5849588) - 577304;
+														_0x0KTanginaMoCge = _0x0pSINGIT;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE;
-													_0x0gDick = _0x0mFallenPartsDestroyHeight;
-													_0x0EDiKanaNiyaMahal = 994186 + 4363176;
+													_0x0mWagGago = _0x0SMamaMoBlue(((-546835 - (-261212)) + -7759) - (-297197));
+													_0x0vGay = _0x0SMamaMoBlue(124743 + -120707);
+													_0x0sPaasa = _0x0EOhab;
+													_0x0aUrMom = _0x0SMamaMoBlue((-249991 - (-121115)) - (-132825));
+													_0x0EOhab = _0x0sSINGIT[_0x0vGay];
+													_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+													_0x0tTerrorist = _0x0SMamaMoBlue(619960 - (1443216 - 827213));
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0rIveDoneNothing = _0x0sSINGIT[_0x0tTerrorist];
+													_0x0mWagGago = _0x0rIveDoneNothing;
+													_0x0JBILAT = _0x0sPaasa;
+													_0x0sPaasa = _0x0rIveDoneNothing and 5801482 - (-945510 + -35476) or 2310723 - 513901;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 2220129 - (-515614 + -165789) then
-													_0x0EDiKanaNiyaMahal = _0x0oSkidDetected;
-													_0x0mFallenPartsDestroyHeight = _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = 9778482 - 802001;
+												if _0x0sPaasa < 26374 + (947349 + 2245092) then
+													_0x0HGay, _0x0OTerrorist = _0x0bLove(_0x0MFallenPartsDestroyHeight, _0x0HGay);
+													_0x0sPaasa = _0x0HGay and 12638046 - (1005475 - 111237) or (688802 + 13536366) - 557930;
 												else
-													_0x0XBILAT = _0x0gDick;
-													_0x0EDiKanaNiyaMahal = (384574 + 10760) + 13822880;
+													_0x0sPaasa = 8193918 - (-217943);
+													_0x0LTFYouLookingAt = nil;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-246484 + 3015168) - (-275483) then
-												if _0x0EDiKanaNiyaMahal < ((((-975554 + 846490) + -620506) + (-125175 + (-380201 + ((168990 + -350115) + 740685)))) + 1324288) + 2396253 then
-													_0x0mFallenPartsDestroyHeight = _0x0HKigol((526989 + (-746592 - 677502)) - (-847959));
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0mFallenPartsDestroyHeight];
-													_0x0oSkidDetected = { _0x0EDiKanaNiyaMahal(_0x0XBILAT) };
-													_0x0EDiKanaNiyaMahal = (319994 + -814125) + 14555406;
-													_0x0SPlsNo = _0x0oSkidDetected[-146259 - (-146262)];
-													_0x0mFallenPartsDestroyHeight = _0x0oSkidDetected[((-206142 + 1221079) + -914695) - 100241];
-													_0x0LSkilliSSUE = _0x0oSkidDetected[(-466728 + 1506991) - (1014662 - (((772520 - 400925) + -87199) - 309995))];
+											if _0x0sPaasa < ((-497934 - (-91930)) + -311690) + 4142735 then
+												if _0x0sPaasa < -685077 + (-589682 + ((788813 + -649838) + ((534890 + -41208) + 3922270))) then
+													_0x0KTanginaMoCge = _0x0SMamaMoBlue(918433 - 914631);
+													_0x0OTerrorist = _0x0sSINGIT[_0x0KTanginaMoCge];
+													_0x0sPaasa = _0x0OTerrorist and 107280 + 5405507 or 11846387 - (-529810);
+													_0x0ZIveDoneNothing = _0x0OTerrorist;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT and (-142798 - (-700522)) + 558428 or 7292085 - ((189672 - (-606938)) + -224324);
+													_0x0gOhab = _0x0SMamaMoBlue(196895 + -192961);
+													_0x0gOhab = _0x0nBakla[_0x0gOhab];
+													_0x0gOhab = _0x0gOhab(_0x0nBakla, _0x0BTanginaMoCge);
+													_0x0mWagGago = _0x0gOhab;
+													_0x0sPaasa = 821166 + (7210104 - 367243);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 3639213 - (793544 + -212422) then
-													_0x0kPlsNo = _0x0HKigol((((374335 - (-225010)) + (489699 - 195424)) - 851104) + -91737);
-													_0x0kPlsNo = _0x0oSkidDetected[_0x0kPlsNo];
-													_0x0EDiKanaNiyaMahal = 700323 + 8714361;
-													_0x0kPlsNo = _0x0kPlsNo(_0x0oSkidDetected, _0x0ILove);
-													_0x0KRomans12_19 = _0x0kPlsNo;
+												if _0x0sPaasa < 2553929 - ((-126520 + -917251) + 153889) then
+													_0x0WNigaBytes = not _0x0ASkilliSSUE;
+													_0x0pSINGIT = _0x0pSINGIT + _0x0LTFYouLookingAt;
+													_0x0OTerrorist = _0x0pSINGIT <= _0x0KTanginaMoCge;
+													_0x0OTerrorist = _0x0WNigaBytes and _0x0OTerrorist;
+													_0x0WNigaBytes = _0x0pSINGIT >= _0x0KTanginaMoCge;
+													_0x0WNigaBytes = _0x0ASkilliSSUE and _0x0WNigaBytes;
+													_0x0OTerrorist = _0x0WNigaBytes or _0x0OTerrorist;
+													_0x0WNigaBytes = (262997 + 3476314) - (-874546);
+													_0x0sPaasa = _0x0OTerrorist and _0x0WNigaBytes;
+													_0x0OTerrorist = (-523118 + 85694) + 11938040;
+													_0x0sPaasa = _0x0sPaasa or _0x0OTerrorist;
 												else
-													_0x0EDiKanaNiyaMahal = {};
-													_0x0BBible[_0x0bTerrorist[((525720 + -617839) + (252964 - 320006)) + 159163]] = _0x0EDiKanaNiyaMahal;
-													_0x0OTerrorist = 487397 + (35184371611497 - 10062);
-													_0x0ZSkilliSSUE = _0x0BBible[_0x0bTerrorist[-712626 - (-712629)]];
-													_0x0iFallenPartsDestroyHeight = _0x0HKigol(-502357 + 453125);
-													_0x0BTerrorist = _0x0ZSkilliSSUE;
-													_0x0eTerrorist = -1019804 - (-1020059);
-													_0x0ZSkilliSSUE = _0x0ILove % _0x0OTerrorist;
-													_0x0BBible[_0x0bTerrorist[(913898 + -581928) - (17003 - (-314963))]] = _0x0ZSkilliSSUE;
-													_0x0JMeow = _0x0ILove % _0x0eTerrorist;
-													_0x0eTerrorist = -894587 + 894589;
-													_0x0OTerrorist = _0x0JMeow + _0x0eTerrorist;
-													_0x0BBible[_0x0bTerrorist[845390 - 845385]] = _0x0OTerrorist;
-													_0x0eTerrorist = _0x0ETUBOL[_0x0iFallenPartsDestroyHeight];
-													_0x0iFallenPartsDestroyHeight = _0x0HKigol(((582941 - (-141395)) + -595189) + (((-1485546 - (-48503 + (-517836 + -181439))) + (719055 - 273454)) - (-113615)));
-													_0x0JMeow = _0x0eTerrorist[_0x0iFallenPartsDestroyHeight];
-													_0x0eTerrorist = _0x0JMeow(_0x0cBoo);
-													_0x0VDick = _0x0eTerrorist;
-													_0x0gDick = ((-882569 + 873157) + -613184) + 622597;
-													_0x0JMeow = _0x0HKigol((659020 - 822988) - (-114658));
-													_0x0RBible[_0x0ILove] = _0x0JMeow;
-													_0x0iFallenPartsDestroyHeight = -930458 - (-930459);
-													_0x0JMeow = (841151 - 1039319) - (-198412);
-													_0x0XBILAT = _0x0gDick;
-													_0x0gDick = -652852 - (-652852);
-													_0x0mFallenPartsDestroyHeight = _0x0XBILAT < _0x0gDick;
-													_0x0gDick = _0x0iFallenPartsDestroyHeight - _0x0XBILAT;
-													_0x0EDiKanaNiyaMahal = 14181653 - 230898;
+													_0x0KTanginaMoCge, _0x0LTFYouLookingAt = _0x0ZIveDoneNothing(_0x0OTerrorist, _0x0KTanginaMoCge);
+													_0x0sPaasa = _0x0KTanginaMoCge and 14096935 - 826681 or 4562681 - (-1698315 - (566961 + -1314631));
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < -468016 + 4006629 then
-										if _0x0EDiKanaNiyaMahal < 3600710 - (-457336 - (-761472)) then
-											if _0x0EDiKanaNiyaMahal < -79890 + (-349484 + 3676822) then
-												if _0x0EDiKanaNiyaMahal < 2873908 - (-357199) then
-													if _0x0EDiKanaNiyaMahal < 2199603 - (-912635) then
-														_0x0NTanginaMoCge = _0x0EDiKanaNiyaMahal;
-														_0x0EDiKanaNiyaMahal = _0x0ILove and 2288056 - (((-1925156 - (-726854)) - (933531 + (-1778206 - (-1693031 - (-744186))))) - (-543698)) or 531140 + ((-27627 + (892912 + -909956)) + 8928215);
-														_0x0KRomans12_19 = _0x0ILove;
+									if _0x0sPaasa < 787884 + (3329136 - (-22969)) then
+										if _0x0sPaasa < 44132 + (((-888616 + (-185992 - (-51956))) + 4371299) - (-192607)) then
+											if _0x0sPaasa < (542854 + (-16210 - (146061 - 170585))) + 2996753 then
+												if _0x0sPaasa < ((-309262 + 313586) + 254421) + 3251038 then
+													if _0x0sPaasa < 968477 + (446900 + 2040783) then
+														_0x0JBILAT = _0x0tTerrorist;
+														_0x0sPaasa = _0x0gOhab;
+														_0x0sPaasa = 182039 + 5347010;
 													else
-														_0x0hRespect = _0x0SPlsNo;
-														_0x0EDiKanaNiyaMahal = _0x0hRespect;
-														_0x0LSkilliSSUE[_0x0hRespect] = _0x0EDiKanaNiyaMahal;
-														_0x0hRespect = nil;
-														_0x0EDiKanaNiyaMahal = 382860 + 2923101;
+														_0x0pSINGIT = _0x0SMamaMoBlue(-175408 + 179264);
+														_0x0KTanginaMoCge = _0x0sSINGIT[_0x0pSINGIT];
+														_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[-565634 - (-565635)]];
+														_0x0TBible = _0x0SMamaMoBlue(687485 - (-990534 + 1673970));
+														_0x0sPaasa = 382929 + 2023724;
+														_0x0nBakla = -592672 + 17474225737798;
+														_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[989071 - (518044 + (83324 - (-387701)))]];
+														_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0TBible, _0x0nBakla);
+														_0x0nBakla = 1407111848154 - 457641;
+														_0x0pSINGIT = _0x0LTFYouLookingAt[_0x0WNigaBytes];
+														_0x0TBible = _0x0SMamaMoBlue(-358488 - (-362269));
+														_0x0OTerrorist = _0x0KTanginaMoCge[_0x0pSINGIT];
+														_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[((((-983706 - 544688) - (-173627)) - (-33966 - (-237459))) - (-939526)) + (13814 - (1527 + -606448))]];
+														_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[-216948 + ((899857 + -1302040) + 619133)]];
+														_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0TBible, _0x0nBakla);
+														_0x0pSINGIT = _0x0LTFYouLookingAt[_0x0WNigaBytes];
+														_0x0KTanginaMoCge = _0x0OTerrorist(_0x0HGay, _0x0pSINGIT);
+														_0x0ZIveDoneNothing = not _0x0KTanginaMoCge;
+														_0x0bLove = _0x0ZIveDoneNothing;
 													end;
 												else
-													_0x0LSkilliSSUE = _0x0HKigol(250797 + -300166);
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0XBILAT = _0x0mFallenPartsDestroyHeight;
-													_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight and (15341445 - (-972739)) - 600188 or 3859073 - (((697197 + 490204) - ((((1438637 - 1045112) + (344249 - (-399423 - (-28804)))) - (-532161)) - 1007633)) + -743996);
+													_0x0sPaasa = _0x0ASkilliSSUE and 10091885 - 646501 or 9004016 - ((1334203 - (618496 - 303468)) + ((-313712 + (1023402 + -3135128)) - (-848692)));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (((-717880 + ((-309020 + 4493779) - (306439 - (1000948 + -1700079)))) - 10235) - (-790038)) - (-43370) then
-													_0x0SPlsNo = (((-500069 + 1381456) + -297629) + -576381) + 11840886718501;
-													_0x0LSkilliSSUE = _0x0HKigol((197146 + 350817) - 597220);
-													_0x0gDick = _0x0BBible[_0x0bTerrorist[-607208 + 607209]];
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[(1390373 - ((((-586165 + -37625) + 1391405) - (-647066 - (-584850))) + -362557)) - 923097]];
-													_0x0EDiKanaNiyaMahal = 15602567 - 893854;
-													_0x0mFallenPartsDestroyHeight = _0x0XBILAT(_0x0LSkilliSSUE, _0x0SPlsNo);
-													_0x0VDick = _0x0gDick[_0x0mFallenPartsDestroyHeight];
-													_0x0iFallenPartsDestroyHeight = _0x0RBible[_0x0VDick];
-													_0x0oSkidDetected = ((((533547 + -181491) + -652027) + 209411) - 304048) + (((-395273 + (20321597820167 - 356316)) - (-1044287)) - (174169 + 156069));
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[830483 + -830482]];
-													_0x0VDick = _0x0HKigol(-287011 + (766751 + -529099));
-													_0x0SPlsNo = _0x0HKigol(599894 - 649039);
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[-404730 - (-404732)]];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0gDick = _0x0XBILAT[_0x0LSkilliSSUE];
-													_0x0VDick = _0x0iFallenPartsDestroyHeight[_0x0VDick];
-													_0x0VDick = _0x0VDick(_0x0iFallenPartsDestroyHeight, _0x0gDick);
-													_0x0JMeow = _0x0VDick;
+												if _0x0sPaasa < 4102909 - 541479 then
+													_0x0tTerrorist = _0x0bLove(_0x0mWagGago);
+													_0x0JBILAT = _0x0tTerrorist;
+													_0x0sPaasa = -799537 + ((10200331 - (-138485 - (-1056307 - (-434411)))) - 843146);
 												else
-													_0x0EDiKanaNiyaMahal = -503095 + (551803 + 471396);
-													_0x0lNigger = _0x0HKigol(315287 - 364591);
-													_0x0tBILAT = _0x0ETUBOL[_0x0lNigger];
-													_0x0kPlsNo = _0x0tBILAT;
+													_0x0HGay = nil;
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(-828742 - (-832569))];
+													_0x0MFallenPartsDestroyHeight = nil;
+													_0x0GPlsNo = {};
+													_0x0DSINGIT = nil;
+													_0x0YBible = nil;
+													_0x0BTanginaMoCge = nil;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 3390590 - (-90777) then
-												if _0x0EDiKanaNiyaMahal < 4497950 - 1046404 then
-													if _0x0EDiKanaNiyaMahal < -950900 + (3930252 - (-352550)) then
-														_0x0SPlsNo = _0x0SPlsNo + _0x0rBILAT;
-														_0x0hRespect = not _0x0QMeow;
-														_0x0ZSkilliSSUE = _0x0SPlsNo <= _0x0oSkidDetected;
-														_0x0ZSkilliSSUE = _0x0hRespect and _0x0ZSkilliSSUE;
-														_0x0hRespect = _0x0SPlsNo >= _0x0oSkidDetected;
-														_0x0hRespect = _0x0QMeow and _0x0hRespect;
-														_0x0ZSkilliSSUE = _0x0hRespect or _0x0ZSkilliSSUE;
-														_0x0hRespect = 532168 + 2646754;
-														_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE and _0x0hRespect;
-														_0x0ZSkilliSSUE = -281668 + 13865519;
-														_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal or _0x0ZSkilliSSUE;
+											if _0x0sPaasa < 3476123 - (-1061920 - (519413 + (-145456 + -968662))) then
+												if _0x0sPaasa < 4010586 - 110560 then
+													if _0x0sPaasa < (-90352 - 775542) + (5011350 - 304310) then
+														_0x0sPaasa = _0x0ISkilliSSUE;
+														_0x0nBakla = _0x0EOhab;
+														_0x0sPaasa = _0x0EOhab and (15040536 - (-130314)) - (-406173) or 873484 + (6276762 - (527625 - (-581178 + (283571 - ((474718 - (-142066)) + -1069126)))));
 													else
-														_0x0cBoo = nil;
-														_0x0ZSkilliSSUE = {};
-														_0x0ILove = nil;
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(856151 + -905423)];
+														_0x0ISkilliSSUE = _0x0SMamaMoBlue(-745994 - (-311008 - (1446074 - 1007202)));
+														_0x0nBakla = _0x0sPaasa;
+														_0x0EOhab = _0x0sSINGIT[_0x0ISkilliSSUE];
+														_0x0ISkilliSSUE = _0x0EOhab(_0x0KTanginaMoCge);
+														_0x0EOhab = _0x0SMamaMoBlue(929604 + (250401 + -1176097));
+														_0x0EOhab = _0x0ISkilliSSUE[_0x0EOhab];
+														_0x0JBILAT = _0x0SMamaMoBlue(-534184 + 538042);
+														_0x0rIveDoneNothing = -945275 + (390326 + (-825289 + ((707067 - 1041749) + 7994398073774)));
+														_0x0EOhab = _0x0EOhab(_0x0ISkilliSSUE);
+														_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[30616 + (427444 + (-775600 - (-317541)))]];
+														_0x0aUrMom = _0x0MRomans12_19[_0x0VTUBOL[836555 - (761026 + 75527)]];
+														_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+														_0x0ISkilliSSUE = _0x0vGay[_0x0mWagGago];
+														_0x0oUrMom = _0x0EOhab == _0x0ISkilliSSUE;
+														_0x0TBible = _0x0oUrMom;
+														_0x0sPaasa = _0x0oUrMom and 351018 + ((6995761 - (-110304)) - (-435744)) or 4392199 - 101252;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = 9622719 - 895623;
+													_0x0vGay = _0x0SMamaMoBlue((1205882 - 889450) - 312487);
+													_0x0EOhab = _0x0sPaasa;
+													_0x0ISkilliSSUE = _0x0sSINGIT[_0x0vGay];
+													_0x0sPaasa = _0x0ISkilliSSUE and 893941 + 15341529 or (2207352 - 883347) - (-785691);
+													_0x0oUrMom = _0x0ISkilliSSUE;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 891793 + 2632387 then
-													_0x0EDiKanaNiyaMahal = true;
-													_0x0ZSkilliSSUE = { _0x0EDiKanaNiyaMahal };
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(-656204 - (891935 + (-867588 + (-1407926 - (-1694127 - ((-1172301 - (-670218)) + -415512))))))];
+												if _0x0sPaasa < (4677268 - ((-89161 - ((-82425 - ((-60289 + 618292) + 220921)) - (-643040))) - (-531562 + 924065))) - 949622 then
+													_0x0YBible = _0x0MRomans12_19[_0x0VTUBOL[419674 + -419672]];
+													_0x0BTanginaMoCge = -978673 - (-978690);
+													_0x0DSINGIT = _0x0YBible * _0x0BTanginaMoCge;
+													_0x0YBible = 2909227390377 - (((337424 + ((-305640 - (-760607)) + (-1397321 - 244312))) - (-622417)) - (-448481));
+													_0x0GPlsNo = _0x0DSINGIT + _0x0YBible;
+													_0x0YBible = 982361 + -982360;
+													_0x0DSINGIT = 35184371374506 - (-714326);
+													_0x0sPaasa = _0x0GPlsNo % _0x0DSINGIT;
+													_0x0MRomans12_19[_0x0VTUBOL[660623 - (-126071 + (28232 - (-758460)))]] = _0x0sPaasa;
+													_0x0DSINGIT = _0x0MRomans12_19[_0x0VTUBOL[385690 + (-169972 - 215715)]];
+													_0x0GPlsNo = _0x0DSINGIT ~= _0x0YBible;
+													_0x0sPaasa = (360792 - (-148474 - 42467)) + 4375668;
 												else
-													_0x0TRespect = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0JMeow and 12230238 - 518235 or 4270620 - 247053;
-													_0x0vGay = _0x0JMeow;
-													_0x0rBILAT = _0x0CKigol;
+													_0x0EOhab = _0x0SMamaMoBlue(((785311 + -2349846) - (-573947)) - (-994424));
+													_0x0nBakla = _0x0sPaasa;
+													_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+													_0x0sPaasa = _0x0oUrMom and 925831 + 13926816 or ((996691 - 865390) + -542435) + 6475743;
+													_0x0TBible = _0x0oUrMom;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 3195974 - (-689798) then
-											if _0x0EDiKanaNiyaMahal < -263429 + 4048411 then
-												if _0x0EDiKanaNiyaMahal < 118808 + 3646455 then
-													if _0x0EDiKanaNiyaMahal < -668487 + 4314983 then
-														_0x0fPaasa = _0x0HKigol((-270740 - (-286955)) - (948236 - 882680));
-														_0x0CKigol = 762388 + (219990342754 - (-413878 + 479374));
-														_0x0EDiKanaNiyaMahal = (411500 + (9788623 - (-544298 + 1175694))) - 110438;
-														_0x0oSkidDetected = _0x0HKigol((840090 + (-1005613 + (-298858 - (-284106)))) + 130877);
-														_0x0SPlsNo = _0x0ETUBOL[_0x0oSkidDetected];
-														_0x0rBILAT = _0x0BBible[_0x0ILove];
-														_0x0QMeow = _0x0BBible[_0x0RBible];
-														_0x0hRespect = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-														_0x0oSkidDetected = _0x0rBILAT[_0x0hRespect];
-														_0x0LSkilliSSUE = _0x0SPlsNo[_0x0oSkidDetected];
-														_0x0XBILAT = _0x0LSkilliSSUE;
+										if _0x0sPaasa < (3826886 - 96465) - (-564436) then
+											if _0x0sPaasa < 4664411 - 424897 then
+												if _0x0sPaasa < (74116 + 440888) + 3670977 then
+													if _0x0sPaasa < 637900 + 3532331 then
+														_0x0vGay = _0x0JBILAT;
+														_0x0gOhab = _0x0sPaasa;
+														_0x0sPaasa = _0x0vGay and 551521 + (833841 + (-401266 + 6672921)) or 12670985 - (-224411);
+														_0x0tTerrorist = _0x0vGay;
 													else
-														_0x0XBILAT = _0x0HKigol(571035 + -620181);
-														_0x0oSkidDetected = _0x0HKigol((-46435 - 385048) - (-382280));
-														_0x0oSkidDetected = _0x0iFallenPartsDestroyHeight[_0x0oSkidDetected];
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0XBILAT];
-														_0x0SPlsNo = { _0x0oSkidDetected(_0x0iFallenPartsDestroyHeight) };
-														_0x0oSkidDetected = { _0x0EDiKanaNiyaMahal(_0x0bMamaMoBlue(_0x0SPlsNo)) };
-														_0x0EDiKanaNiyaMahal = 15300192 - 930312;
-														_0x0XBILAT = _0x0oSkidDetected[-205076 - (-205077)];
-														_0x0mFallenPartsDestroyHeight = _0x0oSkidDetected[(1294739 - 920086) - 374651];
-														_0x0LSkilliSSUE = _0x0oSkidDetected[-197746 + 197749];
+														_0x0vGay = _0x0SMamaMoBlue(633886 + -630013);
+														_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[-401241 - (-401244)]];
+														_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[(-1314848 - (-535894)) - (-1061738 - (-282783))]];
+														_0x0EOhab = _0x0MRomans12_19[_0x0VTUBOL[(61926 + -375536) + (-613250 + ((262553 - (-1193)) + 663116))]];
+														_0x0mWagGago = 911497 + (15730339605984 - (156258 + (-31226 - 183365)));
+														_0x0ISkilliSSUE = _0x0EOhab(_0x0vGay, _0x0mWagGago);
+														_0x0nBakla = _0x0oUrMom[_0x0ISkilliSSUE];
+														_0x0TBible = _0x0OTerrorist[_0x0nBakla];
+														_0x0nBakla = { _0x0LTFYouLookingAt(_0x0TBible) };
+														_0x0ASkilliSSUE = _0x0nBakla[(-722690 - (-174415)) + 548276];
+														_0x0WNigaBytes = _0x0nBakla[-243079 + (1047337 + -804256)];
+														_0x0LTFYouLookingAt = _0x0ASkilliSSUE;
+														_0x0TBible = _0x0sPaasa;
+														_0x0sPaasa = _0x0ASkilliSSUE and (-378251 - (-456453)) + 15283737 or 12181560 - (-369164);
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = -835715 + (-639384 + (215668 + 13349713));
-													_0x0uBrainDamage = _0x0BBible[_0x0bTerrorist[557104 + (-172748 - 384352)]];
-													_0x0tBILAT = _0x0uBrainDamage(_0x0rBILAT);
-													_0x0kPlsNo = not _0x0tBILAT;
-													_0x0KRomans12_19 = _0x0kPlsNo;
+													_0x0nBakla = _0x0SMamaMoBlue(-965159 - (-1355951 - (-1390118 - (531190 + -1534452))));
+													_0x0WNigaBytes = _0x0sPaasa;
+													_0x0TBible = _0x0sSINGIT[_0x0nBakla];
+													_0x0sPaasa = _0x0TBible and 5176646 - 455679 or -842610 + 8970748;
+													_0x0ASkilliSSUE = _0x0TBible;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 663537 + 3168824 then
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist and 11827594 - 731223 or (-813258 + 864781) + (7495998 - (-169215 + 357728));
+												if _0x0sPaasa < 4304107 - (-883577 - (-895979)) then
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue(-8649 + 12535);
+													_0x0JBILAT = _0x0SMamaMoBlue(589000 - (300812 + 284301));
+													_0x0EOhab = _0x0sSINGIT[_0x0ISkilliSSUE];
+													_0x0ISkilliSSUE = _0x0EOhab(_0x0KTanginaMoCge);
+													_0x0sPaasa = (560142 - (237745 - 180299)) + 7390131;
+													_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[310255 + -310254]];
+													_0x0rIveDoneNothing = 31698460363684 - 916605;
+													_0x0aUrMom = _0x0MRomans12_19[_0x0VTUBOL[-184536 + (-795456 + (2001887 - 1021893))]];
+													_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+													_0x0EOhab = _0x0vGay[_0x0mWagGago];
+													_0x0oUrMom = _0x0ISkilliSSUE == _0x0EOhab;
+													_0x0TBible = _0x0oUrMom;
 												else
-													_0x0tBILAT = _0x0EDiKanaNiyaMahal;
-													_0x0MTUBOL = _0x0HKigol(491878 + -541201);
-													_0x0lNigger = _0x0ETUBOL[_0x0MTUBOL];
-													_0x0EDiKanaNiyaMahal = _0x0lNigger and 8364836 - 416037 or -196822 + 2236165;
-													_0x0uBrainDamage = _0x0lNigger;
+													_0x0BTanginaMoCge = _0x0SUrMom[654655 - 654652];
+													_0x0DSINGIT = _0x0SUrMom[-199834 + 199835];
+													_0x0YBible = _0x0SUrMom[753891 + -753889];
+													_0x0MFallenPartsDestroyHeight = _0x0SUrMom[571873 - (727393 - 155524)];
+													_0x0GPlsNo = -559212 - (-559217);
+													_0x0sPaasa = _0x0MFallenPartsDestroyHeight > _0x0GPlsNo;
+													_0x0sPaasa = _0x0sPaasa and (-832020 + 8334139) - (-298277 + (1335981 - 691488)) or 9585831 - (-422697 + -472149);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -408160 + 4408132 then
-												if _0x0EDiKanaNiyaMahal < (-907001 + ((3907230 - (-464149)) - (((362989 - (-538763)) - 109849) + -1485731))) - 217312 then
-													_0x0eTerrorist = nil;
-													_0x0EDiKanaNiyaMahal = -991469 + (15030791 - 597310);
-													_0x0BTerrorist = nil;
-													_0x0JMeow = nil;
+											if _0x0sPaasa < ((-908589 + 1347012) + (((287373 + (-230116 - 455473)) + ((-817874 - 119128) - (-495574))) + (153275 + 3778036))) - (-871622) then
+												if _0x0sPaasa < 133198 + (3536061 - (-670230)) then
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue(-707534 + 711495);
+													_0x0LTFYouLookingAt = _0x0sSINGIT[_0x0ASkilliSSUE];
+													_0x0KTanginaMoCge = _0x0LTFYouLookingAt;
+													_0x0sPaasa = (399272 + (11254404 - (-499978))) - (-362329);
 												else
-													_0x0OTerrorist = _0x0cBoo;
-													_0x0JMeow = _0x0HKigol(963470 + -1012674);
-													_0x0ZSkilliSSUE = _0x0ETUBOL[_0x0JMeow];
-													_0x0eTerrorist = _0x0BBible[_0x0bTerrorist[-279021 + 279022]];
-													_0x0XBILAT = -263495 + (-234189 + 26408895865714);
-													_0x0gDick = _0x0HKigol(867436 + -916820);
-													_0x0iFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[730653 + -730651]];
-													_0x0VDick = _0x0iFallenPartsDestroyHeight(_0x0gDick, _0x0XBILAT);
-													_0x0JMeow = _0x0eTerrorist[_0x0VDick];
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE[_0x0JMeow];
-													_0x0eTerrorist = _0x0BBible[_0x0bTerrorist[672971 - 672968]];
-													_0x0iFallenPartsDestroyHeight = { _0x0EDiKanaNiyaMahal(_0x0eTerrorist, _0x0OTerrorist) };
-													_0x0ZSkilliSSUE = _0x0iFallenPartsDestroyHeight[-15477 + 15478];
-													_0x0eTerrorist = _0x0ZSkilliSSUE;
-													_0x0JMeow = _0x0iFallenPartsDestroyHeight[1011505 + -1011503];
-													_0x0EDiKanaNiyaMahal = not _0x0eTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and 8484993 - (-419889) or 8527999 - (617541 + (-2424038 - (-814638)));
+													_0x0nBakla, _0x0EOhab = _0x0WNigaBytes(_0x0TBible, _0x0nBakla);
+													_0x0sPaasa = _0x0nBakla and 1154640 - 698723 or 7395492 - (-191414);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 3857375 - (-175673) then
-													_0x0EDiKanaNiyaMahal = _0x0TRespect;
-													_0x0EDiKanaNiyaMahal = _0x0vGay and 819725 + 2987257 or 276310 + 3757488;
+												if _0x0sPaasa < -1010657 + ((-730521 + 946878) + 5275743) then
+													_0x0WNigaBytes = _0x0SMamaMoBlue(979231 + -975330);
+													_0x0LTFYouLookingAt = _0x0sPaasa;
+													_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+													_0x0pSINGIT = _0x0ASkilliSSUE;
+													_0x0sPaasa = _0x0ASkilliSSUE and ((925817 - 91632) + (-889038 + -555471)) + 9352661 or 16992192 - 458786;
 												else
-													_0x0KRomans12_19 = nil;
-													_0x0EDiKanaNiyaMahal = 930789 + 13272586;
-													_0x0rBILAT = nil;
+													_0x0sPaasa = (-291627 + -152213) + 6594997;
+													_0x0aUrMom = 988062 + 9815060575509;
+													_0x0nBakla = _0x0SMamaMoBlue(-183849 - (-1049207 - ((508927 + -710903) + -659496)));
+													_0x0TBible = _0x0sSINGIT[_0x0nBakla];
+													_0x0nBakla = _0x0TBible(_0x0KTanginaMoCge);
+													_0x0TBible = _0x0SMamaMoBlue(209253 + -205345);
+													_0x0vGay = _0x0SMamaMoBlue(-479679 - (334931 - 818436));
+													_0x0TBible = _0x0nBakla[_0x0TBible];
+													_0x0TBible = _0x0TBible(_0x0nBakla);
+													_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[60703 + (-834068 - ((-252137 - (-307454)) + -828683))]];
+													_0x0EOhab = _0x0MRomans12_19[_0x0VTUBOL[915202 + -915200]];
+													_0x0ISkilliSSUE = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+													_0x0nBakla = _0x0oUrMom[_0x0ISkilliSSUE];
+													_0x0WNigaBytes = _0x0TBible ~= _0x0nBakla;
+													_0x0ASkilliSSUE = _0x0WNigaBytes;
 												end;
 											end;
 										end;
@@ -4794,1161 +4785,1134 @@ return (function(...)
 								end;
 							end;
 						else
-							if _0x0EDiKanaNiyaMahal < 5348615 - (-883982) then
-								if _0x0EDiKanaNiyaMahal < -76217 + 5200372 then
-									if _0x0EDiKanaNiyaMahal < 5656575 - 934287 then
-										if _0x0EDiKanaNiyaMahal < 985655 + (3534009 - 54021) then
-											if _0x0EDiKanaNiyaMahal < 610753 + (4180993 - 494481) then
-												if _0x0EDiKanaNiyaMahal < 4553313 - 283991 then
-													if _0x0EDiKanaNiyaMahal < (2041433 - 1009572) + 3023547 then
-														_0x0oSkidDetected = _0x0HKigol((-588961 - (-804790)) + -265042);
-														_0x0LSkilliSSUE = _0x0EDiKanaNiyaMahal;
-														_0x0SPlsNo = _0x0ETUBOL[_0x0oSkidDetected];
-														_0x0mFallenPartsDestroyHeight = _0x0SPlsNo;
-														_0x0EDiKanaNiyaMahal = _0x0SPlsNo and -578686 + (432609 + 10800805) or (234945 + 548063) + 7750396;
+							if _0x0sPaasa < 7155460 - 484397 then
+								if _0x0sPaasa < 772082 + 4993147 then
+									if _0x0sPaasa < -557693 + 5807962 then
+										if _0x0sPaasa < (((9041 + 37558) + 910337) - (-677536 - (-100990 - 672159))) + (4015731 - (-39891)) then
+											if _0x0sPaasa < (982028 + -53325) + 3866743 then
+												if _0x0sPaasa < 891611 + 3828282 then
+													if _0x0sPaasa < -71875 + ((6485437 - 705688) - (-348833 + 1360108)) then
+														_0x0ISkilliSSUE = _0x0SMamaMoBlue((818963 + 125982) + -940985);
+														_0x0EOhab = _0x0sSINGIT[_0x0ISkilliSSUE];
+														_0x0OTerrorist = _0x0pSINGIT;
+														_0x0ISkilliSSUE = _0x0SMamaMoBlue(275587 + -271547);
+														_0x0oUrMom = _0x0EOhab[_0x0ISkilliSSUE];
+														_0x0EOhab = _0x0oUrMom(_0x0DSINGIT, _0x0OTerrorist);
+														_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[(466127 - 783140) - (-753773 - (-436754))]];
+														_0x0ISkilliSSUE = _0x0oUrMom();
+														_0x0nBakla = _0x0EOhab + _0x0ISkilliSSUE;
+														_0x0TBible = _0x0nBakla + _0x0bLove;
+														_0x0nBakla = -207103 + 207359;
+														_0x0WNigaBytes = _0x0TBible % _0x0nBakla;
+														_0x0nBakla = _0x0BTanginaMoCge[_0x0YBible];
+														_0x0ISkilliSSUE = -659677 - (-659678);
+														_0x0bLove = _0x0WNigaBytes;
+														_0x0EOhab = _0x0bLove + _0x0ISkilliSSUE;
+														_0x0oUrMom = _0x0MFallenPartsDestroyHeight[_0x0EOhab];
+														_0x0TBible = _0x0nBakla .. _0x0oUrMom;
+														_0x0OTerrorist = nil;
+														_0x0BTanginaMoCge[_0x0YBible] = _0x0TBible;
+														_0x0sPaasa = 853839 + (3394017 - (148444 - (-667142)));
 													else
-														_0x0KRomans12_19 = _0x0HKigol(-238884 - (-189483));
-														_0x0kPlsNo = _0x0HKigol(-231221 - (989463 + -1171497));
-														_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-														_0x0rBILAT = _0x0QPlsNo(-1041011 + (189530 + 15552471), { _0x0ILove, _0x0RBible });
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0uBrainDamage = -414481 + 30170082864376;
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0uBrainDamage = 856405 + (508319 + 22752901840884);
-														_0x0kPlsNo = _0x0HKigol(-238153 - (-188857));
-														_0x0fPaasa = _0x0CKigol[_0x0KRomans12_19];
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0CKigol = _0x0HKigol(532138 + -581540);
-														_0x0CKigol = _0x0fPaasa[_0x0CKigol];
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0CKigol = _0x0CKigol(_0x0fPaasa, _0x0KRomans12_19);
-														_0x0EDiKanaNiyaMahal = _0x0CKigol and -626425 + 9170497 or 14054645 - 368934;
+														_0x0KTanginaMoCge = nil;
+														_0x0LTFYouLookingAt = nil;
+														_0x0sPaasa = -300077 + 3113150;
+														_0x0pSINGIT = nil;
 													end;
 												else
-													_0x0eTerrorist = _0x0EDiKanaNiyaMahal;
-													_0x0gDick = _0x0HKigol((-729699 - (-173838)) - (-506694));
-													_0x0VDick = _0x0ETUBOL[_0x0gDick];
-													_0x0gDick = _0x0VDick(_0x0BTerrorist);
-													_0x0VDick = nil;
-													_0x0iFallenPartsDestroyHeight = _0x0gDick == _0x0VDick;
-													_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight and 960577 + 2323579 or 13977116 - (-1451431 - (-719834));
-													_0x0JMeow = _0x0iFallenPartsDestroyHeight;
+													_0x0pSINGIT = _0x0ASkilliSSUE;
+													_0x0sPaasa = _0x0WNigaBytes;
+													_0x0sPaasa = (543959 + -511670) + 9524375;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 460639 + 3922401 then
-													_0x0BTerrorist, _0x0eTerrorist = _0x0OTerrorist(_0x0RBible, _0x0BTerrorist);
-													_0x0EDiKanaNiyaMahal = _0x0BTerrorist and 4864761 - (-190428) or -96322 + 15622798;
+												if _0x0sPaasa < (5471766 - 949947) - (-349860) then
+													_0x0sPaasa = ((-535280 + 495310) + -528590) + 8721195;
+													_0x0nBakla = nil;
+													_0x0TBible = nil;
 												else
-													_0x0MTUBOL = _0x0HKigol((-392908 + (899331 - 114083)) - 441488);
-													_0x0kPlsNo = _0x0HKigol(459252 + -508650);
-													_0x0NTanginaMoCge = _0x0ETUBOL[_0x0kPlsNo];
-													_0x0uBrainDamage = _0x0BBible[_0x0ILove];
-													_0x0tBILAT = _0x0BBible[_0x0RBible];
-													_0x0pUrMom = ((-334544 + 888453) - (-533118 - (-673637))) + (-908889 + ((-772192 + (-726104 - (-885205))) + 11102958254290));
-													_0x0lNigger = _0x0tBILAT(_0x0MTUBOL, _0x0pUrMom);
-													_0x0kPlsNo = _0x0uBrainDamage[_0x0lNigger];
-													_0x0TRespect = _0x0NTanginaMoCge[_0x0kPlsNo];
-													_0x0KRomans12_19 = _0x0TRespect;
-													_0x0EDiKanaNiyaMahal = 12937473 - (914816 + -1147611);
+													_0x0tTerrorist = _0x0SMamaMoBlue((-19125 - 396365) + 419522);
+													_0x0mWagGago = _0x0sSINGIT[_0x0tTerrorist];
+													_0x0lBible = -810648 + 6769098128455;
+													_0x0NKigol = _0x0MRomans12_19[_0x0VTUBOL[-811397 + 811398]];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0VTUBOL[323320 - 323318]];
+													_0x0XTanginaMoCge = _0x0SMamaMoBlue((83783 - (-94677)) + (265467 - 440130));
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(-64678 - (508393 - 577093));
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0VTUBOL[984243 - 984242]];
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[(-523073 - 68854) - (-647521 + 55592)]];
+													_0x0dPleaseImBeggingNooo = (638679 + 33866737433138) - (429123 + -544216);
+													_0x0lBible = _0x0qTFYouLookingAt(_0x0XTanginaMoCge, _0x0dPleaseImBeggingNooo);
+													_0x0uMamaMoBlue = _0x0jDiKanaNiyaMahal[_0x0lBible];
+													_0x0NKigol = _0x0rIveDoneNothing .. _0x0uMamaMoBlue;
+													_0x0lBible = _0x0SMamaMoBlue((1532767 - 879992) + -648953);
+													_0x0gOhab = _0x0PWagGago .. _0x0NKigol;
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0VTUBOL[976406 - 976405]];
+													_0x0XTanginaMoCge = (-848070 + 821210) + 7253481470414;
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0VTUBOL[(((345915 + 444912) - (1352889 - (-464622 + 769091))) - ((-579730 + 804697) + (161767 + -634946))) - (-9383)]];
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible, _0x0XTanginaMoCge);
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0qTFYouLookingAt];
+													_0x0PWagGago = _0x0nBakla[_0x0NKigol];
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(300485 + -296650);
+													_0x0uMamaMoBlue = _0x0nBakla[_0x0uMamaMoBlue];
+													_0x0sPaasa = 14480217 - 668829;
+													_0x0NKigol = { _0x0uMamaMoBlue(_0x0nBakla) };
+													_0x0tTerrorist = _0x0mWagGago(_0x0gOhab, _0x0PWagGago, _0x0VBakla(_0x0NKigol));
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -882604 + 5451035 then
-												if _0x0EDiKanaNiyaMahal < (89679 - (-367770)) + 4064654 then
-													if _0x0EDiKanaNiyaMahal < 5209747 - (1056987 - 358309) then
-														_0x0fPaasa = _0x0HKigol(-608482 + 559316);
-														_0x0oSkidDetected = _0x0HKigol((1036493 - 372594) + (-237370 - 475783));
-														_0x0EDiKanaNiyaMahal = (3277 + 195795) + 11100929;
-														_0x0SPlsNo = _0x0ETUBOL[_0x0oSkidDetected];
-														_0x0rBILAT = _0x0ILove[_0x0VDick];
-														_0x0oSkidDetected = _0x0SPlsNo(_0x0rBILAT);
-														_0x0rBILAT = _0x0BBible[_0x0bTerrorist[448743 + (-315932 - 132810)]];
-														_0x0CKigol = (-12909 + (1014609 + (-1781830 - (-521153)))) + (703174 + (147295 + 4371822717531));
-														_0x0QMeow = _0x0BBible[_0x0bTerrorist[-799327 - (-1434239 - (-634910))]];
-														_0x0hRespect = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-														_0x0SPlsNo = _0x0rBILAT[_0x0hRespect];
-														_0x0LSkilliSSUE = _0x0oSkidDetected == _0x0SPlsNo;
-														_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE;
+											if _0x0sPaasa < -757862 + 5801585 then
+												if _0x0sPaasa < 235004 + (4566812 - (-195152)) then
+													if _0x0sPaasa < 993731 + 4002534 then
+														_0x0YBible = _0x0MRomans12_19[_0x0VTUBOL[(((103448 + 1157281) - 802402) + 468462) - 926786]];
+														_0x0BTanginaMoCge = (-658518 - (-418743)) - (-240018);
+														_0x0DSINGIT = _0x0YBible * _0x0BTanginaMoCge;
+														_0x0YBible = -170002 - (-170259);
+														_0x0sPaasa = 1029566 + 12845017;
+														_0x0GPlsNo = _0x0DSINGIT % _0x0YBible;
+														_0x0MRomans12_19[_0x0VTUBOL[-136431 - (-136434)]] = _0x0GPlsNo;
 													else
-														_0x0mFallenPartsDestroyHeight = _0x0HKigol(413804 - 463059);
-														_0x0XBILAT = _0x0ETUBOL[_0x0mFallenPartsDestroyHeight];
-														_0x0VDick = _0x0XBILAT;
-														_0x0EDiKanaNiyaMahal = (1029871 - 264612) + 13192714;
+														_0x0vGay = _0x0SMamaMoBlue(1028810 - (969408 - (-55403)));
+														_0x0sPaasa = _0x0SMamaMoBlue((986192 + (-466799 + ((((((((((1829230 - 1026559) + -887272) - (548350 + (((-156065 - (-265194)) - 192302) - (328838 - (-703675))))) + 503540) - (-499345)) - 690646) + (-839479 + 610559)) + -746271) - (-636053)) + ((-265022 + -375639) - (530216 + -907480))))) - ((((570963 + (-238188 - 814601)) + 1743401) - (805452 - (-834428 + (-374531 + 1109236)))) - (361758 - (145455 + 567827))));
+														_0x0sPaasa = _0x0oUrMom[_0x0sPaasa];
+														_0x0sPaasa = _0x0sPaasa(_0x0oUrMom);
+														_0x0EOhab = _0x0sPaasa;
+														_0x0tTerrorist = _0x0SMamaMoBlue(-439018 + 443039);
+														_0x0gOhab = 31623467240480 - 861083;
+														_0x0mWagGago = _0x0MRomans12_19[_0x0VTUBOL[-189715 - (-189716)]];
+														_0x0vGay = _0x0EOhab[_0x0vGay];
+														_0x0JBILAT = _0x0MRomans12_19[_0x0VTUBOL[729386 - (865092 + -135708)]];
+														_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+														_0x0aUrMom = _0x0mWagGago[_0x0rIveDoneNothing];
+														_0x0vGay = _0x0vGay(_0x0EOhab, _0x0aUrMom);
+														_0x0sPaasa = _0x0vGay and 940348 + 1298397 or (697031 + 9168145) - 148545;
+														_0x0ISkilliSSUE = _0x0vGay;
 													end;
 												else
-													_0x0iFallenPartsDestroyHeight = #_0x0OTerrorist;
-													_0x0VDick = -634994 - (-634994);
-													_0x0eTerrorist = _0x0iFallenPartsDestroyHeight > _0x0VDick;
-													_0x0JMeow = _0x0eTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist and ((362321 - 63295) + (9535555 - ((592322 + -576598) + -146087))) - (-3363) or -358924 + 2690396;
+													_0x0sPaasa = 14856632 - 551338;
+													_0x0ZIveDoneNothing = nil;
+													_0x0bLove = nil;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 5680348 - 1023820 then
-													_0x0vGay = _0x0eTerrorist(_0x0KRomans12_19);
-													_0x0EDiKanaNiyaMahal = 805487 + ((-920668 + 1531651) + 13214686);
+												if _0x0sPaasa < 5210896 - (-431378 + 446054) then
+													_0x0sPaasa = 11528115 - 773836;
+													_0x0tTerrorist = _0x0bLove(_0x0mWagGago);
+													_0x0JBILAT = _0x0tTerrorist;
 												else
-													_0x0ZSkilliSSUE = nil;
-													_0x0ILove = _0x0JBakla();
-													_0x0OTerrorist = _0x0HKigol(128529 - 177697);
-													_0x0cBoo = _0x0HSkidDetected;
-													_0x0iFallenPartsDestroyHeight = _0x0JBakla();
-													_0x0eTerrorist = _0x0HKigol((-473218 - (-198906 - (-8970))) - (-234050));
-													_0x0BTerrorist = _0x0HKigol(-64418 - (-15250));
-													_0x0RBible = _0x0JBakla();
-													_0x0EDiKanaNiyaMahal = nil;
-													_0x0BBible[_0x0ILove] = _0x0EDiKanaNiyaMahal;
-													_0x0BBible[_0x0RBible] = _0x0ZSkilliSSUE;
-													_0x0ZSkilliSSUE = _0x0ETUBOL[_0x0BTerrorist];
-													_0x0BTerrorist = _0x0HKigol((((-1337633 - (-899213)) + 922578) - (-571874 - (-62351))) - (429545 + 613289));
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE[_0x0BTerrorist];
-													_0x0BTerrorist = _0x0JBakla();
-													_0x0BBible[_0x0BTerrorist] = _0x0EDiKanaNiyaMahal;
-													_0x0ZSkilliSSUE = _0x0ETUBOL[_0x0OTerrorist];
-													_0x0XBILAT = _0x0JBakla();
-													_0x0JMeow = _0x0HKigol(541191 - (421268 - (-389060 - (((-499127 + 1006185) + ((582624 + ((1039864 + -1037995) - (401399 + -234035))) + -868879)) + -275238))));
-													_0x0OTerrorist = _0x0HKigol(-1014862 - (-965538));
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE[_0x0OTerrorist];
-													_0x0OTerrorist = _0x0EDiKanaNiyaMahal;
-													_0x0ZSkilliSSUE = _0x0ETUBOL[_0x0JMeow];
-													_0x0JMeow = _0x0HKigol(-320478 - (-271298));
-													_0x0VDick = _0x0JBakla();
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE[_0x0JMeow];
-													_0x0JMeow = _0x0EDiKanaNiyaMahal;
-													_0x0ZSkilliSSUE = _0x0ETUBOL[_0x0eTerrorist];
-													_0x0eTerrorist = _0x0HKigol(118373 - (75443 + (380840 + -288669)));
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE[_0x0eTerrorist];
-													_0x0eTerrorist = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = ((711495 + (-695594 + -691768)) - ((1045471 - 812329) + -1148158)) - 239149;
-													_0x0BBible[_0x0iFallenPartsDestroyHeight] = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = -339758 + 339760;
-													_0x0BBible[_0x0VDick] = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = {};
-													_0x0SPlsNo = -354846 - (-355102);
-													_0x0gDick = _0x0EDiKanaNiyaMahal;
-													_0x0oSkidDetected = _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = {};
-													_0x0BBible[_0x0XBILAT] = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = (713394 - 19267) + -694127;
-													_0x0SPlsNo = (-508009 - (-895543 + (-743979 + (28793 + 675152)))) - 427567;
-													_0x0mFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = {};
-													_0x0LSkilliSSUE = _0x0EDiKanaNiyaMahal;
-													_0x0ZSkilliSSUE = (-828130 - 219025) + 1047156;
-													_0x0rBILAT = _0x0SPlsNo;
-													_0x0SPlsNo = (1101517 - 776363) - 325154;
-													_0x0QMeow = _0x0rBILAT < _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = -263506 + 3569467;
-													_0x0SPlsNo = _0x0ZSkilliSSUE - _0x0rBILAT;
+													_0x0gOhab = _0x0SMamaMoBlue(((848795 + -131885) + -590393) - (-289732 - (-412217)));
+													_0x0tTerrorist = _0x0sSINGIT[_0x0gOhab];
+													_0x0NKigol = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(-84107 + (-960874 + 1048826));
+													_0x0lBible = 983924 + 15309435229839;
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago);
+													_0x0gOhab = _0x0SMamaMoBlue((-541631 - (((((-1669674 - (-138990 - (-13626 - 210975))) - (-632676)) - 524943) - ((-794872 - 31896) - (((2255412 - 943040) - 909862) - 549162))) - (432523 - 874936))) + 20640);
+													_0x0tTerrorist = _0x0sSINGIT[_0x0gOhab];
+													_0x0gOhab = _0x0tTerrorist(_0x0vGay, _0x0rIveDoneNothing);
+													_0x0sPaasa = (13070647 - (-727027)) - 207596;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < (248180 + -605277) + 5299265 then
-											if _0x0EDiKanaNiyaMahal < -190453 + 5019663 then
-												if _0x0EDiKanaNiyaMahal < (((746103 + -1391561) + -931751) - (-560971 - (741553 + -407807))) + (4457004 - (-772914 - 229098)) then
-													if _0x0EDiKanaNiyaMahal < 3945197 - (-792641) then
-														_0x0EDiKanaNiyaMahal = -887352 + (202947 + 14961753);
+										if _0x0sPaasa < (-330947 + 6179442) - ((-536327 + -266386) + ((-254426 + -388594) + 1781305)) then
+											if _0x0sPaasa < -541823 + 5973759 then
+												if _0x0sPaasa < 4528338 - (-863123) then
+													if _0x0sPaasa < -548250 + ((-701439 + -320834) + 6900236) then
+														_0x0NKigol = _0x0SMamaMoBlue(980177 - 976285);
+														_0x0PWagGago = _0x0sSINGIT[_0x0NKigol];
+														_0x0sPaasa = _0x0tTerrorist;
+														_0x0gOhab = _0x0sPaasa;
+														_0x0tTerrorist = _0x0PWagGago;
+														_0x0sPaasa = _0x0PWagGago and 34293 + 13887485 or (84128 + 3295825) - (766482 + -3895);
 													else
-														_0x0kPlsNo = _0x0HKigol(-9441 - 39811);
-														_0x0KRomans12_19 = _0x0HKigol(-739386 - (11884 - 701862));
-														_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-														_0x0EDiKanaNiyaMahal = 262746 + 14818347;
-														_0x0uBrainDamage = 432078 + 9765385898330;
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0fPaasa = _0x0CKigol[_0x0KRomans12_19];
-														_0x0QMeow = _0x0fPaasa;
+														_0x0mWagGago = _0x0gOhab;
+														_0x0sPaasa = _0x0PWagGago;
+														_0x0sPaasa = 13906014 - 209333;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = 143030 + 14152383;
-													_0x0NTanginaMoCge = _0x0TRespect;
+													_0x0KTanginaMoCge = ((625287 - 520717) - (1080567 - (-820447 + 1833028))) - 36584;
+													_0x0OTerrorist = #_0x0HGay;
+													_0x0ZIveDoneNothing = _0x0OTerrorist > _0x0KTanginaMoCge;
+													_0x0sPaasa = _0x0ZIveDoneNothing and -554629 + 4013703 or -125178 + 2531831;
+													_0x0bLove = _0x0ZIveDoneNothing;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 5444741 - 535211 then
-													_0x0uBrainDamage = _0x0BBible[_0x0bTerrorist[358778 - 358777]];
-													_0x0MTUBOL = _0x0HKigol(1006445 + (895292 + (693847 + -2644871)));
-													_0x0TRespect = _0x0EDiKanaNiyaMahal;
-													_0x0NTanginaMoCge = _0x0HKigol(-510374 - (-461015));
-													_0x0pUrMom = (1001748 + ((16440 - 529326) - (-200452))) + (7285597312685 - (-1006349));
-													_0x0NTanginaMoCge = _0x0QMeow[_0x0NTanginaMoCge];
-													_0x0tBILAT = _0x0BBible[_0x0bTerrorist[-287419 + 287421]];
-													_0x0lNigger = _0x0tBILAT(_0x0MTUBOL, _0x0pUrMom);
-													_0x0kPlsNo = _0x0uBrainDamage[_0x0lNigger];
-													_0x0NTanginaMoCge = _0x0NTanginaMoCge(_0x0QMeow, _0x0kPlsNo);
-													_0x0vGay = _0x0NTanginaMoCge;
-													_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge and 745646 + 9668490 or 2655915 - 860573;
+												if _0x0sPaasa < (-973986 - (-36672)) + 6423339 then
+													_0x0PWagGago = _0x0MRomans12_19[_0x0VTUBOL[750614 - 750610]];
+													_0x0NKigol = _0x0PWagGago(_0x0oUrMom);
+													_0x0gOhab = not _0x0NKigol;
+													_0x0sPaasa = 10679077 - (1246785 - (((461827 - (-667672)) - (1182205 - 647131)) - ((((917627 + -1109242) - (-964497)) + -531758) - 263955)));
+													_0x0mWagGago = _0x0gOhab;
 												else
-													_0x0fPaasa = _0x0EDiKanaNiyaMahal;
-													_0x0uBrainDamage = _0x0HKigol(((-789323 - (-994728)) - 950894) + (((-260894 + ((-1765332 - (-299212)) - (-821610 - (-139059)))) + 919932) - (-820672)));
-													_0x0vGay = _0x0HKigol(-411911 + 362609);
-													_0x0KRomans12_19 = _0x0ETUBOL[_0x0vGay];
-													_0x0TRespect = _0x0BBible[_0x0ILove];
-													_0x0tBILAT = -446569 + 34366438567782;
-													_0x0NTanginaMoCge = _0x0BBible[_0x0RBible];
-													_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage, _0x0tBILAT);
-													_0x0vGay = _0x0TRespect[_0x0kPlsNo];
-													_0x0CKigol = _0x0KRomans12_19[_0x0vGay];
-													_0x0EDiKanaNiyaMahal = _0x0CKigol and 17003228 - 267252 or -347410 + ((16315267 - (1265498 - (-354038 + 780724))) - 825124);
-													_0x0hRespect = _0x0CKigol;
+													_0x0pSINGIT = _0x0SMamaMoBlue(-656433 + 660404);
+													_0x0KTanginaMoCge = _0x0sSINGIT[_0x0pSINGIT];
+													_0x0OTerrorist = _0x0KTanginaMoCge;
+													_0x0sPaasa = _0x0KTanginaMoCge and 2756134 - (-322752) or (138090 + (7100225 - 1033208)) - (-629936 - (493494 + -1265574));
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 5875564 - 874886 then
-												if _0x0EDiKanaNiyaMahal < (-721155 + (-569141 - (-441701))) + 5835335 then
-													_0x0fPaasa = _0x0HKigol(869211 - 918530);
-													_0x0hRespect = _0x0ETUBOL[_0x0fPaasa];
-													_0x0rBILAT = _0x0hRespect;
-													_0x0EDiKanaNiyaMahal = -557716 + ((6535665 - (-10351)) - 15442);
+											if _0x0sPaasa < 221800 + 5354868 then
+												if _0x0sPaasa < 5543443 - 25498 then
+													_0x0OTerrorist = _0x0SMamaMoBlue(362800 + -358944);
+													_0x0ZIveDoneNothing = _0x0sSINGIT[_0x0OTerrorist];
+													_0x0EOhab = ((916893 + (8764935332252 - (-204766))) - 752814) - (-333168);
+													_0x0KTanginaMoCge = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0YBible];
+													_0x0oUrMom = _0x0SMamaMoBlue(876806 - 872916);
+													_0x0WNigaBytes = -77479 + 13310625058489;
+													_0x0JBILAT = 430004 + 4706147394997;
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue(877238 - 873226);
+													_0x0LTFYouLookingAt = _0x0pSINGIT(_0x0ASkilliSSUE, _0x0WNigaBytes);
+													_0x0OTerrorist = _0x0KTanginaMoCge[_0x0LTFYouLookingAt];
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue(((-272872 - (-281826)) + 629552) - (918172 + -283675));
+													_0x0vGay = (8548 + -932910) + 7226873760160;
+													_0x0sPaasa = _0x0ZIveDoneNothing[_0x0OTerrorist];
+													_0x0WNigaBytes = (874430 + (970985 + 24730972170013)) - 493316;
+													_0x0KTanginaMoCge = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0YBible];
+													_0x0LTFYouLookingAt = _0x0pSINGIT(_0x0ASkilliSSUE, _0x0WNigaBytes);
+													_0x0OTerrorist = _0x0KTanginaMoCge[_0x0LTFYouLookingAt];
+													_0x0ZIveDoneNothing = _0x0sPaasa(_0x0bLove, _0x0OTerrorist);
+													_0x0KTanginaMoCge = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0SMamaMoBlue(944535 + -940579);
+													_0x0WNigaBytes = -6262 + (480623125058 - (459282 + -1354756));
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue((((285049 + -446209) - (-547834)) + (209063 + -717122)) + 125214);
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0YBible];
+													_0x0LTFYouLookingAt = _0x0pSINGIT(_0x0ASkilliSSUE, _0x0WNigaBytes);
+													_0x0dPleaseImBeggingNooo = ((442292 + -418464) - 80898) + 10093919987096;
+													_0x0OTerrorist = _0x0KTanginaMoCge[_0x0LTFYouLookingAt];
+													_0x0WNigaBytes = _0x0SMamaMoBlue((922371 + -1520956) + 602500);
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue(461719 + -457833);
+													_0x0pSINGIT = _0x0sSINGIT[_0x0LTFYouLookingAt];
+													_0x0uMamaMoBlue = 21064435635096 - (657031 - (-334244));
+													_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue(-273760 + (-738910 - (-1016713)));
+													_0x0WNigaBytes = { _0x0ASkilliSSUE() };
+													_0x0LTFYouLookingAt = _0x0pSINGIT(_0x0VBakla(_0x0WNigaBytes));
+													_0x0WNigaBytes = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0TBible = _0x0MRomans12_19[_0x0YBible];
+													_0x0lBible = (24686642734662 - (-669217 - (-772251))) - (-622000 + 778388);
+													_0x0nBakla = _0x0TBible(_0x0oUrMom, _0x0EOhab);
+													_0x0ASkilliSSUE = _0x0WNigaBytes[_0x0nBakla];
+													_0x0nBakla = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0oUrMom = _0x0MRomans12_19[_0x0YBible];
+													_0x0EOhab = _0x0oUrMom(_0x0ISkilliSSUE, _0x0vGay);
+													_0x0oUrMom = 20451291393056 - (-378342);
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue((157960 + -1082758) + 928670);
+													_0x0TBible = _0x0nBakla[_0x0EOhab];
+													_0x0WNigaBytes = _0x0ZIveDoneNothing .. _0x0TBible;
+													_0x0pSINGIT = _0x0ASkilliSSUE .. _0x0WNigaBytes;
+													_0x0KTanginaMoCge = _0x0LTFYouLookingAt .. _0x0pSINGIT;
+													_0x0sPaasa = _0x0OTerrorist .. _0x0KTanginaMoCge;
+													_0x0OTerrorist = _0x0sPaasa;
+													_0x0KTanginaMoCge = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0WNigaBytes = 445015 + 34053922547581;
+													_0x0nBakla = _0x0SMamaMoBlue(-1038290 + 1042266);
+													_0x0ISkilliSSUE = (27747405054405 - 1016835) - (-852417);
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(793144 - (399897 + 389195));
+													_0x0EOhab = _0x0SMamaMoBlue(709780 - ((-906842 + ((1039337 - 107458) + -3662)) + 684370));
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0YBible];
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue((-773613 + -270688) - (-609446 + ((-247344 - (-38090)) + -229629)));
+													_0x0NKigol = _0x0SMamaMoBlue(-1020152 + (344168 - (-652323 - ((((-1598747 - 157670) - (-891356)) - (-584623 - (91164 + (((-513418 - 219865) + 250519) - ((-955062 - (-231430)) + 644021))))) - (-619874)))));
+													_0x0LTFYouLookingAt = _0x0pSINGIT(_0x0ASkilliSSUE, _0x0WNigaBytes);
+													_0x0sPaasa = _0x0KTanginaMoCge[_0x0LTFYouLookingAt];
+													_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0KTanginaMoCge = _0x0sPaasa;
+													_0x0WNigaBytes = _0x0MRomans12_19[_0x0YBible];
+													_0x0TBible = _0x0WNigaBytes(_0x0nBakla, _0x0oUrMom);
+													_0x0LTFYouLookingAt = _0x0ASkilliSSUE[_0x0TBible];
+													_0x0TBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0nBakla = _0x0MRomans12_19[_0x0YBible];
+													_0x0oUrMom = _0x0nBakla(_0x0EOhab, _0x0ISkilliSSUE);
+													_0x0WNigaBytes = _0x0TBible[_0x0oUrMom];
+													_0x0oUrMom = _0x0SMamaMoBlue((956457 - 64152) - 888419);
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue((-309282 + -490519) + 803716);
+													_0x0nBakla = _0x0sSINGIT[_0x0oUrMom];
+													_0x0EOhab = _0x0sSINGIT[_0x0ISkilliSSUE];
+													_0x0ISkilliSSUE = { _0x0EOhab() };
+													_0x0XTanginaMoCge = _0x0SMamaMoBlue((-1095478 - (-405216)) - (-927230 - (-233144)));
+													_0x0oUrMom = _0x0nBakla(_0x0VBakla(_0x0ISkilliSSUE));
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0vGay = _0x0MRomans12_19[_0x0YBible];
+													_0x0aUrMom = _0x0vGay(_0x0mWagGago, _0x0JBILAT);
+													_0x0EOhab = _0x0ISkilliSSUE[_0x0aUrMom];
+													_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = _0x0gOhab(_0x0NKigol, _0x0uMamaMoBlue);
+													_0x0NKigol = (865894878244 - ((1557329 - 458218) - 220686)) - (1398236 - 645322);
+													_0x0rIveDoneNothing = _0x0tTerrorist[_0x0PWagGago];
+													_0x0mWagGago = _0x0JBILAT[_0x0rIveDoneNothing];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = _0x0SMamaMoBlue(904887 + -900854);
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago, _0x0NKigol);
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0gOhab];
+													_0x0aUrMom = _0x0mWagGago[_0x0JBILAT];
+													_0x0ZIveDoneNothing = nil;
+													_0x0PWagGago = 25923 + 20231320690125;
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0SMamaMoBlue(739543 + -735561);
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0gOhab = _0x0SMamaMoBlue((-569237 - (-243327)) + (475224 - 145277));
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0vGay = _0x0aUrMom[_0x0mWagGago];
+													_0x0PWagGago = (-540537 + 849441) + 15449372030885;
+													_0x0uMamaMoBlue = (((737053 - (-108102)) - 957691) + (1010743927088 - 186005)) - ((-971486 + (674283 + (374355 + -585075))) + 146127);
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0NKigol = _0x0SMamaMoBlue(-548041 - (-551973));
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = _0x0gOhab(_0x0NKigol, _0x0uMamaMoBlue);
+													_0x0rIveDoneNothing = _0x0tTerrorist[_0x0PWagGago];
+													_0x0NKigol = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0YBible];
+													_0x0lBible = _0x0qTFYouLookingAt(_0x0XTanginaMoCge, _0x0dPleaseImBeggingNooo);
+													_0x0uMamaMoBlue = _0x0jDiKanaNiyaMahal[_0x0lBible];
+													_0x0NKigol = _0x0KTanginaMoCge .. _0x0uMamaMoBlue;
+													_0x0gOhab = _0x0PWagGago .. _0x0NKigol;
+													_0x0tTerrorist = _0x0OTerrorist .. _0x0gOhab;
+													_0x0JBILAT = _0x0rIveDoneNothing .. _0x0tTerrorist;
+													_0x0aUrMom = _0x0mWagGago .. _0x0JBILAT;
+													_0x0ISkilliSSUE = _0x0vGay .. _0x0aUrMom;
+													_0x0nBakla = _0x0EOhab .. _0x0ISkilliSSUE;
+													_0x0JBILAT = 946269 + (30760468290989 - 880276);
+													_0x0TBible = _0x0oUrMom .. _0x0nBakla;
+													_0x0ASkilliSSUE = _0x0WNigaBytes .. _0x0TBible;
+													_0x0pSINGIT = _0x0LTFYouLookingAt .. _0x0ASkilliSSUE;
+													_0x0sPaasa = _0x0KTanginaMoCge .. _0x0pSINGIT;
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue((162306 - 295532) + 137073);
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(263844 + -259925);
+													_0x0EOhab = _0x0SMamaMoBlue(457642 - (-809187 + 1262890));
+													_0x0vGay = 18856074858980 - (273433 - 627142);
+													_0x0bLove = nil;
+													_0x0pSINGIT = _0x0sPaasa;
+													_0x0tTerrorist = (333641 + (-604526 + ((21804098785295 - (174890 + (-677286 - 340556))) - 431535))) - 136357;
+													_0x0sPaasa = _0x0sSINGIT[_0x0LTFYouLookingAt];
+													_0x0ISkilliSSUE = (20330043970261 - (-790717 - (-956625 + 1026094))) - (-898434);
+													_0x0TBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0nBakla = _0x0MRomans12_19[_0x0YBible];
+													_0x0oUrMom = _0x0nBakla(_0x0EOhab, _0x0ISkilliSSUE);
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue((-749060 + 626576) - ((-608513 + 281725) + (-781651 - (((219075 + -138750) - 392386) - 669853))));
+													_0x0WNigaBytes = _0x0TBible[_0x0oUrMom];
+													_0x0nBakla = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0oUrMom = _0x0MRomans12_19[_0x0YBible];
+													_0x0EOhab = _0x0oUrMom(_0x0ISkilliSSUE, _0x0vGay);
+													_0x0aUrMom = 24110682436176 - (-734078);
+													_0x0vGay = _0x0SMamaMoBlue(-397828 + 401830);
+													_0x0TBible = _0x0nBakla[_0x0EOhab];
+													_0x0oUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0EOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0KTanginaMoCge = nil;
+													_0x0ISkilliSSUE = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+													_0x0aUrMom = _0x0SMamaMoBlue((-480434 - (-533398 - 326264)) + -375297);
+													_0x0mWagGago = -490285 + 18156455868990;
+													_0x0nBakla = _0x0oUrMom[_0x0ISkilliSSUE];
+													_0x0EOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = 9749972018343 - (-585869);
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0YBible];
+													_0x0vGay = _0x0ISkilliSSUE(_0x0aUrMom, _0x0mWagGago);
+													_0x0mWagGago = _0x0SMamaMoBlue(-292101 - (-295951));
+													_0x0oUrMom = _0x0EOhab[_0x0vGay];
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0vGay = _0x0MRomans12_19[_0x0YBible];
+													_0x0aUrMom = _0x0vGay(_0x0mWagGago, _0x0JBILAT);
+													_0x0EOhab = _0x0ISkilliSSUE[_0x0aUrMom];
+													_0x0aUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0JBILAT = _0x0mWagGago(_0x0rIveDoneNothing, _0x0tTerrorist);
+													_0x0vGay = _0x0aUrMom[_0x0JBILAT];
+													_0x0tTerrorist = _0x0SMamaMoBlue(-31800 + 35617);
+													_0x0mWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0YBible];
+													_0x0OTerrorist = nil;
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+													_0x0aUrMom = _0x0mWagGago[_0x0rIveDoneNothing];
+													_0x0ISkilliSSUE = { [_0x0vGay] = _0x0aUrMom };
+													_0x0tTerrorist = -773124 + 6123192238178;
+													_0x0aUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(((893637 + ((-651199 - (-826455)) + -945487)) - (-527835)) + -647463);
+													_0x0JBILAT = _0x0mWagGago(_0x0rIveDoneNothing, _0x0tTerrorist);
+													_0x0vGay = _0x0aUrMom[_0x0JBILAT];
+													_0x0ASkilliSSUE = {
+															[_0x0WNigaBytes] = _0x0TBible,
+															[_0x0nBakla] = _0x0oUrMom,
+															[_0x0EOhab] = _0x0ISkilliSSUE,
+															[_0x0vGay] = _0x0pSINGIT,
+														};
+													_0x0LTFYouLookingAt = _0x0sPaasa(_0x0ASkilliSSUE);
+													_0x0sPaasa = -67751 - (-1545619 - (-924503));
+													_0x0pSINGIT = nil;
 												else
-													_0x0ILove = _0x0HSkidDetected[(-185107 + -405272) - (-590381)];
-													_0x0cBoo = _0x0HSkidDetected[-38670 - ((-494887 - (-771003)) + -314787)];
-													_0x0RBible = _0x0BBible[_0x0bTerrorist[-753303 + ((-230136 + 1138857) - 155417)]];
-													_0x0ZSkilliSSUE = _0x0RBible;
-													_0x0EDiKanaNiyaMahal = _0x0RBible and (-910090 + 13610336) - ((((-626510 + -30139) - (918368 + -131874)) - (455659 + -823607)) - (-812574)) or 10604508 - (-204249);
+													_0x0sPaasa = _0x0rIveDoneNothing;
+													_0x0aUrMom = _0x0JBILAT;
+													_0x0sPaasa = 15398154 - 344755;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -247137 + 5273693 then
-													_0x0JMeow = nil;
-													_0x0EDiKanaNiyaMahal = 11147803 - (470443 + (384774 + -790274));
-													_0x0eTerrorist = nil;
+												if _0x0sPaasa < 1034813 + 4617927 then
+													_0x0ISkilliSSUE = _0x0aUrMom;
+													_0x0sPaasa = _0x0mWagGago;
+													_0x0sPaasa = 13610673 - (-889154);
 												else
-													_0x0EDiKanaNiyaMahal = _0x0HKigol(-657568 - ((-1319742 - (-932172)) - 220639));
-													_0x0EDiKanaNiyaMahal = _0x0ILove[_0x0EDiKanaNiyaMahal];
-													_0x0JMeow = _0x0BTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0ILove, _0x0eTerrorist);
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and 2804686 - (-689276) or ((817393 + -1661764) + (-393662 + ((850331 - (1315165 - 945241)) - (-257880)))) + (2867976 - (-180686));
+													_0x0sPaasa = _0x0aUrMom;
+													_0x0sPaasa = _0x0vGay and (1361967 - 97672) - (-840615) or 484015 + (-130830 + ((1017114 + (-488850 + 242537)) - (-403825)));
+													_0x0ISkilliSSUE = _0x0vGay;
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < 5096114 - (-120587 - 494851) then
-										if _0x0EDiKanaNiyaMahal < 5331613 - (-56439) then
-											if _0x0EDiKanaNiyaMahal < (-461332 + 336546) + 5471659 then
-												if _0x0EDiKanaNiyaMahal < (-913881 + 6549119) - (1127751 - 781219) then
-													if _0x0EDiKanaNiyaMahal < -152572 + 5345254 then
-														_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight and 1020258 - (((-270741 - (-901365)) - 642003) - ((153459 + -885903) - 266963)) or -235467 + 1500199;
+									if _0x0sPaasa < 150018 + 5982687 then
+										if _0x0sPaasa < 6681407 - 620095 then
+											if _0x0sPaasa < (5699575 - (-484807)) - 175845 then
+												if _0x0sPaasa < 6128498 - 154887 then
+													if _0x0sPaasa < (800716 - ((((-163813 + 625885) - (-23372 + -328289)) - (-327341)) - 1030284)) + 5123074 then
+														_0x0sPaasa = -425493 + 12962983;
+														_0x0mWagGago = nil;
+														_0x0oUrMom = nil;
 													else
-														_0x0hRespect = _0x0fPaasa;
-														_0x0EDiKanaNiyaMahal = _0x0CKigol;
-														_0x0EDiKanaNiyaMahal = _0x0fPaasa and -929646 + 16303247 or 8569055 - (-480759);
+														_0x0sPaasa = false;
+														_0x0BTanginaMoCge = nil;
+														_0x0GPlsNo = { _0x0sPaasa, _0x0BTanginaMoCge };
+														_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(-546332 - (-135710 + -414492))];
 													end;
 												else
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[902022 - 902021]];
-													_0x0vGay = _0x0HKigol(-762423 - (-494934 + (-20517 - (((((-940755 + 220339) + 1304494) + (-1350968 - (-279128))) + 1639282) - 953892))));
-													_0x0CKigol = _0x0BBible[_0x0bTerrorist[(928920 + -1395501) - (-466583)]];
-													_0x0QMeow = _0x0HKigol(-467123 + ((895859 - 387996) - 90153));
-													_0x0TRespect = 679952 + ((3111440406229 - 314140) - ((-337181 + 442957) - (816489 - 322625)));
-													_0x0QMeow = _0x0oSkidDetected[_0x0QMeow];
-													_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-													_0x0hRespect = _0x0fPaasa[_0x0KRomans12_19];
-													_0x0QMeow = _0x0QMeow(_0x0oSkidDetected, _0x0hRespect);
-													_0x0rBILAT = _0x0QMeow;
-													_0x0EDiKanaNiyaMahal = _0x0QMeow and -355460 + 942047 or 186799 + (8854807 - (-542076));
+													_0x0sPaasa = (77214 + ((-391358 + (213281 - (1395344 - 808807))) + -201111)) + 15081141;
+													_0x0bLove = nil;
+													_0x0ZIveDoneNothing = nil;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 5518177 - 158328 then
-													_0x0iFallenPartsDestroyHeight = _0x0gDick;
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT;
-													_0x0EDiKanaNiyaMahal = (((-219227 + -254357) - (-127056)) + 11116082) - (-600416);
+												if _0x0sPaasa < (((423177 + (-1046393 + ((141318 + (-678778 - (-906314))) + 6801822))) - (163376 + 874426)) - 199987) - (-723879) then
+													_0x0aUrMom, _0x0mWagGago = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+													_0x0sPaasa = _0x0aUrMom and -472519 + 976718 or (223532 + 9392631) - (-432750);
 												else
-													_0x0NTanginaMoCge = _0x0HKigol(-1039065 + 989815);
-													_0x0CKigol = _0x0HKigol(389971 + (-902509 - (-463392)));
-													_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-													_0x0TRespect = _0x0ETUBOL[_0x0NTanginaMoCge];
-													_0x0NTanginaMoCge = { _0x0fPaasa(_0x0TRespect) };
-													_0x0EDiKanaNiyaMahal = (-390120 - 591700) + 2120632;
-													_0x0KRomans12_19 = _0x0NTanginaMoCge[52777 - 52775];
-													_0x0vGay = _0x0NTanginaMoCge[-489585 - (-489588)];
-													_0x0CKigol = _0x0NTanginaMoCge[(836119 - (-116119)) - 952237];
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[420338 - 420337]];
+													_0x0sPaasa = 5109677 - ((317822 + (126043 + 485157)) + -815703);
+													_0x0mWagGago = _0x0SMamaMoBlue(111794 + (878458 + -986259));
+													_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[-364192 - (-973081 + 608887)]];
+													_0x0JBILAT = -71761 + (14463983885299 - 334674);
+													_0x0aUrMom = _0x0vGay(_0x0mWagGago, _0x0JBILAT);
+													_0x0EOhab = _0x0ISkilliSSUE[_0x0aUrMom];
+													_0x0oUrMom = _0x0EOhab;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-197723 + 389934) + (900805 + 4434182) then
-												if _0x0EDiKanaNiyaMahal < 6050051 - 623931 then
-													if _0x0EDiKanaNiyaMahal < 821181 + 4567545 then
-														_0x0fPaasa = _0x0CKigol;
-														_0x0EDiKanaNiyaMahal = _0x0KRomans12_19;
-														_0x0EDiKanaNiyaMahal = (-433242 + 14452608) - (-78630);
+											if _0x0sPaasa < 6221010 - 108027 then
+												if _0x0sPaasa < 844214 + 5266116 then
+													if _0x0sPaasa < (-256215 + 5557447) - (-764366 - (-1826)) then
+														_0x0pSINGIT = _0x0sPaasa;
+														_0x0ASkilliSSUE = _0x0SMamaMoBlue((190128 - (-566800)) - 753146);
+														_0x0LTFYouLookingAt = _0x0sSINGIT[_0x0ASkilliSSUE];
+														_0x0KTanginaMoCge = _0x0LTFYouLookingAt;
+														_0x0sPaasa = _0x0LTFYouLookingAt and (8242248 - (-499513)) - 962173 or 10714500 - 592447;
 													else
-														_0x0EDiKanaNiyaMahal = false;
-														_0x0RBible = nil;
-														_0x0ZSkilliSSUE = { _0x0EDiKanaNiyaMahal, _0x0RBible };
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol((441610 - 1012930) + 522159)];
+														_0x0vGay = _0x0SMamaMoBlue((1055442 - 129669) - 921747);
+														_0x0EOhab = _0x0sPaasa;
+														_0x0ISkilliSSUE = _0x0sSINGIT[_0x0vGay];
+														_0x0sPaasa = _0x0ISkilliSSUE and (296431 + 11097352) - (885682 - (-17662)) or 16657318 - (293082 + ((45391 + (1339375 - 933136)) - (-1105154 - (-333471 + (-113423 + -553865)))));
+														_0x0oUrMom = _0x0ISkilliSSUE;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = -656725 + 13593026;
+													_0x0sPaasa = false;
+													_0x0GPlsNo = { _0x0sPaasa };
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(((-585445 + (877741 + -1326253)) - (-377926)) + (914494 + -254440))];
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 4766720 - (-778558) then
-													_0x0lNigger = _0x0HKigol(215039 - 264377);
-													_0x0tBILAT = _0x0ETUBOL[_0x0lNigger];
-													_0x0lNigger = _0x0tBILAT(_0x0fPaasa);
-													_0x0dMeow = _0x0HKigol(-806439 + 757285);
-													_0x0pUrMom = _0x0BBible[_0x0ILove];
-													_0x0UBoo = _0x0BBible[_0x0RBible];
-													_0x0zBAYOT = (-175033 + (-36933 + (-724489 + 2640019497109))) - (1709189 - (((-966266 + 553220) - (-828652)) + 627831));
-													_0x0GMamaMoBlue = _0x0UBoo(_0x0dMeow, _0x0zBAYOT);
-													_0x0MTUBOL = _0x0pUrMom[_0x0GMamaMoBlue];
-													_0x0tBILAT = _0x0HKigol(-922413 - (-873054));
-													_0x0EDiKanaNiyaMahal = -662206 - (-959491);
-													_0x0tBILAT = _0x0lNigger[_0x0tBILAT];
-													_0x0tBILAT = _0x0tBILAT(_0x0lNigger, _0x0MTUBOL);
-													_0x0uBrainDamage = not _0x0tBILAT;
-													_0x0NTanginaMoCge = _0x0uBrainDamage;
+												if _0x0sPaasa < 5162894 - (-961446) then
+													_0x0sPaasa = _0x0OTerrorist;
+													_0x0bLove = _0x0ZIveDoneNothing;
+													_0x0sPaasa = 741025 + (1735676 - (-780943));
 												else
-													_0x0EDiKanaNiyaMahal = _0x0HKigol((-1170050 - (-902137)) - (-218506));
-													_0x0cBoo = _0x0HSkidDetected[(1284678 - 960911) + -323766];
-													_0x0EDiKanaNiyaMahal = _0x0cBoo[_0x0EDiKanaNiyaMahal];
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0cBoo);
-													_0x0ILove = _0x0EDiKanaNiyaMahal;
-													_0x0ZSkilliSSUE = _0x0HKigol(330087 - ((110769 + (51694 + -567743)) + ((-629863 - 96275) + (97399 + 1413252))));
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-													_0x0OTerrorist = _0x0BBible[_0x0bTerrorist[66894 - 66893]];
-													_0x0JMeow = { _0x0EDiKanaNiyaMahal(_0x0OTerrorist) };
-													_0x0RBible = _0x0JMeow[868550 - 868548];
-													_0x0EDiKanaNiyaMahal = 3918396 - (-381488);
-													_0x0BTerrorist = _0x0JMeow[352777 - 352774];
-													_0x0ZSkilliSSUE = _0x0JMeow[-942669 - (-942670)];
-													_0x0OTerrorist = _0x0ZSkilliSSUE;
+													_0x0XTanginaMoCge = _0x0SMamaMoBlue(-51846 - (-55898));
+													_0x0bLove = nil;
+													_0x0COhab = _0x0SMamaMoBlue((-762403 + (-695577 + 1314504)) - (697256 - (1188626 - 343874)));
+													_0x0lBible = _0x0sSINGIT[_0x0XTanginaMoCge];
+													_0x0wBILAT = 26296666465953 - 852369;
+													_0x0KTanginaMoCge = nil;
+													_0x0ZIveDoneNothing = nil;
+													_0x0WNigaBytes = nil;
+													_0x0ASkilliSSUE = _0x0pNigger(_0x0ASkilliSSUE);
+													_0x0nBakla = nil;
+													_0x0dPleaseImBeggingNooo = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0QSkilliSSUE = (-172942 + -709974) + (24752672908011 - ((1327866 - 700450) + -353476));
+													_0x0kTangina = _0x0MRomans12_19[_0x0YBible];
+													_0x0OTerrorist = nil;
+													_0x0zSINGIT = _0x0kTangina(_0x0COhab, _0x0QSkilliSSUE);
+													_0x0kTangina = _0x0SMamaMoBlue((-141902 - 494682) - (-640636));
+													_0x0XTanginaMoCge = _0x0dPleaseImBeggingNooo[_0x0zSINGIT];
+													_0x0oUrMom = nil;
+													_0x0MFallenPartsDestroyHeight = nil;
+													_0x0qTFYouLookingAt = _0x0lBible[_0x0XTanginaMoCge];
+													_0x0xMamaMoBlue = _0x0SMamaMoBlue(1016242 - (((1929889 - (-1073401 - (-768717))) - 1001251) - 220963));
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt);
+													_0x0dPleaseImBeggingNooo = _0x0sSINGIT[_0x0kTangina];
+													_0x0aUrMom = _0x0pNigger(_0x0aUrMom);
+													_0x0zSINGIT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0pNigger(_0x0gOhab);
+													_0x0COhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0JBILAT = nil;
+													_0x0QSkilliSSUE = _0x0COhab(_0x0xMamaMoBlue, _0x0wBILAT);
+													_0x0kTangina = _0x0zSINGIT[_0x0QSkilliSSUE];
+													_0x0vGay = _0x0pNigger(_0x0vGay);
+													_0x0QSkilliSSUE = _0x0SMamaMoBlue(484439 - 480397);
+													_0x0XTanginaMoCge = _0x0dPleaseImBeggingNooo[_0x0kTangina];
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue((836352 + (682554 + -1408475)) - 106406)];
+													_0x0mWagGago = nil;
+													_0x0xMamaMoBlue = 30102961829179 - (-70366);
+													_0x0HGay = nil;
+													_0x0kTangina = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0TBible = nil;
+													_0x0zSINGIT = _0x0MRomans12_19[_0x0YBible];
+													_0x0COhab = _0x0zSINGIT(_0x0QSkilliSSUE, _0x0xMamaMoBlue);
+													_0x0dPleaseImBeggingNooo = _0x0kTangina[_0x0COhab];
+													_0x0lBible = _0x0XTanginaMoCge[_0x0dPleaseImBeggingNooo];
+													_0x0COhab = _0x0SMamaMoBlue((-669655 + 222848) + 450740);
+													_0x0NKigol = _0x0pNigger(_0x0NKigol);
+													_0x0dPleaseImBeggingNooo = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0pNigger(_0x0tTerrorist);
+													_0x0pSINGIT = nil;
+													_0x0kTangina = _0x0MRomans12_19[_0x0YBible];
+													_0x0QSkilliSSUE = (756900 + (899468 + -2525676)) + (12521841956003 - (-691205));
+													_0x0GPlsNo = {};
+													_0x0PWagGago = _0x0pNigger(_0x0PWagGago);
+													_0x0zSINGIT = _0x0kTangina(_0x0COhab, _0x0QSkilliSSUE);
+													_0x0BTanginaMoCge = _0x0pNigger(_0x0BTanginaMoCge);
+													_0x0YBible = _0x0pNigger(_0x0YBible);
+													_0x0XTanginaMoCge = _0x0dPleaseImBeggingNooo[_0x0zSINGIT];
+													_0x0LTFYouLookingAt = nil;
+													_0x0qTFYouLookingAt = _0x0lBible[_0x0XTanginaMoCge];
+													_0x0rIveDoneNothing = nil;
+													_0x0EOhab = _0x0pNigger(_0x0EOhab);
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt);
+													_0x0uMamaMoBlue = nil;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 6093013 - (-476791 - (-468095)) then
-											if _0x0EDiKanaNiyaMahal < 5272436 - (-589519) then
-												if _0x0EDiKanaNiyaMahal < 5946225 - 99467 then
-													if _0x0EDiKanaNiyaMahal < 587945 + 5164237 then
-														_0x0TRespect = _0x0HKigol(-950399 - (-901045));
-														_0x0NTanginaMoCge = -488811 + (((-575843 - (-194100)) + ((((1352833 - 586663) + 305935) - (-1047508 + 1172549)) + -1418321)) + 5199478574672);
-														_0x0CKigol = _0x0BBible[_0x0ILove];
-														_0x0KRomans12_19 = _0x0BBible[_0x0RBible];
-														_0x0vGay = _0x0KRomans12_19(_0x0TRespect, _0x0NTanginaMoCge);
-														_0x0fPaasa = _0x0CKigol[_0x0vGay];
-														_0x0rBILAT = _0x0LSkilliSSUE[_0x0fPaasa];
-														_0x0vGay = true;
-														_0x0EDiKanaNiyaMahal = -794805 + 5005571;
-														_0x0KRomans12_19 = _0x0HKigol((-99082 + 142089) + -92350);
-														_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-														_0x0KRomans12_19 = _0x0CKigol(_0x0vGay);
-														_0x0CKigol = _0x0oTUBOL(113632 + (906273 + 12235352), { _0x0ILove, _0x0RBible, _0x0QMeow });
-														_0x0fPaasa = _0x0rBILAT(_0x0KRomans12_19, _0x0CKigol);
+										if _0x0sPaasa < (165339 - (571689 + -899310)) + 6027888 then
+											if _0x0sPaasa < 6219046 - (-141815) then
+												if _0x0sPaasa < 5929629 - ((-334853 - (-491832)) - 547709) then
+													if _0x0sPaasa < (5345208 - (-159794 - (-280289))) - (-944666) then
+														_0x0sPaasa = _0x0ASkilliSSUE and 16278987 - 1046852 or 892995 + 1659576;
 													else
-														_0x0iFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal;
-														_0x0gDick = _0x0HKigol(-580364 - (333467 + -864465));
-														_0x0VDick = _0x0ETUBOL[_0x0gDick];
-														_0x0eTerrorist = _0x0VDick;
-														_0x0EDiKanaNiyaMahal = _0x0VDick and (109754 + 16983037) - 834648 or 432291 - (-383462);
+														_0x0vGay = nil;
+														_0x0sPaasa = 5558433 - (-960898);
+														_0x0rIveDoneNothing = nil;
 													end;
 												else
-													_0x0fPaasa = _0x0vGay;
-													_0x0kPlsNo = _0x0EDiKanaNiyaMahal;
-													_0x0NTanginaMoCge = _0x0fPaasa;
-													_0x0EDiKanaNiyaMahal = _0x0fPaasa and 575724 + 13719689 or ((-156944 - (-398725)) - 535370) + (5490352 - (460662 + -61412));
+													_0x0YBible = _0x0SUrMom[543704 - 543702];
+													_0x0BTanginaMoCge = _0x0SMamaMoBlue(-493409 - (-497202));
+													_0x0ZIveDoneNothing = _0x0SMamaMoBlue(442903 + -439059);
+													_0x0GPlsNo = _0x0sSINGIT[_0x0BTanginaMoCge];
+													_0x0BTanginaMoCge = _0x0GPlsNo(_0x0YBible);
+													_0x0MFallenPartsDestroyHeight = _0x0MRomans12_19[_0x0VTUBOL[-769714 + 769715]];
+													_0x0DSINGIT = _0x0SUrMom[-251809 + 251810];
+													_0x0HGay = _0x0MRomans12_19[_0x0VTUBOL[910742 + -910740]];
+													_0x0OTerrorist = 13584798988534 - (-646233);
+													_0x0bLove = _0x0HGay(_0x0ZIveDoneNothing, _0x0OTerrorist);
+													_0x0GPlsNo = _0x0MFallenPartsDestroyHeight[_0x0bLove];
+													_0x0sPaasa = _0x0BTanginaMoCge == _0x0GPlsNo;
+													_0x0sPaasa = _0x0sPaasa and (-759643 + 973032) + (2308485 - (-297346)) or 8633796 - 642236;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (464488 + 5934321) - 384888 then
-													_0x0EDiKanaNiyaMahal = _0x0QMeow;
-													_0x0EDiKanaNiyaMahal = (994380 + -1972672) + (((-153589 + -845997) + -25806) + (15320037 - 968169));
-													_0x0SPlsNo = _0x0rBILAT;
+												if _0x0sPaasa < -273216 + 6713608 then
+													_0x0EOhab = _0x0SMamaMoBlue(-807394 - (-811274));
+													_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+													_0x0mWagGago = _0x0SMamaMoBlue((-1025475 + 463862) - (-955864 - (-554226 - (-538491 + 374628))));
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[(-891178 + ((-307453 + 1295361) - (-947829 + 1467061))) + 422503]];
+													_0x0JBILAT = -290061 + 28306127998585;
+													_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[-863157 - (-863159)]];
+													_0x0aUrMom = _0x0vGay(_0x0mWagGago, _0x0JBILAT);
+													_0x0EOhab = _0x0ISkilliSSUE[_0x0aUrMom];
+													_0x0sPaasa = _0x0oUrMom[_0x0EOhab];
+													_0x0EOhab = .1;
+													_0x0oUrMom = _0x0sPaasa(_0x0EOhab);
+													_0x0sPaasa = -959465 + (8000658 - (-984245));
 												else
-													_0x0CKigol = _0x0HKigol(251855 - ((-1519536 - ((-1078825 - (266689 - ((((-133163 - 214102) - (-331844)) - ((311484 - (184661 + 179670)) - 50312)) - (-43092)))) - (-186229))) - (-792186)));
-													_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-													_0x0EDiKanaNiyaMahal = _0x0fPaasa and 4751866 - ((-363554 + (-385438 + 771717)) + -642741) or ((-928725 + -600537) - (652183 + -1399916)) + 9878720;
+													_0x0JBILAT, _0x0rIveDoneNothing = _0x0aUrMom(_0x0mWagGago, _0x0JBILAT);
+													_0x0sPaasa = _0x0JBILAT and 3218976 - (-933780) or 7240444 - 671819;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-239101 + 288071) + 6125617 then
-												if _0x0EDiKanaNiyaMahal < -878862 + 7024611 then
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[-454745 + 454746]];
-													_0x0CKigol = _0x0BBible[_0x0bTerrorist[-912916 - (-912918)]];
-													_0x0TRespect = 32015895626032 - (560750 + (793485 - 858217));
-													_0x0vGay = _0x0HKigol(849445 - 898780);
-													_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-													_0x0hRespect = _0x0fPaasa[_0x0KRomans12_19];
-													_0x0QMeow = _0x0oSkidDetected[_0x0hRespect];
-													_0x0rBILAT = _0x0QMeow;
-													_0x0EDiKanaNiyaMahal = _0x0QMeow and 14740815 - (-409891) or 684014 + ((188815 + 1574250) - 522849);
+											if _0x0sPaasa < -257260 + (351490 + 6464574) then
+												if _0x0sPaasa < -286341 + (7381586 - (179064 + (-414362 - (-780135)))) then
+													_0x0YBible = _0x0MRomans12_19[_0x0VTUBOL[417769 + -417766]];
+													_0x0BTanginaMoCge = -870184 - (-870216);
+													_0x0DSINGIT = _0x0YBible % _0x0BTanginaMoCge;
+													_0x0MFallenPartsDestroyHeight = _0x0MRomans12_19[_0x0VTUBOL[912489 - 912485]];
+													_0x0LTFYouLookingAt = -106325 + (223413 + -117075);
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[977459 - 977457]];
+													_0x0TBible = _0x0MRomans12_19[_0x0VTUBOL[(-83514 + 6975) + 76542]];
+													_0x0WNigaBytes = _0x0TBible - _0x0DSINGIT;
+													_0x0KTanginaMoCge = (658145 + (883468 + -1612629)) + 71018;
+													_0x0TBible = 497570 - 497538;
+													_0x0ASkilliSSUE = _0x0WNigaBytes / _0x0TBible;
+													_0x0pSINGIT = _0x0LTFYouLookingAt - _0x0ASkilliSSUE;
+													_0x0OTerrorist = _0x0KTanginaMoCge ^ _0x0pSINGIT;
+													_0x0bLove = _0x0ZIveDoneNothing / _0x0OTerrorist;
+													_0x0HGay = _0x0MFallenPartsDestroyHeight(_0x0bLove);
+													_0x0OTerrorist = (46063 + -538912) - (-492850);
+													_0x0MFallenPartsDestroyHeight = ((-635023 + 1232687) - (-862010 + 1767065)) + 4295274687;
+													_0x0KTanginaMoCge = -430074 + (993713 + -563383);
+													_0x0BTanginaMoCge = _0x0HGay % _0x0MFallenPartsDestroyHeight;
+													_0x0HGay = (395385 - 102490) + -292893;
+													_0x0MFallenPartsDestroyHeight = _0x0HGay ^ _0x0DSINGIT;
+													_0x0YBible = _0x0BTanginaMoCge / _0x0MFallenPartsDestroyHeight;
+													_0x0MFallenPartsDestroyHeight = _0x0MRomans12_19[_0x0VTUBOL[(1011785 + -670327) - (-464198 + (-565540 + 1371192))]];
+													_0x0DSINGIT = nil;
+													_0x0ZIveDoneNothing = _0x0YBible % _0x0OTerrorist;
+													_0x0OTerrorist = (((((929940 + -1042341) - (-149072)) - 449571) + ((864251 - 93227) + 4294292355)) - 96392) - (-413209);
+													_0x0bLove = _0x0ZIveDoneNothing * _0x0OTerrorist;
+													_0x0HGay = _0x0MFallenPartsDestroyHeight(_0x0bLove);
+													_0x0MFallenPartsDestroyHeight = _0x0MRomans12_19[_0x0VTUBOL[141339 - 141335]];
+													_0x0bLove = _0x0MFallenPartsDestroyHeight(_0x0YBible);
+													_0x0BTanginaMoCge = _0x0HGay + _0x0bLove;
+													_0x0ZIveDoneNothing = (839901 + -470726) + (-6351 + ((938581 + ((-853198 - 123127) - 1997)) - 257547));
+													_0x0HGay = 720517 - 654981;
+													_0x0MFallenPartsDestroyHeight = _0x0BTanginaMoCge % _0x0HGay;
+													_0x0bLove = _0x0BTanginaMoCge - _0x0MFallenPartsDestroyHeight;
+													_0x0sPaasa = ((-443485 + 203877) + (8934414 - (((-470873 + -2003746) - (-844308)) - (((((-708652 + (762129 + 162630)) - (-1044715 + 2069485)) - (-931274)) + -1040929) - (-246574))))) - (-88284);
+													_0x0HGay = _0x0bLove / _0x0ZIveDoneNothing;
+													_0x0ZIveDoneNothing = -662307 + (-567401 + (292270 - (-937694)));
+													_0x0bLove = _0x0MFallenPartsDestroyHeight % _0x0ZIveDoneNothing;
+													_0x0OTerrorist = _0x0MFallenPartsDestroyHeight - _0x0bLove;
+													_0x0ZIveDoneNothing = _0x0OTerrorist / _0x0KTanginaMoCge;
+													_0x0KTanginaMoCge = 603289 - 603033;
+													_0x0OTerrorist = _0x0HGay % _0x0KTanginaMoCge;
+													_0x0MFallenPartsDestroyHeight = nil;
+													_0x0LTFYouLookingAt = 744834 - ((-974514 + 1667916) - ((-671064 + -327223) - (-947111)));
+													_0x0BTanginaMoCge = nil;
+													_0x0pSINGIT = _0x0HGay - _0x0OTerrorist;
+													_0x0HGay = nil;
+													_0x0KTanginaMoCge = _0x0pSINGIT / _0x0LTFYouLookingAt;
+													_0x0pSINGIT = {
+															_0x0bLove,
+															_0x0ZIveDoneNothing,
+															_0x0OTerrorist,
+															_0x0KTanginaMoCge,
+														};
+													_0x0OTerrorist = nil;
+													_0x0YBible = nil;
+													_0x0MRomans12_19[_0x0VTUBOL[596022 - (4823 + 591198)]] = _0x0pSINGIT;
+													_0x0ZIveDoneNothing = nil;
+													_0x0bLove = nil;
+													_0x0KTanginaMoCge = nil;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT and 10586308 - 690051 or 16125610 - 399618;
+													_0x0sPaasa = _0x0mWagGago;
+													_0x0ISkilliSSUE = _0x0aUrMom;
+													_0x0sPaasa = (778349 + 14281488) - 147858;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 7119730 - 925939 then
-													_0x0EDiKanaNiyaMahal = 11790509 - (-819870);
-													_0x0RBible = ((-992975 - (-663124)) - (-990198)) + -660341;
-													_0x0ILove = _0x0BBible[_0x0bTerrorist[-368609 + 368612]];
-													_0x0cBoo = _0x0ILove * _0x0RBible;
-													_0x0ILove = 233040 + (-204821 + -27962);
-													_0x0ZSkilliSSUE = _0x0cBoo % _0x0ILove;
-													_0x0BBible[_0x0bTerrorist[-495226 - (-495229)]] = _0x0ZSkilliSSUE;
+												if _0x0sPaasa < -424066 + (7057136 - (-29687)) then
+													_0x0sPaasa = (-258937 + 524604) + 1514790;
 												else
-													_0x0NTanginaMoCge = _0x0HKigol(-698873 + 649571);
-													_0x0MTUBOL = 493954 + 7738140004947;
-													_0x0TRespect = _0x0ETUBOL[_0x0NTanginaMoCge];
-													_0x0lNigger = _0x0HKigol(((-1074280 - (-315002 + (567233 - 810392))) + 583671) - 116885);
-													_0x0kPlsNo = _0x0BBible[_0x0ILove];
-													_0x0uBrainDamage = _0x0BBible[_0x0RBible];
-													_0x0EDiKanaNiyaMahal = -385267 + 9134272;
-													_0x0tBILAT = _0x0uBrainDamage(_0x0lNigger, _0x0MTUBOL);
-													_0x0NTanginaMoCge = _0x0kPlsNo[_0x0tBILAT];
-													_0x0vGay = _0x0TRespect[_0x0NTanginaMoCge];
-													_0x0CKigol = _0x0vGay;
+													_0x0LTFYouLookingAt = nil;
+													_0x0sPaasa = 845000 + 2607265;
+													_0x0pSINGIT = nil;
 												end;
 											end;
 										end;
 									end;
 								end;
 							else
-								if _0x0EDiKanaNiyaMahal < 951600 + 6559618 then
-									if _0x0EDiKanaNiyaMahal < (5490606 - (-850147)) - (-411671) then
-										if _0x0EDiKanaNiyaMahal < 926298 + 5621177 then
-											if _0x0EDiKanaNiyaMahal < 333542 + 6135756 then
-												if _0x0EDiKanaNiyaMahal < 5594451 - (-836513) then
-													if _0x0EDiKanaNiyaMahal < 394264 + 5974529 then
-														_0x0mFallenPartsDestroyHeight = _0x0HKigol(804973 + (-8410 + -845791));
-														_0x0iFallenPartsDestroyHeight = _0x0HKigol(((-825160 + 452770) + (-1056083 - (-804877))) - (-574389));
-														_0x0eTerrorist = _0x0ETUBOL[_0x0iFallenPartsDestroyHeight];
-														_0x0VDick = _0x0BBible[_0x0ILove];
-														_0x0rBILAT = _0x0HKigol(-332668 + (-679136 - (-962452)));
-														_0x0gDick = _0x0BBible[_0x0RBible];
-														_0x0LSkilliSSUE = 23008459812521 - (-713426);
-														_0x0XBILAT = _0x0gDick(_0x0mFallenPartsDestroyHeight, _0x0LSkilliSSUE);
-														_0x0iFallenPartsDestroyHeight = _0x0VDick[_0x0XBILAT];
-														_0x0tBILAT = _0x0HKigol(938457 + -987822);
-														_0x0fPaasa = 22273465340269 - (-539505);
-														_0x0EDiKanaNiyaMahal = _0x0eTerrorist[_0x0iFallenPartsDestroyHeight];
-														_0x0KRomans12_19 = _0x0HKigol(-530814 - (743548 + -1225179));
-														_0x0mFallenPartsDestroyHeight = _0x0HKigol(348800 - 397979);
-														_0x0VDick = _0x0BBible[_0x0ILove];
-														_0x0LSkilliSSUE = 119188 + (616133 + (81999 + (90886 + 512549946701)));
-														_0x0gDick = _0x0BBible[_0x0RBible];
-														_0x0XBILAT = _0x0gDick(_0x0mFallenPartsDestroyHeight, _0x0LSkilliSSUE);
-														_0x0mFallenPartsDestroyHeight = _0x0HKigol((-287234 + ((-89404 + ((((-511679 + (818984 + -1155628)) + 403644) - (-582492)) - 1007333)) + (-670479 + 1552493))) - (-314979));
-														_0x0iFallenPartsDestroyHeight = _0x0VDick[_0x0XBILAT];
-														_0x0LSkilliSSUE = 505312 + 29015050515845;
-														_0x0eTerrorist = _0x0EDiKanaNiyaMahal(_0x0JMeow, _0x0iFallenPartsDestroyHeight);
-														_0x0lNigger = ((345468 + 72246) + -1455032) + 1887276667271;
-														_0x0VDick = _0x0BBible[_0x0ILove];
-														_0x0hRespect = _0x0HKigol(-893414 - (-844022));
-														_0x0gDick = _0x0BBible[_0x0RBible];
-														_0x0XBILAT = _0x0gDick(_0x0mFallenPartsDestroyHeight, _0x0LSkilliSSUE);
-														_0x0iFallenPartsDestroyHeight = _0x0VDick[_0x0XBILAT];
-														_0x0UBoo = -42972 + ((18909657245984 - (-451807)) - (-201944));
-														_0x0XBILAT = _0x0HKigol((((404686 - (-840925)) - (-698719 - (-1033875))) - ((-324752 - (-827288)) + (174235 - (-78702)))) + -204320);
-														_0x0gDick = _0x0ETUBOL[_0x0XBILAT];
-														_0x0LSkilliSSUE = _0x0HKigol(-152536 - (-103213));
-														_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-														_0x0QMeow = ((73325 - (-857240)) + -818830) + 31124552347355;
-														_0x0LSkilliSSUE = { _0x0mFallenPartsDestroyHeight() };
-														_0x0XBILAT = _0x0gDick(_0x0bMamaMoBlue(_0x0LSkilliSSUE));
-														_0x0LSkilliSSUE = _0x0BBible[_0x0ILove];
-														_0x0SPlsNo = _0x0BBible[_0x0RBible];
-														_0x0oSkidDetected = _0x0SPlsNo(_0x0rBILAT, _0x0QMeow);
-														_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE[_0x0oSkidDetected];
-														_0x0oSkidDetected = _0x0BBible[_0x0ILove];
-														_0x0rBILAT = _0x0BBible[_0x0RBible];
-														_0x0QMeow = _0x0rBILAT(_0x0hRespect, _0x0fPaasa);
-														_0x0SPlsNo = _0x0oSkidDetected[_0x0QMeow];
-														_0x0LSkilliSSUE = _0x0eTerrorist .. _0x0SPlsNo;
-														_0x0gDick = _0x0mFallenPartsDestroyHeight .. _0x0LSkilliSSUE;
-														_0x0dMeow = 18159004770620 - (-61914);
-														_0x0VDick = _0x0XBILAT .. _0x0gDick;
-														_0x0oSkidDetected = _0x0HKigol(-919812 - (1030121 + -1900744));
-														_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight .. _0x0VDick;
-														_0x0pUrMom = _0x0HKigol(139257 + (((-289286 - 296347) + 989644) - 592562));
-														_0x0mFallenPartsDestroyHeight = _0x0HKigol(376271 + -425607);
-														_0x0VDick = _0x0BBible[_0x0ILove];
-														_0x0LSkilliSSUE = 5786847354313 - 99680;
-														_0x0QMeow = _0x0HKigol(-788773 + 739473);
-														_0x0hRespect = (-1034719 + 22178691020714) - (-622754);
-														_0x0iFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal;
-														_0x0gDick = _0x0BBible[_0x0RBible];
-														_0x0XBILAT = _0x0gDick(_0x0mFallenPartsDestroyHeight, _0x0LSkilliSSUE);
-														_0x0EDiKanaNiyaMahal = _0x0VDick[_0x0XBILAT];
-														_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0ILove];
-														_0x0VDick = _0x0EDiKanaNiyaMahal;
-														_0x0rBILAT = (9466331639160 - (-747382)) - 831803;
-														_0x0LSkilliSSUE = _0x0BBible[_0x0RBible];
-														_0x0TRespect = _0x0HKigol(-946170 + (1473291 - 576522));
-														_0x0GMamaMoBlue = _0x0HKigol(78770 + ((((-185389 + (((345847 + -1049816) + (1096677 - (303198 + -430704))) + 580629)) + -494216) - (-56110)) - 605410));
-														_0x0SPlsNo = _0x0LSkilliSSUE(_0x0oSkidDetected, _0x0rBILAT);
-														_0x0XBILAT = _0x0mFallenPartsDestroyHeight[_0x0SPlsNo];
-														_0x0SPlsNo = _0x0BBible[_0x0ILove];
-														_0x0oSkidDetected = _0x0BBible[_0x0RBible];
-														_0x0eTerrorist = nil;
-														_0x0rBILAT = _0x0oSkidDetected(_0x0QMeow, _0x0hRespect);
-														_0x0vGay = 30603955432418 - (124059 + (-260515 + -65301));
-														_0x0hRespect = _0x0HKigol(((-96640 + (1360088 - 919480)) - 782318) + (((93385 + 425671) + -127003) - (-925360 - (-928386))));
-														_0x0LSkilliSSUE = _0x0SPlsNo[_0x0rBILAT];
-														_0x0rBILAT = _0x0HKigol(857289 + -906627);
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0rBILAT];
-														_0x0QMeow = _0x0ETUBOL[_0x0hRespect];
-														_0x0hRespect = { _0x0QMeow() };
-														_0x0rBILAT = _0x0oSkidDetected(_0x0bMamaMoBlue(_0x0hRespect));
-														_0x0hRespect = _0x0BBible[_0x0ILove];
-														_0x0fPaasa = _0x0BBible[_0x0RBible];
-														_0x0CKigol = _0x0fPaasa(_0x0KRomans12_19, _0x0vGay);
-														_0x0QMeow = _0x0hRespect[_0x0CKigol];
-														_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-														_0x0NTanginaMoCge = _0x0BBible[_0x0ILove];
-														_0x0kPlsNo = _0x0BBible[_0x0RBible];
-														_0x0uBrainDamage = _0x0kPlsNo(_0x0tBILAT, _0x0lNigger);
-														_0x0TRespect = _0x0NTanginaMoCge[_0x0uBrainDamage];
-														_0x0KRomans12_19 = _0x0vGay[_0x0TRespect];
-														_0x0TRespect = _0x0BBible[_0x0ILove];
-														_0x0uBrainDamage = _0x0HKigol(-223950 - (-174769));
-														_0x0tBILAT = -10726 + (((19380485154031 - (773166 + -122301)) - 293471) - (-50642));
-														_0x0NTanginaMoCge = _0x0BBible[_0x0RBible];
-														_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage, _0x0tBILAT);
-														_0x0vGay = _0x0TRespect[_0x0kPlsNo];
-														_0x0uBrainDamage = 25371336515495 - (-971884);
-														_0x0kPlsNo = _0x0HKigol(-349374 + (-173283 - (-381396 + -91906)));
-														_0x0CKigol = _0x0KRomans12_19[_0x0vGay];
-														_0x0tBILAT = _0x0HKigol(-200956 - (-151628));
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0uBrainDamage = 26494195268766 - 863200;
-														_0x0fPaasa = _0x0CKigol[_0x0KRomans12_19];
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0lNigger = -1002298 + ((-735714 + 11527828460607) - (837895 + (-581632 - (-112887))));
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0kPlsNo = _0x0HKigol(-66169 - (-16921));
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0NTanginaMoCge = _0x0BBible[_0x0ILove];
-														_0x0kPlsNo = _0x0BBible[_0x0RBible];
-														_0x0uBrainDamage = _0x0kPlsNo(_0x0tBILAT, _0x0lNigger);
-														_0x0TRespect = _0x0NTanginaMoCge[_0x0uBrainDamage];
-														_0x0tBILAT = _0x0BBible[_0x0ILove];
-														_0x0lNigger = _0x0BBible[_0x0RBible];
-														_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-														_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-														_0x0MTUBOL = _0x0BBible[_0x0ILove];
-														_0x0pUrMom = _0x0BBible[_0x0RBible];
-														_0x0UBoo = _0x0pUrMom(_0x0GMamaMoBlue, _0x0dMeow);
-														_0x0lNigger = _0x0MTUBOL[_0x0UBoo];
-														_0x0tBILAT = _0x0VDick .. _0x0lNigger;
-														_0x0kPlsNo = _0x0uBrainDamage .. _0x0tBILAT;
-														_0x0NTanginaMoCge = _0x0iFallenPartsDestroyHeight .. _0x0kPlsNo;
-														_0x0vGay = _0x0TRespect .. _0x0NTanginaMoCge;
-														_0x0CKigol = _0x0KRomans12_19  .. _0x0vGay;
-														_0x0hRespect = _0x0fPaasa .. _0x0CKigol;
-														_0x0oSkidDetected = _0x0QMeow .. _0x0hRespect;
-														_0x0iFallenPartsDestroyHeight = nil;
-														_0x0SPlsNo = _0x0rBILAT .. _0x0oSkidDetected;
-														_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE .. _0x0SPlsNo;
-														_0x0gDick = _0x0XBILAT .. _0x0mFallenPartsDestroyHeight;
-														_0x0XBILAT = _0x0HKigol(-282210 - (-233047));
-														_0x0EDiKanaNiyaMahal = _0x0VDick .. _0x0gDick;
-														_0x0KRomans12_19 = 138349 + 22704221822778;
-														_0x0gDick = _0x0EDiKanaNiyaMahal;
-														_0x0QMeow = _0x0HKigol(544143 + -593429);
-														_0x0CKigol = 14350535960164 - (-114532 - 863562);
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0XBILAT];
-														_0x0SPlsNo = _0x0BBible[_0x0ILove];
-														_0x0oSkidDetected = _0x0BBible[_0x0RBible];
-														_0x0hRespect = -1018624 + ((4711147800056 - (-91521)) - 691543);
-														_0x0fPaasa = 468093 + 30822220301423;
-														_0x0rBILAT = _0x0oSkidDetected(_0x0QMeow, _0x0hRespect);
-														_0x0LSkilliSSUE = _0x0SPlsNo[_0x0rBILAT];
-														_0x0oSkidDetected = _0x0BBible[_0x0ILove];
-														_0x0rBILAT = _0x0BBible[_0x0RBible];
-														_0x0hRespect = _0x0HKigol(((879800 + -751778) - 473830) + 296477);
-														_0x0QMeow = _0x0rBILAT(_0x0hRespect, _0x0fPaasa);
-														_0x0SPlsNo = _0x0oSkidDetected[_0x0QMeow];
-														_0x0fPaasa = _0x0HKigol(((882590 + -76767) - (-480991 + ((-189493 - ((545830 + 224766) - 17320)) + 2154994))) - 123926);
-														_0x0TRespect = _0x0HKigol(-1018765 + 969436);
-														_0x0kPlsNo = (18568318337951 - ((213970 + -316398) + -537331)) - 617979;
-														_0x0rBILAT = _0x0BBible[_0x0ILove];
-														_0x0QMeow = _0x0BBible[_0x0RBible];
-														_0x0hRespect = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-														_0x0vGay = (966932 + 25629461254554) - 930693;
-														_0x0oSkidDetected = _0x0rBILAT[_0x0hRespect];
-														_0x0CKigol = _0x0HKigol(-660012 + 610750);
-														_0x0NTanginaMoCge = 287604 + 840106182148;
-														_0x0QMeow = _0x0BBible[_0x0ILove];
-														_0x0hRespect = _0x0BBible[_0x0RBible];
-														_0x0fPaasa = _0x0hRespect(_0x0CKigol, _0x0KRomans12_19);
-														_0x0KRomans12_19 = _0x0HKigol(182893 - 232219);
-														_0x0rBILAT = _0x0QMeow[_0x0fPaasa];
-														_0x0hRespect = _0x0BBible[_0x0ILove];
-														_0x0fPaasa = _0x0BBible[_0x0RBible];
-														_0x0CKigol = _0x0fPaasa(_0x0KRomans12_19, _0x0vGay);
-														_0x0QMeow = _0x0hRespect[_0x0CKigol];
-														_0x0CKigol = _0x0BBible[_0x0ILove];
-														_0x0KRomans12_19 = _0x0BBible[_0x0RBible];
-														_0x0vGay = _0x0KRomans12_19(_0x0TRespect, _0x0NTanginaMoCge);
-														_0x0JMeow = nil;
-														_0x0NTanginaMoCge = _0x0HKigol(((-198907 - (-370808 + -426472)) + -1342927) + 695380);
-														_0x0fPaasa = _0x0CKigol[_0x0vGay];
-														_0x0KRomans12_19 = _0x0BBible[_0x0ILove];
-														_0x0vGay = _0x0BBible[_0x0RBible];
-														_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-														_0x0NTanginaMoCge = 18881349215307 - (-458170);
-														_0x0CKigol = _0x0KRomans12_19[_0x0TRespect];
-														_0x0hRespect = { [_0x0fPaasa] = _0x0CKigol };
-														_0x0TRespect = _0x0HKigol(-286684 - (-237437));
-														_0x0VDick = nil;
-														_0x0CKigol = _0x0BBible[_0x0ILove];
-														_0x0KRomans12_19 = _0x0BBible[_0x0RBible];
-														_0x0vGay = _0x0KRomans12_19(_0x0TRespect, _0x0NTanginaMoCge);
-														_0x0fPaasa = _0x0CKigol[_0x0vGay];
-														_0x0mFallenPartsDestroyHeight = {
-																[_0x0LSkilliSSUE] = _0x0SPlsNo,
-																[_0x0oSkidDetected] = _0x0rBILAT,
-																[_0x0QMeow] = _0x0hRespect,
-																[_0x0fPaasa] = _0x0gDick,
-															};
-														_0x0gDick = nil;
-														_0x0XBILAT = _0x0EDiKanaNiyaMahal(_0x0mFallenPartsDestroyHeight);
-														_0x0EDiKanaNiyaMahal = 8763526 - (367739 - ((-1007578 + (-490705 + 1024308)) + 853911));
+								if _0x0sPaasa < 8134649 - 339808 then
+									if _0x0sPaasa < -1647 + (408961 + (6314352 - (-577848))) then
+										if _0x0sPaasa < -794042 + 7720268 then
+											if _0x0sPaasa < 7502248 - ((827243 + 171831) + -346295) then
+												if _0x0sPaasa < 6720857 - (-56647) then
+													if _0x0sPaasa < 6384218 - (-383545) then
+														_0x0LTFYouLookingAt = _0x0SMamaMoBlue(-537683 + 541715);
+														_0x0oUrMom = _0x0SMamaMoBlue(-797521 - (-801498));
+														_0x0sPaasa = _0x0sSINGIT[_0x0LTFYouLookingAt];
+														_0x0EOhab = 28338973294392 - (-580493 + 972440);
+														_0x0WNigaBytes = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0TBible = _0x0MRomans12_19[_0x0YBible];
+														_0x0nBakla = _0x0TBible(_0x0oUrMom, _0x0EOhab);
+														_0x0ASkilliSSUE = _0x0WNigaBytes[_0x0nBakla];
+														_0x0LTFYouLookingAt = _0x0sPaasa(_0x0ASkilliSSUE);
+														_0x0sPaasa = _0x0ZIveDoneNothing and -577632 + 11124080 or -833849 + (2584460 - (-1221927 - (-861080)));
+														_0x0LTFYouLookingAt = _0x0ZIveDoneNothing;
 													else
-														_0x0hRespect = _0x0EDiKanaNiyaMahal;
-														_0x0CKigol = _0x0HKigol(721335 - ((784591 + 855176) - (1300324 - 431300)));
-														_0x0rBILAT = _0x0EDiKanaNiyaMahal;
-														_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-														_0x0EDiKanaNiyaMahal = _0x0fPaasa and (368038 - 171631) + 4542436 or 20003 + 15061090;
-														_0x0QMeow = _0x0fPaasa;
+														_0x0ISkilliSSUE = _0x0SMamaMoBlue((779363 + -1807191) + 1031643);
+														_0x0EOhab = _0x0sSINGIT[_0x0ISkilliSSUE];
+														_0x0nBakla = _0x0EOhab;
+														_0x0sPaasa = -744046 + (-400943 + 16722012);
 													end;
 												else
-													_0x0kPlsNo = _0x0HKigol((-341699 - 77756) - (-370285));
-													_0x0CKigol = _0x0HKigol(212952 - 262311);
-													_0x0uBrainDamage = 7877271753835 - (-37238 - ((-508906 - 263815) - (-59224)));
-													_0x0CKigol = _0x0QMeow[_0x0CKigol];
-													_0x0vGay = _0x0BBible[_0x0bTerrorist[-568116 - ((608857 + -1506571) + 329597)]];
-													_0x0TRespect = _0x0BBible[_0x0bTerrorist[(1115662 - 674775) + -440885]];
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0CKigol = _0x0CKigol(_0x0QMeow, _0x0KRomans12_19);
-													_0x0EDiKanaNiyaMahal = _0x0CKigol and -562654 + 14660650 or (16632309 - (787748 + -1749645)) - 880224;
-													_0x0fPaasa = _0x0CKigol;
+													_0x0gOhab = _0x0SMamaMoBlue(((-989815 + 390935) + (934438 - (1541059 - (((431966 + -1476104) + (2052639 - 455618)) + (((946232 - 823164) + -778351) + ((-940175 - (((1037575 + -193532) - 925177) - 567127)) + 1406852)))))) - (-196920));
+													_0x0tTerrorist = _0x0sSINGIT[_0x0gOhab];
+													_0x0jDiKanaNiyaMahal = _0x0SMamaMoBlue((1149171 - 318593) + (((-739153 - (-550453)) + -359619) - 278214));
+													_0x0PWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0NKigol = _0x0MRomans12_19[_0x0YBible];
+													_0x0qTFYouLookingAt = (830068 + (508198 + 31488710007918)) - 231762;
+													_0x0sPaasa = (324432 + 1848786) - 376396;
+													_0x0uMamaMoBlue = _0x0NKigol(_0x0jDiKanaNiyaMahal, _0x0qTFYouLookingAt);
+													_0x0gOhab = _0x0PWagGago[_0x0uMamaMoBlue];
+													_0x0rIveDoneNothing = _0x0tTerrorist[_0x0gOhab];
+													_0x0mWagGago = _0x0rIveDoneNothing;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (5586354 - ((-164048 - (-458130)) - (532249 + -61528))) - (-712765) then
-													_0x0EDiKanaNiyaMahal = (((((172876 - 546528) - 625055) + (340239 - 181646)) + 360295) + (-1030607 + 16911859)) - (-236609);
+												if _0x0sPaasa < (655522 + 7239921) - 977019 then
+													_0x0mWagGago = _0x0SMamaMoBlue(-278648 - (-282464));
+													_0x0PWagGago = -757290 + 3514088182095;
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0SMamaMoBlue(-930515 - (83153 + -1017725));
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0vGay = _0x0aUrMom[_0x0mWagGago];
+													_0x0sPaasa = _0x0vGay and -501624 + 13916818 or 443947 + (14271036 - 355530);
 												else
-													_0x0VDick = _0x0HKigol(531281 - ((-156065 - (-268945)) - (-467589)));
-													_0x0iFallenPartsDestroyHeight = _0x0ETUBOL[_0x0VDick];
-													_0x0eTerrorist = _0x0iFallenPartsDestroyHeight;
-													_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight and 11580906 - (-372340 + -568844) or (8313046 - (-793302)) - 360081;
+													_0x0HGay = _0x0GPlsNo;
+													_0x0OTerrorist = _0x0MRomans12_19[_0x0VTUBOL[((-712154 + -32570) + 678165) - (6173 - 72733)]];
+													_0x0KTanginaMoCge = _0x0MRomans12_19[_0x0VTUBOL[223320 - 223318]];
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue((-264265 + -433277) - (-984661 + 283126));
+													_0x0ASkilliSSUE = (((5648669616849 - (1111603 - (545610 + 87837))) - 605968) - (-339877)) - 60776;
+													_0x0pSINGIT = _0x0KTanginaMoCge(_0x0LTFYouLookingAt, _0x0ASkilliSSUE);
+													_0x0ZIveDoneNothing = _0x0OTerrorist[_0x0pSINGIT];
+													_0x0bLove = _0x0MFallenPartsDestroyHeight ~= _0x0ZIveDoneNothing;
+													_0x0GPlsNo = _0x0bLove;
+													_0x0sPaasa = _0x0bLove and 13259999 - ((-803836 - 181958) - (-907286)) or (-681521 + ((8732613 - 909908) - (-1008219))) - 19035;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -883704 + 7522290 then
-												if _0x0EDiKanaNiyaMahal < 7090048 - 517135 then
-													if _0x0EDiKanaNiyaMahal < 37583 + (7155239 - 633634) then
-														_0x0tBILAT = 11373063417328 - (-373832 - (-490767));
-														_0x0SPlsNo = _0x0HKigol((-30021 - (-756006)) - 775178);
-														_0x0LSkilliSSUE = _0x0ETUBOL[_0x0SPlsNo];
-														_0x0NTanginaMoCge = 18107824588656 - (-352024);
-														_0x0kPlsNo = (3958308466113 - 874077) - (-211848);
-														_0x0CKigol = _0x0BBible[_0x0ILove];
-														_0x0KRomans12_19 = _0x0BBible[_0x0RBible];
-														_0x0TRespect = _0x0HKigol((349546 + -1138410) - (-1239398 - (-1263137 - (-763214))));
-														_0x0pUrMom = 437189 + 9552940364950;
-														_0x0vGay = _0x0KRomans12_19(_0x0TRespect, _0x0NTanginaMoCge);
-														_0x0NTanginaMoCge = _0x0HKigol(-255155 - (-205982));
-														_0x0fPaasa = _0x0CKigol[_0x0vGay];
-														_0x0MTUBOL = _0x0HKigol((208048 - (-171216)) + -428488);
-														_0x0KRomans12_19 = _0x0BBible[_0x0ILove];
-														_0x0vGay = _0x0BBible[_0x0RBible];
-														_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-														_0x0CKigol = _0x0KRomans12_19[_0x0TRespect];
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0kPlsNo = _0x0HKigol(128646 + -177828);
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0uBrainDamage = 23734917758211 - (-151927 - 455416);
-														_0x0lNigger = (((331504 + 6490601714368) - (-321144)) - 702364) - ((-997207 + 2314056) - 949582);
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0TRespect = _0x0BBible[_0x0ILove];
-														_0x0uBrainDamage = _0x0HKigol(-381744 - (-332469));
-														_0x0NTanginaMoCge = _0x0BBible[_0x0RBible];
-														_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage, _0x0tBILAT);
-														_0x0vGay = _0x0TRespect[_0x0kPlsNo];
-														_0x0NTanginaMoCge = _0x0BBible[_0x0ILove];
-														_0x0kPlsNo = _0x0BBible[_0x0RBible];
-														_0x0tBILAT = _0x0HKigol(-520709 - (((143001 + (-847242 - 288124)) + (433510 - (-345340))) - (-210099 - (425393 - (623772 - (-269722))))));
-														_0x0uBrainDamage = _0x0kPlsNo(_0x0tBILAT, _0x0lNigger);
-														_0x0TRespect = _0x0NTanginaMoCge[_0x0uBrainDamage];
-														_0x0uBrainDamage = _0x0BBible[_0x0ILove];
-														_0x0tBILAT = _0x0BBible[_0x0RBible];
-														_0x0lNigger = _0x0tBILAT(_0x0MTUBOL, _0x0pUrMom);
-														_0x0pUrMom = _0x0HKigol((256969 + (-686599 - ((((((-30343 - 972084) + 567958) - (-365719)) - (-259951 - 494276)) - (-757244)) - (-129232 - (-424806 - ((-778991 - ((574283 - 798695) - 627153)) - (-477262))))))) - (-977609));
-														_0x0kPlsNo = _0x0uBrainDamage[_0x0lNigger];
-														_0x0UBoo = -567223 + 28057442725239;
-														_0x0tBILAT = _0x0BBible[_0x0ILove];
-														_0x0lNigger = _0x0BBible[_0x0RBible];
-														_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-														_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-														_0x0NTanginaMoCge = { [_0x0kPlsNo] = _0x0uBrainDamage };
-														_0x0QMeow = { [_0x0fPaasa] = _0x0CKigol, [_0x0KRomans12_19] = _0x0vGay, [_0x0TRespect] = _0x0NTanginaMoCge };
-														_0x0rBILAT = _0x0gDick(_0x0QMeow);
-														_0x0vGay = _0x0HKigol((935650 - (245213 + (974674 + -1282100))) + (-1009418 - 37689));
-														_0x0TRespect = ((-740306 - (-955684)) + 17643409344665) - 504558;
-														_0x0fPaasa = _0x0BBible[_0x0ILove];
-														_0x0uBrainDamage = 31022754133920 - (-1254679 - (-287861));
-														_0x0CKigol = _0x0BBible[_0x0RBible];
-														_0x0NTanginaMoCge = _0x0HKigol(136401 + -185741);
-														_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-														_0x0CKigol = _0x0HKigol(795892 - 845051);
-														_0x0QMeow = _0x0fPaasa[_0x0KRomans12_19];
-														_0x0oSkidDetected = _0x0rBILAT[_0x0QMeow];
-														_0x0SPlsNo = _0x0LSkilliSSUE(_0x0oSkidDetected);
-														_0x0KRomans12_19 = 26639360241027 - 889812;
-														_0x0LSkilliSSUE = _0x0SPlsNo();
-														_0x0rBILAT = _0x0BBible[_0x0ILove];
-														_0x0QMeow = _0x0BBible[_0x0RBible];
-														_0x0fPaasa = _0x0QMeow(_0x0CKigol, _0x0KRomans12_19);
-														_0x0oSkidDetected = _0x0rBILAT[_0x0fPaasa];
-														_0x0SPlsNo = _0x0LSkilliSSUE[_0x0oSkidDetected];
-														_0x0rBILAT = _0x0BBible[_0x0ILove];
-														_0x0KRomans12_19 = -429954 + 25137309786582;
-														_0x0QMeow = _0x0BBible[_0x0RBible];
-														_0x0CKigol = _0x0HKigol(659419 + -708769);
-														_0x0fPaasa = _0x0QMeow(_0x0CKigol, _0x0KRomans12_19);
-														_0x0oSkidDetected = _0x0rBILAT[_0x0fPaasa];
-														_0x0CKigol = _0x0HKigol(419877 - 469278);
-														_0x0rBILAT = -842003 + 849773;
-														_0x0kPlsNo = (-632294 + ((577492 + (-428631 + (-188057 - 856773))) + (5253277849414 - 315752))) - 511976;
-														_0x0SPlsNo[_0x0oSkidDetected] = _0x0rBILAT;
-														_0x0rBILAT = _0x0HKigol(-283136 - (-694266 - (-747749 + 287242)));
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0rBILAT];
-														_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-														_0x0KRomans12_19 = _0x0BBible[_0x0ILove];
-														_0x0vGay = _0x0BBible[_0x0RBible];
-														_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-														_0x0CKigol = _0x0KRomans12_19[_0x0TRespect];
-														_0x0lNigger = 13673371899186 - 1033707;
-														_0x0QMeow = _0x0fPaasa[_0x0CKigol];
-														_0x0rBILAT = _0x0oSkidDetected(_0x0QMeow);
-														_0x0QMeow = _0x0HKigol(405283 + -454660);
-														_0x0KRomans12_19 = _0x0HKigol((45972 - (-347163 + -296776)) + -739312);
-														_0x0MTUBOL = 93221 + (-741806 + 5059778140893);
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0QMeow];
-														_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-														_0x0kPlsNo = _0x0HKigol(-73681 + 24269);
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0tBILAT = -753994 + (32719123977828 - 601396);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0fPaasa = _0x0CKigol[_0x0KRomans12_19];
-														_0x0vGay = _0x0HKigol((235229 + 276366) - 560996);
-														_0x0uBrainDamage = _0x0HKigol((687938 - 297413) + (574563 - 1014433));
-														_0x0QMeow = _0x0oSkidDetected(_0x0fPaasa);
-														_0x0fPaasa = _0x0HKigol(872579 - 921956);
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0fPaasa];
-														_0x0KRomans12_19 = _0x0ETUBOL[_0x0vGay];
-														_0x0TRespect = _0x0BBible[_0x0ILove];
-														_0x0NTanginaMoCge = _0x0BBible[_0x0RBible];
-														_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage, _0x0tBILAT);
-														_0x0vGay = _0x0TRespect[_0x0kPlsNo];
-														_0x0TRespect = _0x0HKigol(((-617879 + 948968) - (220265 + -678325)) + (-1041150 - (-260883 + 58283)));
-														_0x0CKigol = _0x0KRomans12_19[_0x0vGay];
-														_0x0fPaasa = _0x0oSkidDetected(_0x0CKigol);
-														_0x0tBILAT = _0x0HKigol(-167033 - (-117818));
-														_0x0CKigol = _0x0HKigol((((909192 - (-385968 + 353303)) + -55021) + -858280) - 77933);
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0CKigol];
-														_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-														_0x0NTanginaMoCge = _0x0BBible[_0x0ILove];
-														_0x0kPlsNo = _0x0BBible[_0x0RBible];
-														_0x0uBrainDamage = _0x0kPlsNo(_0x0tBILAT, _0x0lNigger);
-														_0x0TRespect = _0x0NTanginaMoCge[_0x0uBrainDamage];
-														_0x0KRomans12_19 = _0x0vGay[_0x0TRespect];
-														_0x0CKigol = _0x0oSkidDetected(_0x0KRomans12_19);
-														_0x0KRomans12_19 = _0x0HKigol(395535 + ((-415307 - (-833343)) + -862948));
-														_0x0oSkidDetected = _0x0ETUBOL[_0x0KRomans12_19];
-														_0x0NTanginaMoCge = _0x0HKigol(386254 - (-215220 + 650875));
-														_0x0TRespect = _0x0ETUBOL[_0x0NTanginaMoCge];
-														_0x0lNigger = _0x0HKigol(((-224239 + 1038670) - 572130) - (-183323 + 474908));
-														_0x0kPlsNo = _0x0BBible[_0x0ILove];
-														_0x0uBrainDamage = _0x0BBible[_0x0RBible];
-														_0x0tBILAT = _0x0uBrainDamage(_0x0lNigger, _0x0MTUBOL);
-														_0x0NTanginaMoCge = _0x0kPlsNo[_0x0tBILAT];
-														_0x0vGay = _0x0TRespect[_0x0NTanginaMoCge];
-														_0x0KRomans12_19 = { _0x0oSkidDetected(_0x0vGay) };
-														_0x0SPlsNo = {
-																_0x0rBILAT,
-																_0x0QMeow,
-																_0x0fPaasa,
-																_0x0CKigol,
-																_0x0bMamaMoBlue(_0x0KRomans12_19),
-															};
-														_0x0QMeow = _0x0EDiKanaNiyaMahal;
-														_0x0CKigol = _0x0HKigol(689045 + (-1412444 - (-674052)));
-														_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-														_0x0rBILAT = _0x0fPaasa;
-														_0x0EDiKanaNiyaMahal = _0x0fPaasa and -877796 + 3240145 or -1011773 + 12750543;
+											if _0x0sPaasa < ((-69829 + ((463134 + (6422231 - 161334)) - (-42969))) - (-1025014)) - 492716 then
+												if _0x0sPaasa < -747344 + 7734981 then
+													if _0x0sPaasa < 612508 + 6317704 then
+														_0x0EOhab = _0x0SMamaMoBlue(687062 - 683199);
+														_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+														_0x0nBakla = _0x0sPaasa;
+														_0x0TBible = _0x0oUrMom;
+														_0x0sPaasa = _0x0oUrMom and 13748351 - (-226929) or 15092903 - 866546;
 													else
-														_0x0EDiKanaNiyaMahal = {};
-														_0x0ZSkilliSSUE = _0x0HKigol(745925 + -795071);
-														_0x0OTerrorist = _0x0EDiKanaNiyaMahal;
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-														_0x0iFallenPartsDestroyHeight = { _0x0EDiKanaNiyaMahal(_0x0cBoo) };
-														_0x0EDiKanaNiyaMahal = 12760521 - (-637490);
-														_0x0ZSkilliSSUE = _0x0iFallenPartsDestroyHeight[((810956 + ((187300 + 156794) - ((1295383 - 38471) - (1258612 - 752755)))) + -714798) + 310804];
-														_0x0JMeow = _0x0iFallenPartsDestroyHeight[-196394 - (634759 + -831155)];
-														_0x0eTerrorist = _0x0iFallenPartsDestroyHeight[(755770 + (-438849 + 63441)) + -380359];
-														_0x0iFallenPartsDestroyHeight = _0x0ZSkilliSSUE;
+														_0x0gOhab = _0x0SMamaMoBlue(943458 - (193771 + 745753));
+														_0x0gOhab = _0x0nBakla[_0x0gOhab];
+														_0x0gOhab = _0x0gOhab(_0x0nBakla, _0x0YBible);
+														_0x0sPaasa = 13258045 - (-371063);
+														_0x0mWagGago = _0x0gOhab;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = 13492258 - 50246;
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(1039482 + ((-1122880 - (-51652)) - (-35721)))];
+													_0x0GPlsNo = {};
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -784765 + 7507650 then
-													_0x0mFallenPartsDestroyHeight = nil;
-													_0x0LSkilliSSUE = nil;
-													_0x0EDiKanaNiyaMahal = -42365 + 10392433;
+												if _0x0sPaasa < -716599 + (8018104 - (1018952 - (-101654 + (988345 + (77074 - (-7166)))))) then
+													_0x0sPaasa = 10064570 - (-147740);
+													_0x0ZIveDoneNothing = nil;
+													_0x0bLove = nil;
+													_0x0HGay = nil;
 												else
-													_0x0SPlsNo = _0x0JBakla();
-													_0x0fPaasa = _0x0HKigol(-1021259 + 972074);
-													_0x0oSkidDetected = _0x0JBakla();
-													_0x0QMeow = {};
-													_0x0EDiKanaNiyaMahal = {};
-													_0x0BBible[_0x0SPlsNo] = _0x0EDiKanaNiyaMahal;
-													_0x0KRomans12_19 = _0x0HKigol(486000 + -535265);
-													_0x0mFallenPartsDestroyHeight = nil;
-													_0x0ZSkilliSSUE = _0x0HKigol(-813409 + 764018);
-													_0x0rBILAT = _0x0JBakla();
-													_0x0EDiKanaNiyaMahal = _0x0jTangina((-932915 + 1889584) + (515318 + (864254 + 7641342)), {
-															_0x0SPlsNo,
-															_0x0iFallenPartsDestroyHeight,
-															_0x0VDick,
-															_0x0BTerrorist,
-														});
-													_0x0BBible[_0x0oSkidDetected] = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = {};
-													_0x0BBible[_0x0rBILAT] = _0x0EDiKanaNiyaMahal;
-													_0x0eTerrorist = nil;
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-													_0x0OTerrorist = nil;
-													_0x0JMeow = nil;
-													_0x0CKigol = _0x0BBible[_0x0rBILAT];
+													_0x0oUrMom = nil;
+													_0x0JBILAT = nil;
+													_0x0sPaasa = -764129 + (6335215 - (1164375 - 432518));
+													_0x0EOhab = nil;
+													_0x0ISkilliSSUE = nil;
+													_0x0rIveDoneNothing = nil;
 													_0x0vGay = nil;
-													_0x0hRespect = { [_0x0fPaasa] = _0x0CKigol, [_0x0KRomans12_19] = _0x0vGay };
-													_0x0ZSkilliSSUE = _0x0EDiKanaNiyaMahal(_0x0QMeow, _0x0hRespect);
-													_0x0OTerrorist = _0x0HKigol(252479 - 301615);
-													_0x0BTerrorist = _0x0gFallenPartsDestroyHeight(_0x0BTerrorist);
-													_0x0LSkilliSSUE = nil;
-													_0x0EDiKanaNiyaMahal = _0x0mMeow(749337 + ((9188102 - (-720131)) - (-268651)), {
-															_0x0rBILAT,
-															_0x0SPlsNo,
-															_0x0XBILAT,
-															_0x0iFallenPartsDestroyHeight,
-															_0x0VDick,
-															_0x0oSkidDetected,
-														});
-													_0x0gDick = nil;
-													_0x0BBible[_0x0ILove] = _0x0ZSkilliSSUE;
-													_0x0rBILAT = _0x0gFallenPartsDestroyHeight(_0x0rBILAT);
-													_0x0VDick = _0x0gFallenPartsDestroyHeight(_0x0VDick);
-													_0x0XBILAT = _0x0gFallenPartsDestroyHeight(_0x0XBILAT);
-													_0x0SPlsNo = _0x0gFallenPartsDestroyHeight(_0x0SPlsNo);
-													_0x0gDick = 29699373642748 - (-664312);
-													_0x0BBible[_0x0RBible] = _0x0EDiKanaNiyaMahal;
-													_0x0iFallenPartsDestroyHeight = _0x0gFallenPartsDestroyHeight(_0x0iFallenPartsDestroyHeight);
-													_0x0VDick = _0x0HKigol(846142 + ((-1969501 - (-951433 - (-491880))) - (862772 + ((-978095 + 446669) + (-619790 + -325962)))));
-													_0x0oSkidDetected = _0x0gFallenPartsDestroyHeight(_0x0oSkidDetected);
-													_0x0BTerrorist = _0x0ETUBOL[_0x0OTerrorist];
-													_0x0JMeow = _0x0BBible[_0x0ILove];
-													_0x0eTerrorist = _0x0BBible[_0x0RBible];
-													_0x0iFallenPartsDestroyHeight = _0x0eTerrorist(_0x0VDick, _0x0gDick);
-													_0x0OTerrorist = _0x0JMeow[_0x0iFallenPartsDestroyHeight];
-													_0x0EDiKanaNiyaMahal = _0x0BTerrorist ~= _0x0OTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and -73939 + 844608 or -996634 + 9883362;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 461542 + ((6111110 - (111348 - 960082)) - 320756) then
-											if _0x0EDiKanaNiyaMahal < (993479 + 5803980) - (-169478) then
-												if _0x0EDiKanaNiyaMahal < 6008398 - (-905801) then
-													if _0x0EDiKanaNiyaMahal < -908723 + 7679705 then
-														_0x0QMeow = -893658 + 34798829355398;
-														_0x0XBILAT = _0x0HKigol(-943056 + 893747);
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0XBILAT];
-														_0x0LSkilliSSUE = _0x0BBible[_0x0ILove];
-														_0x0SPlsNo = _0x0BBible[_0x0RBible];
-														_0x0rBILAT = _0x0HKigol((353201 + -1151882) - (-749359));
-														_0x0oSkidDetected = _0x0SPlsNo(_0x0rBILAT, _0x0QMeow);
-														_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE[_0x0oSkidDetected];
-														_0x0XBILAT = _0x0EDiKanaNiyaMahal(_0x0mFallenPartsDestroyHeight);
-														_0x0XBILAT = _0x0eTerrorist;
-														_0x0EDiKanaNiyaMahal = _0x0eTerrorist and 821761 + 8976848 or -232184 + 1864300;
+										if _0x0sPaasa < ((-77691 - (-741858)) + (921205 + -716176)) + ((((400136 - 1014704) - (-577243)) + 5791772) - (-935186)) then
+											if _0x0sPaasa < 758690 + 6738251 then
+												if _0x0sPaasa < 6894503 - ((586121 + -151218) + -1006024) then
+													if _0x0sPaasa < 809262 + 6636440 then
+														_0x0KTanginaMoCge = (-138294 + (596393 + -381432)) + 26841671709271;
+														_0x0HGay = _0x0MRomans12_19[_0x0VTUBOL[-989823 + 989824]];
+														_0x0OTerrorist = _0x0SMamaMoBlue((-866144 + 1759349) + (668679 + -1557891));
+														_0x0bLove = _0x0MRomans12_19[_0x0VTUBOL[(((894989 + (-129046 + (((545678 - (-424798)) + -1310330) - 81710))) - (1525988 - 784658)) + 1287822) + (-893508 - (-2639))]];
+														_0x0sPaasa = 8810828 - 816010;
+														_0x0ZIveDoneNothing = _0x0bLove(_0x0OTerrorist, _0x0KTanginaMoCge);
+														_0x0MFallenPartsDestroyHeight = _0x0HGay[_0x0ZIveDoneNothing];
+														_0x0GPlsNo = _0x0MFallenPartsDestroyHeight;
 													else
-														_0x0hRespect = nil;
-														_0x0EDiKanaNiyaMahal = nil;
-														_0x0kPlsNo = _0x0HKigol(-566157 - (-635080 - (-118253)));
-														_0x0CKigol = _0x0HKigol(-440924 - (-391615));
-														_0x0QMeow = _0x0hRespect;
-														_0x0rBILAT = _0x0EDiKanaNiyaMahal;
-														_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0uBrainDamage = 19853041281432 - (-1454554 - (-815649));
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0EDiKanaNiyaMahal = (9844434 - ((31413 - 786190) - (-713615 - (-896239)))) - (-769327);
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0CKigol = _0x0fPaasa(_0x0KRomans12_19);
+														_0x0sPaasa = _0x0ZIveDoneNothing and 793576 + 7756524 or -94927 + 2617507;
 													end;
 												else
-													_0x0LSkilliSSUE = _0x0HKigol(-955892 + (-509874 + 1416573));
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0XBILAT = _0x0eTerrorist(_0x0mFallenPartsDestroyHeight);
-													_0x0EDiKanaNiyaMahal = 9343432 - 685211;
-													_0x0gDick = _0x0XBILAT;
+													_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[-453578 - (380667 - 834246)]];
+													_0x0JBILAT = _0x0SMamaMoBlue((-1159204 - (-467154)) - ((-599258 + 200732) - ((98540 + -214569) + 413414)));
+													_0x0rIveDoneNothing = -479145 + 19523677096750;
+													_0x0aUrMom = _0x0MRomans12_19[_0x0VTUBOL[731916 - 731914]];
+													_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+													_0x0ISkilliSSUE = _0x0vGay[_0x0mWagGago];
+													_0x0EOhab = _0x0SMamaMoBlue(-1008349 + (118205 + 893947));
+													_0x0EOhab = _0x0nBakla[_0x0EOhab];
+													_0x0sPaasa = 11736824 - ((-1604282 - (-684620)) + 1170975);
+													_0x0EOhab = _0x0EOhab(_0x0nBakla, _0x0ISkilliSSUE);
+													_0x0oUrMom = _0x0EOhab;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 7066822 - 34357 then
-													_0x0SPlsNo = _0x0rBILAT;
-													_0x0EDiKanaNiyaMahal = _0x0QMeow;
-													_0x0EDiKanaNiyaMahal = (-604602 + 3378146) - (-127311);
+												if _0x0sPaasa < -357564 + 7906017 then
+													_0x0sPaasa = _0x0gOhab;
+													_0x0sPaasa = _0x0tTerrorist and ((409877 - 551216) + 1082558) + (817710 + 3447820) or -665618 + (777327 + 13478369);
 												else
-													_0x0fPaasa = _0x0HKigol(-801142 - (-751993));
-													_0x0QMeow = _0x0EDiKanaNiyaMahal;
-													_0x0hRespect = _0x0ETUBOL[_0x0fPaasa];
-													_0x0rBILAT = _0x0hRespect;
-													_0x0EDiKanaNiyaMahal = _0x0hRespect and -618763 + 6591621 or (-157992 + -64089) + ((1700592 - (582674 - (-404362))) + 4464012);
+													_0x0BTanginaMoCge = _0x0RPaasa(266497 + (10242506 - (281564 + -435873)), {});
+													_0x0GPlsNo = _0x0BTanginaMoCge;
+													_0x0sPaasa = -1033916 + 14124948;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -1036885 + 8506893 then
-												if _0x0EDiKanaNiyaMahal < (419775 - (-257249)) + 6627268 then
-													_0x0oSkidDetected = _0x0EDiKanaNiyaMahal;
-													_0x0QMeow = _0x0HKigol(646955 - 696270);
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT and (3047504 - (-420315)) - 566964 or -691334 + 2665324;
-													_0x0SPlsNo = _0x0rBILAT;
+											if _0x0sPaasa < 901367 + 6757249 then
+												if _0x0sPaasa < 375691 + (((825198 - 84511) - 336097) + 6841224) then
+													_0x0jDiKanaNiyaMahal = _0x0SMamaMoBlue(-79499 - (-83403));
+													_0x0TBible = _0x0SMamaMoBlue(-726949 + 730922);
+													_0x0WNigaBytes = _0x0sSINGIT[_0x0TBible];
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(37668 - 33783);
+													_0x0tTerrorist = (-406445 - (-460565)) + 26074970763050;
+													_0x0NKigol = -49322 + 26143657557558;
+													_0x0aUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0JBILAT = _0x0mWagGago(_0x0rIveDoneNothing, _0x0tTerrorist);
+													_0x0vGay = _0x0aUrMom[_0x0JBILAT];
+													_0x0lBible = (31484246930901 - 581162) - (-22768);
+													_0x0qTFYouLookingAt = 6959953896663 - 241405;
+													_0x0mWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = -770279 + 58062185077;
+													_0x0uMamaMoBlue = (1611791 - 584425) + ((32076067417034 - (754247 + -944335)) - (758574 + -469977));
+													_0x0gOhab = (-251348 + (-645586 + 32948912931089)) - (-1831508 - (-850508));
+													_0x0tTerrorist = _0x0SMamaMoBlue(656951 + -653142);
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+													_0x0aUrMom = _0x0mWagGago[_0x0rIveDoneNothing];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0SMamaMoBlue((-1058657 - (-891569)) + 171032);
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0PWagGago = _0x0SMamaMoBlue(732048 - 728033);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago, _0x0NKigol);
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0gOhab];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0NKigol = _0x0SMamaMoBlue(-172363 + 176316);
+													_0x0gOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = _0x0gOhab(_0x0NKigol, _0x0uMamaMoBlue);
+													_0x0rIveDoneNothing = _0x0tTerrorist[_0x0PWagGago];
+													_0x0PWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0NKigol = _0x0MRomans12_19[_0x0YBible];
+													_0x0uMamaMoBlue = _0x0NKigol(_0x0jDiKanaNiyaMahal, _0x0qTFYouLookingAt);
+													_0x0gOhab = _0x0PWagGago[_0x0uMamaMoBlue];
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(((-712145 + (2196968 - 838099)) - (-969975 + ((1154824 - 159814) - (692854 - 281062)))) + -1029480);
+													_0x0NKigol = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0tTerrorist = { [_0x0gOhab] = _0x0PWagGago };
+													_0x0EOhab = { [_0x0vGay] = _0x0aUrMom, [_0x0mWagGago] = _0x0JBILAT, [_0x0rIveDoneNothing] = _0x0tTerrorist };
+													_0x0oUrMom = _0x0pSINGIT(_0x0EOhab);
+													_0x0vGay = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = 30156020703795 - 581219;
+													_0x0JBILAT = _0x0SMamaMoBlue(-669016 - (-673013));
+													_0x0aUrMom = _0x0MRomans12_19[_0x0YBible];
+													_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+													_0x0EOhab = _0x0vGay[_0x0mWagGago];
+													_0x0nBakla = _0x0oUrMom[_0x0EOhab];
+													_0x0TBible = _0x0WNigaBytes(_0x0nBakla);
+													_0x0WNigaBytes = _0x0TBible();
+													_0x0PWagGago = -624802 + 29024087307041;
+													_0x0oUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0aUrMom = _0x0SMamaMoBlue((((304098 + 498026) - 580885) + 602750) - (971456 + -151327));
+													_0x0mWagGago = -2806 + ((((-747354 + (1382110 - (-118290 + 192678))) + -1127691) + 2751435300430) - (926527 - 907300));
+													_0x0EOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0vGay = _0x0EOhab(_0x0aUrMom, _0x0mWagGago);
+													_0x0nBakla = _0x0oUrMom[_0x0vGay];
+													_0x0aUrMom = _0x0SMamaMoBlue(((170036 - (-363628 + 938448)) - (465543 + (((-817224 - 679394) - (-711354)) + (-407938 - (943176 - 963115))))) - ((482080 + -404457) + ((-44868 + 569383) + -303080)));
+													_0x0mWagGago = -103319 + 10433085445434;
+													_0x0TBible = _0x0WNigaBytes[_0x0nBakla];
+													_0x0oUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0EOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0vGay = _0x0EOhab(_0x0aUrMom, _0x0mWagGago);
+													_0x0NKigol = 11370103688766 - (-688091);
+													_0x0nBakla = _0x0oUrMom[_0x0vGay];
+													_0x0tTerrorist = _0x0SMamaMoBlue((312994 - (811231 + -408157)) + 94049);
+													_0x0oUrMom = 874714 + (-580380 + (597885 - 884449));
+													_0x0TBible[_0x0nBakla] = _0x0oUrMom;
+													_0x0oUrMom = _0x0SMamaMoBlue(552540 + (-784848 + 236127));
+													_0x0aUrMom = _0x0SMamaMoBlue((1209176 - 638316) + -566808);
+													_0x0nBakla = _0x0sSINGIT[_0x0oUrMom];
+													_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0YBible];
+													_0x0gOhab = 7419519965129 - (-651808);
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+													_0x0aUrMom = _0x0mWagGago[_0x0rIveDoneNothing];
+													_0x0gOhab = _0x0SMamaMoBlue(-503846 + 507816);
+													_0x0EOhab = _0x0vGay[_0x0aUrMom];
+													_0x0mWagGago = _0x0SMamaMoBlue(936295 - 932243);
+													_0x0oUrMom = _0x0nBakla(_0x0EOhab);
+													_0x0EOhab = _0x0SMamaMoBlue(-470854 - (-474673));
+													_0x0nBakla = _0x0sSINGIT[_0x0EOhab];
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0vGay = _0x0aUrMom[_0x0mWagGago];
+													_0x0EOhab = _0x0nBakla(_0x0vGay);
+													_0x0vGay = _0x0SMamaMoBlue(196996 - (177464 - (-259505 - (-243792))));
+													_0x0nBakla = _0x0sSINGIT[_0x0vGay];
+													_0x0PWagGago = _0x0SMamaMoBlue(-963012 + (514427 - (229011 + -681562)));
+													_0x0JBILAT = _0x0SMamaMoBlue(476071 - 472019);
+													_0x0mWagGago = _0x0sSINGIT[_0x0JBILAT];
+													_0x0jDiKanaNiyaMahal = 592227 + 1500691489536;
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago, _0x0NKigol);
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0gOhab];
+													_0x0uMamaMoBlue = -229697 + 30621333274892;
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(-511934 - ((-70128 + (70316 - (-57579))) - 573753));
+													_0x0NKigol = _0x0SMamaMoBlue(-224275 - (-228189));
+													_0x0aUrMom = _0x0mWagGago[_0x0JBILAT];
+													_0x0vGay = _0x0nBakla(_0x0aUrMom);
+													_0x0aUrMom = _0x0SMamaMoBlue((460228 + -364556) + -91853);
+													_0x0nBakla = _0x0sSINGIT[_0x0aUrMom];
+													_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = _0x0gOhab(_0x0NKigol, _0x0uMamaMoBlue);
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue((((-725053 + (1323511 - (22750 + 58591))) + (874278 + -1079999)) - (-285232)) + -592836);
+													_0x0rIveDoneNothing = _0x0tTerrorist[_0x0PWagGago];
+													_0x0mWagGago = _0x0JBILAT[_0x0rIveDoneNothing];
+													_0x0aUrMom = _0x0nBakla(_0x0mWagGago);
+													_0x0mWagGago = _0x0SMamaMoBlue(-902273 + (-235142 + (475342 - (-62625 + -603267))));
+													_0x0nBakla = _0x0sSINGIT[_0x0mWagGago];
+													_0x0tTerrorist = _0x0SMamaMoBlue(((1702433 - 868344) - 554786) - 275251);
+													_0x0rIveDoneNothing = _0x0sSINGIT[_0x0tTerrorist];
+													_0x0gOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0PWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0NKigol = _0x0PWagGago(_0x0uMamaMoBlue, _0x0jDiKanaNiyaMahal);
+													_0x0tTerrorist = _0x0gOhab[_0x0NKigol];
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0tTerrorist];
+													_0x0mWagGago = { _0x0nBakla(_0x0JBILAT) };
+													_0x0TBible = {
+															_0x0oUrMom,
+															_0x0EOhab,
+															_0x0vGay,
+															_0x0aUrMom,
+															_0x0VBakla(_0x0mWagGago),
+														};
+													_0x0EOhab = _0x0sPaasa;
+													_0x0aUrMom = _0x0SMamaMoBlue(187814 + -183974);
+													_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+													_0x0oUrMom = _0x0vGay;
+													_0x0sPaasa = _0x0vGay and -465313 + (8710454 - (-242135 + 287634)) or 831383 + (-616763 + 2988436);
 												else
-													_0x0TRespect = _0x0HKigol((564820 - (-1368702 - (-461752 + -542740))) + -978339);
-													_0x0MTUBOL = ((-536554 + 1052661) + 25481665717156) - 808836;
-													_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-													_0x0lNigger = _0x0HKigol(-609204 + (922571 - 362575));
-													_0x0kPlsNo = _0x0BBible[_0x0ILove];
-													_0x0uBrainDamage = _0x0BBible[_0x0RBible];
-													_0x0tBILAT = _0x0uBrainDamage(_0x0lNigger, _0x0MTUBOL);
-													_0x0EDiKanaNiyaMahal = (-6130 + (-288317 - 658068)) + (5600917 - ((1122985 - (-524602)) - (1572148 - 539165)));
-													_0x0NTanginaMoCge = _0x0kPlsNo[_0x0tBILAT];
-													_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0KRomans12_19);
+													_0x0sPaasa = _0x0gOhab;
+													_0x0sPaasa = _0x0tTerrorist and -993908 - (-1204009 - (-202492)) or 5331458 - (-840327);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (877680 + -1697543) + 8314071 then
-													_0x0EDiKanaNiyaMahal = _0x0SPlsNo;
-													_0x0XBILAT = _0x0LSkilliSSUE;
-													_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE and 9686897 - 769612 or 3319916 - (200277 + 697662);
+												if _0x0sPaasa < -280061 + (8339257 - 310846) then
+													_0x0sPaasa = _0x0tTerrorist;
+													_0x0sPaasa = _0x0mWagGago and ((-6257 - 321895) - (-5536 - 80433)) + 13243993 or 109017 + ((-173472 + 757756) + 4211633);
 												else
-													_0x0eTerrorist, _0x0gDick = _0x0iFallenPartsDestroyHeight(_0x0JMeow, _0x0eTerrorist);
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist and -240506 + 15576405 or (-749313 + 5409013) - (-77826);
+													_0x0OTerrorist = _0x0KTanginaMoCge;
+													_0x0sPaasa = _0x0pSINGIT;
+													_0x0sPaasa = (3294988 - 861084) - (-955976 - (-310994));
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < -963822 + 8950354 then
-										if _0x0EDiKanaNiyaMahal < -902441 + ((-101426 + (-1163193 - (-522812))) + 9423823) then
-											if _0x0EDiKanaNiyaMahal < (306164 - 1023525) + 8346308 then
-												if _0x0EDiKanaNiyaMahal < (-832963 + 9182528) - 762768 then
-													if _0x0EDiKanaNiyaMahal < 6628221 - (-935087) then
-														_0x0QMeow = _0x0HKigol((-912166 - (798357 + -1476257)) - ((-370581 + -396630) + 582292));
-														_0x0KRomans12_19 = _0x0HKigol(-965963 - (-645306 - ((-1509858 - (-818468)) - (-343022 - (591974 + 27743)))));
-														_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-														_0x0hRespect = _0x0BBible[_0x0ILove];
-														_0x0fPaasa = _0x0BBible[_0x0RBible];
-														_0x0vGay = -236483 + 29703486809264;
-														_0x0CKigol = _0x0fPaasa(_0x0KRomans12_19, _0x0vGay);
-														_0x0QMeow = _0x0hRespect[_0x0CKigol];
-														_0x0EDiKanaNiyaMahal = (329199 - 737513) + 7898723;
-														_0x0oSkidDetected = _0x0rBILAT[_0x0QMeow];
-														_0x0LSkilliSSUE = _0x0oSkidDetected;
+									if _0x0sPaasa < 231455 + ((321508 + -1284800) + 8749433) then
+										if _0x0sPaasa < 7009494 - (-985338) then
+											if _0x0sPaasa < 8252141 - 278573 then
+												if _0x0sPaasa < 7141641 - (-724824) then
+													if _0x0sPaasa < 8106880 - 286249 then
+														_0x0TBible = _0x0SMamaMoBlue((336714 + -86427) - 246387);
+														_0x0sPaasa = (273862 - 878515) + (-768048 + 12433727);
+														_0x0WNigaBytes = _0x0sSINGIT[_0x0TBible];
+														_0x0ASkilliSSUE = _0x0bLove(_0x0WNigaBytes);
+														_0x0LTFYouLookingAt = _0x0ASkilliSSUE;
 													else
-														_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight;
-														_0x0ILove = _0x0EDiKanaNiyaMahal;
-														_0x0EDiKanaNiyaMahal = -429354 + 497544;
+														_0x0qTFYouLookingAt = _0x0SMamaMoBlue(-249033 + 252919);
+														_0x0jDiKanaNiyaMahal = _0x0sSINGIT[_0x0qTFYouLookingAt];
+														_0x0uMamaMoBlue = _0x0SMamaMoBlue(-606058 + (575118 + (479305 + (255174 + -699540))));
+														_0x0XTanginaMoCge = _0x0SMamaMoBlue(-87564 + (-930796 - (-1022275)));
+														_0x0lBible = _0x0sSINGIT[_0x0XTanginaMoCge];
+														_0x0XTanginaMoCge = { _0x0lBible() };
+														_0x0lBible = _0x0SMamaMoBlue(-709200 - (-713108));
+														_0x0uMamaMoBlue = _0x0EOhab[_0x0uMamaMoBlue];
+														_0x0sPaasa = (-825606 + 9495708) - ((-1081142 - (-832946)) + 812261);
+														_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0VBakla(_0x0XTanginaMoCge));
+														_0x0lBible = _0x0qTFYouLookingAt[_0x0lBible];
+														_0x0jDiKanaNiyaMahal = { _0x0lBible(_0x0qTFYouLookingAt) };
+														_0x0uMamaMoBlue = _0x0uMamaMoBlue(_0x0EOhab, _0x0VBakla(_0x0jDiKanaNiyaMahal));
+														_0x0PWagGago = _0x0uMamaMoBlue;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0gDick and 17579366 - 988073 or -487986 + 12862075;
+													_0x0sPaasa = _0x0nBakla;
+													_0x0WNigaBytes = not _0x0TBible;
+													_0x0sPaasa = 231265 + 8432610;
+													_0x0ASkilliSSUE = _0x0WNigaBytes;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (((-1834230 - (-927371 + 116345)) + 8578436) - ((-540456 - (622695 + -792958)) - (-227174))) - 46045 then
-													_0x0mFallenPartsDestroyHeight = _0x0HKigol(758753 - 807897);
-													_0x0XBILAT = _0x0ETUBOL[_0x0mFallenPartsDestroyHeight];
-													_0x0EDiKanaNiyaMahal = (14202051 - (-905679)) - (-395112);
-													_0x0VDick = _0x0XBILAT;
+												if _0x0sPaasa < 8481139 - 489369 then
+													_0x0YBible = nil;
+													_0x0GPlsNo = {};
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(1021181 - 1017387)];
+													_0x0DSINGIT = nil;
 												else
-													_0x0NTanginaMoCge = _0x0HKigol((-67129 + (((-1486306 - (-965802)) - 439700) + 931673)) - (-46351));
-													_0x0KRomans12_19 = _0x0ETUBOL[_0x0NTanginaMoCge];
-													_0x0UBoo = (171299 + 9018614793202) - (-864251);
-													_0x0tBILAT = _0x0BBible[_0x0bTerrorist[((-523014 - (-29257 - ((1740990 - ((573287 + -158606) - (-631568))) - 768796))) + (2013691 - 510468)) - 935410]];
-													_0x0pUrMom = _0x0HKigol((278677 - (-717322)) + -1045211);
-													_0x0dMeow = 34918526590829 - (-773479);
-													_0x0lNigger = _0x0BBible[_0x0bTerrorist[-754127 + (-457345 + 1211474)]];
-													_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-													_0x0GMamaMoBlue = _0x0HKigol((1943430 - 977649) - (1094851 - (-530811 - (-610644))));
-													_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-													_0x0MTUBOL = _0x0BBible[_0x0bTerrorist[924348 + -924347]];
-													_0x0pUrMom = _0x0BBible[_0x0bTerrorist[423309 - (((976388 + -403600) + -574400) + (1014290 + -589371))]];
-													_0x0UBoo = _0x0pUrMom(_0x0GMamaMoBlue, _0x0dMeow);
-													_0x0lNigger = _0x0MTUBOL[_0x0UBoo];
-													_0x0UBoo = _0x0HKigol(1033020 + (-971405 + -110895));
-													_0x0GMamaMoBlue = (951332 + 6019856517302) - (-752385);
-													_0x0tBILAT = _0x0TRespect .. _0x0lNigger;
-													_0x0kPlsNo = _0x0uBrainDamage .. _0x0tBILAT;
-													_0x0EDiKanaNiyaMahal = 6523812 - 52790;
-													_0x0lNigger = _0x0BBible[_0x0bTerrorist[((((430400 + -1317496) + (2248319 - 765611)) - 214414) - (-346924)) + -728121]];
-													_0x0MTUBOL = _0x0BBible[_0x0bTerrorist[571259 - 571257]];
-													_0x0pUrMom = _0x0MTUBOL(_0x0UBoo, _0x0GMamaMoBlue);
-													_0x0tBILAT = _0x0lNigger[_0x0pUrMom];
-													_0x0uBrainDamage = _0x0oSkidDetected[_0x0tBILAT];
-													_0x0lNigger = _0x0HKigol(((-901555 - (-806030 - (532029 + -974589))) - (-429618)) + 59072);
-													_0x0lNigger = _0x0oSkidDetected[_0x0lNigger];
-													_0x0tBILAT = { _0x0lNigger(_0x0oSkidDetected) };
-													_0x0NTanginaMoCge = _0x0KRomans12_19(_0x0kPlsNo, _0x0uBrainDamage, _0x0bMamaMoBlue(_0x0tBILAT));
+													_0x0LTFYouLookingAt = (445830 - (-210122)) + 31211343951162;
+													_0x0MFallenPartsDestroyHeight = _0x0GPlsNo;
+													_0x0pSINGIT = _0x0SMamaMoBlue((-225868 - ((-131430 + 1554883) - 1018349)) + (495007 - ((-473154 + 757264) - 424094)));
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[(396905 - 48058) + (-146820 + -202026)]];
+													_0x0OTerrorist = _0x0MRomans12_19[_0x0VTUBOL[578089 - 578087]];
+													_0x0KTanginaMoCge = _0x0OTerrorist(_0x0pSINGIT, _0x0LTFYouLookingAt);
+													_0x0bLove = _0x0ZIveDoneNothing[_0x0KTanginaMoCge];
+													_0x0HGay = _0x0BTanginaMoCge[_0x0bLove];
+													_0x0GPlsNo = _0x0HGay;
+													_0x0sPaasa = _0x0HGay and -923351 + 7846268 or (44213 + 560610) + ((((963581 + -536457) + -138036) + 360952) + (494509 + (2079258 - 1035001)));
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (9457345 - 1031797) - 518598 then
-												if _0x0EDiKanaNiyaMahal < 137447 + (8585431 - 891400) then
-													_0x0rBILAT = _0x0BBible[_0x0bTerrorist[(-1696932 - (-997127)) + 699809]];
-													_0x0NTanginaMoCge = _0x0HKigol(168831 - 218205);
-													_0x0KRomans12_19 = _0x0BBible[_0x0bTerrorist[312132 + (362240 - 674371)]];
-													_0x0EDiKanaNiyaMahal = 3712003 - 669168;
-													_0x0kPlsNo = 472834 + (125738 + 19563152265698);
-													_0x0vGay = _0x0BBible[_0x0bTerrorist[-224423 - (-993930 + 769505)]];
-													_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-													_0x0fPaasa = _0x0KRomans12_19[_0x0TRespect];
-													_0x0hRespect = _0x0iFallenPartsDestroyHeight[_0x0fPaasa];
-													_0x0QMeow = _0x0rBILAT(_0x0hRespect);
-													_0x0oSkidDetected = not _0x0QMeow;
-													_0x0XBILAT = _0x0oSkidDetected;
+											if _0x0sPaasa < -1001448 + 9006523 then
+												if _0x0sPaasa < 8587159 - 590050 then
+													_0x0vGay = _0x0SMamaMoBlue(920972 + -916956);
+													_0x0ASkilliSSUE = _0x0bBoo();
+													_0x0aUrMom = 20691474011345 - 142913;
+													_0x0WNigaBytes = {};
+													_0x0MRomans12_19[_0x0ASkilliSSUE] = _0x0LTFYouLookingAt;
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue(201522 + -197671);
+													_0x0sPaasa = _0x0sSINGIT[_0x0LTFYouLookingAt];
+													_0x0oUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0EOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0ISkilliSSUE = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+													_0x0nBakla = _0x0oUrMom[_0x0ISkilliSSUE];
+													_0x0oUrMom = _0x0TPlsNo(-938978 + (-31953 + 12248826), { _0x0ASkilliSSUE, _0x0BTanginaMoCge, _0x0YBible });
+													_0x0TBible = { [_0x0nBakla] = _0x0oUrMom };
+													_0x0LTFYouLookingAt = _0x0sPaasa(_0x0WNigaBytes, _0x0TBible);
+													_0x0WNigaBytes = _0x0SMamaMoBlue(765026 + -761177);
+													_0x0EOhab = _0x0SMamaMoBlue((-591217 - ((82098 + -910079) + 494519)) - (-261634));
+													_0x0sPaasa = _0x0sSINGIT[_0x0WNigaBytes];
+													_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+													_0x0EOhab = { _0x0oUrMom() };
+													_0x0oUrMom = { _0x0sPaasa(_0x0VBakla(_0x0EOhab)) };
+													_0x0WNigaBytes = _0x0oUrMom[(-116816 - 292923) + (457425 - 47685)];
+													_0x0TBible = _0x0oUrMom[-322642 - (-322644)];
+													_0x0nBakla = _0x0oUrMom[(-923448 + 279627) + 643824];
+													_0x0sPaasa = (-71276 + -199021) + 4671579;
 												else
-													_0x0QMeow = 309471 - 309470;
-													_0x0SPlsNo = #_0x0LSkilliSSUE;
-													_0x0ZSkilliSSUE = 455311 - 455310;
-													_0x0EDiKanaNiyaMahal = _0x0OTerrorist(_0x0ZSkilliSSUE, _0x0SPlsNo);
-													_0x0SPlsNo = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0JMeow(_0x0LSkilliSSUE, _0x0SPlsNo);
-													_0x0oSkidDetected = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0BBible[_0x0XBILAT];
-													_0x0rBILAT = _0x0oSkidDetected - _0x0QMeow;
-													_0x0ZSkilliSSUE = _0x0eTerrorist(_0x0rBILAT);
-													_0x0EDiKanaNiyaMahal[_0x0oSkidDetected] = _0x0ZSkilliSSUE;
-													_0x0oSkidDetected = nil;
-													_0x0EDiKanaNiyaMahal = -55790 + 16705340;
-													_0x0SPlsNo = nil;
+													_0x0sPaasa = _0x0bLove and 9618980 - (-609474) or ((279892 + 9327122) - (-571786)) - 489406;
+													_0x0pSINGIT = _0x0bLove;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 8318580 - (-241191 + ((1382543 - 335284) - 435132)) then
-													_0x0CKigol = _0x0vGay;
-													_0x0EDiKanaNiyaMahal = _0x0TRespect;
-													_0x0EDiKanaNiyaMahal = 10569228 - 885747;
+												if _0x0sPaasa < -254193 + (529544 + 7739698) then
+													_0x0gOhab = _0x0SMamaMoBlue((132170 + 48664) - 176959);
+													_0x0mWagGago = _0x0SMamaMoBlue((-26107 - 76941) - (-107100));
+													_0x0oUrMom = _0x0WWagGago((338039 - (-523407)) + (9738173 - (-539491)), { _0x0BTanginaMoCge, _0x0YBible });
+													_0x0PWagGago = 4895 + ((6769321984530 - 933318) - (-151751));
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0gOhab = _0x0SMamaMoBlue((1637198 - ((-687733 + ((1040283 + (365385 + ((-16983 - (-1035126)) + -2646313))) + 2675679)) - ((-986081 + 567193) + (735052 - (-756758 - (-250714)))))) - 689988);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0PWagGago = 6174983474799 - (82712 - 158207);
+													_0x0vGay = _0x0aUrMom[_0x0mWagGago];
+													_0x0aUrMom = _0x0SMamaMoBlue((-1006776 + (156155 + 507231)) - (-347261));
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0aUrMom = _0x0vGay[_0x0aUrMom];
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0aUrMom = _0x0aUrMom(_0x0vGay, _0x0mWagGago);
+													_0x0sPaasa = _0x0aUrMom and 9367049 - (-942040) or 336677 + 6552794;
 												else
-													_0x0pUrMom = _0x0HKigol(267568 - (-145475 - (-462381)));
-													_0x0EDiKanaNiyaMahal = 917404 + ((499128 - (-558177)) - (-64634));
-													_0x0MTUBOL = _0x0ETUBOL[_0x0pUrMom];
-													_0x0lNigger = _0x0HKigol((((-323149 + 1893200) - 995433) - (-314306)) - (-415809 + 1354092));
-													_0x0GMamaMoBlue = _0x0HKigol(-226097 + 176774);
-													_0x0UBoo = _0x0ETUBOL[_0x0GMamaMoBlue];
-													_0x0GMamaMoBlue = { _0x0UBoo() };
-													_0x0pUrMom = _0x0MTUBOL(_0x0bMamaMoBlue(_0x0GMamaMoBlue));
-													_0x0lNigger = _0x0QMeow[_0x0lNigger];
-													_0x0UBoo = _0x0HKigol(393397 + -442804);
-													_0x0UBoo = _0x0pUrMom[_0x0UBoo];
-													_0x0MTUBOL = { _0x0UBoo(_0x0pUrMom) };
-													_0x0lNigger = _0x0lNigger(_0x0QMeow, _0x0bMamaMoBlue(_0x0MTUBOL));
-													_0x0uBrainDamage = _0x0lNigger;
+													_0x0sPaasa = 355900 + (((-930901 + (1570901 - (888191 + -981184))) + 4153895) - (-370072 + -88748));
+													_0x0PWagGago = _0x0SMamaMoBlue(-777849 - (-781632));
+													_0x0NKigol = ((29403077232752 - (-814235)) - 893853) - (-630728);
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago, _0x0NKigol);
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0gOhab];
+													_0x0mWagGago = _0x0oUrMom == _0x0JBILAT;
+													_0x0vGay = _0x0mWagGago;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < -236199 + 8641293 then
-											if _0x0EDiKanaNiyaMahal < 7607346 - (-726671) then
-												if _0x0EDiKanaNiyaMahal < 8216537 - 29289 then
-													if _0x0EDiKanaNiyaMahal < (149948 + ((-3059208 - (-225042 - 762636)) - (-1034792))) + (1044661 + 7867128) then
-														_0x0LSkilliSSUE = _0x0BBible[_0x0bTerrorist[-499665 - (-499668)]];
-														_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE[_0x0gDick];
-														_0x0EDiKanaNiyaMahal = not _0x0mFallenPartsDestroyHeight;
-														_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and 2358023 - (-513972 - (-621731)) or (5641242 - (-1685776 - (-770903))) - ((1919221 - 942800) - (-52608));
+										if _0x0sPaasa < (7254182 - (-575806)) - (-926903 + 627382) then
+											if _0x0sPaasa < 8622488 - 498855 then
+												if _0x0sPaasa < 597908 + 7500910 then
+													if _0x0sPaasa < -339337 + 8396350 then
+														_0x0rIveDoneNothing = 23204530576666 - 620471;
+														_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[(-932655 + 668877) - (-263779)]];
+														_0x0JBILAT = _0x0SMamaMoBlue(589904 + -586124);
+														_0x0EOhab = _0x0SMamaMoBlue(624011 + -620208);
+														_0x0aUrMom = _0x0MRomans12_19[_0x0VTUBOL[326249 - (-379724 + 705971)]];
+														_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+														_0x0ISkilliSSUE = _0x0vGay[_0x0mWagGago];
+														_0x0EOhab = _0x0nBakla[_0x0EOhab];
+														_0x0EOhab = _0x0EOhab(_0x0nBakla, _0x0ISkilliSSUE);
+														_0x0sPaasa = _0x0EOhab and 10548781 - (-936730) or 815344 + (7517463 - 842582);
+														_0x0oUrMom = _0x0EOhab;
 													else
-														_0x0mFallenPartsDestroyHeight = _0x0eTerrorist(_0x0gDick);
-														_0x0EDiKanaNiyaMahal = (11144846 - (-168890 - (88338 - 789065))) - (-470032 + 360481);
-														_0x0XBILAT = _0x0mFallenPartsDestroyHeight;
+														_0x0sPaasa = _0x0rIveDoneNothing;
+														_0x0sPaasa = _0x0JBILAT and 1870727 - 267610 or 1025419 + (10652748 - ((-324028 - (-661959)) - (-53270 + -154840)));
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = 701772 + 15218977;
-													_0x0kPlsNo = _0x0HKigol((179119 - (-375238)) + -603578);
-													_0x0kPlsNo = _0x0oSkidDetected[_0x0kPlsNo];
-													_0x0kPlsNo = _0x0kPlsNo(_0x0oSkidDetected, _0x0RBible);
-													_0x0KRomans12_19 = _0x0kPlsNo;
+													_0x0tTerrorist = _0x0PWagGago;
+													_0x0sPaasa = _0x0NKigol;
+													_0x0sPaasa = (387099 + -1330523) + (-460742 + (3887483 - (-972069)));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 47419 + 8298521 then
-													_0x0SPlsNo = _0x0ILove[_0x0VDick];
-													_0x0LSkilliSSUE = _0x0SPlsNo ~= _0x0gDick;
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE;
-													_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE and (14011657 - 59747) - 974353 or (-1345564 - (352850 + ((237309 + ((-384409 + 371105) - (375146 + ((-1260455 - (135909 + -460032)) - (896112 + -1051307))))) + -1784136))) + 5675850;
+												if _0x0sPaasa < 7653705 - (-473931) then
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(-467765 - (427580 - 899267));
+													_0x0tTerrorist = _0x0SMamaMoBlue(-575263 - (643197 + (674104 + -1896428)));
+													_0x0rIveDoneNothing = _0x0sSINGIT[_0x0tTerrorist];
+													_0x0jDiKanaNiyaMahal = (((-520865 - (-14554)) + 1153685) + 19378812725306) - (-1017822);
+													_0x0gOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0PWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0NKigol = _0x0PWagGago(_0x0uMamaMoBlue, _0x0jDiKanaNiyaMahal);
+													_0x0tTerrorist = _0x0gOhab[_0x0NKigol];
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0tTerrorist];
+													_0x0aUrMom = _0x0JBILAT;
+													_0x0sPaasa = 625166 + (5382920 - (715047 - 355168));
 												else
-													_0x0CKigol = _0x0iFallenPartsDestroyHeight;
-													_0x0RBible = _0x0CKigol;
-													_0x0EDiKanaNiyaMahal = -787319 + (797031 + (-281094 + 339572));
+													_0x0EOhab = _0x0SMamaMoBlue(((-573371 - ((-219138 + 627086) + ((761678 + (-451009 - 760933)) + -899734))) + -141832) - (-921142 + 1144087));
+													_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+													_0x0nBakla = _0x0sPaasa;
+													_0x0TBible = _0x0oUrMom;
+													_0x0sPaasa = _0x0oUrMom and ((-226766 + 1064636) - 257122) + 8346917 or (766591 + (502180 + -793630)) + 3467416;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 7845522 - (-697475) then
-												if _0x0EDiKanaNiyaMahal < 8659725 - 140746 then
-													_0x0EDiKanaNiyaMahal = _0x0TRespect;
-													_0x0EDiKanaNiyaMahal = _0x0vGay and 48383 + 10919568 or 563076 + 11271095;
+											if _0x0sPaasa < 8622670 - 435969 then
+												if _0x0sPaasa < 8234156 - 99622 then
+													_0x0sPaasa = _0x0GPlsNo and 10400470 - (-840860) or 12402606 - (763660 - (489497 - (((-641823 + -347867) + 1974761) - (-131664 - (-597572)))));
 												else
-													_0x0QMeow = _0x0HKigol(-504288 + 455145);
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0SPlsNo = _0x0rBILAT;
-													_0x0oSkidDetected = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT and -972906 + 12739759 or -1023049 + 14408612;
+													_0x0WNigaBytes, _0x0nBakla = _0x0LTFYouLookingAt(_0x0ASkilliSSUE, _0x0WNigaBytes);
+													_0x0sPaasa = _0x0WNigaBytes and 1238388 - (-63791) or (-842120 + 11844422) - 831822;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 8826490 - (597916 - ((((350886 - 976603) - (-1042446)) + (-1096634 - (((619501 - 528772) + (-452006 - (((-827240 + 2437714) - (-519335 + 1104112)) + -1369561))) + 230634))) + 1223143)) then
-													_0x0kPlsNo = _0x0HKigol(886764 - (-502185 + 1438113));
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0uBrainDamage = (-75726 + 6250574982932) - (675459 - ((-391300 + 925924) + (-152419 - 685424)));
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0CKigol = _0x0XBILAT(_0x0KRomans12_19);
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0uBrainDamage = (-497119 + (2273822 - 941826)) + 26475400196786;
-													_0x0kPlsNo = _0x0HKigol((-1530100 - (-1039122)) + (((-1906772 - (-1012117)) + 1509830) + (697381 - ((1030910 + -2042911) + 1882985))));
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0EDiKanaNiyaMahal = -566513 + 14252224;
-													_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0fPaasa = _0x0CKigol[_0x0KRomans12_19];
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0kPlsNo = _0x0HKigol(-710919 + 661655);
-													_0x0CKigol = _0x0HKigol(735746 + -785025);
-													_0x0CKigol = _0x0fPaasa[_0x0CKigol];
-													_0x0uBrainDamage = (325898 + 5653833346190) - (-579813);
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0CKigol = _0x0CKigol(_0x0fPaasa, _0x0KRomans12_19);
-													_0x0CKigol = _0x0HKigol(908541 + -957942);
-													_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-													_0x0CKigol = _0x0HKigol(749637 - 798860);
-													_0x0CKigol = _0x0fPaasa[_0x0CKigol];
-													_0x0CKigol = _0x0CKigol(_0x0fPaasa);
+												if _0x0sPaasa < 8946842 - 721364 then
+													_0x0mWagGago = _0x0SMamaMoBlue(775478 - 771638);
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = 607151 + (-1048232 + (12955119915890 - 422814));
+													_0x0sPaasa = -428314 + 3631370;
+													_0x0gOhab = _0x0SMamaMoBlue(676407 - (-230949 - (-903410)));
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0vGay = _0x0aUrMom[_0x0mWagGago];
+													_0x0oUrMom = _0x0vGay;
 												else
-													_0x0XBILAT = _0x0HKigol(1036192 + -1085501);
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0XBILAT];
-													_0x0XBILAT = _0x0EDiKanaNiyaMahal(_0x0BTerrorist, _0x0gDick);
-													_0x0EDiKanaNiyaMahal = 1037880 + 8518571;
+													_0x0GPlsNo = {};
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(-16161 - (-20085))];
 												end;
 											end;
 										end;
@@ -5957,1032 +5921,848 @@ return (function(...)
 							end;
 						end;
 					else
-						if _0x0EDiKanaNiyaMahal < 11312587 - (-1031446) then
-							if _0x0EDiKanaNiyaMahal < 8941174 - (-1048111) then
-								if _0x0EDiKanaNiyaMahal < 613681 + 8661779 then
-									if _0x0EDiKanaNiyaMahal < 257963 + 8645161 then
-										if _0x0EDiKanaNiyaMahal < 40697 + (9647520 - 940070) then
-											if _0x0EDiKanaNiyaMahal < 465104 + 8234380 then
-												if _0x0EDiKanaNiyaMahal < 921047 + 7766030 then
-													if _0x0EDiKanaNiyaMahal < 8416200 - (391462 - 644563) then
-														_0x0EDiKanaNiyaMahal = (932482 + 11704668) - 263061;
-														_0x0gDick = nil;
+						if _0x0sPaasa < 13318049 - 386574 then
+							if _0x0sPaasa < 10822849 - (-112965) then
+								if _0x0sPaasa < -196797 + 10012957 then
+									if _0x0sPaasa < 9916734 - 520171 then
+										if _0x0sPaasa < (((-1499130 - ((943422 + -708128) - ((2281832 - 520001) - ((((775899 - 154026) + ((-785805 + 762454) - 931471)) + 791695) + 366617)))) + 1033281) + (8648945 - (205694 - (269066 + -571170)))) - (846178 + -1141555) then
+											if _0x0sPaasa < 8172448 - (-355563) then
+												if _0x0sPaasa < 8885393 - (((926322 + (-1222664 - ((106755 + -24495) - (-488181)))) + 323752) + 919166) then
+													if _0x0sPaasa < 999502 + ((-718424 + 1606346) + 6568289) then
+														_0x0WNigaBytes = _0x0SMamaMoBlue(515732 + -511825);
+														_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+														_0x0sPaasa = _0x0ASkilliSSUE and 265300 + 7730108 or 811364 + 11491789;
+														_0x0LTFYouLookingAt = _0x0ASkilliSSUE;
 													else
-														_0x0UBoo = -592496 + 33032573657512;
-														_0x0fPaasa = _0x0BBible[_0x0ILove];
-														_0x0uBrainDamage = (340809 + 7009730377028) - (-864040);
-														_0x0TRespect = 13689781546411 - (-347804 + ((-722518 + (645549 - 10989)) - (-522711)));
-														_0x0CKigol = _0x0BBible[_0x0RBible];
-														_0x0vGay = _0x0HKigol((685013 + (-252165 + -208269)) + -273797);
-														_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-														_0x0QMeow = _0x0fPaasa[_0x0KRomans12_19];
-														_0x0CKigol = _0x0BBible[_0x0ILove];
-														_0x0NTanginaMoCge = 9038773027142 - 273680;
-														_0x0TRespect = _0x0HKigol(-808461 - (-759104));
-														_0x0KRomans12_19 = _0x0BBible[_0x0RBible];
-														_0x0kPlsNo = 14896212688223 - 624564;
-														_0x0vGay = _0x0KRomans12_19(_0x0TRespect, _0x0NTanginaMoCge);
-														_0x0fPaasa = _0x0CKigol[_0x0vGay];
-														_0x0tBILAT = -783960 + (-970386 + 32161727607851);
-														_0x0KRomans12_19 = _0x0BBible[_0x0ILove];
-														_0x0lNigger = 795886 + 6568494748610;
-														_0x0NTanginaMoCge = _0x0HKigol(((664707 - 665733) - 480036) + 431845);
-														_0x0vGay = _0x0BBible[_0x0RBible];
-														_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-														_0x0GMamaMoBlue = (885519 - 524828) + ((-38968 + 32771031965654) - ((((-722892 + 1421787) - (-59309 - (-306575))) - (-1558828 - (-1004900))) - (483403 + -73597)));
-														_0x0CKigol = _0x0KRomans12_19[_0x0TRespect];
-														_0x0vGay = _0x0BBible[_0x0ILove];
-														_0x0kPlsNo = _0x0HKigol(696920 + (624160 + -1370455));
-														_0x0TRespect = _0x0BBible[_0x0RBible];
-														_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-														_0x0uBrainDamage = _0x0HKigol((86969 + -675646) + 539515);
-														_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-														_0x0TRespect = _0x0BBible[_0x0ILove];
-														_0x0NTanginaMoCge = _0x0BBible[_0x0RBible];
-														_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage, _0x0tBILAT);
-														_0x0MTUBOL = 1027941 + 1315335928446;
-														_0x0pUrMom = 31542863762353 - (-865986);
-														_0x0tBILAT = _0x0HKigol(470125 + -519536);
-														_0x0vGay = _0x0TRespect[_0x0kPlsNo];
-														_0x0NTanginaMoCge = _0x0BBible[_0x0ILove];
-														_0x0kPlsNo = _0x0BBible[_0x0RBible];
-														_0x0uBrainDamage = _0x0kPlsNo(_0x0tBILAT, _0x0lNigger);
-														_0x0TRespect = _0x0NTanginaMoCge[_0x0uBrainDamage];
-														_0x0kPlsNo = _0x0BBible[_0x0ILove];
-														_0x0lNigger = _0x0HKigol((((-92819 + (878878 - (381951 + ((-311463 + (((913869 + -1102032) - (-728849)) + 653142)) + -600461)))) - ((-286663 + -516724) - (130281 - 816164))) - 423132) + (-668510 + ((((512086 - (-412351)) + -1428011) + ((-405944 + (((((834893 + -2123297) - ((208802 - (-38740)) - 714902)) + 1226525) - 353296) - 42952)) - (-708898))) - (-993957))));
-														_0x0uBrainDamage = _0x0BBible[_0x0RBible];
-														_0x0tBILAT = _0x0uBrainDamage(_0x0lNigger, _0x0MTUBOL);
-														_0x0NTanginaMoCge = _0x0kPlsNo[_0x0tBILAT];
-														_0x0MTUBOL = _0x0HKigol((936369 - 539537) + -446199);
-														_0x0zBAYOT = 1424805614520 - (-962653 + 304453);
-														_0x0uBrainDamage = _0x0BBible[_0x0ILove];
-														_0x0tBILAT = _0x0BBible[_0x0RBible];
-														_0x0lNigger = _0x0tBILAT(_0x0MTUBOL, _0x0pUrMom);
-														_0x0dMeow = (535230 - 665394) + 21519345248124;
-														_0x0pUrMom = _0x0HKigol(-619109 + (1487452 - 917634));
-														_0x0kPlsNo = _0x0uBrainDamage[_0x0lNigger];
-														_0x0tBILAT = _0x0BBible[_0x0ILove];
-														_0x0lNigger = _0x0BBible[_0x0RBible];
-														_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-														_0x0UBoo = _0x0HKigol(-859902 - (-810541));
-														_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-														_0x0wTanginaMoCge = 24052460764610 - (-186202);
-														_0x0lNigger = _0x0BBible[_0x0ILove];
-														_0x0MTUBOL = _0x0BBible[_0x0RBible];
-														_0x0pUrMom = _0x0MTUBOL(_0x0UBoo, _0x0GMamaMoBlue);
-														_0x0GMamaMoBlue = _0x0HKigol((-555086 - (-883983)) - 378217);
-														_0x0tBILAT = _0x0lNigger[_0x0pUrMom];
-														_0x0MTUBOL = _0x0BBible[_0x0ILove];
-														_0x0pUrMom = _0x0BBible[_0x0RBible];
-														_0x0UBoo = _0x0pUrMom(_0x0GMamaMoBlue, _0x0dMeow);
-														_0x0dMeow = _0x0HKigol(-651770 - (-602471));
-														_0x0lNigger = _0x0MTUBOL[_0x0UBoo];
-														_0x0pUrMom = _0x0BBible[_0x0ILove];
-														_0x0UBoo = _0x0BBible[_0x0RBible];
-														_0x0GMamaMoBlue = _0x0UBoo(_0x0dMeow, _0x0zBAYOT);
-														_0x0zBAYOT = _0x0HKigol(-901335 + 852082);
-														_0x0MTUBOL = _0x0pUrMom[_0x0GMamaMoBlue];
-														_0x0UBoo = _0x0BBible[_0x0ILove];
-														_0x0GMamaMoBlue = _0x0BBible[_0x0RBible];
-														_0x0dMeow = _0x0GMamaMoBlue(_0x0zBAYOT, _0x0wTanginaMoCge);
-														_0x0pUrMom = _0x0UBoo[_0x0dMeow];
-														_0x0rBILAT = {
-																_0x0QMeow,
-																_0x0fPaasa,
-																_0x0CKigol,
-																_0x0KRomans12_19,
-																_0x0vGay,
-																_0x0TRespect,
-																_0x0NTanginaMoCge,
-																_0x0kPlsNo,
-																_0x0uBrainDamage,
-																_0x0tBILAT,
-																_0x0lNigger,
-																_0x0MTUBOL,
-																_0x0pUrMom,
-															};
-														_0x0QMeow = _0x0JBakla();
-														_0x0BBible[_0x0QMeow] = _0x0rBILAT;
-														_0x0TRespect = _0x0HKigol(155752 - 205075);
-														_0x0NTanginaMoCge = _0x0HKigol(-800411 + (1502267 - 751167));
-														_0x0KRomans12_19 = _0x0HKigol(-341839 + 292501);
-														_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-														_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-														_0x0TRespect = { _0x0vGay() };
-														_0x0kPlsNo = 17594207148244 - ((271425 + (-276395 + -282155)) + 62072);
-														_0x0KRomans12_19 = _0x0CKigol(_0x0bMamaMoBlue(_0x0TRespect));
-														_0x0fPaasa = not _0x0KRomans12_19;
-														_0x0KRomans12_19 = _0x0BBible[_0x0ILove];
-														_0x0vGay = _0x0BBible[_0x0RBible];
-														_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-														_0x0CKigol = _0x0KRomans12_19[_0x0TRespect];
-														_0x0rBILAT = _0x0fPaasa == _0x0CKigol;
-														_0x0EDiKanaNiyaMahal = _0x0rBILAT and 6197939 - 453940 or 723873 + 3486893;
+														_0x0pSINGIT = nil;
+														_0x0KTanginaMoCge = nil;
+														_0x0sPaasa = 628860 + (3554332 - 964400);
+														_0x0OTerrorist = nil;
+														_0x0ZIveDoneNothing = nil;
 													end;
 												else
-													_0x0QMeow = _0x0HKigol(18092 + -67264);
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0hRespect = _0x0BBible[_0x0bTerrorist[-734450 + (264521 - (-469930))]];
-													_0x0KRomans12_19 = _0x0HKigol(-1001675 - (-952481));
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[472133 - 472131]];
-													_0x0vGay = (1034872 + 4905232979879) - (-182975);
-													_0x0CKigol = _0x0fPaasa(_0x0KRomans12_19, _0x0vGay);
-													_0x0QMeow = _0x0hRespect[_0x0CKigol];
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT[_0x0QMeow];
-													_0x0QMeow = .1;
-													_0x0rBILAT = _0x0EDiKanaNiyaMahal(_0x0QMeow);
-													_0x0EDiKanaNiyaMahal = 4384808 - (-962015);
+													_0x0HGay = -711824 + (-606238 + 35184373406894);
+													_0x0OTerrorist = _0x0SMamaMoBlue(127110 - 123150);
+													_0x0sPaasa = {};
+													_0x0MRomans12_19[_0x0VTUBOL[549129 - (160355 - ((303591 + -36859) - 655504))]] = _0x0sPaasa;
+													_0x0pSINGIT = (804853 + (34864 - 667290)) - 172426;
+													_0x0GPlsNo = _0x0MRomans12_19[_0x0VTUBOL[(132601 - (937474 + -746787)) - (-58089)]];
+													_0x0MFallenPartsDestroyHeight = _0x0GPlsNo;
+													_0x0ZIveDoneNothing = -899401 + 899656;
+													_0x0GPlsNo = _0x0YBible % _0x0HGay;
+													_0x0MRomans12_19[_0x0VTUBOL[598864 - 598860]] = _0x0GPlsNo;
+													_0x0LTFYouLookingAt = _0x0pSINGIT;
+													_0x0bLove = _0x0YBible % _0x0ZIveDoneNothing;
+													_0x0ZIveDoneNothing = -404409 + 404411;
+													_0x0HGay = _0x0bLove + _0x0ZIveDoneNothing;
+													_0x0MRomans12_19[_0x0VTUBOL[242701 - (1252390 - 1009694)]] = _0x0HGay;
+													_0x0ZIveDoneNothing = _0x0sSINGIT[_0x0OTerrorist];
+													_0x0OTerrorist = _0x0SMamaMoBlue(-706909 + 710777);
+													_0x0bLove = _0x0ZIveDoneNothing[_0x0OTerrorist];
+													_0x0ZIveDoneNothing = _0x0bLove(_0x0DSINGIT);
+													_0x0bLove = _0x0SMamaMoBlue((-188403 + 1178072) - 985676);
+													_0x0pSINGIT = 659849 - 659849;
+													_0x0BTanginaMoCge[_0x0YBible] = _0x0bLove;
+													_0x0bLove = (-236732 - ((781073 + (979753 + ((-2633291 - (-974896)) - (-196492)))) + 299025)) - (-14539 - ((-655163 + 1565032) - 89638));
+													_0x0sPaasa = 145998 + 3286272;
+													_0x0KTanginaMoCge = _0x0ZIveDoneNothing;
+													_0x0OTerrorist = 581371 - 581370;
+													_0x0ASkilliSSUE = _0x0LTFYouLookingAt < _0x0pSINGIT;
+													_0x0pSINGIT = _0x0OTerrorist - _0x0LTFYouLookingAt;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 8651835 - (956571 + (-858605 + -179079)) then
-													_0x0EDiKanaNiyaMahal = 2740712 - (1004226 - (((((-727447 + (740033 - (-622057))) - 36268) + -249263) - ((1194345 - (-510989)) - 1028448)) + (401705 - (-313320))));
-													_0x0XBILAT = nil;
-													_0x0gDick = nil;
+												if _0x0sPaasa < 8215542 - (-417441) then
+													_0x0JBILAT = _0x0ZIveDoneNothing(_0x0mWagGago);
+													_0x0sPaasa = 92071 + 2430509;
 												else
-													_0x0VDick = _0x0EDiKanaNiyaMahal;
-													_0x0XBILAT = _0x0HKigol(1017066 + -1066385);
-													_0x0gDick = _0x0ETUBOL[_0x0XBILAT];
-													_0x0iFallenPartsDestroyHeight = _0x0gDick;
-													_0x0EDiKanaNiyaMahal = _0x0gDick and 10580048 - (-789922) or 12403041 - 17654;
+													_0x0sPaasa = _0x0ASkilliSSUE and 9219074 - (-176338) or 1399395 - (860971 - 702018);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-912669 + 1477940) + ((8609485 - 893816) - (-554759)) then
-												if _0x0EDiKanaNiyaMahal < ((952289 - (-826366)) - 936796) + 7937252 then
-													if _0x0EDiKanaNiyaMahal < 961487 + 7812336 then
-														_0x0hRespect = _0x0CKigol;
-														_0x0EDiKanaNiyaMahal = _0x0KRomans12_19;
-														_0x0EDiKanaNiyaMahal = 652350 + 16083626;
+											if _0x0sPaasa < (8545011 - (-376172)) - (-168335) then
+												if _0x0sPaasa < (((765378 + 170622) + -2374222) - (-1773379 - (-935498))) + ((8140047 - (-631389)) - (-760814)) then
+													if _0x0sPaasa < (7741772 - (-687735)) - (-329815) then
+														_0x0KTanginaMoCge = _0x0pSINGIT;
+														_0x0sPaasa = _0x0LTFYouLookingAt;
+														_0x0sPaasa = 7502295 - (-495100);
 													else
-														_0x0iFallenPartsDestroyHeight = _0x0HKigol((-455483 + 201719) + 204564);
-														_0x0eTerrorist = _0x0ETUBOL[_0x0iFallenPartsDestroyHeight];
-														_0x0JMeow = _0x0eTerrorist;
-														_0x0EDiKanaNiyaMahal = _0x0eTerrorist and -173684 + 6710225 or 5041093 - (717150 + -1473810);
+														_0x0sPaasa = _0x0nBakla;
+														_0x0ASkilliSSUE = _0x0TBible;
+														_0x0sPaasa = -336661 + 5057628;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = (744245 + 13460724) - 167659;
+													_0x0NKigol = _0x0sPaasa;
+													_0x0jDiKanaNiyaMahal = _0x0SMamaMoBlue((835619 + -1435196) - (-1032530 - (-429038)));
+													_0x0uMamaMoBlue = _0x0sSINGIT[_0x0jDiKanaNiyaMahal];
+													_0x0PWagGago = _0x0uMamaMoBlue;
+													_0x0sPaasa = _0x0uMamaMoBlue and (7610491 - 281164) - (-509222) or -600471 + (-743526 + 9450034);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 9183746 - 290039 then
-													_0x0hRespect = _0x0HKigol(((-276645 - 291395) + 480662) + (-621776 + 659903));
-													_0x0VDick = -525715 + 15644692480436;
-													_0x0OTerrorist = _0x0BBible[_0x0ILove];
-													_0x0LSkilliSSUE = 332857 + 34067324241;
-													_0x0QMeow = 6708303224233 - 369260;
-													_0x0JMeow = _0x0BBible[_0x0RBible];
-													_0x0SPlsNo = _0x0HKigol(-283930 + 234788);
-													_0x0gDick = _0x0HKigol(-697186 - (-647981));
-													_0x0rBILAT = _0x0HKigol(-905757 + 856408);
-													_0x0iFallenPartsDestroyHeight = _0x0HKigol(545350 + -594749);
-													_0x0mFallenPartsDestroyHeight = _0x0HKigol(565991 + -615149);
-													_0x0KRomans12_19 = 22986998814341 - (-515651);
-													_0x0XBILAT = 4200248528021 - (-803200);
-													_0x0eTerrorist = _0x0JMeow(_0x0iFallenPartsDestroyHeight, _0x0VDick);
-													_0x0CKigol = _0x0HKigol(890936 + -940312);
-													_0x0BTerrorist = _0x0OTerrorist[_0x0eTerrorist];
-													_0x0oSkidDetected = (((943778 - ((703522 + -664822) + (180917 + -7477))) + -889052) + 274123) + (10172683770441 - (((1136648 - (((111863 - (-116127 + 649667)) + 543317) + (1154269 - 770245))) + ((-575414 - 314186) + -96101)) + -677932));
-													_0x0eTerrorist = _0x0BBible[_0x0ILove];
-													_0x0OTerrorist = true;
-													_0x0iFallenPartsDestroyHeight = _0x0BBible[_0x0RBible];
-													_0x0VDick = _0x0iFallenPartsDestroyHeight(_0x0gDick, _0x0XBILAT);
-													_0x0JMeow = _0x0eTerrorist[_0x0VDick];
-													_0x0eTerrorist = true;
-													_0x0VDick = _0x0BBible[_0x0ILove];
-													_0x0gDick = _0x0BBible[_0x0RBible];
-													_0x0fPaasa = 13245026668929 - (-543228 + -445353);
-													_0x0XBILAT = _0x0gDick(_0x0mFallenPartsDestroyHeight, _0x0LSkilliSSUE);
-													_0x0iFallenPartsDestroyHeight = _0x0VDick[_0x0XBILAT];
-													_0x0VDick = true;
-													_0x0XBILAT = _0x0BBible[_0x0ILove];
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0RBible];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0gDick = _0x0XBILAT[_0x0LSkilliSSUE];
-													_0x0LSkilliSSUE = _0x0BBible[_0x0ILove];
-													_0x0XBILAT = true;
-													_0x0SPlsNo = _0x0BBible[_0x0RBible];
-													_0x0oSkidDetected = _0x0SPlsNo(_0x0rBILAT, _0x0QMeow);
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE[_0x0oSkidDetected];
-													_0x0oSkidDetected = _0x0BBible[_0x0ILove];
-													_0x0LSkilliSSUE = true;
-													_0x0rBILAT = _0x0BBible[_0x0RBible];
-													_0x0QMeow = _0x0rBILAT(_0x0hRespect, _0x0fPaasa);
-													_0x0SPlsNo = _0x0oSkidDetected[_0x0QMeow];
-													_0x0oSkidDetected = true;
-													_0x0QMeow = _0x0BBible[_0x0ILove];
-													_0x0hRespect = _0x0BBible[_0x0RBible];
-													_0x0fPaasa = _0x0hRespect(_0x0CKigol, _0x0KRomans12_19);
-													_0x0rBILAT = _0x0QMeow[_0x0fPaasa];
-													_0x0QMeow = true;
-													_0x0EDiKanaNiyaMahal = {
-															[_0x0BTerrorist] = _0x0OTerrorist,
-															[_0x0JMeow] = _0x0eTerrorist,
-															[_0x0iFallenPartsDestroyHeight] = _0x0VDick,
-															[_0x0gDick] = _0x0XBILAT,
-															[_0x0mFallenPartsDestroyHeight] = _0x0LSkilliSSUE,
-															[_0x0SPlsNo] = _0x0oSkidDetected,
-															[_0x0rBILAT] = _0x0QMeow,
-														};
-													_0x0OTerrorist = _0x0HKigol(-150702 - (-499606 - (-398242)));
-													_0x0BTerrorist = _0x0EDiKanaNiyaMahal;
-													_0x0eTerrorist = _0x0HKigol(((-385934 + 328607) - (-182611)) + (-1033447 - (-858840)));
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0OTerrorist];
-													_0x0JMeow = _0x0ETUBOL[_0x0eTerrorist];
-													_0x0eTerrorist = { _0x0JMeow() };
-													_0x0OTerrorist = _0x0EDiKanaNiyaMahal(_0x0bMamaMoBlue(_0x0eTerrorist));
-													_0x0JMeow = _0x0BTerrorist[_0x0OTerrorist];
-													_0x0EDiKanaNiyaMahal = not _0x0JMeow;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and (-138510 + -595775) + 12348451 or 8026911 - (50997 + (408509 + ((667337 + -2262657) - (-93567 - 293435))));
+												if _0x0sPaasa < 9192536 - (-130543) then
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue(-536485 - (-540427));
+													_0x0pSINGIT = _0x0sPaasa;
+													_0x0LTFYouLookingAt = _0x0sSINGIT[_0x0ASkilliSSUE];
+													_0x0sPaasa = _0x0LTFYouLookingAt and 13397715 - 881732 or ((-1305997 - (-459956)) - (750622 + (-1263618 - (-206567)))) + 4835889;
+													_0x0KTanginaMoCge = _0x0LTFYouLookingAt;
 												else
-													_0x0gDick = _0x0VDick;
-													_0x0QMeow = _0x0HKigol(-113992 + 64588);
-													_0x0LSkilliSSUE = _0x0HKigol(352013 - 401220);
-													_0x0hRespect = -691105 + 3243813002105;
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0SPlsNo = _0x0BBible[_0x0ILove];
-													_0x0oSkidDetected = _0x0BBible[_0x0RBible];
-													_0x0rBILAT = _0x0oSkidDetected(_0x0QMeow, _0x0hRespect);
-													_0x0TRespect = 822096 + 10384633535177;
-													_0x0LSkilliSSUE = _0x0SPlsNo[_0x0rBILAT];
-													_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight[_0x0LSkilliSSUE];
-													_0x0oSkidDetected = _0x0BBible[_0x0ILove];
-													_0x0vGay = _0x0HKigol(112091 - (218330 + ((-960276 + 1809973) - (735041 - (((-73658 + -917017) + (1866376 - 933738)) - 113485)))));
-													_0x0rBILAT = _0x0BBible[_0x0RBible];
-													_0x0fPaasa = (5710 + 16560972723629) - (-738355);
-													_0x0uBrainDamage = -326158 + (2315411205940 - (-812525));
-													_0x0hRespect = _0x0HKigol(-889330 - (-840105));
-													_0x0QMeow = _0x0rBILAT(_0x0hRespect, _0x0fPaasa);
-													_0x0SPlsNo = _0x0oSkidDetected[_0x0QMeow];
-													_0x0QMeow = _0x0HKigol(96349 + -145687);
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0QMeow = _0x0rBILAT(_0x0gDick);
-													_0x0fPaasa = _0x0BBible[_0x0ILove];
-													_0x0CKigol = _0x0BBible[_0x0RBible];
-													_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-													_0x0TRespect = _0x0HKigol(691352 - 740578);
-													_0x0hRespect = _0x0fPaasa[_0x0KRomans12_19];
-													_0x0KRomans12_19 = _0x0HKigol(326053 + (-363236 - (-992960 - (-1005115))));
-													_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-													_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-													_0x0TRespect = { _0x0vGay(_0x0XBILAT) };
-													_0x0KRomans12_19 = _0x0CKigol(_0x0bMamaMoBlue(_0x0TRespect));
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0kPlsNo = _0x0HKigol(-1096774 - (-1047577));
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0CKigol = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0fPaasa = _0x0KRomans12_19  .. _0x0CKigol;
-													_0x0rBILAT = _0x0hRespect .. _0x0fPaasa;
-													_0x0oSkidDetected = _0x0QMeow .. _0x0rBILAT;
-													_0x0LSkilliSSUE = _0x0SPlsNo .. _0x0oSkidDetected;
-													_0x0mFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal(_0x0JMeow, _0x0LSkilliSSUE);
-													_0x0hRespect = 33865085968980 - (-794805);
-													_0x0QMeow = _0x0HKigol(676176 + -725510);
-													_0x0LSkilliSSUE = _0x0HKigol((-187600 + (-333729 - (-646788 - (-660273)))) + 485588);
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0XBILAT);
-													_0x0SPlsNo = _0x0BBible[_0x0ILove];
-													_0x0oSkidDetected = _0x0BBible[_0x0RBible];
-													_0x0rBILAT = _0x0oSkidDetected(_0x0QMeow, _0x0hRespect);
-													_0x0mFallenPartsDestroyHeight = _0x0SPlsNo[_0x0rBILAT];
-													_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE == _0x0mFallenPartsDestroyHeight;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and 3832753 - (((1678549 - (-614281 + (979520 + 568604))) + -1149313) + 1215563) or 9460668 - (-256921 - (-990493));
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue((-942512 + (-549027 + 1106640)) - (-388829));
+													_0x0aUrMom = _0x0SMamaMoBlue(323327 + -319323);
+													_0x0sPaasa = _0x0sSINGIT[_0x0ASkilliSSUE];
+													_0x0nBakla = _0x0MRomans12_19[_0x0VTUBOL[(-1482039 - (266 + -789329)) + (-269926 + 962903)]];
+													_0x0mWagGago = 29113127011672 - 59501;
+													_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[(328649 - (-374088 - (-119731))) + -583004]];
+													_0x0vGay = (-135369 + -616951) + (-225619 + 4537605295853);
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue(862073 + -858184);
+													_0x0EOhab = _0x0oUrMom(_0x0ISkilliSSUE, _0x0vGay);
+													_0x0TBible = _0x0nBakla[_0x0EOhab];
+													_0x0EOhab = _0x0MRomans12_19[_0x0VTUBOL[378167 + (-292515 + -85651)]];
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[(402617 + -216623) - 185992]];
+													_0x0vGay = _0x0ISkilliSSUE(_0x0aUrMom, _0x0mWagGago);
+													_0x0oUrMom = _0x0EOhab[_0x0vGay];
+													_0x0nBakla = _0x0LTFYouLookingAt .. _0x0oUrMom;
+													_0x0WNigaBytes = _0x0TBible .. _0x0nBakla;
+													_0x0ASkilliSSUE = _0x0sPaasa(_0x0WNigaBytes);
+													_0x0sPaasa = 1900033 - 659591;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 907911 + 8156646 then
-											if _0x0EDiKanaNiyaMahal < 510411 + 8502388 then
-												if _0x0EDiKanaNiyaMahal < (1788047 - 745500) + 7931262 then
-													if _0x0EDiKanaNiyaMahal < ((7350339 - (-392745)) - (-697723)) - (-476247) then
-														_0x0EDiKanaNiyaMahal = 9024430 - (-943546);
-														_0x0JMeow = nil;
-														_0x0OTerrorist = nil;
-														_0x0eTerrorist = nil;
+										if _0x0sPaasa < 8712408 - (-516839 - (507355 - 69402)) then
+											if _0x0sPaasa < 753930 + 8806961 then
+												if _0x0sPaasa < -494635 + 10034344 then
+													if _0x0sPaasa < 8525106 - (-963068) then
+														_0x0WNigaBytes = _0x0MRomans12_19[_0x0VTUBOL[-247218 - (-681714 + 434493)]];
+														_0x0ASkilliSSUE = _0x0WNigaBytes[_0x0pSINGIT];
+														_0x0sPaasa = not _0x0ASkilliSSUE;
+														_0x0sPaasa = _0x0sPaasa and 1047486 + 15102916 or 10719427 - (-807018);
 													else
-														_0x0gDick = _0x0XBILAT;
-														_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight;
-														_0x0EDiKanaNiyaMahal = 822991 + 222071;
+														_0x0sPaasa = _0x0OTerrorist;
+														_0x0YBible = _0x0sPaasa;
+														_0x0sPaasa = 16046488 - 501752;
 													end;
 												else
-													_0x0gDick = _0x0mFallenPartsDestroyHeight;
-													_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE;
-													_0x0EDiKanaNiyaMahal = 15628930 - (((((-851337 - (-728184)) + -381818) + 853453) + -1103540) + (251179 - (-278690)));
+													_0x0sPaasa = _0x0LTFYouLookingAt;
+													_0x0sPaasa = ((737735 - (-104617)) - 89917) - (157053 + -727323);
+													_0x0OTerrorist = _0x0pSINGIT;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < ((152494 + -1167810) - (-780693)) + 9277305 then
-													_0x0iFallenPartsDestroyHeight = _0x0BBible[_0x0ILove];
-													_0x0SPlsNo = _0x0HKigol(-53791 - (603614 - 608175));
-													_0x0oSkidDetected = 33295746471022 - (-951803);
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[-971789 - (-971790)]];
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[(15732 - (-10497)) + ((1957309 - 1011232) - 972304)]];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0gDick = _0x0XBILAT[_0x0LSkilliSSUE];
-													_0x0hRespect = -644853 + 19581901493739;
-													_0x0LSkilliSSUE = _0x0HKigol(992450 - 1041788);
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0eTerrorist);
-													_0x0SPlsNo = _0x0BBible[_0x0bTerrorist[-755833 - (-755834)]];
-													_0x0QMeow = _0x0HKigol(-967341 - (-918043));
-													_0x0oSkidDetected = _0x0BBible[_0x0bTerrorist[-838408 - ((-462271 - (-719847 - (-452838))) - 643148)]];
-													_0x0rBILAT = _0x0oSkidDetected(_0x0QMeow, _0x0hRespect);
-													_0x0mFallenPartsDestroyHeight = _0x0SPlsNo[_0x0rBILAT];
-													_0x0XBILAT = _0x0LSkilliSSUE .. _0x0mFallenPartsDestroyHeight;
-													_0x0VDick = _0x0gDick .. _0x0XBILAT;
-													_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight .. _0x0VDick;
-													_0x0BBible[_0x0ILove] = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = 1684238 - (842201 - (-122761));
+												if _0x0sPaasa < (-813680 + 10237852) - (-148864) then
+													_0x0sPaasa = 5497273 - 777520;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0hRespect and (-1080922 - (-270461)) + 7721592 or 12296879 - 745717;
+													_0x0PWagGago = (283635 - 936041) + (16388968410721 - ((927936 - 277498) + -1622492));
+													_0x0sPaasa = nil;
+													_0x0ISkilliSSUE = nil;
+													_0x0EOhab = _0x0ISkilliSSUE;
+													_0x0aUrMom = _0x0SMamaMoBlue(-262726 + (7332 + 259426));
+													_0x0oUrMom = _0x0sPaasa;
+													_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+													_0x0gOhab = _0x0SMamaMoBlue(290733 - 286839);
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0aUrMom = _0x0vGay(_0x0mWagGago);
+													_0x0sPaasa = 437630 + 12004238;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-481963 + 9996078) - (-912405 + 1314305) then
-												if _0x0EDiKanaNiyaMahal < ((-1574301 - (-1034010)) - (-708589)) + 8902314 then
-													_0x0VDick = _0x0HKigol(((-369069 - (-271730)) - (-407410)) + -359381);
-													_0x0JMeow = _0x0BBible[_0x0bTerrorist[(-584482 + 1588734) + (-595673 - (((656089 - ((1000654 + -1667752) + 965070)) + -546475) - (-596936)))]];
-													_0x0eTerrorist = _0x0BBible[_0x0bTerrorist[295497 + -295495]];
-													_0x0gDick = 11029890878272 - 294907;
-													_0x0iFallenPartsDestroyHeight = _0x0eTerrorist(_0x0VDick, _0x0gDick);
-													_0x0EDiKanaNiyaMahal = 509039 + 13603983;
-													_0x0OTerrorist = _0x0JMeow[_0x0iFallenPartsDestroyHeight];
-													_0x0ZSkilliSSUE = _0x0OTerrorist;
+											if _0x0sPaasa < -901691 + 10611615 then
+												if _0x0sPaasa < (313872 + -282113) + 9652893 then
+													_0x0LTFYouLookingAt = 296477 + (3644510048458 - (-493145));
+													_0x0bLove = _0x0SMamaMoBlue(761094 + -757256);
+													_0x0HGay = _0x0DSINGIT;
+													_0x0GPlsNo = _0x0sSINGIT[_0x0bLove];
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[(((-2028378 - (-575991)) - ((786257 + (-350774 - 610470)) + 2826)) - (-366995 + -500365)) - (-412867)]];
+													_0x0OTerrorist = _0x0MRomans12_19[_0x0VTUBOL[-29352 - (-29354)]];
+													_0x0pSINGIT = _0x0SMamaMoBlue(572528 - 568666);
+													_0x0KTanginaMoCge = _0x0OTerrorist(_0x0pSINGIT, _0x0LTFYouLookingAt);
+													_0x0bLove = _0x0ZIveDoneNothing[_0x0KTanginaMoCge];
+													_0x0sPaasa = _0x0GPlsNo[_0x0bLove];
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[965135 - 965132]];
+													_0x0OTerrorist = { _0x0sPaasa(_0x0ZIveDoneNothing, _0x0HGay) };
+													_0x0GPlsNo = _0x0OTerrorist[(597289 + -1586190) - (-988902)];
+													_0x0ZIveDoneNothing = _0x0GPlsNo;
+													_0x0bLove = _0x0OTerrorist[956195 + -956193];
+													_0x0sPaasa = not _0x0ZIveDoneNothing;
+													_0x0sPaasa = _0x0sPaasa and 712353 + ((-271186 - 596548) + 7404922) or 15970809 - (197218 + -569380);
 												else
-													_0x0fPaasa = {};
-													_0x0TRespect = _0x0HKigol(545366 - ((-116962 - (-555380)) + (((((-45383 - (-105425)) + -630153) + 181194) + 127034) + 418202)));
-													_0x0CKigol = _0x0JBakla();
-													_0x0BBible[_0x0CKigol] = _0x0fPaasa;
-													_0x0fPaasa = _0x0JBakla();
-													_0x0vGay = _0x0HKigol((-575313 + 826323) - ((-387081 + 728464) - (((-991740 + 279531) + 676279) + 77054)));
-													_0x0KRomans12_19 = _0x0jTangina(13649698 - (-999735), {
-															_0x0ILove,
-															_0x0RBible,
-															_0x0CKigol,
-															_0x0fPaasa,
-														});
-													_0x0pUrMom = (280699 - ((336048 + 520358) + (-165587 + -812244))) + 20327034706594;
-													_0x0BBible[_0x0fPaasa] = _0x0KRomans12_19;
-													_0x0KRomans12_19 = _0x0ETUBOL[_0x0vGay];
-													_0x0vGay = _0x0KRomans12_19();
-													_0x0KRomans12_19 = _0x0ETUBOL[_0x0TRespect];
-													_0x0MTUBOL = _0x0HKigol(477758 + -527136);
-													_0x0TRespect = _0x0KRomans12_19();
-													_0x0KRomans12_19 = _0x0BBible[_0x0fPaasa];
-													_0x0uBrainDamage = _0x0BBible[_0x0ILove];
-													_0x0tBILAT = _0x0BBible[_0x0RBible];
-													_0x0lNigger = _0x0tBILAT(_0x0MTUBOL, _0x0pUrMom);
-													_0x0kPlsNo = _0x0uBrainDamage[_0x0lNigger];
-													_0x0uBrainDamage = -904809 - (-904809);
-													_0x0NTanginaMoCge = _0x0KRomans12_19(_0x0vGay, _0x0TRespect, _0x0kPlsNo, _0x0uBrainDamage);
-													_0x0uBrainDamage = _0x0HKigol((-595297 + ((-975958 - (323861 + -1191987)) + 58987)) - (-594836));
-													_0x0NTanginaMoCge = _0x0EDiKanaNiyaMahal;
-													_0x0kPlsNo = _0x0ETUBOL[_0x0uBrainDamage];
-													_0x0EDiKanaNiyaMahal = _0x0kPlsNo and -549747 + (15257017 - (-757025)) or (13050559 - (-990365 + (-400189 + (((365161 - (-372398 + (-373555 - (264254 + -278445)))) - (-863205)) - (390962 - ((5017 + (-912209 + 1509041)) + -531662)))))) - 391115;
-													_0x0KRomans12_19 = _0x0kPlsNo;
+													_0x0sPaasa = _0x0pSINGIT and 13080211 - (344937 - (-772465 + 1040520)) or 13614221 - (-787505);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 862032 + 8361404 then
-													_0x0oSkidDetected, _0x0QMeow = _0x0LSkilliSSUE(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0EDiKanaNiyaMahal = _0x0oSkidDetected and 11663825 - 766068 or 5704763 - (-1167095 - (-313349));
+												if _0x0sPaasa < 10382709 - ((-542723 - 33298) + 1227135) then
+													_0x0tTerrorist = _0x0SMamaMoBlue(-820282 - (-824089));
+													_0x0mWagGago = _0x0MRomans12_19[_0x0VTUBOL[-796585 + (1152843 - 356257)]];
+													_0x0gOhab = (600364 + -221376) + 4207716194965;
+													_0x0JBILAT = _0x0MRomans12_19[_0x0VTUBOL[346377 + -346375]];
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+													_0x0aUrMom = _0x0mWagGago[_0x0rIveDoneNothing];
+													_0x0vGay = _0x0SMamaMoBlue((-415352 - 356313) - (-775664));
+													_0x0vGay = _0x0EOhab[_0x0vGay];
+													_0x0vGay = _0x0vGay(_0x0EOhab, _0x0aUrMom);
+													_0x0ISkilliSSUE = _0x0vGay;
+													_0x0sPaasa = 2288145 - 49400;
 												else
-													_0x0iFallenPartsDestroyHeight = _0x0gDick;
-													_0x0hRespect = _0x0HKigol(834475 + -883707);
-													_0x0QMeow = _0x0ETUBOL[_0x0hRespect];
-													_0x0hRespect = _0x0HKigol(-606566 + ((-304196 - 744163) + 1605531));
-													_0x0rBILAT = _0x0QMeow[_0x0hRespect];
-													_0x0EDiKanaNiyaMahal = 14609138 - 658383;
-													_0x0QMeow = _0x0rBILAT(_0x0cBoo, _0x0iFallenPartsDestroyHeight);
-													_0x0iFallenPartsDestroyHeight = nil;
-													_0x0rBILAT = _0x0BBible[_0x0bTerrorist[-438650 - (-438656)]];
-													_0x0hRespect = _0x0rBILAT();
-													_0x0oSkidDetected = _0x0QMeow + _0x0hRespect;
-													_0x0SPlsNo = _0x0oSkidDetected + _0x0JMeow;
-													_0x0oSkidDetected = (345227 + -185014) + -159957;
-													_0x0LSkilliSSUE = _0x0SPlsNo % _0x0oSkidDetected;
-													_0x0hRespect = -501986 - (-223804 - 278183);
-													_0x0oSkidDetected = _0x0RBible[_0x0ILove];
-													_0x0JMeow = _0x0LSkilliSSUE;
-													_0x0QMeow = _0x0JMeow + _0x0hRespect;
-													_0x0rBILAT = _0x0BTerrorist[_0x0QMeow];
-													_0x0SPlsNo = _0x0oSkidDetected .. _0x0rBILAT;
-													_0x0RBible[_0x0ILove] = _0x0SPlsNo;
+													_0x0BTanginaMoCge = _0x0SMamaMoBlue(606912 + -603056);
+													_0x0YBible = _0x0sSINGIT[_0x0BTanginaMoCge];
+													_0x0BTanginaMoCge = _0x0SMamaMoBlue(727809 + -723892);
+													_0x0DSINGIT = _0x0YBible[_0x0BTanginaMoCge];
+													_0x0BTanginaMoCge = _0x0MRomans12_19[_0x0VTUBOL[-883657 + 883658]];
+													_0x0YBible = { _0x0DSINGIT(_0x0BTanginaMoCge) };
+													_0x0GPlsNo = { _0x0VBakla(_0x0YBible) };
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue((916107 + -309106) - 603023)];
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < -464001 + 10101084 then
-										if _0x0EDiKanaNiyaMahal < 555849 + 8862596 then
-											if _0x0EDiKanaNiyaMahal < 9453903 - 131593 then
-												if _0x0EDiKanaNiyaMahal < 9440359 - 145199 then
-													if _0x0EDiKanaNiyaMahal < (((608572 + -499991) + 9806916) - 398237) - 225785 then
-														_0x0NTanginaMoCge = _0x0JMeow(_0x0KRomans12_19);
-														_0x0EDiKanaNiyaMahal = 665366 + 7826578;
-														_0x0vGay = _0x0NTanginaMoCge;
+									if _0x0sPaasa < 9706810 - (-526003) then
+										if _0x0sPaasa < (-866773 + -100260) + (11030405 - (-106965)) then
+											if _0x0sPaasa < -405435 + 10454854 then
+												if _0x0sPaasa < 10986099 - 941128 then
+													if _0x0sPaasa < (10009312 - 681239) - (-586295) then
+														_0x0ASkilliSSUE = nil;
+														_0x0WNigaBytes = nil;
+														_0x0sPaasa = 7476933 - (-676389 + (-188947 - (-657811 + (-80936 - (-903646)))));
 													else
-														_0x0EDiKanaNiyaMahal = 5661662 - (-809360);
+														_0x0mWagGago = _0x0SMamaMoBlue(((-156076 + ((-1267669 - (-870717)) + (89983 - (997289 + -1566333)))) + 147722) + -249891);
+														_0x0tTerrorist = -573784 + (4055768297192 - (-894080));
+														_0x0TBible = _0x0SMamaMoBlue(-942774 - (-946806));
+														_0x0LTFYouLookingAt = _0x0sSINGIT[_0x0TBible];
+														_0x0JBILAT = 33700542895282 - (-223627);
+														_0x0EOhab = _0x0MRomans12_19[_0x0VTUBOL[((-279670 - (-459987)) + 538388) - (-10890 - (-729594))]];
+														_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[-847102 - (-847104)]];
+														_0x0vGay = _0x0ISkilliSSUE(_0x0mWagGago, _0x0JBILAT);
+														_0x0oUrMom = _0x0EOhab[_0x0vGay];
+														_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[(587189 - (-129239)) + (18845 + ((-749281 - 831579) - (-845588)))]];
+														_0x0rIveDoneNothing = _0x0SMamaMoBlue(-668420 + (386583 + 285788));
+														_0x0sPaasa = (10759280 - 632897) - 264411;
+														_0x0mWagGago = _0x0MRomans12_19[_0x0VTUBOL[-59960 + 59962]];
+														_0x0JBILAT = _0x0mWagGago(_0x0rIveDoneNothing, _0x0tTerrorist);
+														_0x0ISkilliSSUE = _0x0vGay[_0x0JBILAT];
+														_0x0JBILAT = _0x0SMamaMoBlue(((-600228 - (-952718)) - 526464) - (-178021));
+														_0x0EOhab = _0x0WNigaBytes .. _0x0ISkilliSSUE;
+														_0x0rIveDoneNothing = 835931 + 576662269016;
+														_0x0nBakla = _0x0oUrMom .. _0x0EOhab;
+														_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[(-1334720 - (-863070)) - (-965879 + 494228)]];
+														_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[795629 - (109897 - (-685730))]];
+														_0x0mWagGago = _0x0vGay(_0x0JBILAT, _0x0rIveDoneNothing);
+														_0x0EOhab = _0x0ISkilliSSUE[_0x0mWagGago];
+														_0x0oUrMom = _0x0OTerrorist[_0x0EOhab];
+														_0x0TBible = _0x0LTFYouLookingAt(_0x0nBakla, _0x0oUrMom);
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = -220301 + (8168555 - (-969031));
-													_0x0XBILAT = _0x0LSkilliSSUE;
+													_0x0EOhab = _0x0SMamaMoBlue(((((22634 + -1066920) + (-618224 + 1980730)) - 158167) + -42269) + -113935);
+													_0x0sPaasa = 12157028 - (-380462);
+													_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+													_0x0mWagGago = { _0x0oUrMom(_0x0nBakla) };
+													_0x0vGay = _0x0mWagGago[-550643 - (-550645)];
+													_0x0EOhab = _0x0mWagGago[(-361927 + 519655) + (-201227 - (-43500))];
+													_0x0aUrMom = _0x0mWagGago[334629 - 334626];
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 10330140 - 918325 then
-													_0x0QMeow = _0x0HKigol(-203419 - (-154273));
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0KRomans12_19 = { _0x0rBILAT(_0x0oSkidDetected) };
-													_0x0CKigol = _0x0KRomans12_19[15317 + -15314];
-													_0x0fPaasa = _0x0KRomans12_19[((-563960 + 1554309) - (-57663)) - 1048010];
-													_0x0EDiKanaNiyaMahal = (-291550 + -49346) + 10837497;
-													_0x0QMeow = _0x0KRomans12_19[(-471602 - (-977650)) + -506047];
+												if _0x0sPaasa < -538665 + (11186040 - 530365) then
+													_0x0sPaasa = _0x0tTerrorist;
+													_0x0sPaasa = _0x0mWagGago and 751236 + 11916261 or (-710845 + (9501902 - 897333)) - 639800;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge;
-													_0x0EDiKanaNiyaMahal = _0x0KRomans12_19 and (-825383 + 677797) + (-808410 + 13621301) or -384358 + 624640;
+													_0x0ASkilliSSUE = _0x0SMamaMoBlue((-707655 + 1504697) + -793003);
+													_0x0LTFYouLookingAt = _0x0sSINGIT[_0x0ASkilliSSUE];
+													_0x0KTanginaMoCge = _0x0LTFYouLookingAt;
+													_0x0sPaasa = (((-277020 + 7814388) - (-50376 - (-157277))) - (-327793)) - (-21328);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -994096 + 10517253 then
-												if _0x0EDiKanaNiyaMahal < (-201349 + (-375687 + 9234915)) - (((-1941272 - ((884759 + ((-1060438 - (-282540)) + 990019)) - (-731933 + 1605693))) - (-936937)) - ((-1103523 - (-743369)) - 26729)) then
-													if _0x0EDiKanaNiyaMahal < 10270896 - 810392 then
-														_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight;
-														_0x0EDiKanaNiyaMahal = _0x0XBILAT and 262825 + 782237 or (-609513 + 311519) + 2476423;
-														_0x0gDick = _0x0XBILAT;
+											if _0x0sPaasa < (-868660 + (2185059 - (-264481 - (-1017548)))) + ((-14296 - 719594) + 10392015) then
+												if _0x0sPaasa < 9298020 - (-914164) then
+													if _0x0sPaasa < ((-628735 - 64011) + 703693) + 10163970 then
+														_0x0sPaasa = 8118011 - (-1168546 - (-779389));
 													else
-														_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE and -506754 + 13401546 or 15051757 - (1653233 - 878824);
+														_0x0sPaasa = ((1977955 - (-484517 - (-950876))) - 724408) + 1213106;
 													end;
 												else
-													_0x0SPlsNo = 28166198062828 - 403748;
-													_0x0LSkilliSSUE = _0x0HKigol((126782 - (((-831828 + 1112340) + -1136162) + (1866411 - 221315))) - (-613453));
-													_0x0fPaasa = 33088944310258 - (-662819);
-													_0x0hRespect = _0x0HKigol(-559952 + 510592);
-													_0x0OTerrorist = nil;
-													_0x0ZSkilliSSUE = _0x0BBible[_0x0bTerrorist[45611 + (155042 - 200649)]];
-													_0x0gDick = _0x0BBible[_0x0bTerrorist[73308 + -73307]];
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[(420056 - 130772) + -289282]];
-													_0x0QMeow = 31618441244008 - 622234;
-													_0x0mFallenPartsDestroyHeight = _0x0XBILAT(_0x0LSkilliSSUE, _0x0SPlsNo);
-													_0x0rBILAT = _0x0HKigol(676180 + (-981969 + (-478623 - (-735091))));
-													_0x0VDick = _0x0gDick[_0x0mFallenPartsDestroyHeight];
-													_0x0LSkilliSSUE = _0x0BBible[_0x0bTerrorist[410551 - ((-303170 - (-434404)) - ((-353543 - (-214055 - (-533310))) + (-936076 + 1329558)))]];
-													_0x0SPlsNo = _0x0BBible[_0x0bTerrorist[978792 + -978790]];
-													_0x0oSkidDetected = _0x0SPlsNo(_0x0rBILAT, _0x0QMeow);
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE[_0x0oSkidDetected];
-													_0x0oSkidDetected = _0x0BBible[_0x0bTerrorist[(498322 + (-332433 - ((801191 - 592642) - (-1118462 - ((-820293 - (-1222255 - (-235825))) - 725341))))) + 601919]];
-													_0x0rBILAT = _0x0BBible[_0x0bTerrorist[-131138 - (-131140)]];
-													_0x0QMeow = _0x0rBILAT(_0x0hRespect, _0x0fPaasa);
-													_0x0SPlsNo = _0x0oSkidDetected[_0x0QMeow];
-													_0x0LSkilliSSUE = _0x0JMeow .. _0x0SPlsNo;
-													_0x0XBILAT = _0x0mFallenPartsDestroyHeight .. _0x0LSkilliSSUE;
-													_0x0JMeow = nil;
-													_0x0gDick = _0x0eTerrorist .. _0x0XBILAT;
-													_0x0iFallenPartsDestroyHeight = _0x0VDick .. _0x0gDick;
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE .. _0x0iFallenPartsDestroyHeight;
-													_0x0eTerrorist = nil;
-													_0x0BBible[_0x0bTerrorist[-696929 - (-696933)]] = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = 364094 + 11809298;
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(996037 - 992045)];
+													_0x0GPlsNo = {};
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 9735726 - 175833 then
-													_0x0VDick = nil;
-													_0x0EDiKanaNiyaMahal = 38347 + 7457455;
-													_0x0gDick = nil;
+												if _0x0sPaasa < 896333 + 9330604 then
+													_0x0OTerrorist = _0x0sPaasa;
+													_0x0pSINGIT = _0x0SMamaMoBlue(-187539 - (-191539));
+													_0x0KTanginaMoCge = _0x0sSINGIT[_0x0pSINGIT];
+													_0x0ZIveDoneNothing = _0x0KTanginaMoCge;
+													_0x0sPaasa = _0x0KTanginaMoCge and 5180194 - (-936435) or 278854 + 8877126;
 												else
-													_0x0EDiKanaNiyaMahal = (345418 - (-53376)) + ((540282 + (-129595 + -778732)) - (-555838));
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[(1138850 - 942498) + -196351]];
-													_0x0QMeow = _0x0HKigol(610860 + (-1142334 - (-482061)));
-													_0x0TRespect = 775113 + 13481913064414;
-													_0x0vGay = _0x0HKigol(((-1012831 + -793) + 1004990) + -40673);
-													_0x0CKigol = _0x0BBible[_0x0bTerrorist[(1106684 - 278738) - 827944]];
-													_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-													_0x0QMeow = _0x0oSkidDetected[_0x0QMeow];
-													_0x0hRespect = _0x0fPaasa[_0x0KRomans12_19];
-													_0x0QMeow = _0x0QMeow(_0x0oSkidDetected, _0x0hRespect);
-													_0x0rBILAT = _0x0QMeow;
+													_0x0WNigaBytes = _0x0SMamaMoBlue(-398790 + 402763);
+													_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+													_0x0sPaasa = (((184778 - 279911) + 458111) + (((((-269164 + -162261) - (-42414)) - (-173345)) + -15635) - (217404 - 372717))) + 9402404;
+													_0x0LTFYouLookingAt = _0x0bLove(_0x0ASkilliSSUE);
+													_0x0pSINGIT = _0x0LTFYouLookingAt;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < (-1578201 - (-603975)) + (11357409 - 451284) then
-											if _0x0EDiKanaNiyaMahal < (-658184 + 1625271) + 8830332 then
-												if _0x0EDiKanaNiyaMahal < -345272 + 10112057 then
-													if _0x0EDiKanaNiyaMahal < 9902831 - 219821 then
-														_0x0RBible = _0x0HKigol(-302920 - (-253752));
-														_0x0eTerrorist = _0x0HKigol(730765 - 779961);
-														_0x0ILove = _0x0ETUBOL[_0x0RBible];
-														_0x0BTerrorist = _0x0BBible[_0x0bTerrorist[111677 + -111676]];
-														_0x0iFallenPartsDestroyHeight = 364602 + 5570119937291;
-														_0x0ZSkilliSSUE = -973205 + 973206;
-														_0x0OTerrorist = _0x0BBible[_0x0bTerrorist[(-1503803 - (-581705 - 196226)) - (-725874)]];
-														_0x0JMeow = _0x0OTerrorist(_0x0eTerrorist, _0x0iFallenPartsDestroyHeight);
-														_0x0EDiKanaNiyaMahal = (-802284 + 1359766) + 11615910;
-														_0x0RBible = _0x0BTerrorist[_0x0JMeow];
-														_0x0cBoo = _0x0ILove[_0x0RBible];
-														_0x0ILove = _0x0cBoo;
-														_0x0cBoo = 195430 + -195429;
-														_0x0RBible = _0x0cBoo;
-														_0x0cBoo = (((-326165 - (-822083)) - 630523) - 309652) - (356304 - 800561);
-														_0x0BTerrorist = _0x0RBible < _0x0cBoo;
-														_0x0cBoo = _0x0ZSkilliSSUE - _0x0RBible;
+										if _0x0sPaasa < 913866 + 9647782 then
+											if _0x0sPaasa < (998295 - ((68578 - (-825299)) - 330795)) + 10045870 then
+												if _0x0sPaasa < 10704726 - ((-142608 + 135614) + 231904) then
+													if _0x0sPaasa < 9563047 - (-746470) then
+														_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+														_0x0gOhab = _0x0SMamaMoBlue((463387 - (-336638)) + -796031);
+														_0x0PWagGago = -950805 + 14819099631392;
+														_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+														_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+														_0x0PWagGago = 25966002760662 - (-597692);
+														_0x0gOhab = _0x0SMamaMoBlue(806951 - 803008);
+														_0x0sPaasa = (7001365 - (373680 - ((-860842 + 1283854) + -864077))) - (-702851);
+														_0x0aUrMom = _0x0LTFYouLookingAt(_0x0mWagGago);
+														_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+														_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+														_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+														_0x0vGay = _0x0aUrMom[_0x0mWagGago];
+														_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0PWagGago = -231351 + 8478348539767;
+														_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+														_0x0gOhab = _0x0SMamaMoBlue(((((-619307 + -373270) + 259443) - (-687830)) - 767836) + 817038);
+														_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+														_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+														_0x0aUrMom = _0x0SMamaMoBlue(423598 - (-572951 - (-1199987 - (-1176577 - (-607127 + (1038627 + -1400615))))));
+														_0x0aUrMom = _0x0vGay[_0x0aUrMom];
+														_0x0aUrMom = _0x0aUrMom(_0x0vGay, _0x0mWagGago);
+														_0x0aUrMom = _0x0SMamaMoBlue(-694212 + 698264);
+														_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+														_0x0aUrMom = _0x0SMamaMoBlue(-298495 + 302293);
+														_0x0aUrMom = _0x0vGay[_0x0aUrMom];
+														_0x0aUrMom = _0x0aUrMom(_0x0vGay);
 													else
-														_0x0EDiKanaNiyaMahal = _0x0KRomans12_19;
-														_0x0hRespect = _0x0CKigol;
-														_0x0EDiKanaNiyaMahal = -632033 + 657352;
+														_0x0TBible = _0x0oUrMom;
+														_0x0sPaasa = _0x0EOhab;
+														_0x0sPaasa = ((13825756 - (-677500)) - (-293684)) - 821660;
 													end;
 												else
-													_0x0rBILAT = _0x0HKigol((159878 + (226512 + -244774)) + -190911);
-													_0x0VDick = _0x0eTerrorist;
-													_0x0LSkilliSSUE = _0x0BBible[_0x0bTerrorist[(-425584 + (747797 - (-85573))) + -407785]];
-													_0x0SPlsNo = _0x0BBible[_0x0bTerrorist[-707397 + 707399]];
-													_0x0QMeow = 26920877986783 - (383859 - (-109889));
-													_0x0oSkidDetected = _0x0SPlsNo(_0x0rBILAT, _0x0QMeow);
-													_0x0SPlsNo = _0x0HKigol(-197937 + ((((11441 + (768494 - 273250)) - 726095) - 9770) + 377779));
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE[_0x0oSkidDetected];
-													_0x0LSkilliSSUE = _0x0ETUBOL[_0x0SPlsNo];
-													_0x0SPlsNo = _0x0LSkilliSSUE(_0x0VDick);
-													_0x0XBILAT = _0x0mFallenPartsDestroyHeight .. _0x0SPlsNo;
-													_0x0oSkidDetected = nil;
-													_0x0EDiKanaNiyaMahal = _0x0RBible .. _0x0XBILAT;
-													_0x0XBILAT = _0x0EDiKanaNiyaMahal;
-													_0x0SPlsNo = _0x0ILove[_0x0VDick];
-													_0x0LSkilliSSUE = _0x0SPlsNo == _0x0oSkidDetected;
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE;
-													_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE and ((-334518 - (-51443)) + (1072314 - 43273)) - (-839413) or 15201960 - (-470709 - ((347970 - 875563) - 191524));
+													_0x0sPaasa = {};
+													_0x0GPlsNo = _0x0SMamaMoBlue((470227 - (-170589 - (-337797))) + -299170);
+													_0x0HGay = _0x0sPaasa;
+													_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+													_0x0OTerrorist = { _0x0sPaasa(_0x0DSINGIT) };
+													_0x0ZIveDoneNothing = _0x0OTerrorist[887435 - 887432];
+													_0x0sPaasa = 3556659 - 743586;
+													_0x0bLove = _0x0OTerrorist[(((52244 + ((75945 + (-724862 + 1731351)) - ((240897 + -1003108) + (-886962 + 2490172)))) + -512461) + 534953) + -316169];
+													_0x0GPlsNo = _0x0OTerrorist[348400 + (461187 - 809586)];
+													_0x0OTerrorist = _0x0GPlsNo;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 9159582 - (-715538) then
-													_0x0mFallenPartsDestroyHeight = _0x0eTerrorist(_0x0gDick);
-													_0x0EDiKanaNiyaMahal = 1837900 - (734004 - (565322 - 37102));
-													_0x0XBILAT = _0x0mFallenPartsDestroyHeight;
+												if _0x0sPaasa < 9556463 - (-961210) then
+													_0x0sPaasa = _0x0EOhab;
+													_0x0TBible = _0x0oUrMom;
+													_0x0sPaasa = 14987201 - 134554;
 												else
-													_0x0QMeow = 413522 + 9202374650983;
-													_0x0XBILAT = _0x0HKigol(410690 - 459999);
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0XBILAT];
-													_0x0rBILAT = _0x0HKigol(-70446 - ((((-310844 - (-81858 + -876105)) + -856143) - (-266752)) - (840162 - 761381)));
-													_0x0LSkilliSSUE = _0x0BBible[_0x0ILove];
-													_0x0SPlsNo = _0x0BBible[_0x0RBible];
-													_0x0oSkidDetected = _0x0SPlsNo(_0x0rBILAT, _0x0QMeow);
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE[_0x0oSkidDetected];
-													_0x0XBILAT = _0x0EDiKanaNiyaMahal(_0x0mFallenPartsDestroyHeight);
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist and 37433 + 7988409 or 10402470 - (-320090);
-													_0x0XBILAT = _0x0eTerrorist;
+													_0x0sPaasa = 2966460 - 855002;
+													_0x0ASkilliSSUE = _0x0ZIveDoneNothing(_0x0pSINGIT);
+													_0x0LTFYouLookingAt = _0x0ASkilliSSUE;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 9108620 - (-859572) then
-												if _0x0EDiKanaNiyaMahal < -194362 + 10141984 then
-													_0x0BTerrorist, _0x0eTerrorist = _0x0OTerrorist(_0x0RBible, _0x0BTerrorist);
-													_0x0EDiKanaNiyaMahal = _0x0BTerrorist and 875544 + 541300 or 859993 + 11966886;
+											if _0x0sPaasa < 758281 + 9909945 then
+												if _0x0sPaasa < (-129460 - 298473) + 11054137 then
+													_0x0DSINGIT = _0x0DSINGIT + _0x0BTanginaMoCge;
+													_0x0HGay = not _0x0MFallenPartsDestroyHeight;
+													_0x0GPlsNo = _0x0DSINGIT <= _0x0YBible;
+													_0x0GPlsNo = _0x0HGay and _0x0GPlsNo;
+													_0x0HGay = _0x0DSINGIT >= _0x0YBible;
+													_0x0HGay = _0x0MFallenPartsDestroyHeight and _0x0HGay;
+													_0x0GPlsNo = _0x0HGay or _0x0GPlsNo;
+													_0x0HGay = 9223115 - (-458324);
+													_0x0sPaasa = _0x0GPlsNo and _0x0HGay;
+													_0x0GPlsNo = (-463939 - 121167) + 10797416;
+													_0x0sPaasa = _0x0sPaasa or _0x0GPlsNo;
 												else
-													_0x0ZSkilliSSUE = {};
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(-391676 - (-342441))];
+													_0x0DSINGIT = _0x0SUrMom[(-429526 - (-988179)) - 558652];
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(((-500222 + 1523614) + (769167 - (-620203 + 1406840))) - 1001888)];
+													_0x0GPlsNo = { _0x0DSINGIT };
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (939907 + -1391683) + 10425364 then
-													_0x0oSkidDetected = (1077312 - 953151) + 26259355741154;
-													_0x0gDick = _0x0HKigol(-1009886 - (-960679));
-													_0x0VDick = _0x0ETUBOL[_0x0gDick];
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[-544781 + 544782]];
-													_0x0SPlsNo = _0x0HKigol(1012743 + -1061977);
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[((142992 + -857920) + 201800) + (-317084 - (-226510 - (727959 - 124255)))]];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0SPlsNo = _0x0HKigol(-1073813 - ((-236883 - (-751104)) + -1538807));
-													_0x0gDick = _0x0XBILAT[_0x0LSkilliSSUE];
-													_0x0oSkidDetected = 374208 + 33201961139749;
-													_0x0iFallenPartsDestroyHeight = _0x0VDick[_0x0gDick];
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[410456 + (100488 + -510943)]];
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[504100 + -504098]];
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight(_0x0SPlsNo, _0x0oSkidDetected);
-													_0x0gDick = _0x0XBILAT[_0x0LSkilliSSUE];
-													_0x0VDick = _0x0iFallenPartsDestroyHeight(_0x0OTerrorist, _0x0gDick);
-													_0x0eTerrorist = not _0x0VDick;
-													_0x0EDiKanaNiyaMahal = 79261 + (2368555 - 116344);
-													_0x0JMeow = _0x0eTerrorist;
+												if _0x0sPaasa < 677662 + 10067152 then
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(-268248 - (-272053));
+													_0x0NKigol = _0x0sSINGIT[_0x0uMamaMoBlue];
+													_0x0PWagGago = _0x0sPaasa;
+													_0x0gOhab = _0x0NKigol;
+													_0x0sPaasa = _0x0NKigol and 5175045 - (-202167) or ((-108084 + 635471) + -1138019) + 15986916;
 												else
-													_0x0cBoo = _0x0BBible[_0x0bTerrorist[(-408498 - (-132382 + -702031)) + -425914]];
-													_0x0ZSkilliSSUE = #_0x0cBoo;
-													_0x0cBoo = -913810 + ((-1306714 - (-888014 + -103870)) + (((89791 + ((267870 + -73101) + 437169)) + 1187381) - 680470));
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE == _0x0cBoo;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and (-283834 + 16379178) - 330929 or 12053581 - (-619149 - 182528);
+													_0x0sPaasa = _0x0rIveDoneNothing;
+													_0x0sPaasa = _0x0JBILAT and 351181 + 7106611 or ((451373 + (938450 + 4419448)) - 329801) - (-301272);
 												end;
 											end;
 										end;
 									end;
 								end;
 							else
-								if _0x0EDiKanaNiyaMahal < 10931410 - (-356286) then
-									if _0x0EDiKanaNiyaMahal < 269679 + 10601745 then
-										if _0x0EDiKanaNiyaMahal < 145176 + 10440159 then
-											if _0x0EDiKanaNiyaMahal < ((504274 - 508926) + (-824391 + (1041147 + -139569))) + (511459 + 9788016) then
-												if _0x0EDiKanaNiyaMahal < (-225399 + (659541 - 736060)) + 10641013 then
-													if _0x0EDiKanaNiyaMahal < 768974 + 9385061 then
-														_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge;
-														_0x0tBILAT = _0x0HKigol(-834258 + (-391953 + (1350083 - 173280)));
-														_0x0uBrainDamage = _0x0ETUBOL[_0x0tBILAT];
-														_0x0kPlsNo = _0x0EDiKanaNiyaMahal;
-														_0x0NTanginaMoCge = _0x0uBrainDamage;
-														_0x0EDiKanaNiyaMahal = _0x0uBrainDamage and 1571807 - (226144 - (10744 - 758427)) or (-1047155 + 1625213) + (10831133 - ((40606 + -880853) + (-3749 - (-987252))));
+								if _0x0sPaasa < -229030 + 11883425 then
+									if _0x0sPaasa < (15775 + 11519408) - (580063 - 292648) then
+										if _0x0sPaasa < (12205090 - (1108336 - 820162)) - 813665 then
+											if _0x0sPaasa < 276478 + 10780074 then
+												if _0x0sPaasa < 11137456 - 158388 then
+													if _0x0sPaasa < 10309006 - (55091 - (-187496 - (-879718))) then
+														_0x0tTerrorist = _0x0MRomans12_19[_0x0VTUBOL[(557712 + (457167 + -253866)) - 761012]];
+														_0x0gOhab = _0x0MRomans12_19[_0x0VTUBOL[-637329 + 637331]];
+														_0x0uMamaMoBlue = 24135103532173 - 938101;
+														_0x0mWagGago = _0x0sPaasa;
+														_0x0NKigol = _0x0SMamaMoBlue(-7136 + 11091);
+														_0x0JBILAT = _0x0SMamaMoBlue(275482 + -271483);
+														_0x0JBILAT = _0x0EOhab[_0x0JBILAT];
+														_0x0PWagGago = _0x0gOhab(_0x0NKigol, _0x0uMamaMoBlue);
+														_0x0rIveDoneNothing = _0x0tTerrorist[_0x0PWagGago];
+														_0x0JBILAT = _0x0JBILAT(_0x0EOhab, _0x0rIveDoneNothing);
+														_0x0aUrMom = _0x0JBILAT;
+														_0x0sPaasa = _0x0JBILAT and 401213 + ((-1245665 - (-798392)) + 15099459) or (-680359 - (-127665 + -157389)) - (-555976);
 													else
-														_0x0EDiKanaNiyaMahal = 108080 + 6331359;
-														_0x0kPlsNo = (-11525 + 201179) + 5929886393230;
-														_0x0NTanginaMoCge = _0x0HKigol((-78501 + 193182) - 163914);
-														_0x0fPaasa = _0x0HKigol(-772701 + 723342);
-														_0x0fPaasa = _0x0QMeow[_0x0fPaasa];
-														_0x0KRomans12_19 = _0x0BBible[_0x0bTerrorist[696278 - (873547 - 177270)]];
-														_0x0vGay = _0x0BBible[_0x0bTerrorist[(595904 + 61893) - 657795]];
-														_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-														_0x0CKigol = _0x0KRomans12_19[_0x0TRespect];
-														_0x0fPaasa = _0x0fPaasa(_0x0QMeow, _0x0CKigol);
-														_0x0hRespect = _0x0fPaasa;
+														_0x0sPaasa = 15647311 - 924198;
+														_0x0JBILAT = _0x0ZIveDoneNothing(_0x0mWagGago);
 													end;
 												else
-													_0x0eTerrorist = nil;
-													_0x0iFallenPartsDestroyHeight = nil;
-													_0x0EDiKanaNiyaMahal = 110913 + ((17301290 - (683739 + -636247)) - 869271);
-													_0x0VDick = nil;
-													_0x0gDick = nil;
+													_0x0NKigol = ((280265 - 509612) + 6468220872477) - (-700860 + 1321585);
+													_0x0vGay = _0x0sPaasa;
+													_0x0JBILAT = _0x0SMamaMoBlue(-745707 - (43391 - (-49555 - (-494318 + -348199))));
+													_0x0PWagGago = _0x0SMamaMoBlue(((-1117176 - (313591 - 588236)) - (-385131)) + (939250 - (578927 + -101090)));
+													_0x0mWagGago = _0x0sSINGIT[_0x0JBILAT];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago, _0x0NKigol);
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0gOhab];
+													_0x0aUrMom = _0x0mWagGago[_0x0JBILAT];
+													_0x0ISkilliSSUE = _0x0aUrMom;
+													_0x0sPaasa = _0x0aUrMom and ((1285396 - ((-781080 - (-1816814 - (-1038451))) + 324594)) + -1102307) + (-619404 + 15258019) or 15354663 - (307456 - (-394692));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (((152057 - (-95571 + ((527510 + 357864) - (-196672 + 685445)))) - 630548) + 10674272) - (-526828) then
-													_0x0EDiKanaNiyaMahal = _0x0TRespect;
-													_0x0EDiKanaNiyaMahal = 4725092 - (-1041484 + (243041 - (591973 + ((((-121455 + 1168826) + (61308 + -787532)) - (703703 - 348336)) + -692997))));
-													_0x0CKigol = _0x0vGay;
+												if _0x0sPaasa < 12108805 - 1047883 then
+													_0x0sPaasa = _0x0ASkilliSSUE;
+													_0x0sPaasa = 1630731 - (440043 + (330128 + ((-306248 + -263466) + (-340699 - (-226223)))));
+													_0x0pSINGIT = _0x0LTFYouLookingAt;
 												else
-													_0x0CKigol, _0x0KRomans12_19 = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-													_0x0EDiKanaNiyaMahal = _0x0CKigol and 11548280 - (-475971 + -151576) or (9212645 - (-20016)) - (-391794 + 941744);
+													_0x0sPaasa = _0x0LTFYouLookingAt and 360690 + -206126 or 7958709 - (226171 + -679323);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 620729 + 10108484 then
-												if _0x0EDiKanaNiyaMahal < -303284 + 10996755 then
-													if _0x0EDiKanaNiyaMahal < 443476 + ((-795653 + 1042576) + 9971025) then
-														_0x0XBILAT = _0x0mFallenPartsDestroyHeight;
-														_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE;
-														_0x0EDiKanaNiyaMahal = (-263507 + 15244252) - (-733251);
+											if _0x0sPaasa < -194931 + 11344145 then
+												if _0x0sPaasa < 11434398 - 301852 then
+													if _0x0sPaasa < 11408271 - 278635 then
+														_0x0KTanginaMoCge = nil;
+														_0x0pSINGIT = nil;
+														_0x0sPaasa = 960174 + (-1248491 - (-477995));
 													else
-														_0x0VDick = _0x0HKigol(706388 + ((-621156 - 632006) - (-768797 - (-306252 - (-34844)))));
-														_0x0gDick = 26843582146973 - (-608035);
-														_0x0iFallenPartsDestroyHeight = (((-576249 + 1434595) + 401946) - 303971) + (26907038840873 - 1036229);
-														_0x0RBible = _0x0HKigol(-442398 + 393194);
-														_0x0eTerrorist = _0x0HKigol(-265342 + 216151);
-														_0x0ZSkilliSSUE = _0x0ETUBOL[_0x0RBible];
-														_0x0BTerrorist = _0x0BBible[_0x0bTerrorist[848247 + -848246]];
-														_0x0OTerrorist = _0x0BBible[_0x0bTerrorist[1004363 - 1004361]];
-														_0x0JMeow = _0x0OTerrorist(_0x0eTerrorist, _0x0iFallenPartsDestroyHeight);
-														_0x0RBible = _0x0BTerrorist[_0x0JMeow];
-														_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE[_0x0RBible];
-														_0x0ZSkilliSSUE = _0x0EDiKanaNiyaMahal(_0x0ILove);
-														_0x0RBible = _0x0ZSkilliSSUE;
-														_0x0JMeow = _0x0BBible[_0x0bTerrorist[(301994 + -229184) - (-874730 + 947539)]];
-														_0x0eTerrorist = _0x0BBible[_0x0bTerrorist[(1006390 - (-27565)) - 1033953]];
-														_0x0iFallenPartsDestroyHeight = _0x0eTerrorist(_0x0VDick, _0x0gDick);
-														_0x0OTerrorist = _0x0JMeow[_0x0iFallenPartsDestroyHeight];
-														_0x0BTerrorist = _0x0RBible[_0x0OTerrorist];
-														_0x0EDiKanaNiyaMahal = _0x0BTerrorist and 14109652 - ((-300753 + -373242) - 63419) or -566034 + (1046268 + (1643088 - (-342424)));
-														_0x0ZSkilliSSUE = _0x0BTerrorist;
+														_0x0mWagGago = nil;
+														_0x0sPaasa = 102865 + 5918713;
+														_0x0oUrMom = nil;
 													end;
 												else
-													_0x0XBILAT = nil;
-													_0x0EDiKanaNiyaMahal = ((-634166 + 1028479) + 14327013) - (-1004666);
+													_0x0DSINGIT = _0x0bBoo();
+													_0x0MRomans12_19[_0x0DSINGIT] = _0x0SUrMom[1030196 + (-512885 + -517310)];
+													_0x0HGay = (-772250 + (384209 + 906698)) + (4179019307143 - 31085);
+													_0x0ZIveDoneNothing = _0x0SMamaMoBlue(66474 - 62636);
+													_0x0GPlsNo = _0x0MRomans12_19[_0x0VTUBOL[(((-58659 + (389620 - ((-650677 + 969553) - (-183364 + -331686)))) + ((-852010 + 1205473) + (-336843 + 816649))) + -245162) + -85141]];
+													_0x0MFallenPartsDestroyHeight = _0x0SMamaMoBlue(966731 - ((329647 + 330329) - (-302762)));
+													_0x0YBible = _0x0MRomans12_19[_0x0VTUBOL[150884 - 150882]];
+													_0x0ASkilliSSUE = ((12468934638433 - (-722738 - 33368)) - (-923508)) - (-1007490);
+													_0x0BTanginaMoCge = _0x0YBible(_0x0MFallenPartsDestroyHeight, _0x0HGay);
+													_0x0YBible = _0x0bBoo();
+													_0x0sPaasa = _0x0GPlsNo[_0x0BTanginaMoCge];
+													_0x0BTanginaMoCge = _0x0RPaasa((12903252 - 326743) - (727739 - (864128 - 441607)), {
+															_0x0VTUBOL[329080 + -329079],
+															_0x0VTUBOL[581551 + -581549],
+															_0x0DSINGIT,
+															_0x0YBible,
+														});
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue((-662861 - (-334983 + -205380)) - (-947872 + 821542));
+													_0x0MRomans12_19[_0x0YBible] = _0x0sPaasa;
+													_0x0GPlsNo = _0x0SMamaMoBlue((487690 - ((-415691 + 935801) + -321953)) + -285523);
+													_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+													_0x0GPlsNo = _0x0sPaasa(_0x0BTanginaMoCge);
+													_0x0GPlsNo = _0x0SMamaMoBlue(239253 - (((-1254098 - (-543879)) + 604096) + 341565));
+													_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+													_0x0bLove = _0x0sSINGIT[_0x0ZIveDoneNothing];
+													_0x0OTerrorist = _0x0MRomans12_19[_0x0VTUBOL[-851456 + 851457]];
+													_0x0KTanginaMoCge = _0x0MRomans12_19[_0x0VTUBOL[660275 - 660273]];
+													_0x0pSINGIT = _0x0KTanginaMoCge(_0x0LTFYouLookingAt, _0x0ASkilliSSUE);
+													_0x0ZIveDoneNothing = _0x0OTerrorist[_0x0pSINGIT];
+													_0x0HGay = _0x0bLove[_0x0ZIveDoneNothing];
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0DSINGIT];
+													_0x0bLove = { _0x0HGay(_0x0ZIveDoneNothing) };
+													_0x0HGay = { _0x0sPaasa(_0x0VBakla(_0x0bLove)) };
+													_0x0GPlsNo = _0x0HGay[-790390 + 790391];
+													_0x0MFallenPartsDestroyHeight = _0x0HGay[(210978 + -988856) + (-958623 + 1736504)];
+													_0x0BTanginaMoCge = _0x0HGay[619880 - (339588 + 280290)];
+													_0x0sPaasa = (-680435 + -113827) + 15099556;
+													_0x0HGay = _0x0GPlsNo;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 9926348 - (-312164 + (135460 + (-1178197 - (703690 + (-696461 + (794831 + -1229358)))))) then
-													_0x0RBible = _0x0LTanginaMoCge(-399889 + 12090922, {});
-													_0x0EDiKanaNiyaMahal = (744476 + -836988) + (12027676 - (-1027703));
-													_0x0ZSkilliSSUE = _0x0RBible;
+												if _0x0sPaasa < 1039319 + 10147687 then
+													_0x0WNigaBytes = _0x0SMamaMoBlue(-204892 - (-208898));
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0VTUBOL[-758142 + 758143]];
+													_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[390953 + -390951]];
+													_0x0TBible = -295807 + 18243479761013;
+													_0x0ASkilliSSUE = _0x0LTFYouLookingAt(_0x0WNigaBytes, _0x0TBible);
+													_0x0KTanginaMoCge = _0x0pSINGIT[_0x0ASkilliSSUE];
+													_0x0nBakla = 10482122102644 - ((966334 + -295799) + -1066574);
+													_0x0OTerrorist = _0x0BTanginaMoCge[_0x0KTanginaMoCge];
+													_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[839457 + -839456]];
+													_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[-857890 + 857892]];
+													_0x0TBible = _0x0SMamaMoBlue(1025210 + -1021245);
+													_0x0KTanginaMoCge = _0x0SMamaMoBlue(-494568 - (-498567));
+													_0x0KTanginaMoCge = _0x0OTerrorist[_0x0KTanginaMoCge];
+													_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0TBible, _0x0nBakla);
+													_0x0pSINGIT = _0x0LTFYouLookingAt[_0x0WNigaBytes];
+													_0x0KTanginaMoCge = _0x0KTanginaMoCge(_0x0OTerrorist, _0x0pSINGIT);
+													_0x0sPaasa = 16628819 - 766018;
+													_0x0bLove = _0x0KTanginaMoCge;
 												else
-													_0x0TRespect = _0x0BBible[_0x0ILove];
-													_0x0uBrainDamage = _0x0HKigol(-660015 - (-794958 - (-184305)));
-													_0x0tBILAT = 878921 + (10987450628733 - (-556776));
-													_0x0NTanginaMoCge = _0x0BBible[_0x0RBible];
-													_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage, _0x0tBILAT);
-													_0x0vGay = _0x0TRespect[_0x0kPlsNo];
-													_0x0EDiKanaNiyaMahal = 468812 + 4794296;
-													_0x0KRomans12_19 = _0x0rBILAT == _0x0vGay;
-													_0x0fPaasa = _0x0KRomans12_19;
+													_0x0GPlsNo = _0x0SMamaMoBlue(-485664 + 489513);
+													_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+													_0x0OTerrorist = _0x0MRomans12_19[_0x0VTUBOL[-317917 - (-1352584 - (-1034664))]];
+													_0x0KTanginaMoCge = { _0x0sPaasa(_0x0OTerrorist) };
+													_0x0bLove = _0x0KTanginaMoCge[(-343216 - 136349) - (-750088 + (1247031 - 976510))];
+													_0x0ZIveDoneNothing = _0x0KTanginaMoCge[(((-1321054 - (-521663)) + 684566) - 427346) + 542174];
+													_0x0sPaasa = (89411 - 542264) - (-435614 + -206917);
+													_0x0GPlsNo = _0x0KTanginaMoCge[830631 - 830630];
+													_0x0OTerrorist = _0x0GPlsNo;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 11087527 - (-6937) then
-											if _0x0EDiKanaNiyaMahal < (-996746 + 194137) + 11792531 then
-												if _0x0EDiKanaNiyaMahal < 563042 + (329152 + 10070456) then
-													if _0x0EDiKanaNiyaMahal < ((852163 + -1549356) + 1641339) + (10849332 - 874228) then
-														_0x0TRespect = _0x0BBible[_0x0ILove];
-														_0x0rBILAT = _0x0oSkidDetected;
-														_0x0NTanginaMoCge = _0x0BBible[_0x0RBible];
-														_0x0uBrainDamage = _0x0HKigol(-786126 - (-736979));
-														_0x0tBILAT = 31012184056512 - (230474 + 639736);
-														_0x0CKigol = _0x0EDiKanaNiyaMahal;
-														_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage, _0x0tBILAT);
-														_0x0vGay = _0x0TRespect[_0x0kPlsNo];
-														_0x0KRomans12_19 = _0x0rBILAT == _0x0vGay;
-														_0x0fPaasa = _0x0KRomans12_19;
-														_0x0EDiKanaNiyaMahal = _0x0KRomans12_19 and 4522274 - (12322 + -753156) or (-218075 - 794878) + 11882707;
+										if _0x0sPaasa < -420226 + 11913693 then
+											if _0x0sPaasa < -734578 + 12085364 then
+												if _0x0sPaasa < (1086007 - 393485) + 10616798 then
+													if _0x0sPaasa < -478720 + 11772267 then
+														_0x0YBible = _0x0SUrMom[607438 + -607436];
+														_0x0DSINGIT = _0x0SUrMom[-641208 + (967269 + -326060)];
+														_0x0BTanginaMoCge = _0x0MRomans12_19[_0x0VTUBOL[(-245095 + (-578516 - ((-157957 + -160753) - ((-438890 - (948099 + -1092958)) + -184337)))) + 983270]];
+														_0x0GPlsNo = _0x0BTanginaMoCge;
+														_0x0sPaasa = _0x0BTanginaMoCge and 12627975 - (-463057) or (262695 + 7267378) - (-91982 + 73124);
 													else
-														_0x0cBoo = _0x0HSkidDetected[-676912 - (-676913)];
-														_0x0EDiKanaNiyaMahal = _0x0BBible[_0x0bTerrorist[(340228 + 617390) + ((((-2422027 - (-1057125 - (667734 + -1604878))) - (-980520)) - 159726) - (-425349 - 98286))]];
-														_0x0ILove = _0x0HSkidDetected[858321 - 858319];
-														_0x0RBible = _0x0EDiKanaNiyaMahal;
-														_0x0EDiKanaNiyaMahal = _0x0RBible[_0x0ILove];
-														_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and 6319435 - (-267130) or 3886922 - 825541;
+														_0x0TBible = _0x0SMamaMoBlue(741770 + -737983);
+														_0x0pSINGIT = _0x0SMamaMoBlue(-877215 - (-881095));
+														_0x0KTanginaMoCge = _0x0sSINGIT[_0x0pSINGIT];
+														_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[-933189 - (-933190)]];
+														_0x0nBakla = 34141892813069 - (931206 + -1737638);
+														_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[772290 + -772288]];
+														_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0TBible, _0x0nBakla);
+														_0x0pSINGIT = _0x0LTFYouLookingAt[_0x0WNigaBytes];
+														_0x0sPaasa = _0x0KTanginaMoCge[_0x0pSINGIT];
+														_0x0pSINGIT = .1;
+														_0x0KTanginaMoCge = _0x0sPaasa(_0x0pSINGIT);
+														_0x0sPaasa = -406153 + 15218169;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist and ((-611145 + ((-466118 + 1675735) - (629384 - (-565636 + 459833)))) - (-584960)) + 4208203 or 15104591 - (-223173 + 696608);
+													_0x0NKigol = _0x0SMamaMoBlue(670599 + -666759);
+													_0x0sPaasa = 215514 + 5047324;
+													_0x0PWagGago = _0x0sSINGIT[_0x0NKigol];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0YBible];
+													_0x0XTanginaMoCge = -305375 + 18583024739641;
+													_0x0lBible = _0x0SMamaMoBlue(847078 - (-143489 - (-986523)));
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible, _0x0XTanginaMoCge);
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0qTFYouLookingAt];
+													_0x0gOhab = _0x0PWagGago[_0x0NKigol];
+													_0x0rIveDoneNothing = _0x0gOhab;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (521919 - (-129596)) + (519107 + 9909558) then
-													_0x0lNigger = _0x0HKigol(-571475 - (-522137));
-													_0x0GMamaMoBlue = _0x0HKigol(267180 + (((574218 + 416570) - ((256195 - 91939) - (190994 + -363328))) - 970518));
-													_0x0tBILAT = _0x0ETUBOL[_0x0lNigger];
-													_0x0kPlsNo = _0x0EDiKanaNiyaMahal;
-													_0x0lNigger = _0x0tBILAT(_0x0fPaasa);
-													_0x0MTUBOL = _0x0BBible[_0x0ILove];
-													_0x0pUrMom = _0x0BBible[_0x0RBible];
-													_0x0dMeow = ((-31857 - (-92491)) + 506445) + (33191112662834 - (-681547));
-													_0x0UBoo = _0x0pUrMom(_0x0GMamaMoBlue, _0x0dMeow);
-													_0x0tBILAT = _0x0MTUBOL[_0x0UBoo];
-													_0x0uBrainDamage = _0x0lNigger ~= _0x0tBILAT;
-													_0x0EDiKanaNiyaMahal = _0x0uBrainDamage and 128913 + 5413959 or -208250 - ((-178824 + -894911) - (-568200));
-													_0x0NTanginaMoCge = _0x0uBrainDamage;
+												if _0x0sPaasa < -840985 + ((339933 + 12042129) - (571695 + -511292)) then
+													_0x0pSINGIT = nil;
+													_0x0sPaasa = (-572449 + 694764) + 14279411;
 												else
-													_0x0BTerrorist, _0x0eTerrorist = _0x0OTerrorist(_0x0RBible, _0x0BTerrorist);
-													_0x0EDiKanaNiyaMahal = _0x0BTerrorist and 1000525 + 1451318 or (-446654 + 541423) + 5321357;
+													_0x0sPaasa = _0x0oUrMom and -601572 + (16467770 - 45187) or (-627750 + 1616691) + 3850288;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 11404962 - 274079 then
-												if _0x0EDiKanaNiyaMahal < (-1044539 + 11999748) - (-163492) then
-													_0x0EDiKanaNiyaMahal = 6576246 - (-782762);
-													_0x0vGay = _0x0eTerrorist(_0x0KRomans12_19);
+											if _0x0sPaasa < 352055 + 11204136 then
+												if _0x0sPaasa < -415111 + (11204280 - (-722984)) then
+													_0x0ZIveDoneNothing = nil;
+													_0x0sPaasa = 2831192 - ((-488960 - (163480 + -1028624)) + (217675 + (-619838 + 856877)));
+													_0x0MFallenPartsDestroyHeight = nil;
+													_0x0bLove = nil;
 												else
-													_0x0CKigol = _0x0HKigol(-1042937 - (-993628));
-													_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0EDiKanaNiyaMahal = 362041 + (96939 + (((768946 - ((81522 + -379851) + 1051805)) - (-993443)) + 4573440));
-													_0x0kPlsNo = _0x0HKigol(656640 - (740137 - 34228));
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0uBrainDamage = (-518896 - 245188) + 32680953651817;
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0CKigol = _0x0fPaasa(_0x0KRomans12_19);
+													_0x0sPaasa = 9527658 - (-33929);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 11261197 - (-7386) then
-													_0x0uBrainDamage = _0x0HKigol((-690839 - (-233107)) - (-408379));
-													_0x0EDiKanaNiyaMahal = _0x0kPlsNo;
-													_0x0kPlsNo = _0x0ETUBOL[_0x0uBrainDamage];
-													_0x0oSkidDetected = {
-															_0x0rBILAT,
-															_0x0QMeow,
-															_0x0fPaasa,
-															_0x0CKigol,
-															_0x0KRomans12_19,
-															_0x0vGay,
-															_0x0TRespect,
-															_0x0NTanginaMoCge,
-															_0x0kPlsNo,
-														};
-													_0x0QMeow = _0x0HKigol(263587 - ((-239748 - (-466276)) - (-86205)));
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0EDiKanaNiyaMahal = ((66154 + 907208) - (421402 + (656220 + (-1595791 - (-677475))))) + (12840170 - (871355 + (((-611173 + 928461) - 328153) + -1409639)));
-													_0x0KRomans12_19 = { _0x0rBILAT(_0x0SPlsNo) };
-													_0x0fPaasa = _0x0KRomans12_19[(614771 + -175831) - ((795251 - 298203) + (738549 - 796659))];
-													_0x0CKigol = _0x0KRomans12_19[((-366987 + (27924 + -95512)) - ((((-971360 + (409995 + -46928)) + 352826) + (-94168 - (-991504))) + -657195)) - (-419252)];
-													_0x0QMeow = _0x0KRomans12_19[-336081 + 336082];
+												if _0x0sPaasa < (-197352 + (-570575 - (-628388 + -391233))) + 11335102 then
+													_0x0EOhab = 2121032802655 - (-820904);
+													_0x0KTanginaMoCge = _0x0ZIveDoneNothing;
+													_0x0oUrMom = _0x0SMamaMoBlue(370818 + -366985);
+													_0x0WNigaBytes = _0x0MRomans12_19[_0x0VTUBOL[((-300795 - (-729540)) + 58887) - 487631]];
+													_0x0TBible = _0x0MRomans12_19[_0x0VTUBOL[-622931 + 622933]];
+													_0x0nBakla = _0x0TBible(_0x0oUrMom, _0x0EOhab);
+													_0x0TBible = _0x0SMamaMoBlue(163072 + (-642218 - (-483032)));
+													_0x0ASkilliSSUE = _0x0WNigaBytes[_0x0nBakla];
+													_0x0WNigaBytes = _0x0sSINGIT[_0x0TBible];
+													_0x0nBakla = nil;
+													_0x0TBible = _0x0WNigaBytes(_0x0KTanginaMoCge);
+													_0x0LTFYouLookingAt = _0x0ASkilliSSUE .. _0x0TBible;
+													_0x0sPaasa = _0x0BTanginaMoCge .. _0x0LTFYouLookingAt;
+													_0x0TBible = _0x0YBible[_0x0KTanginaMoCge];
+													_0x0LTFYouLookingAt = _0x0sPaasa;
+													_0x0WNigaBytes = _0x0TBible == _0x0nBakla;
+													_0x0sPaasa = _0x0WNigaBytes and -418301 + 4922258 or 5268289 - (-882868);
+													_0x0ASkilliSSUE = _0x0WNigaBytes;
 												else
-													_0x0XBILAT = _0x0BBible[_0x0bTerrorist[471618 - 471615]];
-													_0x0KRomans12_19 = 23408996916399 - (160113 + 131901);
-													_0x0rBILAT = _0x0BBible[_0x0bTerrorist[636073 + (-1074060 - ((926892 + (-1584928 - 714642)) - (-934690)))]];
-													_0x0fPaasa = _0x0HKigol(944206 - 993382);
-													_0x0QMeow = _0x0BBible[_0x0bTerrorist[-501843 - (-501845)]];
-													_0x0hRespect = _0x0QMeow(_0x0fPaasa, _0x0KRomans12_19);
-													_0x0oSkidDetected = _0x0rBILAT[_0x0hRespect];
-													_0x0SPlsNo = _0x0iFallenPartsDestroyHeight[_0x0oSkidDetected];
-													_0x0oSkidDetected = { _0x0XBILAT(_0x0SPlsNo) };
-													_0x0SPlsNo = _0x0EDiKanaNiyaMahal;
-													_0x0mFallenPartsDestroyHeight = _0x0oSkidDetected[865 - 864];
-													_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight and 885102 + 6924489 or (2337280 - 302905) - (-1008460);
-													_0x0LSkilliSSUE = _0x0oSkidDetected[(-31407 + (-773014 - (-81070))) + 723353];
-													_0x0XBILAT = _0x0mFallenPartsDestroyHeight;
+													_0x0BTanginaMoCge = nil;
+													_0x0MFallenPartsDestroyHeight = nil;
+													_0x0sPaasa = -446656 + ((791580 + (8986057 - 1019284)) - 320137);
+													_0x0HGay = nil;
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < 12608542 - (474026 - (-348599)) then
-										if _0x0EDiKanaNiyaMahal < 11524275 - (992555 + -1046266) then
-											if _0x0EDiKanaNiyaMahal < 189014 + 11182953 then
-												if _0x0EDiKanaNiyaMahal < 12025916 - 682714 then
-													if _0x0EDiKanaNiyaMahal < 914807 + 10373586 then
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(572544 + -621820)];
-														_0x0ILove = nil;
-														_0x0cBoo = nil;
-														_0x0ZSkilliSSUE = {};
-														_0x0RBible = nil;
+									if _0x0sPaasa < 11566397 - (3216 + -964075) then
+										if _0x0sPaasa < -706424 + 12999903 then
+											if _0x0sPaasa < 12312802 - 494167 then
+												if _0x0sPaasa < (940588 + -993123) + 11847900 then
+													if _0x0sPaasa < 11445061 - (-303808) then
+														_0x0pSINGIT = 584934 + -577164;
+														_0x0ZIveDoneNothing = _0x0HGay;
+														_0x0KTanginaMoCge = _0x0ZIveDoneNothing % _0x0pSINGIT;
+														_0x0pSINGIT = -831039 - (-831039);
+														_0x0sPaasa = _0x0KTanginaMoCge == _0x0pSINGIT;
+														_0x0sPaasa = _0x0sPaasa and -187839 + (951809 + 10532255) or 955057 + 13856959;
 													else
-														_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight and 327574 + (630494 + 7056938) or 13305643 - 369342;
+														_0x0BTanginaMoCge = _0x0bBoo();
+														_0x0YBible = _0x0bBoo();
+														_0x0OTerrorist = _0x0bBoo();
+														_0x0HGay = _0x0SMamaMoBlue(-1036492 - (-1237524 - (-197027)));
+														_0x0sPaasa = nil;
+														_0x0DSINGIT = _0x0SUrMom;
+														_0x0GPlsNo = nil;
+														_0x0KTanginaMoCge = _0x0bBoo();
+														_0x0MRomans12_19[_0x0YBible] = _0x0sPaasa;
+														_0x0MRomans12_19[_0x0BTanginaMoCge] = _0x0GPlsNo;
+														_0x0MFallenPartsDestroyHeight = _0x0SMamaMoBlue(((1790595 - 975559) - 423801) + -387230);
+														_0x0GPlsNo = _0x0sSINGIT[_0x0MFallenPartsDestroyHeight];
+														_0x0MFallenPartsDestroyHeight = _0x0SMamaMoBlue((1043145 - (328 - (18973 - (-378648 + 1194884)))) - 241595);
+														_0x0sPaasa = _0x0GPlsNo[_0x0MFallenPartsDestroyHeight];
+														_0x0MFallenPartsDestroyHeight = _0x0bBoo();
+														_0x0ZIveDoneNothing = _0x0SMamaMoBlue(-962691 + 966651);
+														_0x0MRomans12_19[_0x0MFallenPartsDestroyHeight] = _0x0sPaasa;
+														_0x0bLove = _0x0SMamaMoBlue((-1057845 - (-62326)) - (-999375));
+														_0x0LTFYouLookingAt = _0x0bBoo();
+														_0x0GPlsNo = _0x0sSINGIT[_0x0HGay];
+														_0x0HGay = _0x0SMamaMoBlue(676829 + -672783);
+														_0x0sPaasa = _0x0GPlsNo[_0x0HGay];
+														_0x0HGay = _0x0sPaasa;
+														_0x0GPlsNo = _0x0sSINGIT[_0x0bLove];
+														_0x0bLove = _0x0SMamaMoBlue((-1363956 - (-875935)) - (-491938));
+														_0x0TBible = ((396045 - 139363) - (-626206)) - 882632;
+														_0x0sPaasa = _0x0GPlsNo[_0x0bLove];
+														_0x0GPlsNo = _0x0sSINGIT[_0x0ZIveDoneNothing];
+														_0x0bLove = _0x0sPaasa;
+														_0x0ZIveDoneNothing = _0x0SMamaMoBlue((865079 - 910870) - (-583682 - (-534079)));
+														_0x0sPaasa = _0x0GPlsNo[_0x0ZIveDoneNothing];
+														_0x0GPlsNo = -688897 + (44100 + 644798);
+														_0x0ZIveDoneNothing = _0x0sPaasa;
+														_0x0sPaasa = 199697 - 199697;
+														_0x0MRomans12_19[_0x0OTerrorist] = _0x0sPaasa;
+														_0x0sPaasa = 791396 - 791394;
+														_0x0MRomans12_19[_0x0KTanginaMoCge] = _0x0sPaasa;
+														_0x0nBakla = _0x0TBible;
+														_0x0sPaasa = {};
+														_0x0pSINGIT = _0x0sPaasa;
+														_0x0sPaasa = {};
+														_0x0MRomans12_19[_0x0LTFYouLookingAt] = _0x0sPaasa;
+														_0x0sPaasa = 690007 + -690007;
+														_0x0TBible = (-1834688 - (-979290)) + 855399;
+														_0x0ASkilliSSUE = _0x0sPaasa;
+														_0x0sPaasa = {};
+														_0x0oUrMom = _0x0TBible;
+														_0x0WNigaBytes = _0x0sPaasa;
+														_0x0TBible = -373007 - (-373007);
+														_0x0EOhab = _0x0oUrMom < _0x0TBible;
+														_0x0TBible = _0x0GPlsNo - _0x0oUrMom;
+														_0x0sPaasa = 16551945 - 1036369;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0VDick;
-													_0x0eTerrorist = _0x0iFallenPartsDestroyHeight;
-													_0x0EDiKanaNiyaMahal = (365099 - (958789 + -1163920)) + 11951860;
+													_0x0sPaasa = _0x0ISkilliSSUE and -935948 + 10467703 or 745966 + (612780 + ((1038522 + -1801164) + (-792241 - (-705928))));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (605088 + -494882) + ((-231529 + (886406 + 10220860)) - (-475688)) then
-													_0x0LSkilliSSUE = not _0x0SPlsNo;
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE;
-													_0x0EDiKanaNiyaMahal = _0x0oSkidDetected;
-													_0x0EDiKanaNiyaMahal = (-154625 + -648782) + 5934983;
+												if _0x0sPaasa < (-1831941 - (((780845 - 802120) + (95799 + -723184)) - 342712)) + 13008418 then
+													_0x0bLove = _0x0MFallenPartsDestroyHeight;
+													_0x0KTanginaMoCge = _0x0SMamaMoBlue(-795598 - (-799506));
+													_0x0KTanginaMoCge = _0x0ZIveDoneNothing[_0x0KTanginaMoCge];
+													_0x0OTerrorist = { _0x0KTanginaMoCge(_0x0ZIveDoneNothing) };
+													_0x0sPaasa = _0x0SMamaMoBlue(885315 + ((187033 - 978998) + -89351));
+													_0x0sPaasa = _0x0YBible[_0x0sPaasa];
+													_0x0sPaasa = _0x0sPaasa(_0x0YBible, _0x0VBakla(_0x0OTerrorist));
+													_0x0sPaasa = _0x0sPaasa and 269961 + 15156763 or 566377 + 2168399;
 												else
-													_0x0EDiKanaNiyaMahal = 9507662 - 313213;
-													_0x0QMeow = nil;
-													_0x0rBILAT = nil;
+													_0x0BTanginaMoCge = _0x0SMamaMoBlue(804744 + -800739);
+													_0x0sPaasa = 10328507 - (-285641);
+													_0x0OTerrorist = 11614117798303 - 729914;
+													_0x0GPlsNo = -736074 + 736075;
+													_0x0ZIveDoneNothing = _0x0SMamaMoBlue(((-1091035 - (-926465)) + 628834) - (1315963 - 855536));
+													_0x0YBible = _0x0sSINGIT[_0x0BTanginaMoCge];
+													_0x0MFallenPartsDestroyHeight = _0x0MRomans12_19[_0x0VTUBOL[-410988 + (537033 - ((269661 - 748237) + ((361646 + 913971) - (-350181 + 1021178))))]];
+													_0x0HGay = _0x0MRomans12_19[_0x0VTUBOL[(-840431 + 1114600) + ((-357558 + -252684) - (-336075))]];
+													_0x0bLove = _0x0HGay(_0x0ZIveDoneNothing, _0x0OTerrorist);
+													_0x0BTanginaMoCge = _0x0MFallenPartsDestroyHeight[_0x0bLove];
+													_0x0DSINGIT = _0x0YBible[_0x0BTanginaMoCge];
+													_0x0YBible = _0x0DSINGIT;
+													_0x0DSINGIT = 719224 + -719223;
+													_0x0BTanginaMoCge = _0x0DSINGIT;
+													_0x0DSINGIT = -1044436 + 1044436;
+													_0x0MFallenPartsDestroyHeight = _0x0BTanginaMoCge < _0x0DSINGIT;
+													_0x0DSINGIT = _0x0GPlsNo - _0x0BTanginaMoCge;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < -879222 + 12595779 then
-												if _0x0EDiKanaNiyaMahal < (11112223 - (-871534)) - 284344 then
-													if _0x0EDiKanaNiyaMahal < ((440262 + 9428358) - (-1031633)) - (-721646) then
-														_0x0EDiKanaNiyaMahal = {};
-														_0x0JMeow = _0x0EDiKanaNiyaMahal;
-														_0x0eTerrorist = _0x0HKigol((540313 - (1155629 - 804259)) - 238089);
-														_0x0XBILAT = _0x0HKigol(559378 - (487835 + 120914));
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0eTerrorist];
-														_0x0gDick = _0x0ETUBOL[_0x0XBILAT];
-														_0x0XBILAT = { _0x0gDick() };
-														_0x0gDick = { _0x0EDiKanaNiyaMahal(_0x0bMamaMoBlue(_0x0XBILAT)) };
-														_0x0EDiKanaNiyaMahal = 704687 + 1419050;
-														_0x0VDick = _0x0gDick[-858351 - ((278287 + 285572) + -1422213)];
-														_0x0eTerrorist = _0x0gDick[((1086221 - 971598) - (-797529)) - 912151];
-														_0x0iFallenPartsDestroyHeight = _0x0gDick[((-625459 + 2110039) - (340753 - (553844 + -792280))) - 905389];
+											if _0x0sPaasa < (-439956 + (11144953 - (-926451))) - (-826694) then
+												if _0x0sPaasa < 112295 + 12266509 then
+													if _0x0sPaasa < 12731302 - 417479 then
+														_0x0WNigaBytes = _0x0sPaasa;
+														_0x0nBakla = _0x0SMamaMoBlue(-764067 + ((979178 + -253160) - (335852 - (942702 + -564962))));
+														_0x0TBible = _0x0sSINGIT[_0x0nBakla];
+														_0x0ASkilliSSUE = _0x0TBible;
+														_0x0sPaasa = _0x0TBible and (-267072 - ((-972180 + 1274833) + (20751 - 564840))) + 141915 or 7340148 - 410069;
 													else
-														_0x0cBoo = _0x0HSkidDetected[-691443 + 691444];
-														_0x0ZSkilliSSUE = { _0x0cBoo };
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(-195050 + 145828)];
+														_0x0LTFYouLookingAt = _0x0SMamaMoBlue(((-36951 - ((423712 + (708493 - (-306400))) - 821628)) - (-251133)) + 406758);
+														_0x0pSINGIT = _0x0sSINGIT[_0x0LTFYouLookingAt];
+														_0x0KTanginaMoCge = _0x0sPaasa;
+														_0x0sPaasa = _0x0pSINGIT and (-237464 - (-396013 - (-721030))) + 1885186 or -456224 - (-787730);
+														_0x0OTerrorist = _0x0pSINGIT;
 													end;
 												else
-													_0x0NTanginaMoCge = _0x0JMeow(_0x0KRomans12_19);
-													_0x0EDiKanaNiyaMahal = 4775285 - 751718;
-													_0x0vGay = _0x0NTanginaMoCge;
+													_0x0sPaasa = (-528338 - (-771184 + 767265)) + 4925701;
+													_0x0EOhab = nil;
+													_0x0oUrMom = nil;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 12294815 - 540202 then
-													_0x0fPaasa = _0x0HKigol(571244 - 620624);
-													_0x0EDiKanaNiyaMahal = _0x0QMeow;
-													_0x0NTanginaMoCge = _0x0HKigol((253896 - (1032718 - 326977)) + ((976045 - 1006657) + 433059));
-													_0x0vGay = _0x0EDiKanaNiyaMahal;
-													_0x0QMeow = _0x0ETUBOL[_0x0fPaasa];
-													_0x0KRomans12_19 = _0x0HKigol(-664577 + 615378);
-													_0x0CKigol = _0x0HKigol(-821278 + 772011);
-													_0x0fPaasa = _0x0ETUBOL[_0x0CKigol];
-													_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-													_0x0TRespect = _0x0ETUBOL[_0x0NTanginaMoCge];
-													_0x0KRomans12_19 = _0x0TRespect;
-													_0x0EDiKanaNiyaMahal = _0x0TRespect and 915028 + 3543772 or ((1010071 - 392709) + -54888) + 12607794;
+												if _0x0sPaasa < 11649626 - (-827365) then
+													_0x0rIveDoneNothing = 581607 + 1299702745244;
+													_0x0JBILAT = _0x0SMamaMoBlue(449408 + (-197260 + -248245));
+													_0x0nBakla = _0x0TBible;
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue(-340915 + 344771);
+													_0x0NKigol = _0x0SMamaMoBlue(((271582 + ((-1596323 - 267521) - (-594200))) + 153086) - (-849006));
+													_0x0EOhab = _0x0sSINGIT[_0x0ISkilliSSUE];
+													_0x0vGay = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0aUrMom = _0x0MRomans12_19[_0x0YBible];
+													_0x0lBible = _0x0SMamaMoBlue(195240 - (((((((-830620 - 27968) + -398455) - (-1039724)) - (-1512558 - (-85587 - 931733))) - (-1046434)) - (767294 - (-981628 + (1610122 - 1462)))) - 992682));
+													_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+													_0x0tTerrorist = 24868841937733 - (-426914);
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(565029 - 561117);
+													_0x0kTangina = _0x0SMamaMoBlue((-348985 + 463894) + -110983);
+													_0x0ISkilliSSUE = _0x0vGay[_0x0mWagGago];
+													_0x0XTanginaMoCge = 95577 + ((29346310814538 - (-458711 + -142233)) - (-378388));
+													_0x0sPaasa = _0x0EOhab[_0x0ISkilliSSUE];
+													_0x0aUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0JBILAT = _0x0mWagGago(_0x0rIveDoneNothing, _0x0tTerrorist);
+													_0x0vGay = _0x0aUrMom[_0x0JBILAT];
+													_0x0JBILAT = _0x0SMamaMoBlue(902886 + (672308 + -1571308));
+													_0x0uMamaMoBlue = -133580 + 9371432571344;
+													_0x0mWagGago = _0x0sSINGIT[_0x0JBILAT];
+													_0x0JBILAT = _0x0mWagGago(_0x0pSINGIT);
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = _0x0gOhab(_0x0NKigol, _0x0uMamaMoBlue);
+													_0x0rIveDoneNothing = _0x0tTerrorist[_0x0PWagGago];
+													_0x0PWagGago = _0x0SMamaMoBlue(-295694 - (-299580));
+													_0x0gOhab = _0x0sSINGIT[_0x0PWagGago];
+													_0x0zSINGIT = 21321866608455 - 975856;
+													_0x0PWagGago = _0x0gOhab(_0x0nBakla);
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0YBible];
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible, _0x0XTanginaMoCge);
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0qTFYouLookingAt];
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(229964 - 226078);
+													_0x0jDiKanaNiyaMahal = _0x0sSINGIT[_0x0qTFYouLookingAt];
+													_0x0XTanginaMoCge = _0x0SMamaMoBlue(1006381 - 1002588);
+													_0x0lBible = _0x0sSINGIT[_0x0XTanginaMoCge];
+													_0x0XTanginaMoCge = { _0x0lBible(_0x0oUrMom) };
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0VBakla(_0x0XTanginaMoCge));
+													_0x0lBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0XTanginaMoCge = _0x0MRomans12_19[_0x0YBible];
+													_0x0dPleaseImBeggingNooo = _0x0XTanginaMoCge(_0x0kTangina, _0x0zSINGIT);
+													_0x0jDiKanaNiyaMahal = _0x0lBible[_0x0dPleaseImBeggingNooo];
+													_0x0uMamaMoBlue = _0x0qTFYouLookingAt .. _0x0jDiKanaNiyaMahal;
+													_0x0gOhab = _0x0NKigol .. _0x0uMamaMoBlue;
+													_0x0tTerrorist = _0x0PWagGago .. _0x0gOhab;
+													_0x0mWagGago = _0x0rIveDoneNothing .. _0x0tTerrorist;
+													_0x0aUrMom = _0x0JBILAT .. _0x0mWagGago;
+													_0x0ISkilliSSUE = _0x0vGay .. _0x0aUrMom;
+													_0x0EOhab = _0x0sPaasa(_0x0bLove, _0x0ISkilliSSUE);
+													_0x0oUrMom = nil;
+													_0x0sPaasa = 635513 + -81550;
+													_0x0nBakla = nil;
 												else
-													_0x0mFallenPartsDestroyHeight = _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = _0x0oSkidDetected;
-													_0x0EDiKanaNiyaMahal = 9819854 - (-834874);
+													_0x0ZIveDoneNothing = _0x0KTanginaMoCge;
+													_0x0sPaasa = _0x0pSINGIT;
+													_0x0sPaasa = -538734 + ((-574350 + 631555) + (6798473 - (-664883 - (-865198))));
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 327989 + 11746935 then
-											if _0x0EDiKanaNiyaMahal < 11121859 - (691120 + -1458123) then
-												if _0x0EDiKanaNiyaMahal < ((-21653 - (-444900 + 315133)) - ((1950532 - 988163) + -1400450)) + 11316608 then
-													if _0x0EDiKanaNiyaMahal < 10806522 - (-998498) then
-														_0x0gDick = (-981592 + (1314883 - (-201971))) + (-994669 + 467177);
-														_0x0eTerrorist = _0x0OTerrorist;
-														_0x0VDick = _0x0eTerrorist % _0x0gDick;
-														_0x0gDick = ((1032446 + ((-9831 - (701513 - 335548)) - (-456363))) - (-749765 + 990424)) - (1040656 + (-1189634 - (988598 + -2009930)));
-														_0x0EDiKanaNiyaMahal = _0x0VDick == _0x0gDick;
-														_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and (((((((-607465 - (358397 + -535470)) - ((-160402 - (-530251)) - 164548)) + 162294) + (672822 - (-425268))) + 535335) - 687620) + -1207959) + 912978 or -834564 + 2393384;
+										if _0x0sPaasa < (761810 + 11773887) - (-236870) then
+											if _0x0sPaasa < (-668959 + 12972453) - (-323981) then
+												if _0x0sPaasa < 12547588 - (288028 - 314995) then
+													if _0x0sPaasa < -628951 + 13172370 then
+														_0x0aUrMom, _0x0mWagGago = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+														_0x0sPaasa = _0x0aUrMom and (13503940 - (-820122)) - (-22249) or 176124 + 15007438;
 													else
-														_0x0EDiKanaNiyaMahal = (239454 - (-113140 - ((177692 + -462763) + (40851 + 556693)))) + 9831534;
-														_0x0rBILAT = nil;
-														_0x0KRomans12_19 = nil;
+														_0x0sPaasa = _0x0TBible;
+														_0x0sPaasa = _0x0LTFYouLookingAt and ((10536295 - ((-1007788 + 430316) - (-846343))) - (-582705)) - 899926 or 10877768 - 1015796;
 													end;
 												else
-													_0x0tBILAT = _0x0HKigol(33047 - 82394);
-													_0x0EDiKanaNiyaMahal = 10289137 - 274979;
-													_0x0uBrainDamage = _0x0ETUBOL[_0x0tBILAT];
-													_0x0lNigger = _0x0BBible[_0x0ILove];
-													_0x0UBoo = _0x0HKigol((568345 - (-48371)) - 665999);
-													_0x0GMamaMoBlue = -792423 + 22305782345183;
-													_0x0MTUBOL = _0x0BBible[_0x0RBible];
-													_0x0pUrMom = _0x0MTUBOL(_0x0UBoo, _0x0GMamaMoBlue);
-													_0x0tBILAT = _0x0lNigger[_0x0pUrMom];
-													_0x0kPlsNo = _0x0uBrainDamage[_0x0tBILAT];
-													_0x0TRespect = _0x0kPlsNo;
+													_0x0aUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = 668477 + 34832198936954;
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(105026 + -100999);
+													_0x0JBILAT = _0x0mWagGago(_0x0rIveDoneNothing, _0x0tTerrorist);
+													_0x0vGay = _0x0aUrMom[_0x0JBILAT];
+													_0x0oUrMom = _0x0WNigaBytes[_0x0vGay];
+													_0x0mWagGago = _0x0SMamaMoBlue((-136349 - 606917) - (-747165));
+													_0x0JBILAT = true;
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0mWagGago = _0x0aUrMom(_0x0JBILAT);
+													_0x0sPaasa = 8109275 - 99616;
+													_0x0aUrMom = _0x0TPlsNo(987101 + 5360241, { _0x0BTanginaMoCge, _0x0YBible, _0x0EOhab });
+													_0x0vGay = _0x0oUrMom(_0x0mWagGago, _0x0aUrMom);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -1048338 + (((-12475 + (-674946 - (-326683 + -375950))) - (707400 + -495655)) + 13215735) then
-													_0x0hRespect = _0x0HKigol((-327277 - 214941) - (-493011));
-													_0x0tBILAT = _0x0HKigol(355969 - 405155);
-													_0x0NTanginaMoCge = 34710720531091 - (-434901 + -610709);
-													_0x0QMeow = _0x0ETUBOL[_0x0hRespect];
-													_0x0vGay = _0x0HKigol(1032208 + -1081578);
-													_0x0oSkidDetected = _0x0SPlsNo;
-													_0x0fPaasa = _0x0BBible[_0x0ILove];
-													_0x0CKigol = _0x0BBible[_0x0RBible];
-													_0x0TRespect = 34957951982932 - (-586482);
-													_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-													_0x0hRespect = _0x0fPaasa[_0x0KRomans12_19];
-													_0x0UBoo = _0x0HKigol(-219411 + 170099);
-													_0x0EDiKanaNiyaMahal = _0x0QMeow[_0x0hRespect];
-													_0x0TRespect = _0x0HKigol(897968 - 947118);
-													_0x0CKigol = _0x0BBible[_0x0ILove];
-													_0x0KRomans12_19 = _0x0BBible[_0x0RBible];
-													_0x0vGay = _0x0KRomans12_19(_0x0TRespect, _0x0NTanginaMoCge);
-													_0x0fPaasa = _0x0CKigol[_0x0vGay];
-													_0x0vGay = _0x0HKigol(-989551 + (1534442 - (459121 - (-399686 + 264578))));
-													_0x0zBAYOT = _0x0HKigol(-515381 - (-465993));
-													_0x0KRomans12_19 = _0x0ETUBOL[_0x0vGay];
-													_0x0vGay = _0x0KRomans12_19(_0x0gDick);
-													_0x0NTanginaMoCge = _0x0BBible[_0x0ILove];
-													_0x0kPlsNo = _0x0BBible[_0x0RBible];
-													_0x0lNigger = 15391803876238 - ((-1930844 - (-929173)) - (-943166 + 189658));
-													_0x0uBrainDamage = _0x0kPlsNo(_0x0tBILAT, _0x0lNigger);
-													_0x0GMamaMoBlue = (13482245668189 - (-678209)) - (-444650);
-													_0x0TRespect = _0x0NTanginaMoCge[_0x0uBrainDamage];
-													_0x0uBrainDamage = _0x0HKigol(-398349 - (-349011));
-													_0x0kPlsNo = _0x0ETUBOL[_0x0uBrainDamage];
-													_0x0uBrainDamage = _0x0kPlsNo(_0x0oSkidDetected);
-													_0x0lNigger = _0x0BBible[_0x0ILove];
-													_0x0MTUBOL = _0x0BBible[_0x0RBible];
-													_0x0pUrMom = _0x0MTUBOL(_0x0UBoo, _0x0GMamaMoBlue);
-													_0x0wTanginaMoCge = 887705 + 31634583553138;
-													_0x0GMamaMoBlue = _0x0HKigol((492880 - 160718) - 381388);
-													_0x0tBILAT = _0x0lNigger[_0x0pUrMom];
-													_0x0pUrMom = _0x0HKigol(-136099 + 86761);
-													_0x0MTUBOL = _0x0ETUBOL[_0x0pUrMom];
-													_0x0UBoo = _0x0ETUBOL[_0x0GMamaMoBlue];
-													_0x0GMamaMoBlue = { _0x0UBoo(_0x0rBILAT) };
-													_0x0pUrMom = _0x0MTUBOL(_0x0bMamaMoBlue(_0x0GMamaMoBlue));
-													_0x0UBoo = _0x0BBible[_0x0ILove];
-													_0x0GMamaMoBlue = _0x0BBible[_0x0RBible];
-													_0x0dMeow = _0x0GMamaMoBlue(_0x0zBAYOT, _0x0wTanginaMoCge);
-													_0x0MTUBOL = _0x0UBoo[_0x0dMeow];
-													_0x0lNigger = _0x0pUrMom .. _0x0MTUBOL;
-													_0x0rBILAT = nil;
-													_0x0kPlsNo = _0x0tBILAT .. _0x0lNigger;
-													_0x0NTanginaMoCge = _0x0uBrainDamage .. _0x0kPlsNo;
-													_0x0KRomans12_19 = _0x0TRespect .. _0x0NTanginaMoCge;
-													_0x0CKigol = _0x0vGay .. _0x0KRomans12_19;
-													_0x0oSkidDetected = nil;
-													_0x0hRespect = _0x0fPaasa .. _0x0CKigol;
-													_0x0QMeow = _0x0EDiKanaNiyaMahal(_0x0JMeow, _0x0hRespect);
-													_0x0EDiKanaNiyaMahal = 14514663 - 453388;
+												if _0x0sPaasa < 13234890 - 512000 then
+													_0x0mWagGago = _0x0YBible;
+													_0x0tTerrorist = _0x0sPaasa;
+													_0x0sPaasa = _0x0YBible and (956167 + -1532297) + 7509744 or 14153376 - 524268;
 												else
-													_0x0SPlsNo = _0x0LSkilliSSUE;
-													_0x0QMeow = -373966 - (-558877 - (373595 + -550736));
-													_0x0rBILAT = _0x0SPlsNo % _0x0QMeow;
-													_0x0QMeow = 139518 + -139518;
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT == _0x0QMeow;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and 7702089 - (-996096) or 5002644 - (-344179);
+													_0x0aUrMom = _0x0OTerrorist;
+													_0x0sPaasa = 15555716 - 10980;
+													_0x0BTanginaMoCge = _0x0aUrMom;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < ((894095 - 640193) + (89217 + ((-918787 + (650680 + 1145051)) + (-180233 + 10668280)))) - (-465882) then
-												if _0x0EDiKanaNiyaMahal < (11442303 - (-249836)) - (-476538) then
-													_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge;
-													_0x0EDiKanaNiyaMahal = _0x0KRomans12_19 and 687574 + (-790522 + 3196159) or (14998808 - (-547817)) - (-91417);
+											if _0x0sPaasa < 12567062 - (-308370) then
+												if _0x0sPaasa < 256063 + 12608150 then
+													_0x0PWagGago = _0x0SMamaMoBlue(-519848 - (-523847));
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0VTUBOL[(231661 + (((-879982 + (-158126 - (-167457 - 395218))) + -212169) - 361518)) - ((1008867 + -2305779) - (-367660 - 111792))]];
+													_0x0gOhab = _0x0sPaasa;
+													_0x0XTanginaMoCge = 13836124354316 - (-824983);
+													_0x0PWagGago = _0x0EOhab[_0x0PWagGago];
+													_0x0lBible = _0x0SMamaMoBlue(-21689 - (-25629));
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0VTUBOL[313082 + -313080]];
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible, _0x0XTanginaMoCge);
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0qTFYouLookingAt];
+													_0x0PWagGago = _0x0PWagGago(_0x0EOhab, _0x0NKigol);
+													_0x0sPaasa = _0x0PWagGago and 848678 + (1038456 + (-552579 + (((375086 - (-149070)) + ((-1907462 - (-672531 + -214335)) + 564052)) + 2053219))) or 9729485 - 774877;
+													_0x0tTerrorist = _0x0PWagGago;
 												else
-													_0x0cBoo = _0x0cBoo + _0x0RBible;
-													_0x0OTerrorist = not _0x0BTerrorist;
-													_0x0ZSkilliSSUE = _0x0cBoo <= _0x0ILove;
-													_0x0ZSkilliSSUE = _0x0OTerrorist and _0x0ZSkilliSSUE;
-													_0x0OTerrorist = _0x0cBoo >= _0x0ILove;
-													_0x0OTerrorist = _0x0BTerrorist and _0x0OTerrorist;
-													_0x0ZSkilliSSUE = _0x0OTerrorist or _0x0ZSkilliSSUE;
-													_0x0OTerrorist = 647659 + 3329380;
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE and _0x0OTerrorist;
-													_0x0ZSkilliSSUE = 10610009 - 642033;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal or _0x0ZSkilliSSUE;
+													_0x0ASkilliSSUE = _0x0bLove(_0x0pSINGIT);
+													_0x0sPaasa = -177833 + 1297483;
+													_0x0LTFYouLookingAt = _0x0ASkilliSSUE;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 12302748 - (-1177) then
-													_0x0TRespect = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0JMeow and 9872712 - (-378070 - (-975102)) or 7822166 - (-669778);
-													_0x0vGay = _0x0JMeow;
-													_0x0rBILAT = _0x0CKigol;
+												if _0x0sPaasa < 12220752 - (-1111333 - (-429134)) then
+													_0x0tTerrorist = _0x0rIveDoneNothing;
+													_0x0sPaasa = 7137216 - (-519801);
 												else
-													_0x0EDiKanaNiyaMahal = nil;
-													_0x0ILove = _0x0EDiKanaNiyaMahal;
-													_0x0ZSkilliSSUE = _0x0HKigol(592656 + -641802);
-													_0x0eTerrorist = _0x0HKigol(70301 - 119479);
-													_0x0cBoo = _0x0HSkidDetected[881168 - 881167];
-													_0x0eTerrorist = _0x0cBoo[_0x0eTerrorist];
-													_0x0EDiKanaNiyaMahal = nil;
-													_0x0RBible = _0x0EDiKanaNiyaMahal;
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-													_0x0JMeow = { _0x0eTerrorist(_0x0cBoo) };
-													_0x0eTerrorist = { _0x0EDiKanaNiyaMahal(_0x0bMamaMoBlue(_0x0JMeow)) };
-													_0x0EDiKanaNiyaMahal = 969255 + 15526185;
-													_0x0OTerrorist = _0x0eTerrorist[(240146 - (-371318)) + -611461];
-													_0x0ZSkilliSSUE = _0x0eTerrorist[1002552 + (-518746 + (88040 + -571845))];
-													_0x0BTerrorist = _0x0eTerrorist[(((-890416 + -53485) - (-991746)) + 170000) + ((-723786 + (-70404 - 142824)) - (-719171))];
-													_0x0JMeow = _0x0ZSkilliSSUE;
+													_0x0ASkilliSSUE = _0x0sPaasa;
+													_0x0TBible = _0x0sPaasa;
+													_0x0oUrMom = _0x0SMamaMoBlue(848462 - 844622);
+													_0x0nBakla = _0x0sSINGIT[_0x0oUrMom];
+													_0x0WNigaBytes = _0x0nBakla;
+													_0x0sPaasa = _0x0nBakla and (14446538 - (-290609)) - (-116654 + 63240) or -596374 + 14843676;
 												end;
 											end;
 										end;
@@ -6990,943 +6770,1098 @@ return (function(...)
 								end;
 							end;
 						else
-							if _0x0EDiKanaNiyaMahal < 14441621 - 155025 then
-								if _0x0EDiKanaNiyaMahal < 675075 + 12705184 then
-									if _0x0EDiKanaNiyaMahal < ((-325713 + 13538652) - (-884904 + (312749 - (746237 + (-699503 + (-57279 + -375710)))))) - 667992 then
-										if _0x0EDiKanaNiyaMahal < ((111746 + 12305722) - (-274032)) - 190249 then
-											if _0x0EDiKanaNiyaMahal < -389223 + 12773431 then
-												if _0x0EDiKanaNiyaMahal < -612644 + (13516466 - 528824) then
-													if _0x0EDiKanaNiyaMahal < 11375983 - (-973818) then
-														_0x0EDiKanaNiyaMahal = _0x0oSkidDetected;
-														_0x0mFallenPartsDestroyHeight = _0x0SPlsNo;
-														_0x0EDiKanaNiyaMahal = 3142364 - ((-103985 + -490468) + 1117996);
+							if _0x0sPaasa < -992016 + 15881520 then
+								if _0x0sPaasa < (217713 - 720954) + ((522294 + 231461) + 13631774) then
+									if _0x0sPaasa < (426403 + (-932697 + 13510689)) - (-410509) then
+										if _0x0sPaasa < -723544 + 13855076 then
+											if _0x0sPaasa < (13826630 - 661752) - ((-713520 + 1619416) + -750936) then
+												if _0x0sPaasa < 12558482 - (-443340) then
+													if _0x0sPaasa < (-1183356 - (-563663)) + 13585586 then
+														_0x0MFallenPartsDestroyHeight, _0x0ZIveDoneNothing = _0x0HGay(_0x0BTanginaMoCge, _0x0MFallenPartsDestroyHeight);
+														_0x0sPaasa = _0x0MFallenPartsDestroyHeight and 710892 + (11614029 - 456756) or 4993264 - (-902799);
 													else
-														_0x0mFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal;
-														_0x0SPlsNo = _0x0HKigol(877580 - (-86824 + 1013802));
-														_0x0LSkilliSSUE = _0x0ETUBOL[_0x0SPlsNo];
-														_0x0XBILAT = _0x0LSkilliSSUE;
-														_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE and 3963529 - 423055 or 8683782 - (-774507);
+														_0x0sPaasa = 780737 + 13030651;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = 699033 + 13670847;
-													_0x0oSkidDetected = nil;
-													_0x0SPlsNo = nil;
+													_0x0pSINGIT = _0x0SMamaMoBlue((-178816 + -210636) - (-393484));
+													_0x0oUrMom = 894789 + ((-60306 - 131431) + 30071151873326);
+													_0x0sPaasa = _0x0sSINGIT[_0x0pSINGIT];
+													_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0nBakla = _0x0SMamaMoBlue(904691 - 900892);
+													_0x0WNigaBytes = _0x0MRomans12_19[_0x0YBible];
+													_0x0TBible = _0x0WNigaBytes(_0x0nBakla, _0x0oUrMom);
+													_0x0LTFYouLookingAt = _0x0ASkilliSSUE[_0x0TBible];
+													_0x0pSINGIT = _0x0sPaasa(_0x0LTFYouLookingAt);
+													_0x0pSINGIT = _0x0ZIveDoneNothing;
+													_0x0sPaasa = _0x0ZIveDoneNothing and 321684 + 15971413 or -158049 + 11636421;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 11639276 - (-757779) then
-													_0x0LSkilliSSUE = _0x0HKigol(-229213 + 179845);
-													_0x0XBILAT = _0x0EDiKanaNiyaMahal;
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight and (-1566364 - (-599070)) + (6847201 - 522545) or 2975928 - 379023;
-													_0x0gDick = _0x0mFallenPartsDestroyHeight;
+												if _0x0sPaasa < 12753324 - (-626363 + 286016) then
+													_0x0HGay = _0x0SMamaMoBlue(-783760 - (-787812));
+													_0x0KTanginaMoCge = _0x0SMamaMoBlue(-1034166 + 1038224);
+													_0x0MFallenPartsDestroyHeight = _0x0sSINGIT[_0x0HGay];
+													_0x0pSINGIT = (542460 + -258387) + (-855129 + 11158020261212);
+													_0x0bLove = _0x0MRomans12_19[_0x0VTUBOL[(1665187 - 722475) + (((-689900 - (176581 - 1008748)) - (-878659)) + -1963636)]];
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0VTUBOL[405610 - 405607]];
+													_0x0OTerrorist = _0x0ZIveDoneNothing(_0x0KTanginaMoCge, _0x0pSINGIT);
+													_0x0HGay = _0x0bLove[_0x0OTerrorist];
+													_0x0BTanginaMoCge = _0x0MFallenPartsDestroyHeight[_0x0HGay];
+													_0x0bLove = _0x0SMamaMoBlue(567169 - 563117);
+													_0x0HGay = _0x0sSINGIT[_0x0bLove];
+													_0x0MFallenPartsDestroyHeight = { _0x0BTanginaMoCge(_0x0HGay, _0x0YBible) };
+													_0x0sPaasa = { _0x0GPlsNo(_0x0VBakla(_0x0MFallenPartsDestroyHeight)) };
+													_0x0GPlsNo = { _0x0VBakla(_0x0sPaasa) };
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(-873537 - (-877433))];
 												else
-													_0x0uBrainDamage = _0x0EDiKanaNiyaMahal;
-													_0x0lNigger = _0x0HKigol(449466 - 498712);
-													_0x0tBILAT = _0x0ETUBOL[_0x0lNigger];
-													_0x0kPlsNo = _0x0tBILAT;
-													_0x0EDiKanaNiyaMahal = _0x0tBILAT and -895459 + 1415563 or 3801621 - 510198;
+													_0x0LTFYouLookingAt = _0x0bLove;
+													_0x0sPaasa = _0x0bLove and 162299 + 7648519 or 10547002 - (-461721 + -52303);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-227263 + 12884945) - 61 then
-												if _0x0EDiKanaNiyaMahal < 12344912 - (-205039) then
-													if _0x0EDiKanaNiyaMahal < 11547245 - (-990969) then
-														_0x0gDick = _0x0HKigol(763366 + (1017270 + -1829771));
-														_0x0VDick = _0x0ETUBOL[_0x0gDick];
-														_0x0iFallenPartsDestroyHeight = _0x0VDick;
-														_0x0EDiKanaNiyaMahal = _0x0VDick and 1279914 - 717544 or (809982 - (-865763)) - (-225862);
+											if _0x0sPaasa < 13473157 - 137966 then
+												if _0x0sPaasa < (-724860 - (-274729)) + ((1328656 - 657543) + ((14579274 - 1033794) - 476298)) then
+													if _0x0sPaasa < (13517323 - (-563617)) - 862134 then
+														_0x0sPaasa = 78345 + 11530935;
 													else
-														_0x0kPlsNo = _0x0HKigol((77222 - (((-653350 + 1572444) + -1012025) + -737221)) - ((1020802 - 854515) + (-122351 - (((105941 - ((343245 + -1083344) - (-578455 + 444096))) + ((-644270 + -2026283) - (859963 + -1253943))) - (-652145)))));
-														_0x0NTanginaMoCge = _0x0ETUBOL[_0x0kPlsNo];
-														_0x0pUrMom = _0x0HKigol((1027504 + -74409) - 1002293);
-														_0x0UBoo = ((12250582383731 - 327307) - 101290) - 462847;
-														_0x0tBILAT = _0x0BBible[_0x0ILove];
-														_0x0EDiKanaNiyaMahal = 475331 + ((-1179747 - ((-1877818 - (-1006122)) - (-451294 - 230302))) + 16923755);
-														_0x0lNigger = _0x0BBible[_0x0RBible];
-														_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-														_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-														_0x0kPlsNo = _0x0NTanginaMoCge(_0x0uBrainDamage);
-														_0x0kPlsNo = _0x0HKigol((-244123 + -438001) - ((577354 + -675160) + -535009));
-														_0x0NTanginaMoCge = _0x0ETUBOL[_0x0kPlsNo];
-														_0x0kPlsNo = _0x0NTanginaMoCge(_0x0fPaasa, _0x0TRespect);
+														_0x0rIveDoneNothing = ((-840649 - (-759475)) + 11535384786182) - 989207;
+														_0x0WNigaBytes = _0x0SMamaMoBlue(-430185 + (-232821 + 666862));
+														_0x0vGay = -297958 + 34394757119213;
+														_0x0pSINGIT = _0x0KTanginaMoCge;
+														_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+														_0x0EOhab = _0x0SMamaMoBlue((-1645513 - (-622981)) - (-1026374));
+														_0x0ISkilliSSUE = (12670606345284 - 436908) - (-651912);
+														_0x0TBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0nBakla = _0x0MRomans12_19[_0x0YBible];
+														_0x0PWagGago = ((-940930 + 58609) + (((367001 + (-111958 + 756363)) + 2336268286916) - 555286)) - (-323363);
+														_0x0oUrMom = _0x0nBakla(_0x0EOhab, _0x0ISkilliSSUE);
+														_0x0WNigaBytes = _0x0TBible[_0x0oUrMom];
+														_0x0sPaasa = _0x0ASkilliSSUE[_0x0WNigaBytes];
+														_0x0nBakla = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0oUrMom = _0x0MRomans12_19[_0x0YBible];
+														_0x0ISkilliSSUE = _0x0SMamaMoBlue(300871 + -297002);
+														_0x0EOhab = _0x0oUrMom(_0x0ISkilliSSUE, _0x0vGay);
+														_0x0TBible = _0x0nBakla[_0x0EOhab];
+														_0x0JBILAT = _0x0SMamaMoBlue((996135 + (-58502 + -1149133)) + (-436629 - (-651950)));
+														_0x0EOhab = _0x0SMamaMoBlue(-178392 + 182278);
+														_0x0gOhab = _0x0SMamaMoBlue((-1025817 - (-251896)) + (365008 - (-412921)));
+														_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+														_0x0EOhab = _0x0oUrMom(_0x0pSINGIT);
+														_0x0vGay = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0aUrMom = _0x0MRomans12_19[_0x0YBible];
+														_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+														_0x0ISkilliSSUE = _0x0vGay[_0x0mWagGago];
+														_0x0mWagGago = _0x0SMamaMoBlue((372395 + -1341123) - (-972614));
+														_0x0rIveDoneNothing = _0x0SMamaMoBlue(658061 + -654268);
+														_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+														_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+														_0x0rIveDoneNothing = { _0x0JBILAT(_0x0LTFYouLookingAt) };
+														_0x0mWagGago = _0x0aUrMom(_0x0VBakla(_0x0rIveDoneNothing));
+														_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+														_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+														_0x0aUrMom = _0x0JBILAT[_0x0tTerrorist];
+														_0x0vGay = _0x0mWagGago .. _0x0aUrMom;
+														_0x0oUrMom = _0x0ISkilliSSUE .. _0x0vGay;
+														_0x0nBakla = _0x0EOhab .. _0x0oUrMom;
+														_0x0WNigaBytes = _0x0TBible .. _0x0nBakla;
+														_0x0ASkilliSSUE = _0x0sPaasa(_0x0bLove, _0x0WNigaBytes);
+														_0x0EOhab = _0x0SMamaMoBlue(-693727 + (-637287 + 1334871));
+														_0x0WNigaBytes = _0x0SMamaMoBlue(-144747 - (-148540));
+														_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+														_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0LTFYouLookingAt);
+														_0x0ISkilliSSUE = (((-605629 + 1391669) + -853365) + (((505896 - 323691) + (588533 - (((-136355 + -834162) + 1553609) + 153710))) - (-293764))) + 6816317959452;
+														_0x0TBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0nBakla = _0x0MRomans12_19[_0x0YBible];
+														_0x0oUrMom = _0x0nBakla(_0x0EOhab, _0x0ISkilliSSUE);
+														_0x0ASkilliSSUE = _0x0TBible[_0x0oUrMom];
+														_0x0sPaasa = _0x0WNigaBytes == _0x0ASkilliSSUE;
+														_0x0sPaasa = _0x0sPaasa and 799723 - (((-669440 + 1178090) - 946302) - (-100382)) or 7599829 - 930025;
 													end;
 												else
-													_0x0ILove = _0x0BBible[_0x0bTerrorist[(1633289 - 908427) + (138739 + ((637986 + -2126983) - (-625399)))]];
-													_0x0RBible = 46020 + -46019;
-													_0x0cBoo = _0x0ILove ~= _0x0RBible;
-													_0x0EDiKanaNiyaMahal = _0x0cBoo and 13547776 - (50350 - 994986) or -750767 + 6939939;
+													_0x0OTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0nBakla = (796232 + 28549317520456) - (-234308);
+													_0x0TBible = _0x0SMamaMoBlue(-611693 - (-615546));
+													_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[(-3961 + 842614) - (1532651 - (-527572 + 1221571))]];
+													_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[910835 + (1031964 + -1942797)]];
+													_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0TBible, _0x0nBakla);
+													_0x0pSINGIT = _0x0LTFYouLookingAt[_0x0WNigaBytes];
+													_0x0WNigaBytes = _0x0SMamaMoBlue(((1610964 - (-307336 + (268828 + (-607216 - (-393554))))) - 935664) - 923584);
+													_0x0EOhab = _0x0SMamaMoBlue(((187176 + -711723) + 157622) + (327774 - (-43189)));
+													_0x0ISkilliSSUE = -949342 + (17190732642094 - (-42867));
+													_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+													_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0ZIveDoneNothing);
+													_0x0TBible = _0x0MRomans12_19[_0x0VTUBOL[(-1457899 - (-431678)) - ((-1471257 - (-658003)) + -212968)]];
+													_0x0nBakla = _0x0MRomans12_19[_0x0VTUBOL[(542994 + -938320) + ((1641185 - (210093 - (-340982 - (794576 - (866320 + (915551 + -1415899)))))) + -266178)]];
+													_0x0oUrMom = _0x0nBakla(_0x0EOhab, _0x0ISkilliSSUE);
+													_0x0ASkilliSSUE = _0x0TBible[_0x0oUrMom];
+													_0x0LTFYouLookingAt = _0x0WNigaBytes .. _0x0ASkilliSSUE;
+													_0x0KTanginaMoCge = _0x0pSINGIT .. _0x0LTFYouLookingAt;
+													_0x0sPaasa = _0x0OTerrorist .. _0x0KTanginaMoCge;
+													_0x0MRomans12_19[_0x0YBible] = _0x0sPaasa;
+													_0x0sPaasa = 170492 + 4850893;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (818072 + 12244841) - (180102 + 214030) then
-													_0x0EDiKanaNiyaMahal = 6815096 - (-366911 - (-710985));
+												if _0x0sPaasa < 775498 + 12602570 then
+													_0x0ZIveDoneNothing = _0x0sPaasa;
+													_0x0pSINGIT = _0x0SMamaMoBlue((525343 - 411564) - ((419275 + -99526) - 209988));
+													_0x0KTanginaMoCge = _0x0sSINGIT[_0x0pSINGIT];
+													_0x0pSINGIT = _0x0KTanginaMoCge(_0x0MFallenPartsDestroyHeight);
+													_0x0KTanginaMoCge = nil;
+													_0x0OTerrorist = _0x0pSINGIT == _0x0KTanginaMoCge;
+													_0x0sPaasa = _0x0OTerrorist and 960378 + (-104950 + 10294245) or -460530 + 16323331;
+													_0x0bLove = _0x0OTerrorist;
 												else
-													_0x0EDiKanaNiyaMahal = true;
-													_0x0ZSkilliSSUE = { _0x0EDiKanaNiyaMahal, _0x0eTerrorist };
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(995377 - 1044719)];
+													_0x0sPaasa = nil;
+													_0x0DSINGIT = _0x0SUrMom[-6276 + 6277];
+													_0x0YBible = _0x0sPaasa;
+													_0x0GPlsNo = _0x0SMamaMoBlue(1004139 - 1000290);
+													_0x0sPaasa = nil;
+													_0x0ZIveDoneNothing = _0x0SMamaMoBlue(-152239 + 156268);
+													_0x0BTanginaMoCge = _0x0sPaasa;
+													_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+													_0x0ZIveDoneNothing = _0x0DSINGIT[_0x0ZIveDoneNothing];
+													_0x0bLove = { _0x0ZIveDoneNothing(_0x0DSINGIT) };
+													_0x0ZIveDoneNothing = { _0x0sPaasa(_0x0VBakla(_0x0bLove)) };
+													_0x0MFallenPartsDestroyHeight = _0x0ZIveDoneNothing[(816698 + ((-185214 + 302228) - (-106864))) + -1040574];
+													_0x0HGay = _0x0ZIveDoneNothing[(340793 - (-245809)) + -586599];
+													_0x0GPlsNo = _0x0ZIveDoneNothing[((1523002 - 975040) - (623976 + -985323)) + -909308];
+													_0x0bLove = _0x0GPlsNo;
+													_0x0sPaasa = 647225 + ((-209475 + 3567281) - 786239);
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < -664095 + (-21672 + 13662933) then
-											if _0x0EDiKanaNiyaMahal < -800631 + 13722929 then
-												if _0x0EDiKanaNiyaMahal < (11881423 - (-24613)) - (-953540) then
-													if _0x0EDiKanaNiyaMahal < ((-846255 + 13777068) - 896392) - (-807039) then
-														_0x0RBible = _0x0BBible[_0x0ILove];
-														_0x0ZSkilliSSUE = { _0x0RBible };
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(203648 - 252832)];
+										if _0x0sPaasa < 12816313 - (-958579) then
+											if _0x0sPaasa < 14383652 - 737806 then
+												if _0x0sPaasa < 189289 + 13429183 then
+													if _0x0sPaasa < 222300 + (-375594 + (13033110 - (-611273))) then
+														_0x0PWagGago = 12473241759478 - (-329379);
+														_0x0aUrMom = _0x0SMamaMoBlue((-943102 - (-7319 + (-608719 + -424562))) + -93466);
+														_0x0gOhab = _0x0SMamaMoBlue((-1526660 - (-783965)) + ((1103496 - 552578) - (-195700)));
+														_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+														_0x0sPaasa = ((1104595 - 931235) + -927840) + 15113933;
+														_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+														_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+														_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+														_0x0aUrMom = _0x0vGay(_0x0mWagGago);
 													else
-														_0x0RBible = _0x0HKigol(868792 - 917999);
-														_0x0ILove = _0x0ETUBOL[_0x0RBible];
-														_0x0RBible = _0x0HKigol(1010970 + -1060150);
-														_0x0cBoo = _0x0ILove[_0x0RBible];
-														_0x0RBible = _0x0BBible[_0x0bTerrorist[(786862 + (507054 - 791000)) + (-20929 + -481986)]];
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol((((1017320 + -1621980) + 1962914) - 760144) + -647388)];
-														_0x0ILove = { _0x0cBoo(_0x0RBible) };
-														_0x0ZSkilliSSUE = { _0x0bMamaMoBlue(_0x0ILove) };
+														_0x0sPaasa = 5614910 - (51680 - ((896091 + -207118) + (959263 - 1039681)));
 													end;
 												else
-													_0x0ZSkilliSSUE = _0x0HKigol(607052 + -656198);
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-													_0x0iFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[-286340 - (-286343)]];
-													_0x0VDick = { _0x0EDiKanaNiyaMahal(_0x0iFallenPartsDestroyHeight) };
-													_0x0JMeow = _0x0VDick[-1043685 + 1043687];
-													_0x0ZSkilliSSUE = _0x0VDick[-496779 - ((-299534 - 446259) + (1156940 - 907927))];
-													_0x0EDiKanaNiyaMahal = (790164 + 7125019) - 419381;
-													_0x0eTerrorist = _0x0VDick[(454065 - 727671) + 273609];
-													_0x0iFallenPartsDestroyHeight = _0x0ZSkilliSSUE;
+													_0x0sPaasa = _0x0tTerrorist;
+													_0x0sPaasa = _0x0mWagGago and 724467 + 14670465 or 165399 + ((-348160 + (-348661 - (((((-651386 - 23959) + 593046) - (-864244)) + -1754069) + 742865))) + (825638 + 14639567));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 13107322 - 166109 then
-													_0x0EDiKanaNiyaMahal = 14775847 - (-175726);
+												if _0x0sPaasa < 37424 + (13223736 - (-413927)) then
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(958438 - (((569132 - (344482 + (((-248317 + (887122 + 109003)) - (356944 - (-521205))) + -6303))) + 103167) - (247194 + -737304)))];
+													_0x0YBible = nil;
+													_0x0GPlsNo = {};
+													_0x0DSINGIT = nil;
+													_0x0BTanginaMoCge = nil;
 												else
-													_0x0gDick = -176913 + ((-216932 - (-7669)) + 25190154435187);
-													_0x0OTerrorist = _0x0HKigol(319272 - 368673);
-													_0x0VDick = _0x0HKigol((-244709 + (268783 + 885270)) + (837839 + -1796399));
-													_0x0BTerrorist = _0x0ETUBOL[_0x0OTerrorist];
-													_0x0JMeow = _0x0BBible[_0x0bTerrorist[292988 - 292986]];
-													_0x0eTerrorist = _0x0BBible[_0x0bTerrorist[-187145 + (-334060 - (-833305 - (-312097)))]];
-													_0x0iFallenPartsDestroyHeight = _0x0eTerrorist(_0x0VDick, _0x0gDick);
-													_0x0OTerrorist = _0x0JMeow[_0x0iFallenPartsDestroyHeight];
-													_0x0RBible = _0x0BTerrorist[_0x0OTerrorist];
-													_0x0JMeow = _0x0HKigol(129718 + (-565103 - (-385984)));
-													_0x0OTerrorist = _0x0ETUBOL[_0x0JMeow];
-													_0x0BTerrorist = { _0x0RBible(_0x0OTerrorist, _0x0ILove) };
-													_0x0EDiKanaNiyaMahal = { _0x0ZSkilliSSUE(_0x0bMamaMoBlue(_0x0BTerrorist)) };
-													_0x0ZSkilliSSUE = { _0x0bMamaMoBlue(_0x0EDiKanaNiyaMahal) };
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol((347460 - ((-303247 + ((1022266 + -928670) + -562026)) + 1059017)) - 109436)];
+													_0x0QSkilliSSUE = 15191070253963 - (-161943);
+													_0x0sPaasa = _0x0tTerrorist;
+													_0x0PWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0COhab = 3921281378930 - (-124220);
+													_0x0lBible = -773680 + 29083656145344;
+													_0x0kTangina = (((396993 + -876445) - (-300671)) + -135030) + 9595921799020;
+													_0x0XTanginaMoCge = 4671553515834 - (-862399);
+													_0x0qTFYouLookingAt = -433520 + (-148884 + 34713350281741);
+													_0x0jDiKanaNiyaMahal = _0x0SMamaMoBlue(1015455 - ((-36629 + 1339333) - 291159));
+													_0x0NKigol = _0x0MRomans12_19[_0x0YBible];
+													_0x0uMamaMoBlue = _0x0NKigol(_0x0jDiKanaNiyaMahal, _0x0qTFYouLookingAt);
+													_0x0gOhab = _0x0PWagGago[_0x0uMamaMoBlue];
+													_0x0dPleaseImBeggingNooo = 23353104989192 - (-558639);
+													_0x0SDOhab = (962722 - ((194960 - 542082) + 1007697)) + 13880455081723;
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(-52726 + 56684);
+													_0x0NKigol = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0xMamaMoBlue = 19431647814314 - ((504605 - (1413736 - 913917)) - (-316218));
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0lBible = _0x0SMamaMoBlue(-139149 + 143136);
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0YBible];
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible, _0x0XTanginaMoCge);
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0qTFYouLookingAt];
+													_0x0XTanginaMoCge = _0x0SMamaMoBlue(904328 + -900381);
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0YBible];
+													_0x0lBible = _0x0qTFYouLookingAt(_0x0XTanginaMoCge, _0x0dPleaseImBeggingNooo);
+													_0x0uMamaMoBlue = _0x0jDiKanaNiyaMahal[_0x0lBible];
+													_0x0hPutangInaSabiNangWag = (((311038 + -324239) + (-491691 + 302518)) + (158348 - (-204597))) + (12305518992753 - 136349);
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0UBILAT = 12708054926468 - (-468946 + -84152);
+													_0x0lBible = _0x0MRomans12_19[_0x0YBible];
+													_0x0dPleaseImBeggingNooo = _0x0SMamaMoBlue(857022 + -853027);
+													_0x0XTanginaMoCge = _0x0lBible(_0x0dPleaseImBeggingNooo, _0x0kTangina);
+													_0x0eRomans12_19 = (720552 + (-421024 + 4943975708466)) - (-277514);
+													_0x0jDiKanaNiyaMahal = _0x0qTFYouLookingAt[_0x0XTanginaMoCge];
+													_0x0lBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0XTanginaMoCge = _0x0MRomans12_19[_0x0YBible];
+													_0x0zSINGIT = 24473200293603 - (-34994);
+													_0x0kTangina = _0x0SMamaMoBlue(181253 - 177348);
+													_0x0dPleaseImBeggingNooo = _0x0XTanginaMoCge(_0x0kTangina, _0x0zSINGIT);
+													_0x0qTFYouLookingAt = _0x0lBible[_0x0dPleaseImBeggingNooo];
+													_0x0XTanginaMoCge = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0zSINGIT = _0x0SMamaMoBlue(558742 - 554814);
+													_0x0iUrMom = 4045216103919 - (283067 + -189323);
+													_0x0dPleaseImBeggingNooo = _0x0MRomans12_19[_0x0YBible];
+													_0x0kTangina = _0x0dPleaseImBeggingNooo(_0x0zSINGIT, _0x0COhab);
+													_0x0wBILAT = -259997 + 17442671394065;
+													_0x0lBible = _0x0XTanginaMoCge[_0x0kTangina];
+													_0x0COhab = _0x0SMamaMoBlue((83667 - (-172837)) - (748533 - 495819));
+													_0x0FBakla = 19274236266558 - 162101;
+													_0x0dPleaseImBeggingNooo = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0kTangina = _0x0MRomans12_19[_0x0YBible];
+													_0x0zSINGIT = _0x0kTangina(_0x0COhab, _0x0QSkilliSSUE);
+													_0x0QSkilliSSUE = _0x0SMamaMoBlue((((-425810 + -183112) + 702117) + 655381) + -744756);
+													_0x0fBroStudyingHowMyBrainWorks = -758779 + 23516101927093;
+													_0x0XTanginaMoCge = _0x0dPleaseImBeggingNooo[_0x0zSINGIT];
+													_0x0kTangina = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0zSINGIT = _0x0MRomans12_19[_0x0YBible];
+													_0x0COhab = _0x0zSINGIT(_0x0QSkilliSSUE, _0x0xMamaMoBlue);
+													_0x0xMamaMoBlue = _0x0SMamaMoBlue(-390369 - (-394317));
+													_0x0dPleaseImBeggingNooo = _0x0kTangina[_0x0COhab];
+													_0x0zSINGIT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0COhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0QSkilliSSUE = _0x0COhab(_0x0xMamaMoBlue, _0x0wBILAT);
+													_0x0sDNoSkill = (-491916 - 464796) + 11090619538455;
+													_0x0kTangina = _0x0zSINGIT[_0x0QSkilliSSUE];
+													_0x0COhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0QSkilliSSUE = _0x0MRomans12_19[_0x0YBible];
+													_0x0cPaasa = (-824716 + 19190333291553) - (-814964);
+													_0x0wBILAT = _0x0SMamaMoBlue(-334486 + 338340);
+													_0x0xMamaMoBlue = _0x0QSkilliSSUE(_0x0wBILAT, _0x0cPaasa);
+													_0x0zSINGIT = _0x0COhab[_0x0xMamaMoBlue];
+													_0x0QSkilliSSUE = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0xMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0cPaasa = _0x0SMamaMoBlue(((352976 - (-784783)) - ((-707714 - (-443937)) - (-726469))) - ((2000640 - 620039) - 709518));
+													_0x0wBILAT = _0x0xMamaMoBlue(_0x0cPaasa, _0x0FBakla);
+													_0x0COhab = _0x0QSkilliSSUE[_0x0wBILAT];
+													_0x0xMamaMoBlue = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0FBakla = _0x0SMamaMoBlue((-605468 + -344983) - (-954357));
+													_0x0wBILAT = _0x0MRomans12_19[_0x0YBible];
+													_0x0cPaasa = _0x0wBILAT(_0x0FBakla, _0x0fBroStudyingHowMyBrainWorks);
+													_0x0QSkilliSSUE = _0x0xMamaMoBlue[_0x0cPaasa];
+													_0x0wBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0cPaasa = _0x0MRomans12_19[_0x0YBible];
+													_0x0fBroStudyingHowMyBrainWorks = _0x0SMamaMoBlue(((-322276 + 177545) + 1062457) + -913908);
+													_0x0FBakla = _0x0cPaasa(_0x0fBroStudyingHowMyBrainWorks, _0x0hPutangInaSabiNangWag);
+													_0x0xMamaMoBlue = _0x0wBILAT[_0x0FBakla];
+													_0x0hPutangInaSabiNangWag = _0x0SMamaMoBlue(566557 + (219891 + -782511));
+													_0x0cPaasa = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0FBakla = _0x0MRomans12_19[_0x0YBible];
+													_0x0fBroStudyingHowMyBrainWorks = _0x0FBakla(_0x0hPutangInaSabiNangWag, _0x0iUrMom);
+													_0x0wBILAT = _0x0cPaasa[_0x0fBroStudyingHowMyBrainWorks];
+													_0x0iUrMom = _0x0SMamaMoBlue((826948 + -649471) + -173492);
+													_0x0FBakla = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0fBroStudyingHowMyBrainWorks = _0x0MRomans12_19[_0x0YBible];
+													_0x0hPutangInaSabiNangWag = _0x0fBroStudyingHowMyBrainWorks(_0x0iUrMom, _0x0eRomans12_19);
+													_0x0eRomans12_19 = _0x0SMamaMoBlue(((799915 - 98727) + ((-1712372 - 593625) - (-945519))) - (-663288));
+													_0x0cPaasa = _0x0FBakla[_0x0hPutangInaSabiNangWag];
+													_0x0fBroStudyingHowMyBrainWorks = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0hPutangInaSabiNangWag = _0x0MRomans12_19[_0x0YBible];
+													_0x0iUrMom = _0x0hPutangInaSabiNangWag(_0x0eRomans12_19, _0x0UBILAT);
+													_0x0FBakla = _0x0fBroStudyingHowMyBrainWorks[_0x0iUrMom];
+													_0x0hPutangInaSabiNangWag = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0UBILAT = _0x0SMamaMoBlue(((-592391 - (159121 + -286060)) - (44500 - 953794)) - 439983);
+													_0x0iUrMom = _0x0MRomans12_19[_0x0YBible];
+													_0x0eRomans12_19 = _0x0iUrMom(_0x0UBILAT, _0x0sDNoSkill);
+													_0x0fBroStudyingHowMyBrainWorks = _0x0hPutangInaSabiNangWag[_0x0eRomans12_19];
+													_0x0sDNoSkill = _0x0SMamaMoBlue(((67355 - 379532) + ((-11079 + ((((-142317 - (-461456)) + (-862376 + -1209148)) - (-939683)) - (-576620))) - (-905968))) - 342784);
+													_0x0iUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0eRomans12_19 = _0x0MRomans12_19[_0x0YBible];
+													_0x0UBILAT = _0x0eRomans12_19(_0x0sDNoSkill, _0x0SDOhab);
+													_0x0hPutangInaSabiNangWag = _0x0iUrMom[_0x0UBILAT];
+													_0x0tTerrorist = {
+															_0x0gOhab,
+															_0x0PWagGago,
+															_0x0NKigol,
+															_0x0uMamaMoBlue,
+															_0x0jDiKanaNiyaMahal,
+															_0x0qTFYouLookingAt,
+															_0x0lBible,
+															_0x0XTanginaMoCge,
+															_0x0dPleaseImBeggingNooo,
+															_0x0kTangina,
+															_0x0zSINGIT,
+															_0x0COhab,
+															_0x0QSkilliSSUE,
+															_0x0xMamaMoBlue,
+															_0x0wBILAT,
+															_0x0cPaasa,
+															_0x0FBakla,
+															_0x0fBroStudyingHowMyBrainWorks,
+															_0x0hPutangInaSabiNangWag,
+														};
+													_0x0gOhab = _0x0bBoo();
+													_0x0MRomans12_19[_0x0gOhab] = _0x0tTerrorist;
+													_0x0NKigol = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0sPaasa = _0x0mWagGago and 15983924 - 789983 or 338865 + 5786389;
+													_0x0zSINGIT = 34427124434106 - ((1139170 - ((723736 + -1110216) + 1434509)) - 693560);
+													_0x0dPleaseImBeggingNooo = ((-797494 - (-646652)) + 16025517119185) - (-558361);
+													_0x0XTanginaMoCge = -173971 + 20266327780521;
+													_0x0lBible = (795979 + -990797) + (10170610641459 - (-12771));
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(-580372 - (-584423));
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0lBible = _0x0SMamaMoBlue((-69794 + 48540) + ((-1269340 - (-812171 + -69718)) - (-412719)));
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0YBible];
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible, _0x0XTanginaMoCge);
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0qTFYouLookingAt];
+													_0x0XTanginaMoCge = _0x0SMamaMoBlue(-858874 + 862864);
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0kTangina = -297829 + 6988972302282;
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0YBible];
+													_0x0lBible = _0x0qTFYouLookingAt(_0x0XTanginaMoCge, _0x0dPleaseImBeggingNooo);
+													_0x0uMamaMoBlue = _0x0jDiKanaNiyaMahal[_0x0lBible];
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0dPleaseImBeggingNooo = _0x0SMamaMoBlue((386657 - 114178) - 268424);
+													_0x0lBible = _0x0MRomans12_19[_0x0YBible];
+													_0x0XTanginaMoCge = _0x0lBible(_0x0dPleaseImBeggingNooo, _0x0kTangina);
+													_0x0jDiKanaNiyaMahal = _0x0qTFYouLookingAt[_0x0XTanginaMoCge];
+													_0x0lBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0XTanginaMoCge = _0x0MRomans12_19[_0x0YBible];
+													_0x0kTangina = _0x0SMamaMoBlue(876189 - (-63846 + 936028));
+													_0x0dPleaseImBeggingNooo = _0x0XTanginaMoCge(_0x0kTangina, _0x0zSINGIT);
+													_0x0qTFYouLookingAt = _0x0lBible[_0x0dPleaseImBeggingNooo];
+													_0x0tTerrorist = {
+															_0x0PWagGago,
+															_0x0NKigol,
+															_0x0uMamaMoBlue,
+															_0x0jDiKanaNiyaMahal,
+															_0x0qTFYouLookingAt,
+														};
+													_0x0PWagGago = _0x0bBoo();
+													_0x0MRomans12_19[_0x0PWagGago] = _0x0tTerrorist;
+													_0x0NKigol = _0x0RPaasa(((-131505 + (13591522 - (-89554 - 252099))) - (-959982)) - (1273744 - 290613), { _0x0gOhab });
+													_0x0uMamaMoBlue = _0x0RPaasa((-144757 - 830862) + 4019667, { _0x0PWagGago });
+													_0x0tTerrorist = _0x0bBoo();
+													_0x0MRomans12_19[_0x0tTerrorist] = _0x0NKigol;
+													_0x0NKigol = _0x0bBoo();
+													_0x0MRomans12_19[_0x0NKigol] = _0x0uMamaMoBlue;
+													_0x0lBible = .1;
+													_0x0uMamaMoBlue = _0x0TPlsNo(13619255 - (237280 - 32919), {
+															_0x0BTanginaMoCge,
+															_0x0YBible,
+															_0x0tTerrorist,
+															_0x0NKigol,
+														});
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue((((-1446417 - (-441492 + -34167)) - (-352657)) - (-235325 - (-213815))) - (-600399));
+													_0x0jDiKanaNiyaMahal = _0x0sSINGIT[_0x0qTFYouLookingAt];
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 12415913 - (-824890) then
-												if _0x0EDiKanaNiyaMahal < 12498032 - (-663488) then
-													_0x0hRespect = _0x0HKigol((-296194 + (-60207 - 453639)) - (-760702));
-													_0x0QMeow = _0x0ETUBOL[_0x0hRespect];
-													_0x0TRespect = 8837448929164 - (-271437);
-													_0x0oSkidDetected = _0x0EDiKanaNiyaMahal;
-													_0x0hRespect = _0x0QMeow(_0x0VDick);
-													_0x0QMeow = _0x0HKigol(-489615 + (996365 + -556157));
-													_0x0QMeow = _0x0hRespect[_0x0QMeow];
-													_0x0QMeow = _0x0QMeow(_0x0hRespect);
-													_0x0fPaasa = _0x0BBible[_0x0bTerrorist[-618123 + 618124]];
-													_0x0vGay = _0x0HKigol(450795 + (-972180 - (-472146)));
-													_0x0CKigol = _0x0BBible[_0x0bTerrorist[66355 + -66353]];
-													_0x0KRomans12_19 = _0x0CKigol(_0x0vGay, _0x0TRespect);
-													_0x0hRespect = _0x0fPaasa[_0x0KRomans12_19];
-													_0x0rBILAT = _0x0QMeow == _0x0hRespect;
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT and (((((729229 + -1466072) + (1011437 + -1130582)) + 1344171) - 353886) + 11724736) - 410799 or ((124815 + -1329030) - (-835422)) + 2809053;
-													_0x0SPlsNo = _0x0rBILAT;
+											if _0x0sPaasa < -343742 + (14204533 - 25255) then
+												if _0x0sPaasa < ((173352 + -34099) + (-1092863 - (-493786))) + (14085604 - (-183039)) then
+													_0x0sPaasa = _0x0SMamaMoBlue((169461 - ((-1502252 - (793518 + -1567629)) + ((-1358345 - (-721044)) + 1692274))) - ((1401088 - (1301510 - 386894)) - 647751));
+													_0x0DSINGIT = _0x0SUrMom[(194300 + 681069) + -875368];
+													_0x0GPlsNo = _0x0SMamaMoBlue(-791757 + 795606);
+													_0x0sPaasa = _0x0DSINGIT[_0x0sPaasa];
+													_0x0sPaasa = _0x0sPaasa(_0x0DSINGIT);
+													_0x0YBible = _0x0sPaasa;
+													_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+													_0x0HGay = _0x0MRomans12_19[_0x0VTUBOL[-887897 - (-887898)]];
+													_0x0bLove = { _0x0sPaasa(_0x0HGay) };
+													_0x0GPlsNo = _0x0bLove[-856550 - (-856551)];
+													_0x0HGay = _0x0GPlsNo;
+													_0x0BTanginaMoCge = _0x0bLove[-421413 + (-986626 + 1408041)];
+													_0x0sPaasa = -133005 + 13082284;
+													_0x0MFallenPartsDestroyHeight = _0x0bLove[-267925 - (-267928)];
 												else
-													_0x0EDiKanaNiyaMahal = _0x0vGay;
-													_0x0TRespect = _0x0HKigol((890650 - (-46846)) - 986695);
-													_0x0NTanginaMoCge = _0x0EDiKanaNiyaMahal;
-													_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-													_0x0uBrainDamage = _0x0HKigol(434539 + -483886);
-													_0x0kPlsNo = _0x0ETUBOL[_0x0uBrainDamage];
-													_0x0TRespect = _0x0kPlsNo;
-													_0x0EDiKanaNiyaMahal = _0x0kPlsNo and ((-611630 + -321331) + (((-777603 + (2896923 - (573057 - 742847))) - 874734) - 990642)) + 12398025 or 9892149 - (-122009);
+													_0x0sPaasa = (-77968 + -796204) + 8128096;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < ((-261742 - (-475976)) + -952545) + 14077513 then
-													_0x0ILove = _0x0HSkidDetected[-921740 + 921742];
-													_0x0iFallenPartsDestroyHeight = 236882 + ((91298 - 350757) + 19464485627148);
-													_0x0cBoo = _0x0HSkidDetected[(((366953 - (-727392)) - 997666) - 181788) + (596815 + (-544662 - (-32957)))];
-													_0x0RBible = _0x0HKigol(-682494 - (-1361282 - (-728014)));
-													_0x0ZSkilliSSUE = _0x0ETUBOL[_0x0RBible];
-													_0x0eTerrorist = _0x0HKigol((-1029061 + 263829) + 715893);
-													_0x0RBible = _0x0ZSkilliSSUE(_0x0ILove);
-													_0x0BTerrorist = _0x0BBible[_0x0bTerrorist[992037 + -992036]];
-													_0x0OTerrorist = _0x0BBible[_0x0bTerrorist[(-598448 + 1126358) + -527908]];
-													_0x0JMeow = _0x0OTerrorist(_0x0eTerrorist, _0x0iFallenPartsDestroyHeight);
-													_0x0ZSkilliSSUE = _0x0BTerrorist[_0x0JMeow];
-													_0x0EDiKanaNiyaMahal = _0x0RBible == _0x0ZSkilliSSUE;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and ((399532 + (-675100 - (-251322 - (-787981)))) + (896665 + 812334)) + 9766751 or 2569976 - (-766729);
+												if _0x0sPaasa < 13623905 - ((-949898 + -90420) + 798010) then
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue(-6443 + 10475);
+													_0x0sPaasa = _0x0sSINGIT[_0x0LTFYouLookingAt];
+													_0x0LTFYouLookingAt = _0x0sPaasa(_0x0MFallenPartsDestroyHeight, _0x0pSINGIT);
+													_0x0sPaasa = (10965437 - 29976) - (-183663);
 												else
-													_0x0pUrMom = { _0x0KRomans12_19() };
-													_0x0MTUBOL = _0x0lNigger(_0x0bMamaMoBlue(_0x0pUrMom));
-													_0x0EDiKanaNiyaMahal = 319891 + 2204609;
+													_0x0YBible = _0x0MRomans12_19[_0x0VTUBOL[-480887 + 480890]];
+													_0x0BTanginaMoCge = 201512 + -201511;
+													_0x0DSINGIT = _0x0YBible ~= _0x0BTanginaMoCge;
+													_0x0sPaasa = _0x0DSINGIT and ((831982 + 5647679) - (-157563)) - 106591 or 5000823 - 73422;
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < (-997973 + 158344) + 14813297 then
-										if _0x0EDiKanaNiyaMahal < (228025 + (944214 - 720066)) + ((-4522 + ((-1000685 + (2774777 - 501249)) - 873197)) + 12711157) then
-											if _0x0EDiKanaNiyaMahal < 669365 + ((-700683 - 197525) + 13656814) then
-												if _0x0EDiKanaNiyaMahal < 338086 + 13066962 then
-													if _0x0EDiKanaNiyaMahal < 500507 + (-63603 + 12953686) then
-														_0x0QMeow = _0x0EDiKanaNiyaMahal;
-														_0x0fPaasa = _0x0HKigol((1205358 - 894682) + -359978);
-														_0x0hRespect = _0x0ETUBOL[_0x0fPaasa];
-														_0x0EDiKanaNiyaMahal = _0x0hRespect and 4452645 - (-471769) or 583711 - (-906247);
-														_0x0rBILAT = _0x0hRespect;
+									if _0x0sPaasa < -454167 + 14806108 then
+										if _0x0sPaasa < (13981281 - (-227762)) - 10859 then
+											if _0x0sPaasa < 14857562 - 865991 then
+												if _0x0sPaasa < 14899682 - (-607231 + (302985 + 1255066)) then
+													if _0x0sPaasa < -438172 + 14364838 then
+														_0x0sPaasa = (55304 + (2451299 - 401350)) - (383134 + -895247);
+														_0x0dPleaseImBeggingNooo = 31803225201982 - (-360801 - (-212120 + 852394));
+														_0x0uMamaMoBlue = _0x0SMamaMoBlue(-879479 - (-883371));
+														_0x0XTanginaMoCge = _0x0SMamaMoBlue(229990 + -226026);
+														_0x0NKigol = _0x0sSINGIT[_0x0uMamaMoBlue];
+														_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0BTanginaMoCge];
+														_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0YBible];
+														_0x0lBible = _0x0qTFYouLookingAt(_0x0XTanginaMoCge, _0x0dPleaseImBeggingNooo);
+														_0x0uMamaMoBlue = _0x0jDiKanaNiyaMahal[_0x0lBible];
+														_0x0PWagGago = _0x0NKigol[_0x0uMamaMoBlue];
+														_0x0tTerrorist = _0x0PWagGago;
 													else
-														_0x0eTerrorist, _0x0gDick = _0x0iFallenPartsDestroyHeight(_0x0JMeow, _0x0eTerrorist);
-														_0x0EDiKanaNiyaMahal = _0x0eTerrorist and 10725646 - (-390547 + 1319557) or (5195991 - 401930) - (-686011 + 952324);
+														_0x0sPaasa = true;
+														_0x0GPlsNo = { _0x0sPaasa };
+														_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(715121 + ((-1062278 - (-850075)) - 498864))];
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = -512078 + 10862146;
+													_0x0ASkilliSSUE = _0x0TBible;
+													_0x0sPaasa = _0x0nBakla;
+													_0x0sPaasa = -445500 - (-561779);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (14526523 - 845663) - 187478 then
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol((-290759 + -321116) - (((144522 + 333705) - ((-292601 - (-742591)) - 353773)) - 944527))];
-													_0x0ZSkilliSSUE = { _0x0ILove };
+												if _0x0sPaasa < -305433 + 14389719 then
+													_0x0sPaasa = (367038 + 192118) + 3006068;
 												else
-													_0x0LSkilliSSUE = _0x0HKigol(-452802 + 403595);
-													_0x0hRespect = (1251715 - 764856) + (34733007086903 - (-410078 - (188367 - (-33985))));
-													_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0SPlsNo = _0x0BBible[_0x0bTerrorist[814386 - 814385]];
-													_0x0oSkidDetected = _0x0BBible[_0x0bTerrorist[668737 - (-83776 + 752511)]];
-													_0x0QMeow = _0x0HKigol((1002182 + -1815725) + 764269);
-													_0x0rBILAT = _0x0oSkidDetected(_0x0QMeow, _0x0hRespect);
-													_0x0LSkilliSSUE = _0x0SPlsNo[_0x0rBILAT];
-													_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight[_0x0LSkilliSSUE];
-													_0x0SPlsNo = _0x0HKigol(85154 + -134492);
-													_0x0LSkilliSSUE = _0x0ETUBOL[_0x0SPlsNo];
-													_0x0SPlsNo = { _0x0LSkilliSSUE(_0x0VDick) };
-													_0x0mFallenPartsDestroyHeight = _0x0EDiKanaNiyaMahal(_0x0OTerrorist, _0x0bMamaMoBlue(_0x0SPlsNo));
-													_0x0EDiKanaNiyaMahal = 15887775 - 936202;
+													_0x0MFallenPartsDestroyHeight, _0x0ZIveDoneNothing = _0x0HGay(_0x0BTanginaMoCge, _0x0MFallenPartsDestroyHeight);
+													_0x0sPaasa = _0x0MFallenPartsDestroyHeight and 298158 + (2122412 - 169223) or 1034415 + ((349215 + (-951136 - 183725)) + 5862336);
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 13238397 - (-517521) then
-												if _0x0EDiKanaNiyaMahal < 13089544 - (-587376) then
-													if _0x0EDiKanaNiyaMahal < -949487 + 14567655 then
-														_0x0SPlsNo = (968438 + -743050) + (474968 + (-638274 - 62082));
-														_0x0ZSkilliSSUE = #_0x0LSkilliSSUE;
-														_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE == _0x0SPlsNo;
-														_0x0EDiKanaNiyaMahal = (495462 - 575580) + 7923933;
+											if _0x0sPaasa < (133173 - (-535508)) + 13641723 then
+												if _0x0sPaasa < 14781918 - 498159 then
+													if _0x0sPaasa < 13821923 - (-423632) then
+														_0x0vGay = _0x0SMamaMoBlue(-468892 - (-472756));
+														_0x0EOhab = _0x0sPaasa;
+														_0x0ISkilliSSUE = _0x0sSINGIT[_0x0vGay];
+														_0x0oUrMom = _0x0ISkilliSSUE;
+														_0x0sPaasa = _0x0ISkilliSSUE and (1026496 + 9421051) - (-604569) or 10070401 - (-338323);
 													else
-														_0x0TRespect = _0x0EDiKanaNiyaMahal;
-														_0x0kPlsNo = _0x0HKigol(-294755 + 245565);
-														_0x0NTanginaMoCge = _0x0ETUBOL[_0x0kPlsNo];
-														_0x0vGay = _0x0NTanginaMoCge;
-														_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge and 16086986 - ((604723 + 650189) - 830579) or 8860852 - 915465;
+														_0x0sPaasa = _0x0TBible;
+														_0x0sPaasa = _0x0WNigaBytes and ((-914180 + ((-330793 + 698263) - 122300)) + 1364119) + 10365595 or 1028509 + 14987652;
+														_0x0LTFYouLookingAt = _0x0WNigaBytes;
 													end;
 												else
-													_0x0KRomans12_19 = _0x0HKigol((-77818 - (-964335 + 1880492)) + 944719);
-													_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0kPlsNo = _0x0HKigol((251904 + 707109) + (((70933 + -481777) - 558891) - 38555));
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0uBrainDamage = ((15480960384884 - (-922005)) - (793721 + (820312 + (((274720 + -1485086) - (-88852 - 603710)) + -1637999)))) - (-25200 - (-1386328 - (-594769)));
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0KRomans12_19 = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0fPaasa = _0x0CKigol[_0x0KRomans12_19];
-													_0x0EDiKanaNiyaMahal = _0x0fPaasa and (-904878 + ((-139558 - 114593) + 13220740)) - 937343 or ((-1429023 - (-384205)) + 7988657) - 902506;
+													_0x0MFallenPartsDestroyHeight, _0x0ZIveDoneNothing = _0x0HGay(_0x0BTanginaMoCge, _0x0MFallenPartsDestroyHeight);
+													_0x0sPaasa = _0x0MFallenPartsDestroyHeight and 16071386 - (-259496) or (-482971 + 15648527) - ((568998 - (-909316 + 866738)) + -12068);
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 13145372 - (-1754847 - (-164446 - (623890 - (-156449)))) then
-													_0x0gDick = _0x0gDick + _0x0XBILAT;
-													_0x0LSkilliSSUE = not _0x0mFallenPartsDestroyHeight;
-													_0x0iFallenPartsDestroyHeight = _0x0gDick <= _0x0VDick;
-													_0x0iFallenPartsDestroyHeight = _0x0LSkilliSSUE and _0x0iFallenPartsDestroyHeight;
-													_0x0LSkilliSSUE = _0x0gDick >= _0x0VDick;
-													_0x0LSkilliSSUE = _0x0mFallenPartsDestroyHeight and _0x0LSkilliSSUE;
-													_0x0iFallenPartsDestroyHeight = _0x0LSkilliSSUE or _0x0iFallenPartsDestroyHeight;
-													_0x0LSkilliSSUE = 106934 + 9168499;
-													_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight and _0x0LSkilliSSUE;
-													_0x0iFallenPartsDestroyHeight = 620169 + 3308821;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal or _0x0iFallenPartsDestroyHeight;
+												if _0x0sPaasa < -124000 + (15057730 - ((-61769 - (785523 - (159679 - (-872270)))) + 430396)) then
+													_0x0PWagGago = _0x0SMamaMoBlue((772575 - 966890) - (-198189));
+													_0x0lBible = (976508 + 18982966075896) - 691740;
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(((1029297 + -1965488) + 1810240) - 870243);
+													_0x0sPaasa = -613157 + 1257531;
+													_0x0gOhab = _0x0sSINGIT[_0x0PWagGago];
+													_0x0NKigol = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0tTerrorist = _0x0gOhab[_0x0PWagGago];
+													_0x0JBILAT = _0x0tTerrorist;
 												else
-													_0x0eTerrorist = _0x0VDick;
-													_0x0EDiKanaNiyaMahal = _0x0gDick;
-													_0x0EDiKanaNiyaMahal = -425743 + 16683886;
+													_0x0JBILAT = _0x0bLove;
+													_0x0oUrMom = _0x0aUrMom;
+													_0x0rIveDoneNothing = _0x0sPaasa;
+													_0x0sPaasa = _0x0bLove and (-293714 - 350168) + 5831364 or -828662 + (862590 + 10720351);
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 13629159 - (-536638) then
-											if _0x0EDiKanaNiyaMahal < ((1236157 - 988835) - (-1022946 + ((547906 - (-611393 + 794658)) + ((148322 + 86196) + 1232934)))) + 14643850 then
-												if _0x0EDiKanaNiyaMahal < 15019680 - (865985 + 111289) then
-													if _0x0EDiKanaNiyaMahal < 13480206 - (-535771) then
-														_0x0hRespect = _0x0HKigol((-147985 + -779138) - (-877924));
-														_0x0EDiKanaNiyaMahal = 1521126 - (-36567);
-														_0x0QMeow = _0x0ETUBOL[_0x0hRespect];
-														_0x0oSkidDetected = _0x0QMeow;
+										if _0x0sPaasa < (186995 + ((-1173302 - (-910740)) + (-360176 + (846815 + 14802807)))) - ((-59768 - 327253) - (-883584)) then
+											if _0x0sPaasa < 13946769 - (-553398) then
+												if _0x0sPaasa < 13379691 - (9717 + -1043226) then
+													if _0x0sPaasa < 13652368 - (-749135) then
+														_0x0aUrMom = _0x0SMamaMoBlue(-564967 + 568878);
+														_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+														_0x0sPaasa = _0x0vGay and -501595 + 16751597 or 200264 + 1580193;
 													else
-														_0x0ILove = nil;
-														_0x0ZSkilliSSUE = {};
-														_0x0BTerrorist = nil;
-														_0x0cBoo = nil;
-														_0x0OTerrorist = nil;
-														_0x0RBible = nil;
-														_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(573746 - 622982)];
+														_0x0ASkilliSSUE = _0x0sPaasa;
+														_0x0TBible = _0x0SMamaMoBlue(1038816 - 1034859);
+														_0x0WNigaBytes = _0x0sSINGIT[_0x0TBible];
+														_0x0LTFYouLookingAt = _0x0WNigaBytes;
+														_0x0sPaasa = _0x0WNigaBytes and -604489 + 1265541 or -311716 - (-647552);
 													end;
 												else
-													_0x0SPlsNo, _0x0rBILAT = _0x0mFallenPartsDestroyHeight(_0x0LSkilliSSUE, _0x0SPlsNo);
-													_0x0EDiKanaNiyaMahal = _0x0SPlsNo and ((((-464810 + (148467 - 1045542)) - (-869418)) + (662597 - (398703 + -288105))) - (-705946 + 108257)) + (-924950 + 12232366) or (-216776 + 3785233) - (231627 + -128144);
+													_0x0sPaasa = _0x0vGay;
+													_0x0sPaasa = (-338693 + (-376285 + 10881794)) - (-241908);
+													_0x0oUrMom = _0x0ISkilliSSUE;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 546483 + (-360429 + 13921666) then
-													_0x0EDiKanaNiyaMahal = _0x0hRespect and 681571 + 6889685 or ((-677621 - (-933735)) - (2015503 - 1030969)) + (3974650 - 1019000);
+												if _0x0sPaasa < 14807170 - 204249 then
+													_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue((((546893 + ((-482702 + (413835 + (1327175 - 226167))) + -1567049)) + (-995491 + (1896196 - (-12122)))) + (631179 + -2176823)) - (-624748))];
+													_0x0BTanginaMoCge = _0x0MRomans12_19[_0x0YBible];
+													_0x0GPlsNo = { _0x0BTanginaMoCge };
 												else
-													_0x0XBILAT = _0x0HKigol(-504637 + (768352 - 313025));
-													_0x0OTerrorist = _0x0ZSkilliSSUE;
-													_0x0iFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[(-567205 + 691483) - 124277]];
-													_0x0mFallenPartsDestroyHeight = (-359641 + 879185) + 2889440738773;
-													_0x0VDick = _0x0BBible[_0x0bTerrorist[-228132 - (-228134)]];
-													_0x0gDick = _0x0VDick(_0x0XBILAT, _0x0mFallenPartsDestroyHeight);
-													_0x0eTerrorist = _0x0iFallenPartsDestroyHeight[_0x0gDick];
-													_0x0JMeow = _0x0BTerrorist ~= _0x0eTerrorist;
-													_0x0ZSkilliSSUE = _0x0JMeow;
-													_0x0EDiKanaNiyaMahal = _0x0JMeow and (593203 - 268288) + (230385 + (2792157 - (-412348 + -526579))) or 8669757 - (-796319);
+													_0x0tTerrorist = _0x0SMamaMoBlue((-669280 + ((2483694 - 1048238) - 535717)) + (-299662 + 73067));
+													_0x0rIveDoneNothing = _0x0sSINGIT[_0x0tTerrorist];
+													_0x0gOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0sPaasa;
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(-939267 - (-943081));
+													_0x0jDiKanaNiyaMahal = (-1560338 - (590090 + -1171730)) + (309600 + 21044677146335);
+													_0x0PWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0NKigol = _0x0PWagGago(_0x0uMamaMoBlue, _0x0jDiKanaNiyaMahal);
+													_0x0tTerrorist = _0x0gOhab[_0x0NKigol];
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0tTerrorist];
+													_0x0sPaasa = _0x0JBILAT and 206786 + 5441421 or 9141855 - (-577140 + 1594106);
+													_0x0aUrMom = _0x0JBILAT;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-35416 + 14320074) - (-173200 + 212853) then
-												if _0x0EDiKanaNiyaMahal < (239124 - ((1514526 - 779182) + (30484 - (801173 - 532149)))) + 14469929 then
-													_0x0CKigol, _0x0KRomans12_19 = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-													_0x0EDiKanaNiyaMahal = _0x0CKigol and (3585141 - ((290447 - (-374315)) + -1442033)) - 823915 or 10118815 - 712572;
+											if _0x0sPaasa < ((((-71362 - (471681 - ((-1263678 - (-951526)) + 1287455))) + 13374322) - ((399450 - 191636) - 993073)) - (-332166)) - 120201 then
+												if _0x0sPaasa < -530948 + (16159981 - 852568) then
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(924490 - (-509225 + 1429683));
+													_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+													_0x0gOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0PWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(-271029 + ((730186 + -175811) + (1670 - (-909813 + 1190833))));
+													_0x0jDiKanaNiyaMahal = -421108 + 33244067585281;
+													_0x0NKigol = _0x0PWagGago(_0x0uMamaMoBlue, _0x0jDiKanaNiyaMahal);
+													_0x0sPaasa = 11933401 - 801275;
+													_0x0tTerrorist = _0x0gOhab[_0x0NKigol];
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0mWagGago);
 												else
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT and (580525 + 2312151) - (-863753) or ((1324942 - (589631 - 616103)) - (1278242 - 971028)) + 10230416;
+													_0x0EOhab = _0x0SMamaMoBlue(-492312 - (-1319251 - (((-958056 + 1181510) + 400484) + (((-607767 + 1021420) + -2618752) - (-758062)))));
+													_0x0oUrMom = _0x0sSINGIT[_0x0EOhab];
+													_0x0JBILAT = -845261 + 24043247651158;
+													_0x0ISkilliSSUE = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0vGay = _0x0MRomans12_19[_0x0YBible];
+													_0x0mWagGago = _0x0SMamaMoBlue(-585651 + (1020776 + -431312));
+													_0x0aUrMom = _0x0vGay(_0x0mWagGago, _0x0JBILAT);
+													_0x0EOhab = _0x0ISkilliSSUE[_0x0aUrMom];
+													_0x0sPaasa = 13876027 - ((202070 - 476433) + -96912);
+													_0x0nBakla = _0x0oUrMom[_0x0EOhab];
+													_0x0WNigaBytes = _0x0nBakla;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 706866 + 13570148 then
-													_0x0gDick = _0x0JMeow;
-													_0x0EDiKanaNiyaMahal = _0x0JMeow and 1044788 + 220805 or -805055 + 8398436;
+												if _0x0sPaasa < -964350 + (14772913 - (-1035079)) then
+													_0x0WNigaBytes = _0x0SMamaMoBlue((47591 + 91054) - 134666);
+													_0x0TBible = 18135259922741 - (-851842);
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0VTUBOL[976057 + (-625727 + (-964956 + 614627))]];
+													_0x0sPaasa = _0x0SMamaMoBlue(-535890 - (-173368 - (930753 + (472560 - (794679 - (-242317))))));
+													_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[133740 - (-254963 + 388701)]];
+													_0x0ASkilliSSUE = _0x0LTFYouLookingAt(_0x0WNigaBytes, _0x0TBible);
+													_0x0nBakla = 51084 + (((1047254 - (743302 + (-959713 - (-738162)))) + ((-896359 + 9450988804857) - (-479355))) - (705104 - (-168933)));
+													_0x0KTanginaMoCge = _0x0pSINGIT[_0x0ASkilliSSUE];
+													_0x0sPaasa = _0x0OTerrorist[_0x0sPaasa];
+													_0x0pSINGIT = true;
+													_0x0sPaasa = _0x0sPaasa(_0x0OTerrorist, _0x0KTanginaMoCge, _0x0pSINGIT);
+													_0x0TBible = _0x0SMamaMoBlue((907857 + -667638) + (966161 + ((149197 - (-125620)) + (358516 + -1835865))));
+													_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[-97933 - (-97934)]];
+													_0x0ASkilliSSUE = _0x0MRomans12_19[_0x0VTUBOL[266529 - (1192211 - 925684)]];
+													_0x0KTanginaMoCge = _0x0sPaasa;
+													_0x0WNigaBytes = _0x0ASkilliSSUE(_0x0TBible, _0x0nBakla);
+													_0x0pSINGIT = _0x0LTFYouLookingAt[_0x0WNigaBytes];
+													_0x0LTFYouLookingAt = true;
+													_0x0sPaasa = _0x0SMamaMoBlue(((-468222 + 162180) + ((562189 - (-439764)) + -522855)) + (492372 + -661633));
+													_0x0sPaasa = _0x0OTerrorist[_0x0sPaasa];
+													_0x0sPaasa = _0x0sPaasa(_0x0OTerrorist, _0x0pSINGIT, _0x0LTFYouLookingAt);
+													_0x0LTFYouLookingAt = _0x0KTanginaMoCge;
+													_0x0pSINGIT = _0x0sPaasa;
+													_0x0sPaasa = _0x0KTanginaMoCge and ((1451526 - 262024) - (-900492)) - (-465052 - (-765914)) or 16490099 - 595465;
 												else
-													_0x0OTerrorist = nil;
-													_0x0EDiKanaNiyaMahal = -710001 + 4046706;
-													_0x0RBible = nil;
-													_0x0BTerrorist = nil;
+													_0x0ASkilliSSUE = _0x0TBible;
+													_0x0sPaasa = _0x0nBakla;
+													_0x0sPaasa = 874470 + 15211270;
 												end;
 											end;
 										end;
 									end;
 								end;
 							else
-								if _0x0EDiKanaNiyaMahal < 16521871 - 896154 then
-									if _0x0EDiKanaNiyaMahal < (985839 + (14430516 - 267949)) - (-250417 + 508718) then
-										if _0x0EDiKanaNiyaMahal < -983391 + 15593224 then
-											if _0x0EDiKanaNiyaMahal < 14903754 - 592596 then
-												if _0x0EDiKanaNiyaMahal < -882681 + 15190767 then
-													if _0x0EDiKanaNiyaMahal < (15005793 - 151190) - 554654 then
-														_0x0EDiKanaNiyaMahal = _0x0kPlsNo;
-														_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge and 506724 + ((-1246464 - (-936678)) + 10801042) or 631373 + 1436565;
+								if _0x0sPaasa < 16664146 - 851159 then
+									if _0x0sPaasa < 14661020 - (-866791 - (-114761)) then
+										if _0x0sPaasa < 16124611 - 937612 then
+											if _0x0sPaasa < 14100428 - (-990215) then
+												if _0x0sPaasa < (889826 + -652749) + 14828528 then
+													if _0x0sPaasa < (105310 + 14884130) - ((-347773 - (-740182)) - 418170) then
+														_0x0sPaasa = _0x0vGay;
+														_0x0oUrMom = _0x0ISkilliSSUE;
+														_0x0sPaasa = 10713079 - 222640;
 													else
-														_0x0MTUBOL = 873885 + 27674655954654;
-														_0x0NTanginaMoCge = _0x0HKigol(-863437 + 814135);
-														_0x0TRespect = _0x0ETUBOL[_0x0NTanginaMoCge];
-														_0x0kPlsNo = _0x0BBible[_0x0ILove];
-														_0x0KRomans12_19 = _0x0EDiKanaNiyaMahal;
-														_0x0lNigger = _0x0HKigol(434489 + ((-998506 + 751129) - 236326));
-														_0x0uBrainDamage = _0x0BBible[_0x0RBible];
-														_0x0tBILAT = _0x0uBrainDamage(_0x0lNigger, _0x0MTUBOL);
-														_0x0NTanginaMoCge = _0x0kPlsNo[_0x0tBILAT];
-														_0x0vGay = _0x0TRespect[_0x0NTanginaMoCge];
-														_0x0CKigol = _0x0vGay;
-														_0x0EDiKanaNiyaMahal = _0x0vGay and (822997 + 7194130) - (-731878) or 6193394 - (-20761);
+														_0x0vGay = _0x0aUrMom;
+														_0x0sPaasa = _0x0mWagGago;
+														_0x0sPaasa = ((-303634 + 27281) - (-730781)) + 11363507;
 													end;
 												else
-													_0x0KRomans12_19 = _0x0EDiKanaNiyaMahal;
-													_0x0TRespect = _0x0HKigol(207832 + -257133);
-													_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-													_0x0CKigol = _0x0vGay;
-													_0x0EDiKanaNiyaMahal = _0x0vGay and -235410 + 9918891 or (((-1659552 - (-679467)) + (-573804 + (15990594 - ((779788 - (((1382178 - 970841) - 1033581) - (-736077))) + -591527)))) - 119931) - 604318;
+													_0x0rIveDoneNothing = _0x0sPaasa;
+													_0x0gOhab = _0x0SMamaMoBlue(-882663 + 886537);
+													_0x0tTerrorist = _0x0sSINGIT[_0x0gOhab];
+													_0x0sPaasa = _0x0tTerrorist and (133974 + 14662136) - 484611 or 1326874 - 682500;
+													_0x0JBILAT = _0x0tTerrorist;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 13661445 - (-780961) then
-													_0x0LSkilliSSUE, _0x0oSkidDetected = _0x0XBILAT(_0x0mFallenPartsDestroyHeight, _0x0LSkilliSSUE);
-													_0x0EDiKanaNiyaMahal = _0x0LSkilliSSUE and (-676230 + 1246746) + 11423793 or (-569553 + 14930554) - 943795;
+												if _0x0sPaasa < 364161 + 14809945 then
+													_0x0mWagGago = _0x0BTanginaMoCge;
+													_0x0tTerrorist = _0x0sPaasa;
+													_0x0sPaasa = _0x0BTanginaMoCge and 3638051 - 216428 or 8070910 - 406883;
 												else
-													_0x0VDick = -753927 - (-753929);
-													_0x0XBILAT = (-834932 + 515711) + 319234;
-													_0x0RBible = 860470 - 860438;
-													_0x0ILove = _0x0BBible[_0x0bTerrorist[(((-937122 - (-458348 + 335995)) - (-839226 - (-67889))) - (-33295)) - ((-1276128 - (-419189)) + (455605 - (-391194)))]];
-													_0x0cBoo = _0x0ILove % _0x0RBible;
-													_0x0BTerrorist = _0x0BBible[_0x0bTerrorist[(81836 + (-166609 + 519111)) - (1385606 - 951272)]];
-													_0x0eTerrorist = _0x0BBible[_0x0bTerrorist[(((-1684849 - (418186 + -1183895)) - (-104960)) + 1514224) - 700042]];
-													_0x0SPlsNo = _0x0BBible[_0x0bTerrorist[244128 - 244125]];
-													_0x0LSkilliSSUE = _0x0SPlsNo - _0x0cBoo;
-													_0x0SPlsNo = 55439 - 55407;
-													_0x0mFallenPartsDestroyHeight = _0x0LSkilliSSUE / _0x0SPlsNo;
-													_0x0gDick = _0x0XBILAT - _0x0mFallenPartsDestroyHeight;
-													_0x0iFallenPartsDestroyHeight = _0x0VDick ^ _0x0gDick;
-													_0x0JMeow = _0x0eTerrorist / _0x0iFallenPartsDestroyHeight;
-													_0x0OTerrorist = _0x0BTerrorist(_0x0JMeow);
-													_0x0VDick = (-402389 + (-947881 - (167877 - 531641))) + 986762;
-													_0x0BTerrorist = 876410 + ((291407 - (-468552)) + 4293330927);
-													_0x0RBible = _0x0OTerrorist % _0x0BTerrorist;
-													_0x0OTerrorist = (-140965 - (67622 - (875975 + (97367 + (1014152 + -1333125))))) - (-898888 + 1344668);
-													_0x0BTerrorist = _0x0OTerrorist ^ _0x0cBoo;
-													_0x0iFallenPartsDestroyHeight = 635880 - 635879;
-													_0x0ILove = _0x0RBible / _0x0BTerrorist;
-													_0x0BTerrorist = _0x0BBible[_0x0bTerrorist[737735 + (((449427 + -1132751) + 1459760) + (59817 + (204152 + -1778136)))]];
-													_0x0eTerrorist = _0x0ILove % _0x0iFallenPartsDestroyHeight;
-													_0x0XBILAT = -287944 - (-288200);
-													_0x0iFallenPartsDestroyHeight = 4295877306 - 910010;
-													_0x0JMeow = _0x0eTerrorist * _0x0iFallenPartsDestroyHeight;
-													_0x0OTerrorist = _0x0BTerrorist(_0x0JMeow);
-													_0x0BTerrorist = _0x0BBible[_0x0bTerrorist[738600 + -738596]];
-													_0x0JMeow = _0x0BTerrorist(_0x0ILove);
-													_0x0EDiKanaNiyaMahal = (1024511 - 820386) + ((((((655041 + -1662361) - (-522261)) + 13688491) - (-1649815 - (-915104))) - (1111221 - 720869)) - 896658);
-													_0x0RBible = _0x0OTerrorist + _0x0JMeow;
-													_0x0OTerrorist = -948272 + (-218284 + 1232092);
-													_0x0BTerrorist = _0x0RBible % _0x0OTerrorist;
-													_0x0eTerrorist = -108735 + (1157933 - 983662);
-													_0x0JMeow = _0x0RBible - _0x0BTerrorist;
-													_0x0OTerrorist = _0x0JMeow / _0x0eTerrorist;
-													_0x0eTerrorist = 105295 - 105039;
-													_0x0JMeow = _0x0BTerrorist % _0x0eTerrorist;
-													_0x0iFallenPartsDestroyHeight = _0x0BTerrorist - _0x0JMeow;
-													_0x0eTerrorist = _0x0iFallenPartsDestroyHeight / _0x0VDick;
-													_0x0RBible = nil;
-													_0x0VDick = -885649 + (1493396 - 607491);
-													_0x0iFallenPartsDestroyHeight = _0x0OTerrorist % _0x0VDick;
-													_0x0ILove = nil;
-													_0x0cBoo = nil;
-													_0x0gDick = _0x0OTerrorist - _0x0iFallenPartsDestroyHeight;
-													_0x0VDick = _0x0gDick / _0x0XBILAT;
-													_0x0BTerrorist = nil;
-													_0x0OTerrorist = nil;
-													_0x0gDick = {
-															_0x0JMeow,
-															_0x0eTerrorist,
-															_0x0iFallenPartsDestroyHeight,
-															_0x0VDick,
+													_0x0vGay = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0JBILAT = _0x0SMamaMoBlue(748371 + ((-560962 + 517218) + -700804));
+													_0x0rIveDoneNothing = 4052128220835 - 856120;
+													_0x0NKigol = (((702240 + (-1729811 - (-555792))) + -908468) - (-975289 - (-63629))) + (33858743269609 - ((-215208 - ((776030 + ((-859228 + 182543) - (-866644))) + -161774)) - (-422872)));
+													_0x0kTangina = 744980 + 28494327023265;
+													_0x0aUrMom = _0x0MRomans12_19[_0x0YBible];
+													_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(((711296 + -188165) - (-261129)) - 780464);
+													_0x0EOhab = _0x0vGay[_0x0mWagGago];
+													_0x0aUrMom = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0tTerrorist = -352921 + 34516561755854;
+													_0x0uMamaMoBlue = 9917157448825 - 364132;
+													_0x0JBILAT = _0x0mWagGago(_0x0rIveDoneNothing, _0x0tTerrorist);
+													_0x0vGay = _0x0aUrMom[_0x0JBILAT];
+													_0x0mWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0SMamaMoBlue((1624850 - (726006 - (((-745799 + -247694) + 1862227) + -751727))) - 1011901);
+													_0x0JBILAT = _0x0MRomans12_19[_0x0YBible];
+													_0x0gOhab = 12312873509596 - 532992;
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+													_0x0aUrMom = _0x0mWagGago[_0x0rIveDoneNothing];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0SMamaMoBlue(946078 + -942116);
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = 24013273390133 - (-553835);
+													_0x0tTerrorist = _0x0rIveDoneNothing(_0x0gOhab, _0x0PWagGago);
+													_0x0PWagGago = _0x0SMamaMoBlue(592598 + -588685);
+													_0x0mWagGago = _0x0JBILAT[_0x0tTerrorist];
+													_0x0rIveDoneNothing = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0YBible];
+													_0x0gOhab = _0x0tTerrorist(_0x0PWagGago, _0x0NKigol);
+													_0x0JBILAT = _0x0rIveDoneNothing[_0x0gOhab];
+													_0x0NKigol = _0x0SMamaMoBlue(1034616 - ((-750437 + 1272253) - (-508999)));
+													_0x0tTerrorist = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0gOhab = _0x0MRomans12_19[_0x0YBible];
+													_0x0PWagGago = _0x0gOhab(_0x0NKigol, _0x0uMamaMoBlue);
+													_0x0XTanginaMoCge = -729075 + 7368046947677;
+													_0x0rIveDoneNothing = _0x0tTerrorist[_0x0PWagGago];
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(-455515 - (-459370));
+													_0x0qTFYouLookingAt = (1744393 - 826231) + 3471654703628;
+													_0x0jDiKanaNiyaMahal = 632561 + 20586742178870;
+													_0x0gOhab = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0PWagGago = _0x0MRomans12_19[_0x0YBible];
+													_0x0dPleaseImBeggingNooo = 3850590762070 - (-408767);
+													_0x0NKigol = _0x0PWagGago(_0x0uMamaMoBlue, _0x0jDiKanaNiyaMahal);
+													_0x0tTerrorist = _0x0gOhab[_0x0NKigol];
+													_0x0jDiKanaNiyaMahal = _0x0SMamaMoBlue((334368 + -737964) - (-407582));
+													_0x0PWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0lBible = (-618258 + 12686751669724) - (-978414);
+													_0x0NKigol = _0x0MRomans12_19[_0x0YBible];
+													_0x0uMamaMoBlue = _0x0NKigol(_0x0jDiKanaNiyaMahal, _0x0qTFYouLookingAt);
+													_0x0gOhab = _0x0PWagGago[_0x0uMamaMoBlue];
+													_0x0qTFYouLookingAt = _0x0SMamaMoBlue(((666313 + -935494) + 92202) - (-934817 - (-753956)));
+													_0x0NKigol = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0YBible];
+													_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0qTFYouLookingAt, _0x0lBible);
+													_0x0PWagGago = _0x0NKigol[_0x0jDiKanaNiyaMahal];
+													_0x0lBible = _0x0SMamaMoBlue(-693315 - (-63888 + -633345));
+													_0x0uMamaMoBlue = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0YBible];
+													_0x0qTFYouLookingAt = _0x0jDiKanaNiyaMahal(_0x0lBible, _0x0XTanginaMoCge);
+													_0x0XTanginaMoCge = _0x0SMamaMoBlue(961353 + (((-568338 + 342340) - (-791733)) + -1523161));
+													_0x0NKigol = _0x0uMamaMoBlue[_0x0qTFYouLookingAt];
+													_0x0jDiKanaNiyaMahal = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0YBible];
+													_0x0lBible = _0x0qTFYouLookingAt(_0x0XTanginaMoCge, _0x0dPleaseImBeggingNooo);
+													_0x0uMamaMoBlue = _0x0jDiKanaNiyaMahal[_0x0lBible];
+													_0x0qTFYouLookingAt = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0dPleaseImBeggingNooo = _0x0SMamaMoBlue((1177744 - 933748) - 240042);
+													_0x0lBible = _0x0MRomans12_19[_0x0YBible];
+													_0x0XTanginaMoCge = _0x0lBible(_0x0dPleaseImBeggingNooo, _0x0kTangina);
+													_0x0kTangina = _0x0SMamaMoBlue(-619689 + 623678);
+													_0x0jDiKanaNiyaMahal = _0x0qTFYouLookingAt[_0x0XTanginaMoCge];
+													_0x0lBible = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0zSINGIT = 11502410584894 - (1030547 - 991436);
+													_0x0XTanginaMoCge = _0x0MRomans12_19[_0x0YBible];
+													_0x0dPleaseImBeggingNooo = _0x0XTanginaMoCge(_0x0kTangina, _0x0zSINGIT);
+													_0x0qTFYouLookingAt = _0x0lBible[_0x0dPleaseImBeggingNooo];
+													_0x0oUrMom = {
+															_0x0EOhab,
+															_0x0vGay,
+															_0x0aUrMom,
+															_0x0mWagGago,
+															_0x0JBILAT,
+															_0x0rIveDoneNothing,
+															_0x0tTerrorist,
+															_0x0gOhab,
+															_0x0PWagGago,
+															_0x0NKigol,
+															_0x0uMamaMoBlue,
+															_0x0jDiKanaNiyaMahal,
+															_0x0qTFYouLookingAt,
 														};
-													_0x0VDick = nil;
-													_0x0JMeow = nil;
-													_0x0iFallenPartsDestroyHeight = nil;
-													_0x0BBible[_0x0bTerrorist[((-647625 + 406632) - 260012) - ((13089 - 704201) - (-190106))]] = _0x0gDick;
-													_0x0eTerrorist = nil;
+													_0x0EOhab = _0x0bBoo();
+													_0x0MRomans12_19[_0x0EOhab] = _0x0oUrMom;
+													_0x0rIveDoneNothing = _0x0SMamaMoBlue(205894 + -201979);
+													_0x0mWagGago = _0x0SMamaMoBlue((993728 + -839515) - (275592 + -125265));
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0JBILAT = _0x0sSINGIT[_0x0rIveDoneNothing];
+													_0x0gOhab = (10467642430847 - 1013685) - 760250;
+													_0x0tTerrorist = _0x0SMamaMoBlue(((-105111 + (-921791 + (1849437 - ((589363 + -278596) - 407460)))) + (107429 + ((-909276 + -230959) - (1094737 - ((-146427 + -3397) - (-336590)))))) - (-692700 + -332770));
+													_0x0rIveDoneNothing = { _0x0JBILAT() };
+													_0x0mWagGago = _0x0aUrMom(_0x0VBakla(_0x0rIveDoneNothing));
+													_0x0vGay = not _0x0mWagGago;
+													_0x0mWagGago = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0YBible];
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+													_0x0aUrMom = _0x0mWagGago[_0x0rIveDoneNothing];
+													_0x0oUrMom = _0x0vGay == _0x0aUrMom;
+													_0x0sPaasa = _0x0oUrMom and 11618930 - (-961465) or 9043269 - 1033610;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 14116429 - (-256496 - 334989) then
-												if _0x0EDiKanaNiyaMahal < ((((-621335 + (-205880 + 1026056)) - (358930 + 638035)) + 16855728) - 896035) - (567861 - 98237) then
-													if _0x0EDiKanaNiyaMahal < (((331612 + 294137) + -372171) - (-622844)) + 13761751 then
-														_0x0TRespect = _0x0HKigol(-849388 - (-583937 + (-792849 - (((-2187933 - (-992401)) - 330364) - (((((-80536 + ((1288222 - 596866) - (-401638))) + -1728114) + (-350058 - (-789532))) + -207808) + (((2763 + -647360) + 1186533) + -1007135))))));
-														_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-														_0x0kPlsNo = _0x0BBible[_0x0ILove];
-														_0x0MTUBOL = 5780106863259 - (-591805);
-														_0x0uBrainDamage = _0x0BBible[_0x0RBible];
-														_0x0lNigger = _0x0HKigol((-855691 - (117448 - 651476)) + 272281);
-														_0x0EDiKanaNiyaMahal = 11296987 - (-49884 - 487300);
-														_0x0tBILAT = _0x0uBrainDamage(_0x0lNigger, _0x0MTUBOL);
-														_0x0NTanginaMoCge = _0x0kPlsNo[_0x0tBILAT];
-														_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0KRomans12_19);
+											if _0x0sPaasa < (16031657 - ((-707819 + 1065615) - ((577341 - 313087) - (-32708)))) - 608500 then
+												if _0x0sPaasa < 519100 + 14718905 then
+													if _0x0sPaasa < ((50716 + -409219) + 14934733) - (((-534326 + (532024 - (-224332 - 449458))) - (-246783)) + -1574160) then
+														_0x0qTFYouLookingAt = { _0x0mWagGago() };
+														_0x0jDiKanaNiyaMahal = _0x0uMamaMoBlue(_0x0VBakla(_0x0qTFYouLookingAt));
+														_0x0sPaasa = -617395 + 6742649;
 													else
-														_0x0ZSkilliSSUE = 454676 + -454671;
-														_0x0cBoo = _0x0HSkidDetected[908136 + -908135];
-														_0x0RBible = _0x0HSkidDetected[-144778 + (-313508 - (-458289))];
-														_0x0ILove = _0x0HSkidDetected[807502 - 807500];
-														_0x0BTerrorist = _0x0HSkidDetected[309788 + -309784];
-														_0x0EDiKanaNiyaMahal = _0x0BTerrorist > _0x0ZSkilliSSUE;
-														_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and -484029 + (15758462 - (-893165)) or (80476 + 896431) + 5589133;
+														_0x0WNigaBytes = _0x0SMamaMoBlue(-691655 + (((((986652 + 99280) - 694305) - (-54208)) + (241465 - 426325)) + 434536));
+														_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+														_0x0TBible = _0x0MRomans12_19[_0x0VTUBOL[(583030 + (733775 + -1191168)) - 125636]];
+														_0x0nBakla = _0x0MRomans12_19[_0x0VTUBOL[1033638 - (760327 + (384917 - 111608))]];
+														_0x0EOhab = _0x0SMamaMoBlue(472342 - (-479791 + 948150));
+														_0x0ISkilliSSUE = 32094541858310 - (-3689);
+														_0x0oUrMom = _0x0nBakla(_0x0EOhab, _0x0ISkilliSSUE);
+														_0x0WNigaBytes = _0x0TBible[_0x0oUrMom];
+														_0x0TBible = _0x0SMamaMoBlue(((-338687 + -682542) - (-682620 + -137540)) - (-204955));
+														_0x0sPaasa = _0x0ASkilliSSUE[_0x0WNigaBytes];
+														_0x0WNigaBytes = _0x0sSINGIT[_0x0TBible];
+														_0x0TBible = { _0x0WNigaBytes(_0x0KTanginaMoCge) };
+														_0x0ASkilliSSUE = _0x0sPaasa(_0x0HGay, _0x0VBakla(_0x0TBible));
+														_0x0sPaasa = -837575 + 5557328;
 													end;
 												else
-													_0x0BTerrorist = _0x0HKigol(((-28563 + (-729244 + 900059)) - (-653904)) + -845466);
-													_0x0cBoo = _0x0JBakla();
-													_0x0BBible[_0x0cBoo] = _0x0HSkidDetected[(-856203 - (216334 + -1008731)) + 63807];
-													_0x0ZSkilliSSUE = _0x0BBible[_0x0bTerrorist[((-103736 + (794255 + (-342037 + (-238160 + 305974)))) - (1905983 - 963045)) - (-526643)]];
-													_0x0ILove = _0x0BBible[_0x0bTerrorist[((816411 + -231640) - ((-394270 - 226298) + 1219368)) - (-14031)]];
-													_0x0OTerrorist = 24605640013552 - 157446;
-													_0x0RBible = _0x0ILove(_0x0BTerrorist, _0x0OTerrorist);
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE[_0x0RBible];
-													_0x0ILove = _0x0JBakla();
-													_0x0eTerrorist = _0x0HKigol(990629 - (-131058 + (476855 - (-694036))));
-													_0x0RBible = _0x0rBrainDamage(10440198 - (1739738 - 941510), {
-															_0x0bTerrorist[(122272 + 673674) + -795945],
-															_0x0bTerrorist[-629594 - (-629596)],
-															_0x0cBoo,
-															_0x0ILove,
-														});
-													_0x0BBible[_0x0ILove] = _0x0EDiKanaNiyaMahal;
-													_0x0ZSkilliSSUE = _0x0HKigol(788283 - 837484);
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-													_0x0XBILAT = _0x0HKigol(-72901 + (-110139 + 133863));
-													_0x0mFallenPartsDestroyHeight = 23076 + 31393577677138;
-													_0x0ZSkilliSSUE = _0x0EDiKanaNiyaMahal(_0x0RBible);
-													_0x0ZSkilliSSUE = _0x0HKigol(-836041 + 786778);
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0ZSkilliSSUE];
-													_0x0JMeow = _0x0ETUBOL[_0x0eTerrorist];
-													_0x0iFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[579821 + -579820]];
-													_0x0VDick = _0x0BBible[_0x0bTerrorist[(((-258484 - (-500298)) - 398777) + -87502) - (-244467)]];
-													_0x0gDick = _0x0VDick(_0x0XBILAT, _0x0mFallenPartsDestroyHeight);
-													_0x0eTerrorist = _0x0iFallenPartsDestroyHeight[_0x0gDick];
-													_0x0OTerrorist = _0x0JMeow[_0x0eTerrorist];
-													_0x0eTerrorist = _0x0BBible[_0x0cBoo];
-													_0x0JMeow = { _0x0OTerrorist(_0x0eTerrorist) };
-													_0x0OTerrorist = { _0x0EDiKanaNiyaMahal(_0x0bMamaMoBlue(_0x0JMeow)) };
-													_0x0EDiKanaNiyaMahal = -767686 + 10709633;
-													_0x0RBible = _0x0OTerrorist[664403 - 664401];
-													_0x0BTerrorist = _0x0OTerrorist[-710403 + 710406];
-													_0x0ZSkilliSSUE = _0x0OTerrorist[190288 - (173313 - (-16974))];
-													_0x0OTerrorist = _0x0ZSkilliSSUE;
+													_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[-667128 - (-458102 - ((-382901 - (-823327)) - 231396))]];
+													_0x0tTerrorist = _0x0SMamaMoBlue(-85319 + 89287);
+													_0x0sPaasa = 12293842 - (-256882);
+													_0x0gOhab = -770133 + 6184668332187;
+													_0x0mWagGago = _0x0MRomans12_19[_0x0VTUBOL[365652 - (-336815 + (8153 + ((-417680 + -181489) + 1293482)))]];
+													_0x0JBILAT = _0x0MRomans12_19[_0x0VTUBOL[(-45376 - (512823 - 70492)) + 487709]];
+													_0x0rIveDoneNothing = _0x0JBILAT(_0x0tTerrorist, _0x0gOhab);
+													_0x0vGay = _0x0mWagGago[_0x0rIveDoneNothing];
+													_0x0ISkilliSSUE = _0x0OTerrorist[_0x0vGay];
+													_0x0EOhab = _0x0oUrMom(_0x0ISkilliSSUE);
+													_0x0nBakla = not _0x0EOhab;
+													_0x0LTFYouLookingAt = _0x0nBakla;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < ((-1089434 - (-92413)) - (-932320 - (-463229 + -326148))) + 15569909 then
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist;
-													_0x0EDiKanaNiyaMahal = 10385921 - (511079 + ((579894 + 2207) + -173335));
-													_0x0ZSkilliSSUE = _0x0JMeow;
+												if _0x0sPaasa < 117213 + 15264654 then
+													_0x0uMamaMoBlue = _0x0SMamaMoBlue(397813 + -393878);
+													_0x0sPaasa = 6326497 - 949285;
+													_0x0NKigol = _0x0sSINGIT[_0x0uMamaMoBlue];
+													_0x0gOhab = _0x0NKigol;
 												else
-													_0x0BTerrorist = _0x0ZSkilliSSUE;
-													_0x0eTerrorist = _0x0BBible[_0x0bTerrorist[-368145 - (-885347 - ((((-411351 - (-342026)) - 606429) - (-865426)) + -706873))]];
-													_0x0XBILAT = 32976282494789 - ((874823 - (453849 - ((-659688 - (-107639)) - (-1039473)))) - 782191);
-													_0x0gDick = _0x0HKigol((212015 + (-542319 + -660422)) + ((((537708 + (((934657 + -1175054) + -675961) - (-55658 - 115866))) + -20514) + (((((52918 - (-250496)) - 52597) - (-141173)) - (-381988)) - (-314782))) + 80321));
-													_0x0iFallenPartsDestroyHeight = _0x0BBible[_0x0bTerrorist[-814162 - (-295333 - 518831)]];
-													_0x0VDick = _0x0iFallenPartsDestroyHeight(_0x0gDick, _0x0XBILAT);
-													_0x0JMeow = _0x0eTerrorist[_0x0VDick];
-													_0x0OTerrorist = _0x0RBible[_0x0JMeow];
-													_0x0ZSkilliSSUE = _0x0OTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0OTerrorist and -20016 + (-287261 + ((336091 + -1175004) + 15259212)) or 9479044 - 413934;
+													_0x0sPaasa = 14571830 - (((-1685190 - (-772180)) + 1724980) - 51528);
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < (864607 + 15375146) - 891740 then
-											if _0x0EDiKanaNiyaMahal < 14108417 - (-1032390) then
-												if _0x0EDiKanaNiyaMahal < 175807 + (-330202 + 15200236) then
-													if _0x0EDiKanaNiyaMahal < -757667 + 15710550 then
-														_0x0VDick = nil;
-														_0x0XBILAT = nil;
-														_0x0gDick = nil;
-														_0x0EDiKanaNiyaMahal = -355198 + 13753209;
+										if _0x0sPaasa < 16556029 - (-635890 + ((1030735 + -220220) + 808553)) then
+											if _0x0sPaasa < (896703 + 73178) + 14565138 then
+												if _0x0sPaasa < 15825066 - 299721 then
+													if _0x0sPaasa < (-835347 + 663113) + 15616238 then
+														_0x0sPaasa = true;
+														_0x0GPlsNo = { _0x0sPaasa, _0x0ZIveDoneNothing };
+														_0x0sPaasa = _0x0sSINGIT[_0x0SMamaMoBlue(203283 - 199498)];
 													else
-														_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight and 12730255 - (-1213694 - (909578 + (189161 + -1488032))) or 8451732 - 115752;
+														_0x0TBible = _0x0TBible + _0x0oUrMom;
+														_0x0GPlsNo = _0x0TBible <= _0x0nBakla;
+														_0x0ISkilliSSUE = not _0x0EOhab;
+														_0x0GPlsNo = _0x0ISkilliSSUE and _0x0GPlsNo;
+														_0x0ISkilliSSUE = _0x0TBible >= _0x0nBakla;
+														_0x0ISkilliSSUE = _0x0EOhab and _0x0ISkilliSSUE;
+														_0x0GPlsNo = _0x0ISkilliSSUE or _0x0GPlsNo;
+														_0x0ISkilliSSUE = 3256854 - (-55089 + 919209);
+														_0x0sPaasa = _0x0GPlsNo and _0x0ISkilliSSUE;
+														_0x0GPlsNo = 17356981 - (-202546 - (-1007487));
+														_0x0sPaasa = _0x0sPaasa or _0x0GPlsNo;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0hRespect;
-													_0x0oSkidDetected = _0x0QMeow;
-													_0x0EDiKanaNiyaMahal = _0x0QMeow and -773366 + 2331059 or -374613 + (14357502 - (-10875));
+													_0x0sPaasa = -775544 + 7445348;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 140628 + 15081271 then
-													_0x0EDiKanaNiyaMahal = _0x0HKigol(-200167 - (-150760));
-													_0x0EDiKanaNiyaMahal = _0x0rBILAT[_0x0EDiKanaNiyaMahal];
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0rBILAT);
-													_0x0fPaasa = _0x0HKigol((18992 + (((593745 - (-563232)) - (1387036 - 790610)) + (708892 + (-1782810 - (-328350))))) + 116666);
-													_0x0QMeow = _0x0EDiKanaNiyaMahal;
-													_0x0KRomans12_19 = _0x0BBible[_0x0bTerrorist[724838 + -724837]];
-													_0x0NTanginaMoCge = _0x0HKigol(-392326 - (((-396355 - 185753) + -87349) + 326269));
-													_0x0vGay = _0x0BBible[_0x0bTerrorist[339097 - 339095]];
-													_0x0fPaasa = _0x0QMeow[_0x0fPaasa];
-													_0x0kPlsNo = 209045 + ((27932152495093 - 941408) - (-362151));
-													_0x0TRespect = _0x0vGay(_0x0NTanginaMoCge, _0x0kPlsNo);
-													_0x0CKigol = _0x0KRomans12_19[_0x0TRespect];
-													_0x0fPaasa = _0x0fPaasa(_0x0QMeow, _0x0CKigol);
-													_0x0EDiKanaNiyaMahal = _0x0fPaasa and -717716 + 7157155 or 10453689 - 150903;
-													_0x0hRespect = _0x0fPaasa;
+												if _0x0sPaasa < -421138 + 15972202 then
+													_0x0mWagGago = _0x0MRomans12_19[_0x0VTUBOL[715412 - (509530 - (-205879))]];
+													_0x0tTerrorist = { _0x0mWagGago(_0x0oUrMom) };
+													_0x0JBILAT = _0x0tTerrorist[(242586 - (-920881 - (-964030 - (-1493841 - (-852818))))) + -840459];
+													_0x0mWagGago = _0x0JBILAT;
+													_0x0rIveDoneNothing = _0x0tTerrorist[-309041 + 309043];
+													_0x0tTerrorist = _0x0sPaasa;
+													_0x0sPaasa = _0x0JBILAT and 4878898 - (648884 + -1206036) or (((1525154 - 735881) - (-198212)) + (-141140 + -1809419)) + 11012622;
 												else
-													_0x0LSkilliSSUE = _0x0HKigol(896891 + -946298);
-													_0x0LSkilliSSUE = _0x0gDick[_0x0LSkilliSSUE];
-													_0x0VDick = _0x0eTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0HKigol(192903 + (720918 - 963228));
-													_0x0EDiKanaNiyaMahal = _0x0BTerrorist[_0x0EDiKanaNiyaMahal];
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal(_0x0BTerrorist);
-													_0x0mFallenPartsDestroyHeight = { _0x0LSkilliSSUE(_0x0gDick) };
-													_0x0XBILAT = _0x0HKigol(-875433 + 826074);
-													_0x0XBILAT = _0x0EDiKanaNiyaMahal[_0x0XBILAT];
-													_0x0XBILAT = _0x0XBILAT(_0x0EDiKanaNiyaMahal, _0x0bMamaMoBlue(_0x0mFallenPartsDestroyHeight));
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT and 794366 + (-763112 + 8572226) or 8839252 - (-357534 + -359665);
+													_0x0nBakla = _0x0bBoo();
+													_0x0sPaasa = {};
+													_0x0HGay = nil;
+													_0x0pSINGIT = nil;
+													_0x0TBible = _0x0bBoo();
+													_0x0JBILAT = nil;
+													_0x0mWagGago = _0x0SMamaMoBlue(889685 + -885875);
+													_0x0ZIveDoneNothing = nil;
+													_0x0MRomans12_19[_0x0TBible] = _0x0sPaasa;
+													_0x0sPaasa = _0x0APlsNo(1026967 + 15048213, {
+															_0x0TBible,
+															_0x0OTerrorist,
+															_0x0KTanginaMoCge,
+															_0x0MFallenPartsDestroyHeight,
+														});
+													_0x0vGay = _0x0SMamaMoBlue((-1005779 - (-890176)) + 119431);
+													_0x0MRomans12_19[_0x0nBakla] = _0x0sPaasa;
+													_0x0EOhab = {};
+													_0x0GPlsNo = _0x0SMamaMoBlue(-575365 + 579216);
+													_0x0HGay = _0x0SMamaMoBlue(-979849 - (-983837));
+													_0x0WNigaBytes = nil;
+													_0x0sPaasa = {};
+													_0x0ASkilliSSUE = nil;
+													_0x0oUrMom = _0x0bBoo();
+													_0x0MRomans12_19[_0x0oUrMom] = _0x0sPaasa;
+													_0x0sPaasa = _0x0sSINGIT[_0x0GPlsNo];
+													_0x0aUrMom = _0x0MRomans12_19[_0x0oUrMom];
+													_0x0ISkilliSSUE = { [_0x0vGay] = _0x0aUrMom, [_0x0mWagGago] = _0x0JBILAT };
+													_0x0bLove = nil;
+													_0x0GPlsNo = _0x0sPaasa(_0x0EOhab, _0x0ISkilliSSUE);
+													_0x0sPaasa = _0x0WWagGago(-693060 + 2743602, {
+															_0x0oUrMom,
+															_0x0TBible,
+															_0x0LTFYouLookingAt,
+															_0x0OTerrorist,
+															_0x0KTanginaMoCge,
+															_0x0nBakla,
+														});
+													_0x0TBible = _0x0pNigger(_0x0TBible);
+													_0x0pSINGIT = (((-474296 + 121283) + (13200805283275 - (-104449))) - (-231800)) - (-694227);
+													_0x0MRomans12_19[_0x0BTanginaMoCge] = _0x0GPlsNo;
+													_0x0MFallenPartsDestroyHeight = _0x0pNigger(_0x0MFallenPartsDestroyHeight);
+													_0x0OTerrorist = _0x0pNigger(_0x0OTerrorist);
+													_0x0LTFYouLookingAt = _0x0pNigger(_0x0LTFYouLookingAt);
+													_0x0MRomans12_19[_0x0YBible] = _0x0sPaasa;
+													_0x0nBakla = _0x0pNigger(_0x0nBakla);
+													_0x0KTanginaMoCge = _0x0pNigger(_0x0KTanginaMoCge);
+													_0x0oUrMom = _0x0pNigger(_0x0oUrMom);
+													_0x0MFallenPartsDestroyHeight = _0x0sSINGIT[_0x0HGay];
+													_0x0KTanginaMoCge = _0x0SMamaMoBlue(45107 - 41057);
+													_0x0bLove = _0x0MRomans12_19[_0x0BTanginaMoCge];
+													_0x0ZIveDoneNothing = _0x0MRomans12_19[_0x0YBible];
+													_0x0OTerrorist = _0x0ZIveDoneNothing(_0x0KTanginaMoCge, _0x0pSINGIT);
+													_0x0HGay = _0x0bLove[_0x0OTerrorist];
+													_0x0sPaasa = _0x0MFallenPartsDestroyHeight ~= _0x0HGay;
+													_0x0sPaasa = _0x0sPaasa and 149063 + 8092010 or (2981944 - 61852) - 345247;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 15011034 - (77741 + -546154) then
-												if _0x0EDiKanaNiyaMahal < -182846 + ((-364090 - (-472298)) + 15491109) then
-													_0x0TRespect = _0x0HKigol(307723 + -357046);
-													_0x0EDiKanaNiyaMahal = -730753 + (9365913 - (-82786 - 331868));
-													_0x0KRomans12_19 = _0x0HKigol(((497402 + -1056366) - 287244) - (-796870));
-													_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-													_0x0vGay = _0x0ETUBOL[_0x0TRespect];
-													_0x0kPlsNo = _0x0HKigol((374031 - (585103 + -206366)) + -44650);
-													_0x0uBrainDamage = (-500090 + (-36709 + -488971)) + (((((143576 + -986329) + ((-186633 - (882880 + (91681 + -1123651))) - (-856168))) + (20203523863549 - 803587)) - 782195) - 620427);
-													_0x0TRespect = { _0x0vGay() };
-													_0x0KRomans12_19 = _0x0CKigol(_0x0bMamaMoBlue(_0x0TRespect));
-													_0x0vGay = _0x0BBible[_0x0ILove];
-													_0x0TRespect = _0x0BBible[_0x0RBible];
-													_0x0NTanginaMoCge = _0x0TRespect(_0x0kPlsNo, _0x0uBrainDamage);
-													_0x0CKigol = _0x0vGay[_0x0NTanginaMoCge];
-													_0x0fPaasa = _0x0KRomans12_19 ~= _0x0CKigol;
-													_0x0hRespect = _0x0fPaasa;
+											if _0x0sPaasa < ((-897800 + 1834540) + -1364631) + 16142695 then
+												if _0x0sPaasa < (-911101 - (-921593)) + 15605265 then
+													_0x0WNigaBytes = _0x0nBakla;
+													_0x0sPaasa = _0x0oUrMom;
+													_0x0sPaasa = 360333 + 15354422;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge;
-													_0x0pUrMom = 441671 + (12023291823553 - (-355767));
-													_0x0GMamaMoBlue = (205154 + 18763459152053) - ((-125461 - (-145089)) - (415262 + (-247315 + 20820)));
-													_0x0uBrainDamage = _0x0BBible[_0x0ILove];
-													_0x0wTanginaMoCge = 16715609540575 - 1009257;
-													_0x0nTangina = -884640 + (((847179 - (-683079 + 971638)) - (-409603)) + ((26388464746761 - (-704205)) - 337027));
-													_0x0tBILAT = _0x0BBible[_0x0RBible];
-													_0x0MTUBOL = _0x0HKigol(-110755 - (-61346));
-													_0x0lNigger = _0x0tBILAT(_0x0MTUBOL, _0x0pUrMom);
-													_0x0UBoo = (-822929 + 982826) + 3338091984556;
-													_0x0PRomans12_19 = 6390439442348 - (1563119 - 674762);
-													_0x0pUrMom = _0x0HKigol((147757 - 844604) + 647589);
-													_0x0kPlsNo = _0x0uBrainDamage[_0x0lNigger];
-													_0x0tBILAT = _0x0BBible[_0x0ILove];
-													_0x0lNigger = _0x0BBible[_0x0RBible];
-													_0x0dMeow = -262681 + 19440092941323;
-													_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-													_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-													_0x0lNigger = _0x0BBible[_0x0ILove];
-													_0x0ECBAYOT = -739039 + 12047480480764;
-													_0x0UBoo = _0x0HKigol((913002 + (-281350 - ((-923942 + 1529047) - 72231))) - 148129);
-													_0x0MTUBOL = _0x0BBible[_0x0RBible];
-													_0x0pUrMom = _0x0MTUBOL(_0x0UBoo, _0x0GMamaMoBlue);
-													_0x0xMeow = -533904 + (27533667108146 - 777275);
-													_0x0GMamaMoBlue = _0x0HKigol((-308137 + ((((1038757 + (-704221 - 242776)) + -929525) + ((814098 + -1274284) + 1148374)) + (535369 - 117594))) - 9200);
-													_0x0tBILAT = _0x0lNigger[_0x0pUrMom];
-													_0x0MTUBOL = _0x0BBible[_0x0ILove];
-													_0x0pUrMom = _0x0BBible[_0x0RBible];
-													_0x0YBroStudyingHowMyBrainWorks = -152669 + (-733059 + 23616750731711);
-													_0x0zBAYOT = 3195290000838 - 620844;
-													_0x0UBoo = _0x0pUrMom(_0x0GMamaMoBlue, _0x0dMeow);
-													_0x0lNigger = _0x0MTUBOL[_0x0UBoo];
-													_0x0pUrMom = _0x0BBible[_0x0ILove];
-													_0x0UBoo = _0x0BBible[_0x0RBible];
-													_0x0dMeow = _0x0HKigol(-879212 + 829829);
-													_0x0GMamaMoBlue = _0x0UBoo(_0x0dMeow, _0x0zBAYOT);
-													_0x0zBAYOT = _0x0HKigol(-988343 - (-939191));
-													_0x0MTUBOL = _0x0pUrMom[_0x0GMamaMoBlue];
-													_0x0UBoo = _0x0BBible[_0x0ILove];
-													_0x0GMamaMoBlue = _0x0BBible[_0x0RBible];
-													_0x0dMeow = _0x0GMamaMoBlue(_0x0zBAYOT, _0x0wTanginaMoCge);
-													_0x0wTanginaMoCge = _0x0HKigol(753503 - (677101 + (182214 - (431699 - 375021))));
-													_0x0pUrMom = _0x0UBoo[_0x0dMeow];
-													_0x0GMamaMoBlue = _0x0BBible[_0x0ILove];
-													_0x0dMeow = _0x0BBible[_0x0RBible];
-													_0x0zBAYOT = _0x0dMeow(_0x0wTanginaMoCge, _0x0PRomans12_19);
-													_0x0UBoo = _0x0GMamaMoBlue[_0x0zBAYOT];
-													_0x0dMeow = _0x0BBible[_0x0ILove];
-													_0x0zBAYOT = _0x0BBible[_0x0RBible];
-													_0x0PRomans12_19 = _0x0HKigol(-308177 - (-258887));
-													_0x0wTanginaMoCge = _0x0zBAYOT(_0x0PRomans12_19, _0x0nTangina);
-													_0x0WRespect = (-341368 - (-516969)) + 31264991949006;
-													_0x0nTangina = _0x0HKigol((950241 - (-286457 + 1079250)) - 206835);
-													_0x0GMamaMoBlue = _0x0dMeow[_0x0wTanginaMoCge];
-													_0x0yOhab = 818078733660 - (549483 - (1310584 - 624412));
-													_0x0zBAYOT = _0x0BBible[_0x0ILove];
-													_0x0wTanginaMoCge = _0x0BBible[_0x0RBible];
-													_0x0PRomans12_19 = _0x0wTanginaMoCge(_0x0nTangina, _0x0WRespect);
-													_0x0DUrMom = 378160 + 11560568327223;
-													_0x0dMeow = _0x0zBAYOT[_0x0PRomans12_19];
-													_0x0WRespect = _0x0HKigol((-753286 - (-523275 - (-62391))) + (-839331 + (-189793 + 1272351)));
-													_0x0FBoo = (11449197154213 - (-448252)) - 114267;
-													_0x0wTanginaMoCge = _0x0BBible[_0x0ILove];
-													_0x0HCOhab = 22707127009547 - (((-158898 - (-847829)) - 632273) - (1011889 - (500443 + (-1292664 - (-775337)))));
-													_0x0PRomans12_19 = _0x0BBible[_0x0RBible];
-													_0x0nTangina = _0x0PRomans12_19(_0x0WRespect, _0x0YBroStudyingHowMyBrainWorks);
-													_0x0aSkidDetected = 6085 + 29669095232104;
-													_0x0zBAYOT = _0x0wTanginaMoCge[_0x0nTangina];
-													_0x0YBroStudyingHowMyBrainWorks = _0x0HKigol(-993892 + ((((358674 - 178297) - (-79571)) + 133589) - (-142676 + -408448)));
-													_0x0PRomans12_19 = _0x0BBible[_0x0ILove];
-													_0x0nTangina = _0x0BBible[_0x0RBible];
-													_0x0WRespect = _0x0nTangina(_0x0YBroStudyingHowMyBrainWorks, _0x0FBoo);
-													_0x0FBoo = _0x0HKigol(383061 - 432299);
-													_0x0wTanginaMoCge = _0x0PRomans12_19[_0x0WRespect];
-													_0x0nTangina = _0x0BBible[_0x0ILove];
-													_0x0ADick = 577078 + ((-679376 + (-1032352 + 2525569)) + ((21925838029039 - (-35760)) - (-575116)));
-													_0x0sGago = (1300443 - (57235 + 562027)) + 4955414123125;
-													_0x0WRespect = _0x0BBible[_0x0RBible];
-													_0x0YBroStudyingHowMyBrainWorks = _0x0WRespect(_0x0FBoo, _0x0xMeow);
-													_0x0PRomans12_19 = _0x0nTangina[_0x0YBroStudyingHowMyBrainWorks];
-													_0x0xMeow = _0x0HKigol(895009 + (-338905 - (1569287 - 963780)));
-													_0x0WRespect = _0x0BBible[_0x0ILove];
-													_0x0YBroStudyingHowMyBrainWorks = _0x0BBible[_0x0RBible];
-													_0x0FBoo = _0x0YBroStudyingHowMyBrainWorks(_0x0xMeow, _0x0DUrMom);
-													_0x0nTangina = _0x0WRespect[_0x0FBoo];
-													_0x0YBroStudyingHowMyBrainWorks = _0x0BBible[_0x0ILove];
-													_0x0FBoo = _0x0BBible[_0x0RBible];
-													_0x0DUrMom = _0x0HKigol((403439 + -1287827) - (-835228));
-													_0x0xMeow = _0x0FBoo(_0x0DUrMom, _0x0sGago);
-													_0x0WRespect = _0x0YBroStudyingHowMyBrainWorks[_0x0xMeow];
-													_0x0FBoo = _0x0BBible[_0x0ILove];
-													_0x0xMeow = _0x0BBible[_0x0RBible];
-													_0x0sGago = _0x0HKigol((122893 - 166083) - 6030);
-													_0x0DUrMom = _0x0xMeow(_0x0sGago, _0x0ADick);
-													_0x0YBroStudyingHowMyBrainWorks = _0x0FBoo[_0x0DUrMom];
-													_0x0xMeow = _0x0BBible[_0x0ILove];
-													_0x0ADick = _0x0HKigol(-794944 - (-745742));
-													_0x0DUrMom = _0x0BBible[_0x0RBible];
-													_0x0sGago = _0x0DUrMom(_0x0ADick, _0x0yOhab);
-													_0x0FBoo = _0x0xMeow[_0x0sGago];
-													_0x0yOhab = _0x0HKigol((-672707 + ((-372127 + -662421) + 1748835)) + (-205489 + 114523));
-													_0x0DUrMom = _0x0BBible[_0x0ILove];
-													_0x0sGago = _0x0BBible[_0x0RBible];
-													_0x0ADick = _0x0sGago(_0x0yOhab, _0x0aSkidDetected);
-													_0x0xMeow = _0x0DUrMom[_0x0ADick];
-													_0x0sGago = _0x0BBible[_0x0ILove];
-													_0x0aSkidDetected = _0x0HKigol((-183857 + 113907) - (-20741));
-													_0x0ADick = _0x0BBible[_0x0RBible];
-													_0x0yOhab = _0x0ADick(_0x0aSkidDetected, _0x0ECBAYOT);
-													_0x0ECBAYOT = _0x0HKigol(-1003388 + (-150960 + 1105080));
-													_0x0DUrMom = _0x0sGago[_0x0yOhab];
-													_0x0ADick = _0x0BBible[_0x0ILove];
-													_0x0yOhab = _0x0BBible[_0x0RBible];
-													_0x0aSkidDetected = _0x0yOhab(_0x0ECBAYOT, _0x0HCOhab);
-													_0x0sGago = _0x0ADick[_0x0aSkidDetected];
-													_0x0NTanginaMoCge = {
-															_0x0kPlsNo,
-															_0x0uBrainDamage,
-															_0x0tBILAT,
-															_0x0lNigger,
-															_0x0MTUBOL,
-															_0x0pUrMom,
-															_0x0UBoo,
-															_0x0GMamaMoBlue,
-															_0x0dMeow,
-															_0x0zBAYOT,
-															_0x0wTanginaMoCge,
-															_0x0PRomans12_19,
-															_0x0nTangina,
-															_0x0WRespect,
-															_0x0YBroStudyingHowMyBrainWorks,
-															_0x0FBoo,
-															_0x0xMeow,
-															_0x0DUrMom,
-															_0x0sGago,
-														};
-													_0x0zBAYOT = -257332 + 3515389236476;
-													_0x0kPlsNo = _0x0JBakla();
-													_0x0UBoo = (-117383 + -914530) + 23521535344225;
-													_0x0BBible[_0x0kPlsNo] = _0x0NTanginaMoCge;
-													_0x0tBILAT = _0x0BBible[_0x0ILove];
-													_0x0lNigger = _0x0BBible[_0x0RBible];
-													_0x0pUrMom = _0x0HKigol((-694352 + 676250) - 31295);
-													_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-													_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-													_0x0wTanginaMoCge = (543184 + -393732) + ((908921 + ((369450 - (563536 + 168879)) + -1495669)) + (-218230 + 4012225556677));
-													_0x0GMamaMoBlue = (1015740 - 1003043) + 25987165007592;
-													_0x0lNigger = _0x0BBible[_0x0ILove];
-													_0x0MTUBOL = _0x0BBible[_0x0RBible];
-													_0x0UBoo = _0x0HKigol(494399 + -543809);
-													_0x0EDiKanaNiyaMahal = _0x0KRomans12_19 and 922379 + (-999080 + 13452996) or 3103639 - 579139;
-													_0x0dMeow = 18377145470007 - 542070;
-													_0x0pUrMom = _0x0MTUBOL(_0x0UBoo, _0x0GMamaMoBlue);
-													_0x0GMamaMoBlue = _0x0HKigol((840929 - (-73714)) - 963799);
-													_0x0tBILAT = _0x0lNigger[_0x0pUrMom];
-													_0x0MTUBOL = _0x0BBible[_0x0ILove];
-													_0x0pUrMom = _0x0BBible[_0x0RBible];
-													_0x0UBoo = _0x0pUrMom(_0x0GMamaMoBlue, _0x0dMeow);
-													_0x0dMeow = _0x0HKigol(565448 + ((-334255 - ((-619954 + (684273 - (-536467))) - 43398)) + 277054));
-													_0x0lNigger = _0x0MTUBOL[_0x0UBoo];
-													_0x0pUrMom = _0x0BBible[_0x0ILove];
-													_0x0UBoo = _0x0BBible[_0x0RBible];
-													_0x0GMamaMoBlue = _0x0UBoo(_0x0dMeow, _0x0zBAYOT);
-													_0x0MTUBOL = _0x0pUrMom[_0x0GMamaMoBlue];
-													_0x0UBoo = _0x0BBible[_0x0ILove];
-													_0x0zBAYOT = _0x0HKigol(971770 - 1021095);
-													_0x0GMamaMoBlue = _0x0BBible[_0x0RBible];
-													_0x0dMeow = _0x0GMamaMoBlue(_0x0zBAYOT, _0x0wTanginaMoCge);
-													_0x0pUrMom = _0x0UBoo[_0x0dMeow];
-													_0x0NTanginaMoCge = {
-															_0x0uBrainDamage,
-															_0x0tBILAT,
-															_0x0lNigger,
-															_0x0MTUBOL,
-															_0x0pUrMom,
-														};
-													_0x0uBrainDamage = _0x0JBakla();
-													_0x0BBible[_0x0uBrainDamage] = _0x0NTanginaMoCge;
-													_0x0NTanginaMoCge = _0x0JBakla();
-													_0x0lNigger = _0x0jTangina(145870 + 5487085, { _0x0uBrainDamage });
-													_0x0tBILAT = _0x0LTanginaMoCge(930651 + (789392 + 457754), { _0x0kPlsNo });
-													_0x0BBible[_0x0NTanginaMoCge] = _0x0tBILAT;
-													_0x0tBILAT = _0x0JBakla();
-													_0x0BBible[_0x0tBILAT] = _0x0lNigger;
-													_0x0lNigger = _0x0LTanginaMoCge(((-211628 - (-697301)) + 12028678) - (178961 + -5088), {
-															_0x0ILove,
-															_0x0RBible,
-															_0x0NTanginaMoCge,
-															_0x0tBILAT,
-														});
-													_0x0pUrMom = _0x0HKigol(-311449 - (-262298));
-													_0x0UBoo = .1;
-													_0x0MTUBOL = _0x0ETUBOL[_0x0pUrMom];
-													_0x0pUrMom = _0x0MTUBOL(_0x0UBoo);
+													_0x0sPaasa = _0x0TBible;
+													_0x0LTFYouLookingAt = _0x0WNigaBytes;
+													_0x0sPaasa = 11830296 - 769592;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 657414 + (15071418 - 222820) then
-													_0x0iFallenPartsDestroyHeight = _0x0VDick;
-													_0x0EDiKanaNiyaMahal = _0x0gDick;
-													_0x0EDiKanaNiyaMahal = 839596 - 277226;
+												if _0x0sPaasa < 423062 + (-1030138 + 16356988) then
+													_0x0nBakla = _0x0SMamaMoBlue(969393 - (-530686 + 1496184));
+													_0x0TBible = _0x0sSINGIT[_0x0nBakla];
+													_0x0oUrMom = _0x0YBible[_0x0KTanginaMoCge];
+													_0x0nBakla = _0x0TBible(_0x0oUrMom);
+													_0x0vGay = _0x0SMamaMoBlue((((-470067 - (-670999)) + -862868) - (-599504)) + 66216);
+													_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[882205 - 882204]];
+													_0x0sPaasa = (1856427 - (-1043646)) - (((374891 + 143026) - (960659 + (247090 + -773106))) + (90404 + ((-982021 + (603032 - 62310)) - 371583)));
+													_0x0aUrMom = -1025779 + 34119221333320;
+													_0x0EOhab = _0x0MRomans12_19[_0x0VTUBOL[858125 - 858123]];
+													_0x0ISkilliSSUE = _0x0EOhab(_0x0vGay, _0x0aUrMom);
+													_0x0TBible = _0x0oUrMom[_0x0ISkilliSSUE];
+													_0x0WNigaBytes = _0x0nBakla == _0x0TBible;
+													_0x0ASkilliSSUE = _0x0WNigaBytes;
 												else
-													_0x0EDiKanaNiyaMahal = false;
-													_0x0ZSkilliSSUE = { _0x0EDiKanaNiyaMahal };
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(962392 - (836210 + 175563))];
+													_0x0mWagGago = _0x0SMamaMoBlue((-407514 + 282341) + (705624 + -576471));
+													_0x0aUrMom = _0x0sSINGIT[_0x0mWagGago];
+													_0x0vGay = _0x0sPaasa;
+													_0x0sPaasa = _0x0aUrMom and ((-390026 + (1570686 - 34103)) - 821389) + (14830103 - (402602 + (-556830 - (213732 + -611252)))) or (2713758 - ((355888 - (-651358)) + -831994)) - (-370449);
+													_0x0ISkilliSSUE = _0x0aUrMom;
 												end;
 											end;
 										end;
 									end;
 								else
-									if _0x0EDiKanaNiyaMahal < -272814 + 16444563 then
-										if _0x0EDiKanaNiyaMahal < 178194 + 15623681 then
-											if _0x0EDiKanaNiyaMahal < -726035 + 16441768 then
-												if _0x0EDiKanaNiyaMahal < -179732 + (-968727 + 16813528) then
-													if _0x0EDiKanaNiyaMahal < (932747 - 378575) + 15093164 then
-														_0x0fPaasa = nil;
-														_0x0TRespect = nil;
-														_0x0rBILAT = nil;
-														_0x0QMeow = nil;
-														_0x0hRespect = nil;
-														_0x0vGay = nil;
-														_0x0EDiKanaNiyaMahal = (12409766 - ((324149 - (-765484)) - (985375 - (-56198)))) - (-18395);
+									if _0x0sPaasa < -400585 + (84178 + ((349393 + 81630) + (-964940 + 17040127))) then
+										if _0x0sPaasa < 104046 + (((261008 + 15339333) - 400695) - (-711117)) then
+											if _0x0sPaasa < -194351 + 16058603 then
+												if _0x0sPaasa < 6306 + 15824854 then
+													if _0x0sPaasa < 14832005 - (-1763588 - (-776615)) then
+														_0x0LTFYouLookingAt = _0x0SMamaMoBlue(-379306 - (-383155));
+														_0x0nBakla = _0x0SMamaMoBlue(866281 - 862264);
+														_0x0nBakla = _0x0OTerrorist[_0x0nBakla];
+														_0x0sPaasa = _0x0sSINGIT[_0x0LTFYouLookingAt];
+														_0x0TBible = { _0x0nBakla(_0x0OTerrorist) };
+														_0x0nBakla = { _0x0sPaasa(_0x0VBakla(_0x0TBible)) };
+														_0x0WNigaBytes = _0x0nBakla[224368 + -224365];
+														_0x0ASkilliSSUE = _0x0nBakla[((525778 + -1117337) + 566729) + 24832];
+														_0x0LTFYouLookingAt = _0x0nBakla[-529608 + 529609];
+														_0x0sPaasa = (24762 + -266043) + 8393916;
 													else
-														_0x0pUrMom = _0x0HKigol(-170110 - (-120829));
-														_0x0uBrainDamage = _0x0HKigol(-816441 + ((521766 + -910724) + 1156209));
-														_0x0UBoo = 30711057816560 - (120117 + 394695);
-														_0x0kPlsNo = _0x0ETUBOL[_0x0uBrainDamage];
-														_0x0tBILAT = _0x0BBible[_0x0ILove];
-														_0x0lNigger = _0x0BBible[_0x0RBible];
-														_0x0EDiKanaNiyaMahal = 8244325 - 298938;
-														_0x0MTUBOL = _0x0lNigger(_0x0pUrMom, _0x0UBoo);
-														_0x0uBrainDamage = _0x0tBILAT[_0x0MTUBOL];
-														_0x0NTanginaMoCge = _0x0kPlsNo[_0x0uBrainDamage];
-														_0x0vGay = _0x0NTanginaMoCge;
+														_0x0rIveDoneNothing = 26310733588049 - (-425223);
+														_0x0vGay = _0x0MRomans12_19[_0x0VTUBOL[-662828 - (-662829)]];
+														_0x0aUrMom = _0x0MRomans12_19[_0x0VTUBOL[(14463 + ((925871 - (-344875)) - 918704)) + -366503]];
+														_0x0JBILAT = _0x0SMamaMoBlue(((899493 + 137209) + -977218) + -55618);
+														_0x0mWagGago = _0x0aUrMom(_0x0JBILAT, _0x0rIveDoneNothing);
+														_0x0ISkilliSSUE = _0x0vGay[_0x0mWagGago];
+														_0x0EOhab = _0x0nBakla[_0x0ISkilliSSUE];
+														_0x0sPaasa = _0x0EOhab and 4278768 - (327547 + -1045137) or -31328 + 6085019;
+														_0x0oUrMom = _0x0EOhab;
 													end;
 												else
-													_0x0CKigol = -539302 + 6377083165254;
-													_0x0mFallenPartsDestroyHeight = _0x0JBakla();
-													_0x0BBible[_0x0mFallenPartsDestroyHeight] = _0x0XBILAT;
-													_0x0fPaasa = _0x0HKigol(733896 + (-830838 + 47628));
-													_0x0XBILAT = _0x0HKigol(-629828 - (-89969 - 490468));
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0XBILAT];
-													_0x0rBILAT = _0x0BBible[_0x0ILove];
-													_0x0LSkilliSSUE = {};
-													_0x0QMeow = _0x0BBible[_0x0RBible];
-													_0x0hRespect = _0x0QMeow(_0x0fPaasa, _0x0CKigol);
-													_0x0oSkidDetected = _0x0rBILAT[_0x0hRespect];
-													_0x0rBILAT = _0x0SBroStudyingHowMyBrainWorks(((401370 + 548711) + (3898583 - (-28211))) - (-122683), { _0x0mFallenPartsDestroyHeight, _0x0ILove, _0x0RBible });
-													_0x0SPlsNo = { [_0x0oSkidDetected] = _0x0rBILAT };
-													_0x0XBILAT = _0x0EDiKanaNiyaMahal(_0x0LSkilliSSUE, _0x0SPlsNo);
-													_0x0LSkilliSSUE = _0x0HKigol(-102120 + 52974);
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0LSkilliSSUE];
-													_0x0QMeow = _0x0HKigol((-403796 + (-544327 - (-867248))) - (-31504));
-													_0x0rBILAT = _0x0ETUBOL[_0x0QMeow];
-													_0x0QMeow = { _0x0rBILAT() };
-													_0x0rBILAT = { _0x0EDiKanaNiyaMahal(_0x0bMamaMoBlue(_0x0QMeow)) };
-													_0x0LSkilliSSUE = _0x0rBILAT[-621598 + 621599];
-													_0x0SPlsNo = _0x0rBILAT[-126964 + 126966];
-													_0x0EDiKanaNiyaMahal = 9242788 - 48339;
-													_0x0oSkidDetected = _0x0rBILAT[((541315 - (-1848)) - 492573) + (143226 + -193813)];
+													_0x0GPlsNo = _0x0bLove;
+													_0x0sPaasa = _0x0ZIveDoneNothing;
+													_0x0sPaasa = 7228477 - (724097 + (((880024 + -755370) - (-708401)) + -2459043));
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < 15046119 - ((-841889 + (642731 + 353231)) - 851513) then
-													_0x0EDiKanaNiyaMahal = _0x0JMeow and -297759 + 1453603 or 410811 - (-913736);
-													_0x0XBILAT = _0x0JMeow;
+												if _0x0sPaasa < 16010945 - (-993543 + (1975115 - 970087)) then
+													_0x0LTFYouLookingAt = _0x0pSINGIT;
+													_0x0sPaasa = 834649 - (-954483);
 												else
-													_0x0RBible = ((1280222 - 806604) + -1152902) + 679401;
-													_0x0ILove = _0x0BBible[_0x0bTerrorist[-987608 + (561241 + 426369)]];
-													_0x0cBoo = _0x0ILove * _0x0RBible;
-													_0x0ILove = 62519 + 24677076710874;
-													_0x0ZSkilliSSUE = _0x0cBoo + _0x0ILove;
-													_0x0ILove = (607872 + ((1355823 - (-633722 + 1568137)) - 32983)) + -996296;
-													_0x0cBoo = 35184371903112 - (-185720);
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE % _0x0cBoo;
-													_0x0BBible[_0x0bTerrorist[-167890 + 167892]] = _0x0EDiKanaNiyaMahal;
-													_0x0cBoo = _0x0BBible[_0x0bTerrorist[-231021 - (-231024)]];
-													_0x0ZSkilliSSUE = _0x0cBoo ~= _0x0ILove;
-													_0x0EDiKanaNiyaMahal = 5192809 - (((-1161002 - (-523681)) + -392805) + 33763);
+													_0x0sPaasa = {};
+													_0x0ZIveDoneNothing = _0x0SMamaMoBlue(((1854128 - 956806) - (-347719 + (1446269 - (-172458 + 333892)))) + 43643);
+													_0x0LTFYouLookingAt = _0x0SMamaMoBlue(-583668 - (-182999 + -404548));
+													_0x0bLove = _0x0sPaasa;
+													_0x0sPaasa = _0x0sSINGIT[_0x0ZIveDoneNothing];
+													_0x0pSINGIT = _0x0sSINGIT[_0x0LTFYouLookingAt];
+													_0x0LTFYouLookingAt = { _0x0pSINGIT() };
+													_0x0pSINGIT = { _0x0sPaasa(_0x0VBakla(_0x0LTFYouLookingAt)) };
+													_0x0ZIveDoneNothing = _0x0pSINGIT[592066 - 592065];
+													_0x0sPaasa = 705057 + 2747208;
+													_0x0OTerrorist = _0x0pSINGIT[299273 + (-478056 + 178785)];
+													_0x0KTanginaMoCge = _0x0pSINGIT[146952 - 146949];
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < 15195891 - (-675457) then
-												if _0x0EDiKanaNiyaMahal < 15388257 - (-452156) then
-													_0x0fPaasa = _0x0EDiKanaNiyaMahal;
-													_0x0KRomans12_19 = _0x0HKigol(-820587 + ((183196 + 137486) - (-248292 - 202340)));
-													_0x0CKigol = _0x0ETUBOL[_0x0KRomans12_19];
-													_0x0hRespect = _0x0CKigol;
-													_0x0EDiKanaNiyaMahal = _0x0CKigol and -702479 + ((-92732 + 673185) - (-735023 - (-587678))) or (-723129 - 177408) + 15209294;
+											if _0x0sPaasa < (1037852 + ((259976 + -59961) + -2017859)) + 16863437 then
+												if _0x0sPaasa < -606863 + ((17063125 - 212467) - (-15606 - (-210973))) then
+													_0x0TBible = _0x0sPaasa;
+													_0x0oUrMom = _0x0SMamaMoBlue((-212752 + 236829) + (391071 + -411359));
+													_0x0nBakla = _0x0sSINGIT[_0x0oUrMom];
+													_0x0sPaasa = _0x0nBakla and (611413 + (324357 - 401911)) + 15180896 or 2342770 - 61962;
+													_0x0WNigaBytes = _0x0nBakla;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0XBILAT;
-													_0x0EDiKanaNiyaMahal = 14003147 - (-273450);
-													_0x0VDick = _0x0gDick;
+													_0x0DSINGIT = _0x0MRomans12_19[_0x0VTUBOL[-261246 - (-261247)]];
+													_0x0GPlsNo = #_0x0DSINGIT;
+													_0x0DSINGIT = 146292 + -146292;
+													_0x0sPaasa = _0x0GPlsNo == _0x0DSINGIT;
+													_0x0sPaasa = _0x0sPaasa and ((290228 + -774607) + 5095528) - 667435 or -579263 + 10320920;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < (-477477 + 16386580) - (-17506) then
-													_0x0EDiKanaNiyaMahal = _0x0NTanginaMoCge;
-													_0x0EDiKanaNiyaMahal = _0x0KRomans12_19 and ((151449 + -1178096) + 1612992) + 8706751 or 7404604 - ((((359231 - (-213044)) + -1060530) + 512396) + -296206);
+												if _0x0sPaasa < (547552 + (469528 + -1063750)) + 16158454 then
+													_0x0sPaasa = _0x0WNigaBytes;
+													_0x0pSINGIT = _0x0ASkilliSSUE;
+													_0x0sPaasa = 8017218 - (-725119);
 												else
-													_0x0ZSkilliSSUE = {};
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0HKigol(687178 + -736475)];
+													_0x0ASkilliSSUE = true;
+													_0x0sPaasa = _0x0MRomans12_19[_0x0VTUBOL[598927 + (-1277487 - (-678563))]];
+													_0x0nBakla = ((-88482 - 579515) + 823868) + -155870;
+													_0x0sPaasa[_0x0pSINGIT] = _0x0ASkilliSSUE;
+													_0x0sPaasa = _0x0MRomans12_19[_0x0VTUBOL[177926 - (634862 + -456940)]];
+													_0x0WNigaBytes = _0x0YBible[_0x0KTanginaMoCge];
+													_0x0TBible = _0x0MFallenPartsDestroyHeight + _0x0nBakla;
+													_0x0ASkilliSSUE = _0x0sPaasa(_0x0pSINGIT, _0x0WNigaBytes, _0x0LTFYouLookingAt, _0x0TBible);
+													_0x0sPaasa = 1037471 + 10488974;
 												end;
 											end;
 										end;
 									else
-										if _0x0EDiKanaNiyaMahal < 15857289 - (-766325) then
-											if _0x0EDiKanaNiyaMahal < 1001352 + (-134350 + ((((2130071 - (1667868 - 980154)) - 940976) + 370871) + 14734179)) then
-												if _0x0EDiKanaNiyaMahal < (17155642 - 1450) - 867856 then
-													if _0x0EDiKanaNiyaMahal < 147772 + 16101546 then
-														_0x0LSkilliSSUE = _0x0HKigol((880020 - 627042) - 302223);
-														_0x0XBILAT = _0x0EDiKanaNiyaMahal;
-														_0x0mFallenPartsDestroyHeight = _0x0ETUBOL[_0x0LSkilliSSUE];
-														_0x0EDiKanaNiyaMahal = _0x0mFallenPartsDestroyHeight and 335117 + 15519002 or ((-566752 - (-883766)) + -503209) + 1196381;
-														_0x0gDick = _0x0mFallenPartsDestroyHeight;
+										if _0x0sPaasa < 16550633 - 216742 then
+											if _0x0sPaasa < (486701 + 14827487) - (-968161) then
+												if _0x0sPaasa < 792688 + (-27204 + 15484217) then
+													if _0x0sPaasa < 118356 + 16117519 then
+														_0x0TBible = _0x0oUrMom;
+														_0x0sPaasa = _0x0EOhab;
+														_0x0sPaasa = 8801097 - ((132530 + -66847) + -192251);
 													else
-														_0x0JMeow = _0x0eTerrorist;
-														_0x0EDiKanaNiyaMahal = _0x0iFallenPartsDestroyHeight;
-														_0x0EDiKanaNiyaMahal = 6656709 - 120168;
+														_0x0TBible = #_0x0WNigaBytes;
+														_0x0GPlsNo = 787506 - 787505;
+														_0x0sPaasa = _0x0HGay(_0x0GPlsNo, _0x0TBible);
+														_0x0TBible = _0x0sPaasa;
+														_0x0EOhab = ((-1344909 - (-832825 + -177141)) + 598460) + -263516;
+														_0x0sPaasa = _0x0bLove(_0x0WNigaBytes, _0x0TBible);
+														_0x0nBakla = _0x0sPaasa;
+														_0x0sPaasa = _0x0MRomans12_19[_0x0LTFYouLookingAt];
+														_0x0oUrMom = _0x0nBakla - _0x0EOhab;
+														_0x0GPlsNo = _0x0ZIveDoneNothing(_0x0oUrMom);
+														_0x0TBible = nil;
+														_0x0sPaasa[_0x0nBakla] = _0x0GPlsNo;
+														_0x0sPaasa = 1132424 - 569273;
+														_0x0nBakla = nil;
 													end;
 												else
-													_0x0EDiKanaNiyaMahal = ((((299846 + -106000) + -359695) - (((-676762 + 352866) + 571053) - (-72079))) - (-640605)) + 1912418;
+													_0x0aUrMom = _0x0SMamaMoBlue(-151378 + 155227);
+													_0x0sPaasa = 6383865 - (803217 + -938683);
+													_0x0tTerrorist = _0x0SMamaMoBlue(128170 + -124259);
+													_0x0vGay = _0x0sSINGIT[_0x0aUrMom];
+													_0x0rIveDoneNothing = _0x0sSINGIT[_0x0tTerrorist];
+													_0x0tTerrorist = { _0x0vGay(_0x0rIveDoneNothing) };
+													_0x0JBILAT = _0x0tTerrorist[-455421 - (531615 + ((((722256 + -1599715) + 671411) - (-260270)) - 1041261))];
+													_0x0mWagGago = _0x0tTerrorist[833081 + -833079];
+													_0x0aUrMom = _0x0tTerrorist[-916600 - (626421 + -1543022)];
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -206511 + 16796058 then
-													_0x0OTerrorist, _0x0iFallenPartsDestroyHeight = _0x0JMeow(_0x0BTerrorist, _0x0OTerrorist);
-													_0x0EDiKanaNiyaMahal = _0x0OTerrorist and 12124030 - (-524035 - (-855132)) or (((-352250 - ((742192 + -449622) - (-200033))) - (-1016889)) - 6824) + (-916011 + 12038647);
+												if _0x0sPaasa < (-690768 + (-300 + 17440393)) - 436139 then
+													_0x0WNigaBytes = _0x0SMamaMoBlue(285069 - 281096);
+													_0x0ASkilliSSUE = _0x0sSINGIT[_0x0WNigaBytes];
+													_0x0sPaasa = 11959821 - ((1070290 - (764092 + ((-1371955 - (883524 + -561949)) - (-730485 - 265445)))) + (62612 + (-570022 + -14939)));
+													_0x0LTFYouLookingAt = _0x0ZIveDoneNothing(_0x0ASkilliSSUE);
+													_0x0pSINGIT = _0x0LTFYouLookingAt;
 												else
-													_0x0oSkidDetected = _0x0HKigol((-880423 + 1128285) - 297102);
-													_0x0gDick = _0x0HKigol(-788441 + 739132);
-													_0x0EDiKanaNiyaMahal = _0x0ETUBOL[_0x0gDick];
-													_0x0mFallenPartsDestroyHeight = _0x0BBible[_0x0ILove];
-													_0x0LSkilliSSUE = _0x0BBible[_0x0RBible];
-													_0x0rBILAT = 31610095740452 - (368049 + -425460);
-													_0x0SPlsNo = _0x0LSkilliSSUE(_0x0oSkidDetected, _0x0rBILAT);
-													_0x0XBILAT = _0x0mFallenPartsDestroyHeight[_0x0SPlsNo];
-													_0x0gDick = _0x0EDiKanaNiyaMahal(_0x0XBILAT);
-													_0x0gDick = _0x0eTerrorist;
-													_0x0EDiKanaNiyaMahal = _0x0eTerrorist and 6470685 - (-467623) or (8847265 - 195799) - (61538 - (737626 + -669333));
+													_0x0bLove = _0x0MFallenPartsDestroyHeight;
+													_0x0sPaasa = _0x0ZIveDoneNothing and ((639003 + -98874) - 782443) + (-314288 + 13853823) or -870796 + 5892181;
 												end;
 											end;
 										else
-											if _0x0EDiKanaNiyaMahal < (-534240 + 16462921) - (-737060) then
-												if _0x0EDiKanaNiyaMahal < 422448 + 16232260 then
-													_0x0ZSkilliSSUE = #_0x0LSkilliSSUE;
-													_0x0SPlsNo = 459712 + -459712;
-													_0x0EDiKanaNiyaMahal = _0x0ZSkilliSSUE == _0x0SPlsNo;
-													_0x0EDiKanaNiyaMahal = _0x0EDiKanaNiyaMahal and 5989524 - (-733673) or 7557390 - (-286425);
+											if _0x0sPaasa < -996023 + (18175932 - ((1049988 - (-722061 + 991400)) + -149016)) then
+												if _0x0sPaasa < -116596 + 16637641 then
+													_0x0oUrMom = _0x0SMamaMoBlue((-448834 - (-125028 - (-291355))) - ((-1307775 - (-313834)) - (((358679 + -557841) - (139655 + 677028)) - ((-48152 - (-322269)) - 915149))));
+													_0x0GPlsNo = _0x0MRomans12_19[_0x0VTUBOL[(1084927 - ((877105 - 204978) - (-151409))) + -261387]];
+													_0x0ISkilliSSUE = _0x0SMamaMoBlue(-394779 - (-398832));
+													_0x0pSINGIT = _0x0MRomans12_19[_0x0VTUBOL[-601593 - (-601594)]];
+													_0x0LTFYouLookingAt = _0x0MRomans12_19[_0x0VTUBOL[-330355 - (-825333 + (341304 + 153672))]];
+													_0x0WNigaBytes = _0x0SMamaMoBlue(-236895 - (-950216 + 709478));
+													_0x0TBible = -120991 + (719558 + (963638 + 23965809746041));
+													_0x0ASkilliSSUE = _0x0LTFYouLookingAt(_0x0WNigaBytes, _0x0TBible);
+													_0x0KTanginaMoCge = _0x0pSINGIT[_0x0ASkilliSSUE];
+													_0x0EOhab = 15370357740782 - 794516;
+													_0x0WNigaBytes = _0x0MRomans12_19[_0x0VTUBOL[-5151 + (((-414452 - (-971383)) + -1233425) - (-267870 + -413776))]];
+													_0x0TBible = _0x0MRomans12_19[_0x0VTUBOL[-582723 + 582725]];
+													_0x0vGay = (24391191431681 - 60466) - (-844783);
+													_0x0nBakla = _0x0TBible(_0x0oUrMom, _0x0EOhab);
+													_0x0ASkilliSSUE = _0x0WNigaBytes[_0x0nBakla];
+													_0x0nBakla = _0x0MRomans12_19[_0x0VTUBOL[-656961 - (-656962)]];
+													_0x0oUrMom = _0x0MRomans12_19[_0x0VTUBOL[-500759 - ((((978079 + -850312) + (1019277 + -716258)) + 523319) + (-1735062 - (-280196)))]];
+													_0x0HGay = nil;
+													_0x0EOhab = _0x0oUrMom(_0x0ISkilliSSUE, _0x0vGay);
+													_0x0TBible = _0x0nBakla[_0x0EOhab];
+													_0x0WNigaBytes = _0x0bLove .. _0x0TBible;
+													_0x0LTFYouLookingAt = _0x0ASkilliSSUE .. _0x0WNigaBytes;
+													_0x0pSINGIT = _0x0ZIveDoneNothing .. _0x0LTFYouLookingAt;
+													_0x0OTerrorist = _0x0KTanginaMoCge .. _0x0pSINGIT;
+													_0x0ZIveDoneNothing = nil;
+													_0x0sPaasa = _0x0GPlsNo .. _0x0OTerrorist;
+													_0x0MRomans12_19[_0x0VTUBOL[727108 + -727104]] = _0x0sPaasa;
+													_0x0bLove = nil;
+													_0x0sPaasa = 10386682 - (-227466);
 												else
-													_0x0EDiKanaNiyaMahal = 8200207 - (-1337663 - (-440679));
+													_0x0nBakla = _0x0SMamaMoBlue(-724737 + 728785);
+													_0x0WNigaBytes = _0x0sPaasa;
+													_0x0TBible = _0x0sSINGIT[_0x0nBakla];
+													_0x0sPaasa = _0x0TBible and 975760 + 15109980 or 4134170 - 60858;
+													_0x0ASkilliSSUE = _0x0TBible;
 												end;
 											else
-												if _0x0EDiKanaNiyaMahal < -472627 + 17193255 then
-													_0x0tBILAT = _0x0HKigol(-569754 + ((552027 + -818312) + 786676));
-													_0x0KRomans12_19 = _0x0EDiKanaNiyaMahal;
-													_0x0vGay = _0x0HKigol(380984 + -430343);
-													_0x0NTanginaMoCge = _0x0BBible[_0x0bTerrorist[-206119 - (-206120)]];
-													_0x0lNigger = ((928823 + -1593017) + (594934 - 121945)) + 1124557041303;
-													_0x0kPlsNo = _0x0BBible[_0x0bTerrorist[(866294 + 148013) - (-855356 + 1869661)]];
-													_0x0uBrainDamage = _0x0kPlsNo(_0x0tBILAT, _0x0lNigger);
-													_0x0TRespect = _0x0NTanginaMoCge[_0x0uBrainDamage];
-													_0x0vGay = _0x0QMeow[_0x0vGay];
-													_0x0vGay = _0x0vGay(_0x0QMeow, _0x0TRespect);
-													_0x0EDiKanaNiyaMahal = _0x0vGay and -348218 + 5736509 or -842150 + (((-448929 + -391481) + 6813019) - 281474);
-													_0x0CKigol = _0x0vGay;
+												if _0x0sPaasa < -91870 + 16782458 then
+													_0x0TBible = -1036824 - (-1238345 - (-201521));
+													_0x0GPlsNo = #_0x0WNigaBytes;
+													_0x0sPaasa = _0x0GPlsNo == _0x0TBible;
+													_0x0sPaasa = (840146 - (-564377 + (1184838 - (913630 - 657216)))) + 15765269;
 												else
-													_0x0EDiKanaNiyaMahal = _0x0fPaasa;
-													_0x0rBILAT = _0x0hRespect;
-													_0x0EDiKanaNiyaMahal = 1361635 - (-128323);
+													_0x0ASkilliSSUE = _0x0ZIveDoneNothing(_0x0pSINGIT);
+													_0x0LTFYouLookingAt = _0x0ASkilliSSUE;
+													_0x0sPaasa = 4205550 - (-84171 + (-809560 + 1860560));
 												end;
 											end;
 										end;
@@ -7936,36 +7871,38 @@ return (function(...)
 						end;
 					end;
 				end;
-				_0x0EDiKanaNiyaMahal = #_0x0qTUBOL;
-				return _0x0bMamaMoBlue(_0x0ZSkilliSSUE);
-			end, function(_0x0EDick, _0x0HSINGIT, ...)
-				local _0x0bSkidDetected = _0x0iOhab(_0x0HSINGIT);
-				local _0x0qDiKanaNiyaMahal = function(_0x0EBible, _0x0HBILAT, _0x0bTFYouLookingAt, _0x0qUrMom, _0x0ZRomans12_19, _0x0cPutangInaSabiNangWag, ...)
-						return _0x0HBoo(_0x0EDick, {
-							_0x0EBible,
-							_0x0HBILAT,
-							_0x0bTFYouLookingAt,
-							_0x0qUrMom,
-							_0x0ZRomans12_19,
-							_0x0cPutangInaSabiNangWag,
-						}, _0x0HSINGIT, _0x0bSkidDetected);
+				_0x0sPaasa = #_0x0yPaasa;
+				return _0x0VBakla(_0x0GPlsNo);
+			end, function(...)
+				_0x0ZNigaBytes = _0x0ZNigaBytes + (-329481 - (-329482));
+				_0x0HFallenPartsDestroyHeight[_0x0ZNigaBytes] = ((391267 + ((-917914 + (2071179 - (-593363 + (1065538 - 502414)))) - 1046432)) + -954160) - (-425822);
+				return _0x0ZNigaBytes;
+			end, function(_0x0sBAYOT, ...)
+				for _0x0sPutangInaSabiNangWag = 251291 - 251290, #_0x0sBAYOT, ((-1114895 - (-157936)) + (1198383 - (-923773 - (-334658)))) + (-420635 - 409903) do
+					_0x0HFallenPartsDestroyHeight[_0x0sBAYOT[_0x0sPutangInaSabiNangWag]] = _0x0HFallenPartsDestroyHeight[_0x0sBAYOT[_0x0sPutangInaSabiNangWag]] + (468550 - 468549);
+				end;
+				if _0x0yOhab then
+					local _0x0sSHAyBAO = _0x0yOhab(true);
+					local _0x0VTUBOL = _0x0DNigger(_0x0sSHAyBAO);
+					_0x0VTUBOL[_0x0SMamaMoBlue(-931936 - (-935764))], _0x0VTUBOL[_0x0SMamaMoBlue((701609 + -1548858) + 851178)], _0x0VTUBOL[_0x0SMamaMoBlue(-882475 + ((2109819 - 559566) - 663806))] = _0x0sBAYOT, _0x0KDiKanaNiyaMahal, function(...)
+							return 724077 + (-3691939 - (-97555));
+						end;
+					return _0x0sSHAyBAO;
+				else
+					return _0x0GLove({}, { [_0x0SMamaMoBlue(-813580 - (-817509))] = _0x0KDiKanaNiyaMahal, [_0x0SMamaMoBlue(663160 + -659332)] = _0x0sBAYOT, [_0x0SMamaMoBlue(623660 + -619688)] = function(...)
+							return (-2031928 - (-835555 + 1695313)) - ((-720332 - 81607) - ((-759851 + 585870) - 606579));
+						end });
+				end;
+			end, function(_0x0sIveDoneNothing, ...)
+				local _0x0SSHAyBAO, _0x0VTFYouLookingAt = 167435 + -167434, _0x0sIveDoneNothing[-401354 + (534654 + (202407 - 335706))];
+				while _0x0VTFYouLookingAt do
+					_0x0HFallenPartsDestroyHeight[_0x0VTFYouLookingAt], _0x0SSHAyBAO = _0x0HFallenPartsDestroyHeight[_0x0VTFYouLookingAt] - (-761499 + (-75751 - (-837251))), _0x0SSHAyBAO + (488902 - 488901);
+					if (-392596 + (182977 + -710399)) + (-81366 + 1001384) == _0x0HFallenPartsDestroyHeight[_0x0VTFYouLookingAt] then
+						_0x0HFallenPartsDestroyHeight[_0x0VTFYouLookingAt], _0x0MRomans12_19[_0x0VTFYouLookingAt] = nil, nil;
 					end;
-				return _0x0qDiKanaNiyaMahal;
-			end, (-153829 + -612918) + 766747, function(_0x0ESkilliSSUE, _0x0HNoSkill, ...)
-				local _0x0bPlsNo = _0x0iOhab(_0x0HNoSkill);
-				local _0x0qIveDoneNothing = function(_0x0EUrMom, _0x0HLove, _0x0bTanginaMoCge, _0x0qDick, _0x0ZBible, _0x0cMamaMoBlue, _0x0IDiKanaNiyaMahal, ...)
-						return _0x0HBoo(_0x0ESkilliSSUE, {
-							_0x0EUrMom,
-							_0x0HLove,
-							_0x0bTanginaMoCge,
-							_0x0qDick,
-							_0x0ZBible,
-							_0x0cMamaMoBlue,
-							_0x0IDiKanaNiyaMahal,
-						}, _0x0HNoSkill, _0x0bPlsNo);
-					end;
-				return _0x0qIveDoneNothing;
-			end, {};
-		return (_0x0XPleaseImBeggingNooo((-283284 + 4406212) - (-587019), {}))(_0x0bMamaMoBlue(_0x0RTFYouLookingAt));
-	end)(getfenv and getfenv() or _ENV, unpack or table[_0x0HKigol(650630 + -699801)], newproxy, setmetatable, getmetatable, select, { ... });
+					_0x0VTFYouLookingAt = _0x0sIveDoneNothing[_0x0SSHAyBAO];
+				end;
+			end;
+		return (_0x0LBoo(-457355 + 12228675, {}))(_0x0VBakla(_0x0BNigger));
+	end)(getfenv and getfenv() or _ENV, unpack or table[_0x0SMamaMoBlue(734508 - 730617)], newproxy, setmetatable, getmetatable, select, { ... });
 end)(...);
