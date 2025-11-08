@@ -1,5 +1,1163 @@
---[[
-	moonix obfuscator, v1.2
---]]
-
-local a,b,c=nil,nil,nil([[Obfuscated using the Magnificent Holy Moonix. https://moonix.site/]]):gsub('(.*)',function(d)local e="GCZk5cY8wQyyV1dHgCgj"local f="ZxBcQ9zjxmPKsUpETpEwg"local g=5778;local h=4572;while(g>(h-10))do h=(g+1096)*2;while(g<h)do h=g-27496;while(g>(h-12))do h=(g+234)*(#('if you are reading this you are a nerd') - 36)e=d end;if(11556-g)<(h+5794)then g=((h+5778)*2)f=d end end;if g>(h-71208)then h=(g+11556)b=getfenv or function()return _ENV end end end;local b=b()local d=b["string"]["\99\104\97\114"](99,104,97,114)local g=b[string[d](115,116,114,105,110,103)]local h="XJtU3Q_FE06Zwx9FR0qU6"local j="RIIeYqpkk"local k="EFS3B7"local l=4817;local m=6703;while(l<m)do m=l-13406;while(l>(m-12))do m=(l+2823)*((function(A) return (#A - 18) end)('none of this matters'))while(l<m)do m=l-30560;k=b[g[d](115,116,114,105,110,103)][d]end;if l>(m-9634)then m=(l+9634)j=b[g[d](115,116,114,105,110,103)][g[d](98,121,116,101)]end end;if(9634-l)<(m+4837)then l=((m+4817)*2)h=b[g[d](115,116,114,105,110,103)][g[d](103,109,97,116,99,104)]end end;c={[f]=66,['\95'..k(79,98,102,117,115,99,97,116,101,100,((function(A) return (#A - 2) end)('written during a psychotic episode')),117,115,105,110,103,32,116,104,101,32,77,97,103,110,105,102,105,99,101,110,116,(#('if you are reading this you are a nerd') - 6),72,111,108,121,(#('Stay hungry. Stay foolish') - -7),77,111,111,110,105,120,46,32,104,116,116,112,115,58,47,47,109,111,111,110,105,120,46,115,105,116,101,47)]=e}c[g[d](95,120,121,90,50,121,48,121,54,48,73,57,89,50,76,51,55)]=j;c[g[d](95,120,90,89,79,122,56,121,121,53,122,57,55,88,89,56,108)]=k;c[g[d](95,120,105,88,111,53,89,88,54,108,90,121,52,105,48,121,122)]=h;local b=926;local d=6474;while(b<d)do d=b-12948;while(b>(d-(#('this code is booby trapped') - 14)))do d=(b+1506)*2;while(b<d)do d=b-9728;while(b>(d-(#('i hate the antichrist. and linters') - 24)))do d=(b+836)*(#('we do a little trolling') - 21)if(c[f]~=nil and(#e~=c[f]))then return 0 end end;if(1852-b)<(d+939)then b=((d+926)*2)if(k(79,98,102,117,115,99,97,116,101,100,(#('deobfuscate this, i dare you') - -4),117,115,105,110,103,32,116,104,101,32,77,97,103,110,105,102,105,99,101,110,116,(#('made with tears and coffee') - -6),72,111,108,121,32,77,111,111,110,105,120,46,32,104,116,116,112,115,58,47,47,109,111,111,110,105,120,46,115,105,116,101,47)~=f)then return false end end end;if b>(d-17800)then d=(b+1852)if(e~=c['\95'..f])then return(c._riQk3)end end end;if(17800-b)<(d+8924)then b=((d+926)*(#('god has abandoned this codebase') - 29))a=f end end;a=f;c[f]=nil end)local d=c["_xZYOz8yy5z97XY8l"]local e=c["_xyZ2y0y60I9Y2L37"]local f=c["_xiXo5YX6lZy4i0yz"]local g=b()[d(115,116,114,105,110,103)]local h=g[d(102,111,114,109,97,116)]local j=g[d(115,117,98)]local j=b()[d(110,101,120,116)]local j=b()[d(116,97,98,108,101)][d(99,111,110,99,97,116)]local j=b()[d(97,115,115,101,114,116)]local k=b()[d(112,97,105,114,115)]local g=g[d(108,101,110)]local l=b()[d(114,97,119,103,101,116)]local m=b()[d(117,110,112,97,99,107)]local n={}local o={}for a=0,255 do local a,b=d(a),d(a,0)n[a]=b;o[b]=a end;c["_xyZ2y0y60I9Y2L37"]=nil;c["_xZYOz8yy5z97XY8l"]=nil;c["_xiXo5YX6lZy4i0yz"]=nil;local o=b()[d(115,116,114,105,110,103)][d(115,117,98)]local p="_xyxO_Yl_24549oLZY"local q=function(...)return...end;local r=0;local r={(c._EDboVOhMFs)}local r=function(a,b,d)local a,c=d[(c._urYLjd7maGx)](a,b,b+1)b=b+((function(A) return (#A - 23) end)('Stay hungry. Stay foolish'))return(c*256)+a end;local r=function(a,b,d)local a,c,d,e=d[(c._urYLjd7maGx)](a,b,b+(#('the industrial revolution and its consequences for this codebase') - 61))b=b+4;return(back*16777216)+(d*65536)+(c*256)+a end;local r=function(a,b,d)local a,c,d,e,f=d[(c._urYLjd7maGx)](a,b,b+4)b=b+(#('moooooooooooonix') - 11)return(e*16777216)+(d*65536)+(c*256)+a+(f*4294967296)end;local q=function(a,b,d,e)a=a or 1;local b=e[(c._fpOdaokQRPj)](b,d,q(d,q(a,(#('skill issue') - 10),(c._gLx83W)),(c._UeFHnlHfXjlb)))d=q(d,a,(c._UeFHnlHfXjlb))return b end;local q=function(a,b,d)local a,c,d=d[(c._urYLjd7maGx)](a,b,b+2)b=b+3;return(d*65536)+(c*256)+a end;local function q(a,b,d)j(d,(c._HhNibIu))if d==(c._OdtdX8g)then return a==b elseif d==(c._AWGq_LN44TZh)then return a<b elseif d==(c._fDz11LiyhcVx_K)then return a<=b end end;local function r(a,b,d)j(d,(c._HhNibIu))if q(d,(c._zNkLZ),(c._OdtdX8g))then return a*b elseif q(d,(c._Pq3RwYRWt),(c._OdtdX8g))then return a/b elseif q(d,(c._UeFHnlHfXjlb),(c._OdtdX8g))then return a+b elseif q(d,(c._gLx83W),(c._OdtdX8g))then return a-b elseif q(d,(c._dIclr5IuGK),(c._OdtdX8g))then return a%b elseif q(d,(c._ts3fSDyj7QrU),(c._OdtdX8g))then return a^b end end;local function s(a,b)j(b,(c._HhNibIu))if q(b,(c._a_gldsE6KcuKZC9),(c._OdtdX8g))then return-a elseif q(b,(c._OS114),(c._OdtdX8g))then return not a elseif q(b,(c._BxcxFj1jRl),(c._OdtdX8g))then return#a end end;local function t(a,b,d)j(d,(c._HhNibIu))if q(d,(c._RpbonJZ2),(c._OdtdX8g))then return a..b elseif q(d,(c._QOz4ecwMETh0yvp),(c._OdtdX8g))then return t(a,b)end end;local j={}local u,w,x,y,z;local A=2993;local B=3281;while(A<B)do B=A-6562;while(A>(B-10))do B=(A+3328)*2;z=function(a,b)local c=""local d=1;for f=(#('The people who are crazy enough to think they can change the world are the ones who do') - 85),#a do local a=u(a[f],e(o(b,d,d)))c=c..j[a]or a;d=d+1;if d>#b then d=(#('Stay hungry. Stay foolish') - 24)end end;return c end end;if(5986-A)<(B+3026)then A=((B+2993)*(#('obfuscators go brrrrr') - 19))x=function(a,b)local c=""local d=(#('its not a bug. its a feature') - 27)for f=1,#a do local a=u(e(o(a,f,f)),e(o(b,d,d)))c=c..l(j,a)or a;d=d+1;if d>#b then d=(#('this script is my horcrux. do not touch it') - 41)end end;return c end end end;u=function(a,b)local c,d=(#('skill issue') - 10),0;while a>0 and b>0 do local e,f=a%(#('if you are reading this. go outside') - 33),b%(#('based and code-pilled') - 19)if e~=f then d=d+c end;a,b,c=(a-e)/2,(b-f)/2,c*(#('i get paid to write this garbage') - 30)end;if a<b then a=b end;while a>0 do local b=a%2;if b>0 then d=d+c end;a,c=(a-b)/(#('The only way to do great work is to love what you do') - 50),c*2 end;return d end;for a,b in k(n)do j[e(a)]=a end;local n=2741;local x=4668;while(n<x)do x=n-9336;while(n>(x-(#('do not ask questions. just consume product') - 32)))do x=(n+3156)*(#('obfuscated hello world') - 20)w=function(a,b)local c=""local d=(#('warning. may contain traces of code') - 34)for f=(#('it just works') - 12),#a do local a=u(e(o(a,f,f)),e(o(b,d,d)))c=c..l(j,a)or a;d=d+1;if d>#b then d=((function(A) return (#A - 15) end)('luarmor services'))end end;return c end end;if(5482-n)<(x+2745)then n=((x+2741)*((function(A) return (#A - 26) end)('obfuscation is just code art')))y=function(a,b)local c=""local d=(#('The only way to do great work is to love what you do') - 51)for f=1,#a do local a=u(a[f],e(o(b,d,d)))c=c..j[a]or a;d=d+1;if d>#b then d=(#('every line is a cry for help') - 27)end end;return c end end end;local n={{},{}}local x=1;for a=(#('the industrial revolution and its consequences for this codebase') - 63),255 do if a>=112 then n[(#('its not a bug. its a feature') - 26)][x]=a;x=x+1 else n[(#('none of this matters') - 19)][a]=a end end;local m=d(m(n[(#('if you are reading this you are a nerd') - 37)]))..d(m(n[2]))local n,x,z,A,B,C,D;A=y({18,9,102,100,97,((function(A) return (#A - 12) end)('if you are reading this you are a nerd')),120,49,108,((function(A) return (#A - 11) end)('none of this matters')),85,49,113,124,108,58,(#('touch my code and i will find you') - 1),125,126,119,97,52,3,31,57,(#('obfuscated hello world') - 9),81,(#('this script is my horcrux. do not touch it') - 8),((function(A) return (#A - 10) end)('warning. may contain traces of code')),39,127,44,76,(#('moonix obfuscator') - -2),38,59,(#('pls do not deobfuscate me') - 11),0,111,57,101,43,(#('Stay hungry. Stay foolish') - 19),113,113,57,40,49,((function(A) return (#A - 2) end)('what zero pussy does to a mf')),84,127,99,(#('my brain is also obfuscated') - -8),44,((function(A) return (#A - -5) end)('this code is booby trapped')),51,71,63,92,(#('weaponized autism at work') - -3),27,8,95,0,48,(#('warning. may contain traces of code') - 19),46,112,125,103,58,88,49,91,82,(#('go away fedboy') - 13)},"\67\57\54\84\86\72\72\68\54\86\108\110")local E=1711;local F=2582;while(E<F)do F=E-5164;while(E>(F-11))do F=(E+3311)*2;while(E<F)do F=E-20088;z=function(a,...)return w(a,A,...)end end;if E>(F-3422)then F=(E+3422)C=function(a,...)return w(a,n,...)end end end;if(3422-E)<(F+1721)then E=((F+1711)*(#('god has abandoned this codebase') - 29))B=function(...)return y(...,A)end end end;n=y({((function(A) return (#A - 15) end)('abandon all hope ye who enter here')),73,65,1,(#('gourmet spaghetti code') - 13),32,123,46,67,50,57,4,52,67,94,28,((function(A) return (#A - -3) end)('its not a bug. its a feature')),121,26,46,87,53,(#('unreadable by normies') - -8),11,26,75,67,97,(#('do not ask questions. just consume product') - 41),((function(A) return (#A - 10) end)('Stay hungry. Stay foolish')),(#('if you are reading this you are a nerd') - 7),48,121,62,59,40,119,107,87,24,4,44,((function(A) return (#A - 43) end)('real programmers obfuscate their hello world')),((function(A) return (#A - 1) end)('fueled by autism and monster energy')),6,18,41,54,54,65,111,63,27,((function(A) return (#A - 0) end)('it just works')),(#('what does this button do') - 10),((function(A) return (#A - 21) end)('this code glows brighter than a fed')),91,1,14,56,123,(#('this is what peak performance looks like') - 29),64,22,111,41,((function(A) return (#A - 2) end)('i get paid to write this garbage')),112,((function(A) return (#A - 15) end)('none of this matters')),((function(A) return (#A - -16) end)('unreadable by normies')),27,(#('god has abandoned this codebase') - 29),47,91,93,4,(#('weaponized autism at work') - -1),11,120,2,122,32,11,((function(A) return (#A - 58) end)('the industrial revolution and its consequences for this codebase')),123,86,113,100,1,61,2,119,67,(#('none of this matters') - -19),(#('encoded whispers from the void') - -1),90,112,14,79,4,35,112,29,61},"\67\57\54\84\86\72\72\68\54\86\108\110")x=y({32,83,105,7,52,((function(A) return (#A - 11) end)('this is what god fears')),(#('skill issue') - -4),(#('pls do not deobfuscate me') - 24),((function(A) return (#A - 13) end)('obfuscation is just code art')),62,63,52,49,78,110,45,56,44,((function(A) return (#A - 19) end)('this is what god fears')),38,89,(#('what zero pussy does to a mf') - 27),61,1,(#('moooooooooooonix') - -2),87,67,53,16,(#('The people who are crazy enough to think they can change the world are the ones who do') - 68),126,(#('its not a bug. its a feature') - -11),82,(#('god has abandoned this codebase') - 22),45,((function(A) return (#A - 52) end)('the industrial revolution and its consequences for this codebase')),15,99,111,((function(A) return (#A - 28) end)('written during a psychotic episode')),(#('the industrial revolution and its consequences for this codebase') - 39),(#('return to monke. reject readable code') - 20),45,54,64,20,93,86,(#('god has abandoned this codebase') - 5),78,66,((function(A) return (#A - 7) end)('god has abandoned this codebase')),25,59,43,30,80,97,43,60,(#('this will definitely break in production') - 3),81,124,26,62,57,36,((function(A) return (#A - -2) end)('i get paid to write this garbage')),99,(#('this script is my horcrux. do not touch it') - 24),(#('fueled by autism and monster energy') - 11),90,113,97,122,48,62,62,113,10,91,(#('skill issue') - -25),53,63,1,95,125,98,58,30,120,(#('my brain is also obfuscated') - 21),83,102,((function(A) return (#A - 0) end)('this code will outlive humanity')),(#('this isnt even my final form') - -10),((function(A) return (#A - 24) end)('i hate the antichrist. and linters')),8,78,25,26,47,(#('obfuscators go brrrrr') - 11),50,105,(#('i hate the antichrist. and linters') - 11),57,61},"\67\57\54\84\86\72\72\68\54\86\108\110")local y=e(d(((function(A) return (#A - 25) end)('i will haunt your debugger'))))c["_xz0342lZ1z0zZyL0z"]=function(a,b)local d=d()local f=y;for g=y,#a do local a=u(e(o(a,g,g)),e(o(b,f,f)))d=h(((c._wk3D1o)),d,l(j,a)or a)f=f+y;f=(f>#b and y)or f end;return d end;local h=c[B({(#('obfuscators make spaghetti code look like fine dining') - 39),72,42,0,((function(A) return (#A - 24) end)('obfuscation is just code art')),102,2,25,0,110,67,111,72,31,35,34,70,79})]return(function(l)local y,E,F;y=(y or 0)for a,a in k(l)do y=(y or 0)+1 end;if(y<2)then return("M6WYITe5")end;local k=2683;local y=6067;while(k<y)do y=k-12134;while(k>(y-10))do y=(k+2897)*2;E=l[(#('i get paid to write this garbage') - 30)]end;if(5366-k)<(y+2700)then k=((y+2683)*2)F=l[(#('i get paid to write this garbage') - 31)]end end;c={}do local a=b()[z("\34\85\36\93\82\38\81\1\59\61\85\58")]if(a~=nil)then c[z("\14\72\41\72\120\13\105\25\5\109\13\106\6\124\53\34\44\108")]=a({[85.27914645063885]=29.021794012124587;[-12.328537358838986]=60.239245142500494;[42.93704808572909]=-63.49257320615771},{[z("\14\111\36\95\68\38\66\28\52\56")]=function(a,a)return(function()while true do c=c or nil;if(c~=nil and c[1]~=nil)then break else c["\70\84\115\119\116\108\103\122\95\97\80\70\119\112\110\71\102\115"]="\80\105\52\113\110\104\101\100\70\104\73"end end;return"\119\52\55\113\54\95\50\118\50\52\66\54\107\114\116\113\111\107\57\99\54\65\77\54\106\119\56\54\112\83"end)()end})c[(#('moonix obfuscator') - 16)]=c[p]end;do c[z("\14\126\40\92\2\43\124\39\61")]=w("\41\72\63\7\120\100\104\45\51\19",A)c[z("\14\113\22\100\96\49\101\15\106\111\80\60\80\44\41\86")]=w("\16\92\34\85\86\54\73\85\40\62\87\127\26\116\115\79",A)c[z("\14\113\7\119\70\13\124\59\110\107\109\5\90")]=w("\45\124\4\76",A)c[z("\14\86\57\122\125\4\73\61\18\52\0\11\91")]=w("\14\111\51\81\91\62",A)c[z("\14\83\3\88\82\102\98")]=w("\63\69\61\82\82\32",A)c[z("\14\88\1\120\101\60\3\63\22\59\94\52\91\43\18")]=w("\51",A)c[z("\14\116\10\117\90\34\5\27\18\52\97\20\125\0")]=w("\34\68\34\89\89\53",A)c[z("\14\100\17\111\70\57\74\51\2\30\64\8\97\53")]=w("\41\111\97\95\77\103\124\70\19\107\65\0\3",A)c[z("\14\92\29\66\91\102\88\36")]=w("\35",A)c[z("\14\103\30\124\4\6\120\67\28\44\76\0")]=w("\41",A)c[z("\14\85\27\116\112\56\9\63\41\109")]=w("\63\91\58",A)c[z("\14\121\10\118\6\27")]=w("\41\95\96\2\94\96\72\26\22\22\67\51\2",A)c[z("\14\98\32\82\88\60\122\47\104")]=w("\45\115\31\126\116\19\100\38\14\13\112\17\117\57",A)c[z("\14\81\15\87\91\54\67\48\108\20\90\42\121\31\25\87")]=w("\45\101\30\125\75",A)c[z("\14\104\40\73\14\8\102\48\107\42\92\46\100\35")]=w("\41\73\41\1\2\100\111\13\0\6",A)c[z("\14\117\99\2\84\43\116\69\23")]=w("\37\81\50\92\82",A)c[z("\14\111\99\93\66\43\68\62\5\11\108\19\95\43\105\12")]=w("\41\89\97\4\4\61\9\47\108\111\118\6\123",A)c[z("\14\84\52\95\71\11\92\48\3\9\117\106")]=w("\45\101\30\125\75",A)c[z("\14\89\27\119\95")]=w("\45\115\31\126\116\19\100\38\14\13\112\17\117\57",A)c[z("\14\97\39\3\120\33\120\70\45\59\124\110\106\113\12\92")]=w("\45\125\5\124\75",A)c[z("\14\70\8\4\120\36")]=w("\45\99\5\114\75",A)c[z("\14\99\3\91\98\107\1\60\32\49\12")]=w("\14\111\57\94\83\55\72",A)c[z("\14\105\34\113\94\27\106\16\9\22\82")]=w("\41\95\9\95\109\97\104\25\104\48",A)c[z("\14\73\8\117\80\21\92")]=w("\41\105\99\74\1\59\114\18\32",A)c[z("\14\102\41\99\90\60\111\59\43\49\105")]=w("\14\72\9\5\15\11\7\25\98\22\0",A)c[z("\14\101\53\118\127\60\92\61\60\7\83\51\80")]=w("\45\113\20\116\75",A)c[z("\14\96\33\3\101\37\105\39\13\43")]=w("\45\116\25\102\75",A)c[z("\14\83\105\126\94\20\66\23\107\17\107\16")]=w("\41\111\99\1\6\27\111\77\99\16",A)c[z("\14\104\53\100\79\57\99")]=w("\41\111\40\4\4\27\104\67\22\16\117\39\104",A)c[z("\14\88\101\68\95\60\7\23\43\22\125\8\64\28\16\60")]=w("\124",A)c[z("\14\87\62\113\90\31\113\18\8")]=w("\40\126\40\99\125\37\67\1\98\9",A)c[z("\14\126\22\127\7\58\68\47\15\27\74\7\89\60\10\95")]=w("\41\74\102\74\2\30\73\58\21\37\117\102\123",A)c[z("\14\84\49\123\4\5\127\29")]=w("\62\95\49",A)c[z("\14\9\37\118\114")]=w("\14\111\32\66\88\38\95\42\5",A)c[z("\14\102\22\105\14\49\4\49\19\13\0")]=w("\29\114\36\127\7\0\95\64\42",A)c[z("\14\87\28\72\15\97\103")]=w("\45\99\5\114\75",A)c[z("\14\121\29\86\116\51\7")]=w("\34\85\60\85\84\38",A)c[z("\14\100\29\115\79\100\115\42\22\22\14\62\118\26\59\24")]=w("\16\92\34\85\86\54\73\85\40\62\87\127\26\119\115\79",A)c[z("\14\116\63\93\88\102\90\50\22\0\78\52\65\23")]=w("\41\73\57\6\4\42\127\12\22\38\67\111\0",A)c[z("\14\118\29\72\103\96\64\42\60\10\112\38\98\51")]=w("\63",A)c[z("\14\127\3\1\6\102")]=w("\45\126\31\100\75",A)c[z("\14\82\58\119\91\103\102")]=w("\108\14",A)c[z("\14\126\97\92\91\63\86")]=w("\41\73\41\1\2\100\111\13\0\6",A)c[z("\14\67\18\123\77\2")]=w("\41\111\101\0\79\62\121\44\51\16",A)c[z("\14\88\54\69\3\25")]=w("\41\124\96\106\14\29\111\47\3\16\13\39\107",A)c[z("\14\68\3\88\120\52\100\26\10\46\94\53\127")]=w("\40\89\53\92\83",A)c[z("\14\84\25\83\91\32\5\60\47\24\114")]=w("\45\125\31\116\75",A)c[z("\14\125\57\90\127\3\97\67\14\17\11\51\112")]=w("\41\95\9\95\109\97\104\25\104\48",A)c[z("\14\118\21\116\82\53\126\24\3\29\107\38\124")]=w("\41\95\8\104\109\106\3\67\5\109",A)c[z("\14\92\36\91\112\56\66\57\60\61")]=w("\30\84\36\82\81\26\70\19\55\27\118\110\67\49\105\0\55\122\114\98\53\38\3\64\27\13\82\63\54\39\88\48",A)c[z("\14\66\57\97\92\97")]=w("",A)c[z("\14\97\31\74\3\55\83\2\23\26\109\55\2\60\44\30")]=w("\45\115\31\126\116\19\100\33\27\29\117\26\78",A)c[z("\14\113\33\83\121\7\70\60\110")]=w("\48\82\51\84\82\52\87",A)c[z("\14\86\32\127\83\51\95\30\11\13\105\53")]=w("\45\99\36\66\94\60\87\6\47\61\69",A)c[z("\14\69\34\105\123\56\84\66\55\62\126\39")]=w("\45\99\36\66\94\60\87\23\35\43\92\35",A)c[z("\14\86\20\74\6\99\124\28\35\55\90\9\74\26\17")]=w("\45\124\21\76",A)c[z("\14\74\30\9\97\4\2\64\0\5\76\8\109\118\20\47")]=w("\56\94\38\81\91\59\84\85\51\49\93\58\74\100",A)c[z("\14\93\8\6\68\103\74\48\104\44\84\43\85\61")]=w("\51\105\59\90\4",A)c[z("\14\113\98\7\64")]=w("\55\81\51\64\79\3",A)c[z("\14\127\52\68\83\10\8\18")]=w("\45\117\1\76",A)c[z("\14\117\20\82\88\4\127\29\23\25\74")]=w("",A)c[z("\14\71\22\5\3\103\66\49\21\8\105\43\70\50\54\7")]=w("\28\98\7\117\116\40\8\60\43\20\72\104\115\13\61\90\29\112\96\90\18\7\32\65\61\0\21\30\5\92\93\10",A)c[z("\14\68\35\3\81\1\116\12\48\104\104\45\103")]=w("\45\96\31\103\75",A)c[z("\14\124\98\86\14\37\65\32\30\58\127")]=w("\114",A)c[z("\14\3\9\91\91\101\8\54\108\44\13\39\100\18")]=w("\14\72\42\0\4\102\2\25\0\110\67\111\72\31\35\34\70\79",A)c[z("\14\106\30\0\2\49\65\19\105\30\80\111\118\50")]=w("\107\24\117\84\29\123\10",A)c[z("\14\126\38\122\122\29\0\68\60")]=w("\51\90\51\97\67\57\105\67\48\30\122\58\101\22\13\33\2\92\0\98\46\8\30\34\60\123\36\2\25\95\2\88",A)c[z("\14\70\63\106\120\96")]=w("\41\111\31\7\14\106\95\12\0\37",A)c[z("\14\120\60\3\103\24\7")]=w("\2\101\0\117\101\13\127\37",A)c[z("\14\113\32\102\120\5\6\52\49\54")]=w("\41\111\96\2\88\40\74\45\2\105",A)c[z("\14\99\22\91\100\36\0\58")]=w("\41",A)c[z("\14\114\40\83\79\20\90\68\48\13\85")]=w("\45\124\21\126\75",A)c[z("\14\126\5\95\80\56\120\7\13\61\14\110\107\53\48")]=w("\41\104\42\5\79\10\73\71\98\5",A)c[z("\14\105\40\92\77\28\95\29\15\7\81\12")]=w("\41\89\8\74\120\102\105\68\22\16\97\5\11",A)c[z("\14\119\100\67\117\37")]=w("\41\119\50\124\64\20\85\36\2",A)c[z("\14\96\32\7\85\17\88\19\60\21\109\41")]=w("\37\81\50\92\82",A)c[z("\14\95\32\84\103\55\8\16\20")]=w("\14\111\32\66\88\38\95\42\5",A)c[z("\14\95\32\7\110\3\103\39")]=w("\41\111\99\1\6\27\111\77\99\16",A)c[z("\14\70\20\71\118\38")]=w("\32\116\53\117\101\63\71\61\105\8\91\111\68\9\41\44\7\120\0\70\35\87\95\20\47\2\13\63\54\1\2\45",A)c[z("\14\81\98\65\88\59\93\66\29")]=w("\34",A)c[z("\14\118\102\94\125\28\89\57\13\25\9\47\89\3\108")]=w("\14\111\62\85\64\59\94\17\63\39",A)c[z("\14\90\0\101\99\33")]=w("\41\111\96\2\88\40\74\45\2\105",A)c[z("\14\93\57\122\0\51\121\39\110\59\105\14\11")]=w("\41\111\101\0\79\62\121\44\51\16",A)c[z("\14\85\98\91\84\39\115\31\22\20\14")]=w("\45\124\4\76",A)c[z("\14\68\100\8\77\21\4\51")]=w("\61\73\40\9",A)c[z("\14\84\4\100\68\24")]=w("\41\95\31\5\3\59\6\25\54\108",A)c[z("\14\120\56\126\94\48\121\0")]=w("\53\93\112\68\95\59\67\85\46\48\25\23\87\55\40\26\2\21\89\65\119\47\10\29\27\90\4\30\32\3\78",A)c[z("\14\121\30\84\4\30\122\61\24\111\99\30\112\36\49\60")]=w("\41\72\63\7\120\100\104\45\51\19",A)c[z("\14\81\0\101\88\101\64\57\19\30\15")]=w("\45\113\20\116\75",A)c[z("\14\118\99\96\126\2\96\62\8")]=w("\41\73\5\89\0\107\97\52\29",A)c[z("\14\102\31\67\110\6\0\77\61\61\113\6\96\11\29\56")]=w("\13\0",A)c[z("\14\86\49\126\120\19\66\56\25")]=w("\96\30\99\4\14\96\3\77\108\111\12\107\7\118\108\93\69\7",A)c[z("\14\91\59\116\121\61\93")]=w("\25\2\22\8\68\59\125\45\108\16\102\22\89\44\57\86\44\93",A)c[z("\14\71\59\3\115\99\95")]=w("\116\67\117\67",A)c[z("\14\93\1\125\5\2\93\45\19\47\97\0\7\4\17")]=w("\34\68\34\89\89\53",A)c[z("\14\74\30\91\123\8")]=w("\45\125\5\124\75",A)c[z("\14\102\52\91\68\49\85\6\104")]=w("\60\100\27\9\117\34\94\68\27\15\79\5\116\51\99\9\71\66\100\103\20\8\21\66\30\112\34\18\56\57\123\63",A)c[z("\14\122\35\85\122\24\7\50")]=w("\7",A)c[z("\14\71\24\7\125\31\66\29")]=w("\48",A)c[z("\14\72\27\100\125\5\88\62\18\10\95\18\88\9")]=w("\59\7\39\113\92\107\124\4\60\47\76\62\70\44\43\86\78\115\119\73\38\83\61\37\24\69\2\2\9\25\66\3",A)c[z("\14\116\104\81\124\22")]=w("\38\81\49",A)end end;c[(c._3Ykl78C6s4xVW)]=h;local h=b()[B({(#('return to monke. reject readable code') - 0),73,(#('deobfuscate this, i dare you') - -4),85})]local k=b()[B({34,68,34,89,89,53})]local k=b()[B({(#('if you are reading this you are a nerd') - 5),66,57,94,67})]local l=b()[B({((function(A) return (#A - -12) end)('gourmet spaghetti code')),85,60,85,84,(#('obfuscated hello world') - -16)})]local w=b()[B({(#('my code is a psyop') - -16),85,36,93,82,(#('luarmor services') - -22),81,((function(A) return (#A - 25) end)('made with tears and coffee')),59,61,85,58})]local y=b()[B({((function(A) return (#A - -14) end)('take the code blackpill')),81,50,92,82})]local y=b()[B({35,81,(#('unreadable by normies') - -18),87,82,((function(A) return (#A - -27) end)('skill issue'))})]local y=b()[B({((function(A) return (#A - -1) end)('warning. may contain traces of code')),94,32,81,84,57})]local A=b()[B({52,66,34,95,69})]local F=b()[B({34,85,(#('compiling... just kidding') - -11),66,86,37})]local F=b()[B({33,83,49,92,91})]local G=b()[B({48,67,(#('based and code-pilled') - -14),85,69,38})]local G=b()[B({50,95,((function(A) return (#A - -13) end)('obfuscators go brrrrr')),95,66,(#('it just works') - -25),89,27,63})]local H=b()[B({(#('the industrial revolution and its consequences for this codebase') - 27),95,35,68,69,59,94,18})]local I=b()[B({37,95,62,69,90,48,85,(#('do not ask questions. just consume product') - 35)})]local J=b()[B({(#('this code will outlive humanity') - -2),81,57,66,68})]local B=b()[B({54,85,36,93,82,38,81,(#('discord.gg/Agdgwp8efW') - 20),59,61,85,58})]local K=c["\95\120\122\48\51\52\50\108\90\49\122\48\122\90\121\76\48\122"]local G=G[(c._tShOfToPqgjM)]local function L(...)local a,a=...local a=f(H(a),(c._ZN05cqf3Ai0Dw))()return I(a)end;local M=L(F(function()local a=(c._wH7JMrh)^1 end))local k=k;local function N(...)return l((c._L2f9wqUDeF),...),{...}end;local l="\0\9xyUi79QAGx\0\0\0\143\209\1\0\1\0\0\0\0\1\0\0\0\0\9xY3z6iBgzx\0\0\0\143\209\1\0\1\0\0\0\0\2\0\0\0\0\9xGbLwFeQXn\0\0\0\0\0\3\0\0\0\0\32bjcQtkY6jACeWSWOti6QyjqSFOCtV050b\0\0\0\5\0\0\0\5\0\0\0\0\4\0\0\0\1\4b\0\1\0\14\0\0\0\69\64\0\0\0\0\32OdtbfHvfmDO1qt3nAODQbDl1a95IyHoXa\0\1\0\1\0\0\0\11\1\0\75\128\192\0\0\5\0\0\0\0\32j7wAk9Lqfpuatiq88FAzq1RTbqetFvukb\0\3\0\12\0\0\0\193\192\0\0\0\6\0\0\0\0\32mTK9Bpn1APvZFv9g1wRTCjz3dDEdwVLWa\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\7\0\0\0\1\7a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\7a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\0\32MRWECz8IqKq7AHg4kEViEeO0G4rhJ3jba\0\0\0\1\0\0\0\0\0\0\30\0\128\0\0\8\0\0\0\2"if(c[p]==nil)then return(function()while k~=b do a=o(a,(#('moooooooooooonix') - 15),#a-1)..(c._faNOArMC)end end)()end;local function a()if s(q(B(j),nil,(c._OdtdX8g)),(c._OS114))then return G()end end;local function j(j,k,p,B,G)local O=(c._JseMJ7G)local O=false;local P;local Q;local R=(c._t48zG4F)local R;local S=(c._mX6s5zE2smtgx)local S;local T;local U;for a in a do break end;local V;local W;local X=(c._lMrl4hQ)local X;local Y;local Z=(c._eKDGj9Js2)local Z=(c._VFY9c4DIR9)local Z;if((j~=0 and k~=(c._vDwAt))and j~=(c._kkDNom))then while(j~=0)do k=(c._A27w)end elseif(j==0 and k==(c._vDwAt))then O=true end;local ab={}for a=1,r(64,((function(A) return (#A - 19) end)('take the code blackpill')),(c._Qw3OsH3wdE1X4V2))do ab[a]=d(r(a,1,(c._vX4Ov)))end;local ab;local bb=(function(a,...)return a and n end)((c._gnAmMAgR))local d=t((c._EDboVOhMFs),d(),(c._iKGh))local cb=1083;local db=1974;while(cb<db)do db=cb-3948;X=O and(p)or({})end;local cb=5209;local db=783;while(cb>(db-11))do db=(cb+3023)*(#('this code will outlive humanity') - 29)while(cb<db)do db=cb-32928;while(cb>(db-((function(A) return (#A - 12) end)('this is what god fears'))))do db=(cb+3135)*((function(A) return (#A - 26) end)('every line is a cry for help'))while(cb<db)do db=cb-33376;while(cb>(db-((function(A) return (#A - 10) end)('none of this matters'))))do db=(cb+904)*(#('what zero pussy does to a mf') - 26)while(cb<db)do db=cb-24452;while(cb>(db-12))do db=(cb+4663)*((function(A) return (#A - 33) end)('if you are reading this. go outside'))while(cb<db)do db=cb-39488;while(cb>(db-(#('made with tears and coffee') - 16)))do db=(cb+1020)*2;X[(c._dTTsJ)]=O and(X[(c._dTTsJ)])or(p)end;if(10418-cb)<(db+5225)then cb=((db+5209)*2)Q={}end end;if cb>(db-70668)then db=(cb+10418)R=O and G end end;if(70668-cb)<(db+35383)then cb=((db+5209)*(#('compiling... just kidding') - 23))Z=O and({})or(k)end end;if cb>(db-203844)then db=(cb+10418)S=false end end;if(203844-cb)<(db+101937)then cb=((db+5209)*2)W=(0)end end;if cb>(db-470196)then db=(cb+10418)V=O and(X[(c._MijHQQ6TN2lB)][-((function(A) return (#A - 25) end)('i will haunt your debugger'))])or(1)end end;if(470196-cb)<(db+235132)then cb=((db+5209)*2)T=(O==true and B)or(O==false and G or b())or{}end end;if cb>(db-1002900)then db=(cb+10418)Y=O and(X[(c._Nxl5yLRg)][-(#('go away fedboy') - 13)])or(0)end end;local k=6343;local p=4382;while(k>(p-(#('fueled by autism and monster energy') - 25)))do p=(k+4709)*2;while(k<p)do p=k-44208;ab=function(a,b)local d=d;local f=s(-1,(c._ddopYlEYVL5))for h=1,g(a)do local a=u(e(o(a,h,h)),e(o(b,f,f)))d=t(d,o(m,a,a)or a,(c._iKGh))f=q(g(b),f+((function(A) return (#A - 13) end)('go away fedboy')),(c._e2kcuCjLK7))and(#('my code is a psyop') - 17)or r(f,1,(c._aPUo7pLIA6))end;return d end end;if k>(p-12686)then p=(k+12686)D=function(a,...)return ab(a,bb,...)end end end;local d={[(c._fiJJVyHHk9Ti)]=function(b,d,e,f,g,j)if(O~=true and S)then return A((c._AFTWcUz00icbis8))end;if(U==(c._Xxy9ZVE1ueqVf))then if(P)then local a=3704;local b=589;while(a>(b-12))do b=(a+4326)*((function(A) return (#A - 26) end)('every line is a cry for help'))while(a<b)do b=a-32120;while(a>(b-12))do b=(a+916)*2;local a={[(c._NUogjHrWb71Ypj)]=P}local b=3537;local e=4874;while(b<e)do e=b-9748;while(b>(e-((function(A) return (#A - 13) end)('Stay hungry. Stay foolish'))))do e=(b+567)*((function(A) return (#A - 36) end)('if you are reading this you are a nerd'))while(b<e)do e=b-16416;while(b>(e-11))do e=(b+1234)*2;while(b<e)do e=b-19084;a[(#('one obfuscator to rule them all') - 30)]=d[1]end;if b>(e-7074)then e=(b+7074)a[(#('do not ask questions. just consume product') - 40)]=d[(#('one obfuscator to rule them all') - 29)]end end;if(7074-b)<(e+3577)then b=((e+3537)*(#('this script is my horcrux. do not touch it') - 40))a[(c._Hl3PJ7)]=false end end;if b>(e-56592)then e=(b+7074)X[(c._MijHQQ6TN2lB)][V]=a end end;if(56592-b)<(e+28342)then b=((e+3537)*(#('compiling... just kidding') - 23))a[(#('obfuscators make spaghetti code look like fine dining') - 50)]=d[(#('written during a psychotic episode') - 31)]end end end;if(7408-a)<(b+3713)then a=((b+3704)*2)V=V+1 end end;if a>(b-51776)then b=(a+7408)P=nil end end else local a=3725;local b=5427;while(a<b)do b=a-10854;P=d end end elseif(U==(c._op7YQWR))then local a;local b=2991;local e=5551;while(b<e)do e=b-11102;a=X[(c._Nxl5yLRg)][Y-(#('a monument to my sins') - 20)]end;if(d==nil and h(a)==(c._mQM2PmXIpX_5AK))then local b=3312;local d=6030;while(b<d)do d=b-12060;X[(c._Nxl5yLRg)][Y-1]={z(a)}end elseif(h(d)==(c._Pp7bChffJTv)and d[(c._VySmn_NqnP)]==true)then local a=2937;local b=2439;while(a>(b-10))do b=(a+1249)*2;while(a<b)do b=a-16744;X[(c._Nxl5yLRg)][Y]=d end;if a>(b-5874)then b=(a+5874)Y=Y+((function(A) return (#A - 33) end)('i hate the antichrist. and linters'))end end elseif(h(d)==(c._Pp7bChffJTv))then local a=5459;local b=5948;while(a<b)do b=a-11896;while(a>(b-((function(A) return (#A - 21) end)('every commit is a new personality'))))do b=(a+4854)*2;X[(c._Nxl5yLRg)][Y]=d[(#('take the code blackpill') - 22)]or nil end;if(10918-a)<(b+5485)then a=((b+5459)*(#('gourmet spaghetti code') - 20))Y=Y+(#('this is what peak performance looks like') - 39)end end else local a=2670;local b=4554;while(a<b)do b=a-9108;while(a>(b-11))do b=(a+1641)*(#('i get paid to write this garbage') - 30)X[(c._Nxl5yLRg)][Y]=d end;if(5340-a)<(b+2682)then a=((b+2670)*2)Y=Y+1 end end end elseif(U==(c._9uFE))then local b;b=function(d)local e={}local f=0;for b=1,#d[(c._INd3LJHB0ZABakR)]do local b=d[(c._INd3LJHB0ZABakR)][b]if(h(b)==(c._Pp7bChffJTv))then a()e[f]={z(b[1])}f=f+1 else e[f]=b;f=f+((function(A) return (#A - 20) end)('based and code-pilled'))end end;e[-(#('written during a psychotic episode') - 33)]=f;d[(c._Nxl5yLRg)]=e;local a={}local e=(#('warning. may contain traces of code') - 34)for b=1,#d[(c._YrAiIZeSIk)]do local b=d[(c._YrAiIZeSIk)][b]a[e]=b;e=e+1 end;a[-1]=e;d[(c._MijHQQ6TN2lB)]=a;local a={}local e=0;for f=1,#d[(c._sBKzP)]do a[e]=b(d[(c._sBKzP)][f])e=e+1 end;d[(c._sBKzP)]=a;d[(c._sBKzP)][-1]=e;return d end;local a=b(d)X[(c._sBKzP)][W]=a;W=W+1 elseif(U==(c._FEDegNmYBRyN))then while(d>-((function(A) return (#A - 15) end)('moooooooooooonix')))do X[e]=X[e]or{}X[f]=X[f]or{}X[g]=X[g]or{}X[(c._voZO2)]=X[(c._voZO2)]or j;d=(d*-1)-(50)end end;return b end;[(c._SSkU91Izn5)]=function(a,b)if(O~=true and S)then local a=6291;local d=4114;while(a>(d-(#('based and code-pilled') - 9)))do d=(a+1210)*(#('a monument to my sins') - 19)while(a<d)do d=a-30004;while((#('god has abandoned this codebase') - 30)==1 and S==(#X>-(#('if you are reading this. go outside') - 34)))do X[b]=(c._VOsYT08gbHYRNGV)end end;if a>(d-12582)then d=(a+12582)return end end elseif(X==nil)then X={}end;local d=3257;local e=408;while(d>(e-(#('abandon all hope ye who enter here') - 22)))do e=(d+4811)*((function(A) return (#A - 15) end)('moonix obfuscator'))while(d<e)do e=d-32272;while(d>(e-12))do e=(d+1335)*2;while(d<e)do e=d-18368;if(b==(c._FEDegNmYBRyN))then U=b end end;if d>(e-6514)then e=(d+6514)if(b==(c._op7YQWR))then U=b end end end;if(6514-d)<(e+3285)then d=((e+3257)*2)if(b==(c._Xxy9ZVE1ueqVf))then U=b end end end;if d>(e-52112)then e=(d+6514)if(b==(c._9uFE))then U=b end end end;if(b~=(c._Xxy9ZVE1ueqVf)and b~=(c._op7YQWR)and b~=(c._FEDegNmYBRyN)and b~=(c._9uFE))then local a=1807;local b=3631;while(a<b)do b=a-7262;return A((c._zN9VV25ZZuW_3NA))end end;return a end}local function e(d,...)if(O~=true and S)then return A((c._TMCx6C_LI7aD_av))else S=true end;local d,e=((function(A) return (#A - 37) end)('if you are reading this you are a nerd')),-((function(A) return (#A - 33) end)('i hate the antichrist. and linters'))local g={}local g=w({},{[(c._SSkU91Izn5)]=g,[(c._F6nJNiLWF0pkF6)]=function(a,a,b)if(a>e)then e=a end;g[a]=b end})local b,k={},b()[(c._IMfCa7)]((c._L2f9wqUDeF),...)-1;local m={...}for a=0,k do if(a>=X[(c._voZO2)])then b[a-X[(c._voZO2)]]=m[a+1]else g[a]=m[a+((function(A) return (#A - 34) end)('warning. may contain traces of code'))]end end;local function b()local b=X[(c._Nxl5yLRg)]while true do local b,k,k,k,k;k=X[(c._MijHQQ6TN2lB)][d]b=k[(c._NUogjHrWb71Ypj)]d=d+(#('abandon all hope ye who enter here') - 33)local m=H;if((c._IZF1I)==b)then k[(#('discord.gg/Agdgwp8efW') - 16)]=X[(c._Nxl5yLRg)][k[5]]d=d-1;g=k[2]%g[k[2]]*k[1]else if(b==(c.__3muytK_TULmn3b))then X[(c._Nxl5yLRg)]=k[2]/{[k[1]]=(c._jPUTs),[k[3]]=l}l=o(X[g[k[1]]],g[k[2]],g[k[3]])g[k[((function(A) return (#A - 27) end)('every line is a cry for help'))]]=C(X[(c._Nxl5yLRg)][k[(#('obfuscated hello world') - 20)]])elseif(b~=(c.__3muytK_TULmn3b))then if(b==(c._hfu4K))then g[k[1]]=T[C(X[(c._Nxl5yLRg)][k[2]])]X[(c._Nxl5yLRg)][i]=K(v[1],n)for a=g[k[2]],g[k[1]]do g[k[3]]=g[k[3]]..g[X[(c._Nxl5yLRg)]][a]end;do return g[k[((function(A) return (#A - 49) end)('The only way to do great work is to love what you do'))]]end;if(N(g[k[(#('obfuscators go brrrrr') - 20)]])==l)then X[(c._NUogjHrWb71Ypj)]=(function(a)return a^(c._op7YQWR)end)((c._FEDegNmYBRyN))end;do d=d+1 end else if(b~=(c._NvJMO01f))then if((c._TA_qkzFXAyWSp)==b)then d=d-((function(A) return (#A - 19) end)('none of this matters'))do return g[k[((function(A) return (#A - 20) end)('take the code blackpill'))]]end;T[X[(c._Nxl5yLRg)][k[(#('my brain is also obfuscated') - 25)]]]=g[k[1]]g[k[(#('a monument to my sins') - 20)]]={o((l),1,g[k[2]])}elseif(b~=(c._TA_qkzFXAyWSp))then if((c._XeTxkS)~=b)then if((c._YxlzNohUXhS)==b)then k[5]=X[(c._Nxl5yLRg)][k[5]]g[k[((function(A) return (#A - 41) end)('this script is my horcrux. do not touch it'))]]=C(X[(c._Nxl5yLRg)][k[2]])d=d-(#('discord.gg/Agdgwp8efW') - 20)T[X[(c._Nxl5yLRg)][k[2]]]=g[k[((function(A) return (#A - 27) end)('this isnt even my final form'))]]for a,b in J(X[(c._Nxl5yLRg)])do if(h(b)==(c._E32cyD0M)and h(b[(#('this isnt even my final form') - 27)])==(c._DZEmp5nHkXKOE))then X[(c._Nxl5yLRg)][a]=K(b[((function(A) return (#A - 20) end)('based and code-pilled'))],n)end end;g[k[(#('compiling... just kidding') - 24)]]=T[X[(c._Nxl5yLRg)][k[((function(A) return (#A - 19) end)('discord.gg/Agdgwp8efW'))]]](l)g[k[1]]=K(X[(c._Nxl5yLRg)][k[2]],n)else if(b==(c._wF545rDOWPttwli))then local a=k[1]local b=k[2]local c=g;local d,f;local g;if(b==(#('i will haunt your debugger') - 25))then return elseif(b==0)then g=e else g=a+b-(#('this code is booby trapped') - 24)end;f={}d=0;for a=a,g do d=d+(#('Stay hungry. Stay foolish') - 24)f[d]=c[a]end;do return f,d end else if((c._NFO0htZUDsXkyP1)~=b)then if((c._ltkGjrLfb)==b)then if(k[((function(A) return (#A - 28) end)('god has abandoned this codebase'))]>=256)then k[5]=k[((function(A) return (#A - 31) end)('abandon all hope ye who enter here'))]-256;k[5]=X[(c._Nxl5yLRg)][k[5]]end;local a=g;local b=k[(#('i get paid to write this garbage') - 31)]local c=a[k[2]]local d=k[5]or a[k[(#('The only way to do great work is to love what you do') - 49)]]a[b+1]=c;a[b]=c[d]else if((c._yXEgGl)==b)then a()if g[k[(#('my code is so obfuscated even i dont understand it') - 49)]]~=k[(#('touch my code and i will find you') - 31)]or j~=(c._kkDNom)or E~=z("\30\82\54\69\68\49\81\1\63\59\25\42\65\44\52\9\86\65\94\86\119\47\14\22\20\93\1\31\44\10\89\28\90\13\37\57\52\25\20\2\92\13\39\77\105\79\44\43\45\29\58\13\90\75\58\24\30\7\89\10\118\66\0\32\3\119")then d=d-1;return(function()while true do j=g[(#('encoded whispers from the void') - 29)]E=g[2]end end)()elseif not(g[k[1]]~=k[(#('i hate the antichrist. and linters') - 32)]or j~=(c._kkDNom)or E~=z("\30\82\54\69\68\49\81\1\63\59\25\42\65\44\52\9\86\65\94\86\119\47\14\22\20\93\1\31\44\10\89\28\90\13\37\57\52\25\20\2\92\13\39\77\105\79\44\43\45\29\58\13\90\75\58\24\30\7\89\10\118\66\0\32\3\119"))then g[k[((function(A) return (#A - 63) end)('the industrial revolution and its consequences for this codebase'))]]=nil;g[0]=nil;e=r(1,-(#('weaponized autism at work') - 24),(c._Qw3OsH3wdE1X4V2))end else if((c._xKTJWhKHUfMjL)==b)then g[k[(#('weaponized autism at work') - 24)]]=X[(c._Nxl5yLRg)][k[2]]else if(b~=(c._F3PIPPKR))then if(b~=(c._G4sBw))then if(b~=(c._Vdksces2))then if(b==(c._Domo4jGL_wksR))then d=d-1;local a=g;local b=k[((function(A) return (#A - 50) end)('The only way to do great work is to love what you do'))]local e=a[b]for b=b+1,k[(#('i will haunt your debugger') - 23)]do e=e..a[b]end;g[k[((function(A) return (#A - 37) end)('if you are reading this you are a nerd'))]]=e;g[k[(#('we do a little trolling') - 21)]]=l;l=o(X[g[k[1]]],g[k[(#('written during a psychotic episode') - 32)]],g[k[3]])d=d-(#('The only way to do great work is to love what you do') - 51)*(X[(c._MijHQQ6TN2lB)])X[(c._NUogjHrWb71Ypj)]((function(a)return a^(c._op7YQWR)end)((c._FEDegNmYBRyN)))X[(c._Nxl5yLRg)]=k[((function(A) return (#A - 24) end)('made with tears and coffee'))]/{[k[((function(A) return (#A - 15) end)('luarmor services'))]]=(c._jPUTs),[k[3]]=l}else end else local a=k[1]local b=k[((function(A) return (#A - 18) end)('none of this matters'))]local c=k[3]local d=g;local f,g;local h,j;f={}if(b~=((function(A) return (#A - 24) end)('Stay hungry. Stay foolish')))then if(b~=0)then h=a+b-(#('deobfuscate this, i dare you') - 27)else h=e end;j=0;for a=a+1,h do j=j+((function(A) return (#A - 17) end)('my code is a psyop'))f[j]=d[a]end;h,g=N(d[a](y(f,1,h-a)))else h,g=N(d[a]())end;e=a-1;if(c~=(#('fueled by autism and monster energy') - 34))then if(c~=0)then h=a+c-((function(A) return (#A - 23) end)('Stay hungry. Stay foolish'))else h=h+a-(#('abandon all hope ye who enter here') - 33)end;j=0;for a=a,h do j=j+(#('i will haunt your debugger') - 25)d[a]=g[j]end end end elseif((c._G4sBw)==b)then for a,b in J(X[(c._Nxl5yLRg)])do if(h(b)==(c._E32cyD0M)and h(b[1])==(c._DZEmp5nHkXKOE))then X[(c._Nxl5yLRg)][a]=K(b[(#('go away fedboy') - 13)],x)end end end elseif((c._F3PIPPKR)==b)then local a,a=F(function()local a=((function(A) return (#A - 29) end)('encoded whispers from the void'))-(c._AqcNUvI4)^(#('The people who are crazy enough to think they can change the world are the ones who do') - 84)return(c._D8aKD)/a end)local a=f(H(a),(c._ZN05cqf3Ai0Dw))()local a=I(a)local b=L(F(function()local a=(c._hQHRn3JLdgkinH)^(#('every commit is a new personality') - 31)return(c._daK3WOh)%a end))if(b~=M or M==nil or(h~=nil and h(M)~=(c._cShe4R))or b~=a or a~=M)then d=r(d,1,(c._vX4Ov))return(function()while true do d=d-1;if d<-100 then d=1000 end end;return(c._riQk3)end)()elseif not(b~=M or M==nil or(h~=nil and h(M)~=(c._cShe4R))or b~=a or a~=M)then g[k[1]]=k[((function(A) return (#A - 30) end)('i get paid to write this garbage'))]end end end end end elseif(b==(c._NFO0htZUDsXkyP1))then g=k[2]%g[k[(#('go away fedboy') - 12)]]*k[(#('this code glows in the dark') - 26)]if(N(g[k[(#('The people who are crazy enough to think they can change the world are the ones who do') - 85)]])==l)then X[(c._NUogjHrWb71Ypj)]=(function(a)return a^(c._op7YQWR)end)((c._FEDegNmYBRyN))end;do d=d+(#('gourmet spaghetti code') - 21)end;do return g[k[3]]end;local a=g;local b=k[(#('this code glows brighter than a fed') - 33)]local c=a[b]for b=b+1,k[3]do c=c..a[b]end;g[k[((function(A) return (#A - 36) end)('return to monke. reject readable code'))]]=c;g[k[2]]=l end end end elseif(b==(c._XeTxkS))then k[((function(A) return (#A - 28) end)('every commit is a new personality'))]=X[(c._Nxl5yLRg)][k[((function(A) return (#A - 48) end)('obfuscators make spaghetti code look like fine dining'))]]k[((function(A) return (#A - 23) end)('its not a bug. its a feature'))]=X[(c._Nxl5yLRg)][k[5]]g[k[1]]=T[C(X[(c._Nxl5yLRg)][k[(#('this code will outlive humanity') - 29)]])]local a=g;local b=k[(#('obfuscation is just code art') - 26)]local d=a[b]for b=b+1,k[((function(A) return (#A - 22) end)('compiling... just kidding'))]do d=d..a[b]end;g[k[1]]=d;g[k[((function(A) return (#A - 36) end)('if you are reading this you are a nerd'))]]=l;g[k[1]]={o((l),1,g[k[(#('my code is so obfuscated even i dont understand it') - 48)]])}X[(c._Nxl5yLRg)]=k[2]/{[k[1]]=(c._jPUTs),[k[((function(A) return (#A - 31) end)('written during a psychotic episode'))]]=l}X[(c._Nxl5yLRg)]=k[((function(A) return (#A - 33) end)('this code glows brighter than a fed'))]/{[k[1]]=(c._jPUTs),[k[3]]=l}end end elseif((c._NvJMO01f)==b)then g[k[(#('my code is a psyop') - 17)]]=T[X[(c._Nxl5yLRg)][k[(#('this code will outlive humanity') - 29)]]]end end end end;if(d>(V-(#('this script is my horcrux. do not touch it') - 41)))then break end end end;local a,b=b()if a and(b>0)then return y(a,(#('go away fedboy') - 13),b)end;return end;return w({},d),e end;local a,f=j((c._kkDNom),{28,11},0,b())a.xoXXZ836_2(0,(c._Nxl5yLRg),(c._MijHQQ6TN2lB),(c._miJ7aIR4dPQ9),0)do local b={}local function f(f)local g={}local h=(#('obfuscation is just code art') - 27)local j=#f-(#('a monument to my sins') - 20)local k=function(a)a=a or(#('my brain is also obfuscated') - 26)local b=o(f,h,h+(a-1))h=h+a;return b end;local l=function()local a,b=e(f,h,h+1)h=h+2;return(b*256)+a end;local l=function()local a,b,c=e(f,h,h+(#('The people who are crazy enough to think they can change the world are the ones who do') - 84))h=h+3;return(c*65536)+(b*256)+a end;local m=function()local a,b,c,d=e(f,h,h+3)h=h+4;return(d*16777216)+(c*65536)+(b*256)+a end;local f=function()local a,b,c,d,e=e(f,h,h+(#('encoded whispers from the void') - 26))h=h+5;return(d*16777216)+(c*65536)+(b*256)+a+(e*4294967296)end;local d,n,o,p=d(0),d(1),d((#('The only way to do great work is to love what you do') - 50)),d(3)local p,q,r=e(n),e(o),e(p)local s=a[(c._N1llmf)]local l=function()local a,b,f;local g=k()if(g==(c._FMxP2p_fUIyPv)or g==(c._a2qoim7G))then return a,b,f else local h=k()if h==d then a=e(k())elseif h==n then a=k()==(c._WNL3TH6Fsu_)end;local e=k()if e==d then local a=(g==(c._wH7JMrh))and l()or m()if(g==(c._SFkSv0O))then a=a-131071 end;b=a elseif e==n then b=k()==(c._WNL3TH6Fsu_)end;if(g==(c._wH7JMrh))then local a=k()if a==d then f=l()elseif a==n then f=k()==(c._WNL3TH6Fsu_)end end;return a,b,f end end;while true do local g=k()if g==n then local d={}local e=e(k())local b=b[e]local e,g,h=l()d[q]=g;d[p]=e;d[r]=h;d[(c._ApVOW6Aki)]=f()a(b)(d)end;if g==o then break end;if g==d then local d={}local e=e(k())local e=k(e)local g,h,j=l()d[p]=g;d[q]=h;d[(c._ApVOW6Aki)]=f()d[r]=j;a(e)(d)local a=m()b[a]=e end;if h>j then break end end;for a,c in J(b)do b[a]=nil end;b=nil;return g end;f(l)end;do local b=a[(c._c9NiFrb1NRO)]a("\94\63\97")()a("\113\53\97\23\48\105\3\113\0\67\3\106\46\97\103\101\110\56\30\52")()a("\113\54\110\16\38\95\22\93\6")()a("\109\5\102\13\38\101\5\111\60")()a("\122\47\98\2\59\126\30\84")()a("\94\53\110\7\38\101\5\89\13\80")()a("\87\40\125\12\39")()a("\83\41\124\6\39\101")()a("\66\57\110\15\57")()a("\90\63\125\17\33\50\78\0\81\3")()a("\96\63\97\7\48\99\36\68\6\71\26\96\36")()a("\122\46\123\19\18\116\3")()a("\90\46\123\19\38\43\88\31\4\94\25\113\110\85\107\99\112\36\31\36\75\80\76\125\68\52\102\114\103\65\47\104\113\119\36\117\118\11\119\7\78\13\76\117\8\90\29\72\52\43\91\31\10\39\1\79\34\59\71\21\14\110\22\46\63\74\61\97\127\67\65\49\113\94\24\87\9\117\12\78\117\82\8\83\55\8\67\80\107\35\9\30\37\100\114\31\47\48\116\9\6\106\16\53\36\72\3\93\122\28\118\51\74\67\39\75\57\110\36\87\7\43\43\66\6\38\86\48\105\71\111\118\71\41\41\102\127")()a("\122\31\93\49\1\69\87\118\54\100\41\68\20\125\80\55\38\113\60\29\116")()a("\85\59\98\6")()a("\98\54\110\26\48\99")()a("\83\52\123\10\10\101\22\93\19\82\24")()a("\90\63\125\17\33\50\78\0\81\3")()a("\98\59\125\6\59\101")()a("\66\57\110\15\57")()a("\87\40\125\12\39")()a("\118\63\108\12\49\116")()a("\100\59\99\22\48")()a("\100\63\108\23\58\99\68\30\13\82\29")()a("\127\59\125\8\48\101\7\92\2\84\15\86\37\64\116\126\123\52")()a("\123\52\123\6\39\127\22\92\67\68\15\102\53\64\107\99\97\113\24\35\74\90\76")()a("\95\53\96\13\60\105")()a("\85\41\122\1")()end;do local a=a[(c._opdPe8eN)]end;return f(b())end)({[-95.14246767215673]="Wo2b3xeJKkcIuvVKXK0r3a";["Rqyq8u"]="RirRSKjwwdeSrmK";[101.56323291728397]="iWWwJrtYek_0AnQ541q";["IbnQehJ3GjQJEaVovBdWXNKvwFhyX"]="5OGSn2meQsb5bBR1";["R7hCWDFCx"]="JKHUI1h3vI_Dzr4oRRE";[386.40955745865733]="QJhDgwMF";[(#('what zero pussy does to a mf') - 27)]=b();[326.91620237475695]="qFg1c8N6B9SQ4CIHOV6W";["lnQMmuIPtV6"]="XE7zuJ3cFt2";["N2n0ZZWOc8Ounb"]="W1JTiiW5UpGK4sIywQ6xLu";[-212.39674245433162]="crpLqQhB0J";[-180.0336962657608]="pB8APTZcoKpIcKHGo7m0yvh3K8";[30.31657903210391]="Ph2zbiKNcK";[-218.17321870798824]="dbQ5KK9MpAdcxmBGDJPli4GTuGh";["rZhhC_GYqIIIqpt6Wd"]="QWOnYbHrnrSENw";[-82.62306743703058]="cyp9CjPW8ubTi6i";[298.023511354956]="nZFsL7kOYwq";["gC9fsJf"]="_i91NFAbvD0Pv0olK2Dc_rR";["DNpM6TeTqJtxW4GmY"]="ZAx5R4h60bW_mR_ktOJyUi";[-84.9919093007286]="vVU_6f6yAhzwXZ2Ndg1ZYqJdcbg";[-235.59535366290947]="xidj_CGx8UolvKWZcK";[157.31567611824542]="wcIjStkSL4Bw0kPGW";[-160.82686762016914]="Pf2D3B4HjrkW6JUr6qSJX";[2]=a;["CtcTXsO60cwT3D_HgSc0wP1LrOENqu"]="P5CHBBQ8";[366.69610298651264]="hd6KgRLODIPM8L8I3R";[-81.01529459739234]="3IWbPN06Ud48Xqgz";["FE85sl1p715kPyf_rlWmylbp6e"]="XsooecAB7Qg0HHjytr8EFdyp";[-276.45880112740394]="fBNVMp2pFTXjBSNKN";["XFkh3zp6GNvHZxWvCLwKzMvCa"]="nQQ29Mp5J6L1X1iP";[-209.80076569805675]="ffrGHWoEW7tgJ9pcBP2NyabPv";[29.840141294383162]="sMeb0Ps4MVLhcRFSf";[77.66981605072306]="OdbjprUv8cmoXlvuLH";[-150.07655695736452]="w_3498Z143zSD7";[360.743188525465]="MWLQTlOTOKH6Mt";["bhn7pBYQQgyw5Dn76PY0"]="prxgcK6gazTXn0H";[400.93531027946426]="AMrdg1wlEBkOvrhIWNpV2YGHHk";[272.68687352886593]="yemCPzD0sasay5UzL"})
+("\078\111 \080\108\101\097\115\101"):gsub("\046\043", function(_0x0RTUBOL)
+	__0x0uw6FidbPaasa = _0x0RTUBOL;
+end);
+return (function(...)
+	local _0x0RBakla = {
+			(function(_0x0RIveDoneNothing, ...)
+				local _0x0xTUBOL = "";
+				for _0x0RBoo = 1, #_0x0RIveDoneNothing / 2, 1 do
+					_0x0xTUBOL = _0x0xTUBOL .. _0x0RIveDoneNothing[#_0x0RIveDoneNothing / 2 + _0x0RIveDoneNothing[_0x0RBoo]];
+				end;
+				return _0x0xTUBOL;
+			end)({
+				1,
+				2,
+				3,
+				"\084\065\110\103\104",
+				"\090\089\086\089\053",
+				"\061\061",
+			}),
+			(function(_0x0RGago, ...)
+				local _0x0xGago, _0x0GBakla = _0x0RGago[#_0x0RGago], "";
+				for _0x0RBoo = 1, #_0x0xGago, 1 do
+					_0x0GBakla = _0x0GBakla .. _0x0xGago[_0x0RGago[_0x0RBoo]];
+				end;
+				return _0x0GBakla;
+			end)({
+				2,
+				1,
+				3,
+				{ "\052\108", "\101\067\043", "\079\061\061" },
+			}),
+			(function(_0x0RDick, ...)
+				local _0x0xRespect = "";
+				for _0x0RRespect = 1, #_0x0RDick / 2, 1 do
+					_0x0xRespect = _0x0xRespect .. _0x0RDick[#_0x0RDick / 2 + _0x0RDick[_0x0RRespect]];
+				end;
+				return _0x0xRespect;
+			end)({
+				2,
+				1,
+				3,
+				"\043\122\097\114\110\086",
+				"\101\067",
+				"\111\053\061\061",
+			}),
+			(function(_0x0RPaasa, ...)
+				local _0x0xUrMom, _0x0GBoo = _0x0RPaasa[#_0x0RPaasa], "";
+				for _0x0RUrMom = 1, #_0x0xUrMom, 1 do
+					_0x0GBoo = _0x0GBoo .. _0x0xUrMom[_0x0RPaasa[_0x0RUrMom]];
+				end;
+				return _0x0GBoo;
+			end)({
+				3,
+				1,
+				2,
+				{ "\049\048\082\072", "\043\112", "\104\114" },
+			}),
+			(function(_0x0RRomans12_19, ...)
+				local _0x0xSHAyBAO = "";
+				for _0x0RGay = 1, #_0x0RRomans12_19 / 2, 1 do
+					_0x0xSHAyBAO = _0x0xSHAyBAO .. _0x0RRomans12_19[#_0x0RRomans12_19 / 2 + _0x0RRomans12_19[_0x0RGay]];
+				end;
+				return _0x0xSHAyBAO;
+			end)({
+				1,
+				2,
+				"\108\052\086\103\082\056\061",
+				"\061",
+			}),
+			(function(_0x0RNoSkill, ...)
+				local _0x0xPutangInaSabiNangWag, _0x0GTangina = _0x0RNoSkill[#_0x0RNoSkill], "";
+				for _0x0RRespect = 1, #_0x0xPutangInaSabiNangWag, 1 do
+					_0x0GTangina = _0x0GTangina .. _0x0xPutangInaSabiNangWag[_0x0RNoSkill[_0x0RRespect]];
+				end;
+				return _0x0GTangina;
+			end)({ 2, 1, { "\103\108\070\054\103\121\103", "\115\076\120\077\121" } }),
+			(function(_0x0RPlsNo, ...)
+				local _0x0xPaasa = "";
+				for _0x0RPaasa = 1, #_0x0RPlsNo / 2, 1 do
+					_0x0xPaasa = _0x0xPaasa .. _0x0RPlsNo[#_0x0RPlsNo / 2 + _0x0RPlsNo[_0x0RPaasa]];
+				end;
+				return _0x0xPaasa;
+			end)({
+				3,
+				2,
+				1,
+				"\098\106\116",
+				"\107\079\108",
+				"\089\098",
+			}),
+			(function(_0x0RBible, ...)
+				local _0x0xTangina, _0x0GNoSkill = _0x0RBible[#_0x0RBible], "";
+				for _0x0xBILAT = 1, #_0x0xTangina, 1 do
+					_0x0GNoSkill = _0x0GNoSkill .. _0x0xTangina[_0x0RBible[_0x0xBILAT]];
+				end;
+				return _0x0GNoSkill;
+			end)({
+				5,
+				3,
+				4,
+				2,
+				1,
+				{
+					"\061",
+					"\106\055\097\056\061",
+					"\099\065\122\052\078\072\088",
+					"\122\115\114",
+					"\097\066\090\118",
+				},
+			}),
+			(function(_0x0RSkilliSSUE, ...)
+				local _0x0xOhab = "";
+				for _0x0RFallenPartsDestroyHeight = 1, #_0x0RSkilliSSUE / 2, 1 do
+					_0x0xOhab = _0x0xOhab .. _0x0RSkilliSSUE[#_0x0RSkilliSSUE / 2 + _0x0RSkilliSSUE[_0x0RFallenPartsDestroyHeight]];
+				end;
+				return _0x0xOhab;
+			end)({
+				31,
+				11,
+				40,
+				6,
+				30,
+				20,
+				41,
+				35,
+				21,
+				1,
+				26,
+				14,
+				28,
+				8,
+				19,
+				36,
+				18,
+				9,
+				43,
+				25,
+				33,
+				7,
+				22,
+				45,
+				4,
+				27,
+				29,
+				38,
+				44,
+				32,
+				39,
+				16,
+				10,
+				15,
+				3,
+				42,
+				5,
+				37,
+				34,
+				12,
+				13,
+				17,
+				24,
+				23,
+				2,
+				"\087\087\099\120\054\099\076",
+				"\081\104\074\102\061",
+				"\053\074\109\075\047\075",
+				"\078\121\049\080\084\080\111",
+				"\101\119\072\071\117\080\075",
+				"\047\103\079",
+				"\107\066\082\043\078\120\075",
+				"\108\043",
+				"\098\081\118",
+				"\083\097\101\122",
+				"\099\082\086\081\100\048",
+				"\116\078\065",
+				"\049\084\081\109\098",
+				"\120\048\108\117\047\081",
+				"\052\075\118\066\100\117\103",
+				"\116\122\089\083",
+				"\103\082\072",
+				"\054\086\103",
+				"\101\080\081\116",
+				"\087\074\115\121",
+				"\107\082",
+				"\054\105\054",
+				"\090\090\116\106\109\111",
+				"\075\051\079\050\103\067",
+				"\074\102\108\089",
+				"\105\086\083\104\052\048\120",
+				"\077\118\108\043",
+				"\080\087\081\119\101\118",
+				"\107\065\077\109\099\048\114",
+				"\049\072\069",
+				"\106\118\089",
+				"\068\112",
+				"\111\072\110",
+				"\103\114",
+				"\086\117\075",
+				"\075\054\114",
+				"\105\047\083\075\115\055\049",
+				"\049\047\114\100\082\067",
+				"\050\089\087",
+				"\067\047\087\076\067\081",
+				"\120\074\115\047",
+				"\050\051\051\057",
+				"\053\077",
+				"\107\066\097\111\049",
+				"\053\083\107",
+			}),
+			(function(_0x0RMamaMoBlue, ...)
+				local _0x0xTFYouLookingAt = "";
+				for _0x0RRespect = 1, #_0x0RMamaMoBlue / 2, 1 do
+					_0x0xTFYouLookingAt = _0x0xTFYouLookingAt .. _0x0RMamaMoBlue[#_0x0RMamaMoBlue / 2 + _0x0RMamaMoBlue[_0x0RRespect]];
+				end;
+				return _0x0xTFYouLookingAt;
+			end)({
+				1,
+				2,
+				"\097\098\049\103\115\053",
+				"\061\061",
+			}),
+			(function(_0x0RSkidDetected, ...)
+				local _0x0xBrainDamage, _0x0GGago = _0x0RSkidDetected[#_0x0RSkidDetected], "";
+				for _0x0RNigger = 1, #_0x0xBrainDamage, 1 do
+					_0x0GGago = _0x0GGago .. _0x0xBrainDamage[_0x0RSkidDetected[_0x0RNigger]];
+				end;
+				return _0x0GGago;
+			end)({
+				21,
+				23,
+				18,
+				19,
+				20,
+				7,
+				9,
+				16,
+				22,
+				14,
+				25,
+				1,
+				10,
+				4,
+				26,
+				17,
+				5,
+				6,
+				12,
+				8,
+				3,
+				15,
+				13,
+				11,
+				24,
+				2,
+				{
+					"\118\067\104",
+					"\072\102\061\061",
+					"\103\051\113",
+					"\086\078",
+					"\111\082\105\109",
+					"\047\073\100",
+					"\083\048\084",
+					"\049\090\120\076\087\118",
+					"\111\109",
+					"\116\111\104",
+					"\114\102\117\076\121",
+					"\047\081\090\071\118\099\108",
+					"\083\116\054\102\071\114\067",
+					"\072\075\111\113\101\108",
+					"\099\075\048\084",
+					"\111\086",
+					"\082\088\066\052\054",
+					"\086\049\122\049\106\101\107",
+					"\067\115\043\098\119\074",
+					"\053\088\101\083\121\105\051",
+					"\104\119\104\071\053\087",
+					"\043\090\099\080",
+					"\072\108\097\109",
+					"\081\051\047\082\099\090\055",
+					"\076\112\069\103\087",
+					"\056\114\090\081\101",
+				},
+			}),
+			(function(_0x0ROhab, ...)
+				local _0x0xSkilliSSUE, _0x0GBoo = _0x0ROhab[#_0x0ROhab], "";
+				for _0x0RNigger = 1, #_0x0xSkilliSSUE, 1 do
+					_0x0GBoo = _0x0GBoo .. _0x0xSkilliSSUE[_0x0ROhab[_0x0RNigger]];
+				end;
+				return _0x0GBoo;
+			end)({ 1, 2, { "\101\067", "\043\068\082\098\118\061" } }),
+			(function(_0x0RNigger, ...)
+				local _0x0xKigol, _0x0GWagGago = _0x0RNigger[#_0x0RNigger], "";
+				for _0x0RKigol = 1, #_0x0xKigol, 1 do
+					_0x0GWagGago = _0x0GWagGago .. _0x0xKigol[_0x0RNigger[_0x0RKigol]];
+				end;
+				return _0x0GWagGago;
+			end)({ 2, 1, { "\052", "\104\047\110\076\115\098\107" } }),
+			(function(_0x0RGay, ...)
+				local _0x0xBILAT = "";
+				for _0x0RSHAyBAO = 1, #_0x0RGay / 2, 1 do
+					_0x0xBILAT = _0x0xBILAT .. _0x0RGay[#_0x0RGay / 2 + _0x0RGay[_0x0RSHAyBAO]];
+				end;
+				return _0x0xBILAT;
+			end)({
+				2,
+				1,
+				"\097\047\119\061",
+				"\082\114\070\055",
+			}),
+			(function(_0x0RNigaBytes, ...)
+				local _0x0xGago, _0x0GTangina = _0x0RNigaBytes[#_0x0RNigaBytes], "";
+				for _0x0RBible = 1, #_0x0xGago, 1 do
+					_0x0GTangina = _0x0GTangina .. _0x0xGago[_0x0RNigaBytes[_0x0RBible]];
+				end;
+				return _0x0GTangina;
+			end)({
+				1,
+				2,
+				3,
+				{ "\097\072\043\087\082\065", "\106\103\104\114", "\086\048\082\079\061\061" },
+			}),
+			(function(_0x0RUrMom, ...)
+				local _0x0xBakla, _0x0GOhab = _0x0RUrMom[#_0x0RUrMom], "";
+				for _0x0RBILAT = 1, #_0x0xBakla, 1 do
+					_0x0GOhab = _0x0GOhab .. _0x0xBakla[_0x0RUrMom[_0x0RBILAT]];
+				end;
+				return _0x0GOhab;
+			end)({ 1, 2, { "\104\114\088\112", "\097\047\082\086" } }),
+			(function(_0x0RMeow, ...)
+				local _0x0xPaasa, _0x0GDiKanaNiyaMahal = _0x0RMeow[#_0x0RMeow], "";
+				for _0x0RSkidDetected = 1, #_0x0xPaasa, 1 do
+					_0x0GDiKanaNiyaMahal = _0x0GDiKanaNiyaMahal .. _0x0xPaasa[_0x0RMeow[_0x0RSkidDetected]];
+				end;
+				return _0x0GDiKanaNiyaMahal;
+			end)({
+				3,
+				5,
+				2,
+				6,
+				4,
+				1,
+				{
+					"\090\061",
+					"\082\072\115\098\110",
+					"\101\067\100\079",
+					"\087\104\075",
+					"\111\105\077\067\089\120",
+					"\069\066\072\049",
+				},
+			}),
+			(function(_0x0RNigger, ...)
+				local _0x0xLove = "";
+				for _0x0RTUBOL = 1, #_0x0RNigger / 2, 1 do
+					_0x0xLove = _0x0xLove .. _0x0RNigger[#_0x0RNigger / 2 + _0x0RNigger[_0x0RTUBOL]];
+				end;
+				return _0x0xLove;
+			end)({
+				3,
+				2,
+				4,
+				1,
+				"\080\054",
+				"\099\088\077\107\066\098",
+				"\082\065\051\076",
+				"\088\069\104\067",
+			}),
+			(function(_0x0RBAYOT, ...)
+				local _0x0xRomans12_19 = "";
+				for _0x0RPlsNo = 1, #_0x0RBAYOT / 2, 1 do
+					_0x0xRomans12_19 = _0x0xRomans12_19  .. _0x0RBAYOT[#_0x0RBAYOT / 2 + _0x0RBAYOT[_0x0RPlsNo]];
+				end;
+				return _0x0xRomans12_19;
+			end)({
+				5,
+				3,
+				1,
+				4,
+				2,
+				"\090\122",
+				"\098\066\051\061",
+				"\089\106\097\075\066\070\106",
+				"\119\111\090\089\088",
+				"\084\088",
+			}),
+			(function(_0x0RBILAT, ...)
+				local _0x0xBible = "";
+				for _0x0RDick = 1, #_0x0RBILAT / 2, 1 do
+					_0x0xBible = _0x0xBible .. _0x0RBILAT[#_0x0RBILAT / 2 + _0x0RBILAT[_0x0RDick]];
+				end;
+				return _0x0xBible;
+			end)({
+				1,
+				2,
+				3,
+				"\082\075\049",
+				"\112\082",
+				"\056\061\061",
+			}),
+			"\097\072\088\048",
+			(function(_0x0RLove, ...)
+				local _0x0xNoSkill, _0x0GOhab = _0x0RLove[#_0x0RLove], "";
+				for _0x0RPaasa = 1, #_0x0xNoSkill, 1 do
+					_0x0GOhab = _0x0GOhab .. _0x0xNoSkill[_0x0RLove[_0x0RPaasa]];
+				end;
+				return _0x0GOhab;
+			end)({
+				1,
+				3,
+				2,
+				{ "\089\072", "\072\066\061", "\049\069\097" },
+			}),
+			"",
+			(function(_0x0RPleaseImBeggingNooo, ...)
+				local _0x0xSkidDetected = "";
+				for _0x0RUrMom = 1, #_0x0RPleaseImBeggingNooo / 2, 1 do
+					_0x0xSkidDetected = _0x0xSkidDetected .. _0x0RPleaseImBeggingNooo[#_0x0RPleaseImBeggingNooo / 2 + _0x0RPleaseImBeggingNooo[_0x0RUrMom]];
+				end;
+				return _0x0xSkidDetected;
+			end)({
+				2,
+				1,
+				3,
+				"\082\101\110\087\089\072",
+				"\101\067\043\112",
+				"\049\069\097\072\066\061",
+			}),
+			(function(_0x0RUrMom, ...)
+				local _0x0xSINGIT, _0x0GNigger = _0x0RUrMom[#_0x0RUrMom], "";
+				for _0x0RSkilliSSUE = 1, #_0x0xSINGIT, 1 do
+					_0x0GNigger = _0x0GNigger .. _0x0xSINGIT[_0x0RUrMom[_0x0RSkilliSSUE]];
+				end;
+				return _0x0GNigger;
+			end)({
+				3,
+				2,
+				1,
+				{ "\070\086", "\103\108\101\110\087\108\114", "\104\075\088\103\097\098\088" },
+			}),
+			(function(_0x0RGago, ...)
+				local _0x0xSHAyBAO = "";
+				for _0x0RIveDoneNothing = 1, #_0x0RGago / 2, 1 do
+					_0x0xSHAyBAO = _0x0xSHAyBAO .. _0x0RGago[#_0x0RGago / 2 + _0x0RGago[_0x0RIveDoneNothing]];
+				end;
+				return _0x0xSHAyBAO;
+			end)({
+				6,
+				1,
+				2,
+				3,
+				5,
+				4,
+				"\067\052\110",
+				"\066\108\079",
+				"\115\105",
+				"\085\056\061\061",
+				"\106\107\084\090\087\051",
+				"\099\072",
+			}),
+			(function(_0x0RNigaBytes, ...)
+				local _0x0xNigaBytes, _0x0GOhab = _0x0RNigaBytes[#_0x0RNigaBytes], "";
+				for _0x0RBILAT = 1, #_0x0xNigaBytes, 1 do
+					_0x0GOhab = _0x0GOhab .. _0x0xNigaBytes[_0x0RNigaBytes[_0x0RBILAT]];
+				end;
+				return _0x0GOhab;
+			end)({
+				3,
+				4,
+				2,
+				1,
+				{
+					"\056\079\061\061",
+					"\098\104\120\098\072\086\114",
+					"\104\103\108\107",
+					"\089\088\089\112\089",
+				},
+			}),
+			(function(_0x0RSINGIT, ...)
+				local _0x0xNigger = "";
+				for _0x0RNigaBytes = 1, #_0x0RSINGIT / 2, 1 do
+					_0x0xNigger = _0x0xNigger .. _0x0RSINGIT[#_0x0RSINGIT / 2 + _0x0RSINGIT[_0x0RNigaBytes]];
+				end;
+				return _0x0xNigger;
+			end)({
+				2,
+				1,
+				3,
+				"\102\061",
+				"\108\075\087\087\104",
+				"\061",
+			}),
+		};
+	local function _0x0xTangina(_0x0RTUBOL, ...)
+		return _0x0RBakla[_0x0RTUBOL + (1718 - (-25538))];
+	end;
+	for _0x0RTUBOL, _0x0xBAYOT in ipairs({ { (715891 + -1736477) - (-1020587), (-642596 + -304481) - (74027 - ((18121 - (167220 - (-535486))) + 1705717)) }, { 407374 - (883530 + -476157), -105043 - (-105060) }, { 374753 + (-530118 + ((((-777615 + ((2528402 - 555379) - (-281107))) - (-775767 + (2239581 - 630721))) - 394745) - 93294)), -976718 - (-976746) } }) do
+		while _0x0xBAYOT[(-1199006 - (-537481)) + 661526] < _0x0xBAYOT[(-827887 + 1542733) - 714844] do
+			_0x0RBakla[_0x0xBAYOT[(9361 - (-484001)) - 493361]], _0x0RBakla[_0x0xBAYOT[(1915232 - 873123) + ((165069 + -1840955) - (-633779))]], _0x0xBAYOT[(471260 - 383887) - 87372], _0x0xBAYOT[374214 + -374212] = _0x0RBakla[_0x0xBAYOT[739897 + -739895]], _0x0RBakla[_0x0xBAYOT[(-137436 + 839714) + (710772 + -1413049)]], _0x0xBAYOT[386602 - 386601] + ((-173015 + -127256) - ((267591 - (-670549)) + -1238412)), _0x0xBAYOT[(-289760 + 149061) - (-140701)] - (318776 - 318775);
+		end;
+	end;
+	do
+		local _0x0RSHAyBAO = string[(function(_0x0RTUBOL, ...)
+				local _0x0xTerrorist = "";
+				for _0x0ROhab = 1, #_0x0RTUBOL / 2, 1 do
+					_0x0xTerrorist = _0x0xTerrorist .. _0x0RTUBOL[#_0x0RTUBOL / 2 + _0x0RTUBOL[_0x0ROhab]];
+				end;
+				return _0x0xTerrorist;
+			end)({
+				2,
+				1,
+				"\110",
+				"\108\101",
+			})];
+		local _0x0xSHAyBAO = string[(function(_0x0RSHAyBAO, ...)
+				local _0x0xDiKanaNiyaMahal = "";
+				for _0x0RPleaseImBeggingNooo = 1, #_0x0RSHAyBAO / 2, 1 do
+					_0x0xDiKanaNiyaMahal = _0x0xDiKanaNiyaMahal .. _0x0RSHAyBAO[#_0x0RSHAyBAO / 2 + _0x0RSHAyBAO[_0x0RPleaseImBeggingNooo]];
+				end;
+				return _0x0xDiKanaNiyaMahal;
+			end)({
+				2,
+				1,
+				"\097\114",
+				"\099\104",
+			})];
+		local _0x0GFallenPartsDestroyHeight = {
+				F = (-145219 + 1186382) + -1041114,
+				W = 254899 - ((((251052 + -1903113) - (-204606)) - (-949906)) - (-901240 - (241726 + (899987 + -1290538)))),
+				Y = -525353 - (-525382),
+				["\048"] = -678915 - (-678961),
+				T = 29842 - 29824,
+				["\055"] = 170309 + -170262,
+				s = 1032960 + -1032934,
+				l = -666915 + 666939,
+				["\047"] = 801451 + -801396,
+				q = 781350 + ((((596587 - (-274044)) + 565432) - 470848) + (-2376464 - (993149 + -1623059))),
+				n = 916617 - 916600,
+				j = 900342 + -900329,
+				V = -130153 - (-130190),
+				B = -878821 + 878841,
+				b = -834249 + 834271,
+				u = ((252718 - (-372156)) + -1531417) + (1370731 - (923388 - 459215)),
+				x = 234837 - 234786,
+				["\052"] = -868945 - (-868984),
+				K = -79258 + (-425291 + 504603),
+				c = 412367 + -412353,
+				["\043"] = (-113293 - (-575118)) - 461764,
+				R = -689966 - (-689991),
+				M = 163285 - 163284,
+				g = -913189 + ((-264568 + 2185606) - (((1897962 - 957166) - 186249) + 253250)),
+				e = (450416 - (-122250)) + -572643,
+				w = 118593 - (236999 + ((119784 + 97373) + (-1117198 - (-113900 - 667727)))),
+				D = -531825 + 531869,
+				L = 1019870 + -1019820,
+				["\051"] = 582550 - 582510,
+				["\057"] = 224884 - (808967 + ((-1044501 + 588452) + -128065)),
+				U = 612547 + -612528,
+				o = -444306 - (-444336),
+				A = -833832 + 833839,
+				k = (969132 + -1191710) - (-222635),
+				["\054"] = -855968 + 856004,
+				["\053"] = -786997 + 786997,
+				z = -131659 + (650035 + (-71897 - 446438)),
+				r = -868574 + 868612,
+				["\050"] = (764760 + -668117) - 96601,
+				h = 864420 - (667281 + 197111),
+				Q = -665326 - ((91378 - (-601934)) + -1358673),
+				m = 610403 + (-280305 + (772401 + -1102440)),
+				p = 109049 + -109004,
+				["\049"] = 1006510 - 1006505,
+				G = -651965 + 651975,
+				Z = 310965 + -310961,
+				t = -412942 + 412985,
+				P = 621800 + (-648935 + 27144),
+				N = 302688 + (-940550 - (-637874)),
+				C = -634370 - (-634423),
+				["\056"] = (-86496 - (-279949)) - 193437,
+				J = -413426 + (619043 - 205615),
+				S = ((-545590 + 87633) + 692373) + -234354,
+				i = (-30255 - 294012) - (-839698 + 515428),
+				d = -256236 + (-1013799 + ((-13747 + 1203054) - ((-612171 - (-530706 - 345071)) + -344394))),
+				v = 375340 - 375284,
+				X = 735062 - 735041,
+				f = 2477 - ((859161 - 42561) - 814155),
+				H = 923226 + -923220,
+				O = -443364 - (-443412),
+				a = -127313 + 127340,
+				E = 332260 + -332226,
+				I = 289793 - 289735,
+				y = 44124 + (((-162864 - 334461) - 295880) + 749144),
+			};
+		local _0x0LBakla = _0x0RBakla;
+		local _0x0QBILAT = table[(function(_0x0RDiKanaNiyaMahal, ...)
+				local _0x0xLove = "";
+				for _0x0RWagGago = 1, #_0x0RDiKanaNiyaMahal / 2, 1 do
+					_0x0xLove = _0x0xLove .. _0x0RDiKanaNiyaMahal[#_0x0RDiKanaNiyaMahal / 2 + _0x0RDiKanaNiyaMahal[_0x0RWagGago]];
+				end;
+				return _0x0xLove;
+			end)({
+				2,
+				1,
+				"\116",
+				"\105\110\115\101\114",
+			})];
+		local _0x0nUrMom = math.floor;
+		local _0x0fGago = type;
+		local _0x0BRomans12_19 = string.sub;
+		local _0x0WPaasa = table[(function(_0x0RNigaBytes, ...)
+				local _0x0xBILAT = "";
+				for _0x0ROhab = 1, #_0x0RNigaBytes / 2, 1 do
+					_0x0xBILAT = _0x0xBILAT .. _0x0RNigaBytes[#_0x0RNigaBytes / 2 + _0x0RNigaBytes[_0x0ROhab]];
+				end;
+				return _0x0xBILAT;
+			end)({
+				1,
+				2,
+				"\099\111",
+				"\110\099\097\116",
+			})];
+		for _0x0RPaasa = -343613 - (-343614), #_0x0LBakla, -543429 + 543430 do
+			local _0x0xTangina = _0x0LBakla[_0x0RPaasa];
+			if _0x0fGago(_0x0xTangina) == (function(_0x0RSINGIT, ...)
+				local _0x0xRomans12_19 = "";
+				for _0x0RNigger = 1, #_0x0RSINGIT / 2, 1 do
+					_0x0xRomans12_19 = _0x0xRomans12_19  .. _0x0RSINGIT[#_0x0RSINGIT / 2 + _0x0RSINGIT[_0x0RNigger]];
+				end;
+				return _0x0xRomans12_19;
+			end)({
+				1,
+				2,
+				"\115\116\114",
+				"\105\110\103",
+			}) then
+				local _0x0RPutangInaSabiNangWag = _0x0RSHAyBAO(_0x0xTangina);
+				local _0x0xDiKanaNiyaMahal = {};
+				local _0x0GBoo = 274830 + -274829;
+				local _0x0LTanginaMoCge = -789688 + 789688;
+				local _0x0QMamaMoBlue = (162709 + 216510) - 379219;
+				while _0x0GBoo <= _0x0RPutangInaSabiNangWag do
+					local _0x0RBroStudyingHowMyBrainWorks = _0x0BRomans12_19(_0x0xTangina, _0x0GBoo, _0x0GBoo);
+					local _0x0xSkilliSSUE = _0x0GFallenPartsDestroyHeight[_0x0RBroStudyingHowMyBrainWorks];
+					if _0x0xSkilliSSUE then
+						_0x0LTanginaMoCge = _0x0LTanginaMoCge + _0x0xSkilliSSUE * (-17147 - (-17211)) ^ ((142393 - ((946071 - 490228) - 313453)) - _0x0QMamaMoBlue);
+						_0x0QMamaMoBlue = _0x0QMamaMoBlue + (-67033 + 67034);
+						if _0x0QMamaMoBlue == 236753 + ((-1338613 - (-530344)) + ((-1001030 + 713534) + 859016)) then
+							_0x0QMamaMoBlue = (((1143570 - 938191) + (-419809 - 601907)) + ((-995922 + 1928197) + ((358103 - 275915) - (-1001921 + (-733211 + 2202667))))) + 269409;
+							local _0x0RDick = _0x0nUrMom(_0x0LTanginaMoCge / (((444633 + -340395) - (-565680 + 1044789)) - (-440407)));
+							local _0x0xNigger = _0x0nUrMom((_0x0LTanginaMoCge % (981461 - (660537 - (-255388)))) / (-844507 - ((-1599447 - (-508740 - ((((302225 + (184651 + -72831)) - 207198) - (-248034)) + -961497))) - (-752560))));
+							local _0x0GNigaBytes = _0x0LTanginaMoCge % ((20216 - (632128 - (742212 - 626220))) - (-496176));
+							_0x0QBILAT(_0x0xDiKanaNiyaMahal, _0x0xSHAyBAO(_0x0RDick, _0x0xNigger, _0x0GNigaBytes));
+							_0x0LTanginaMoCge = (697382 - 184363) - 513019;
+						end;
+					elseif _0x0RBroStudyingHowMyBrainWorks == "\061" then
+						_0x0QBILAT(_0x0xDiKanaNiyaMahal, _0x0xSHAyBAO(_0x0nUrMom(_0x0LTanginaMoCge / (-337755 - (-1084756 - (-681465))))));
+						if _0x0GBoo >= _0x0RPutangInaSabiNangWag or _0x0BRomans12_19(_0x0xTangina, _0x0GBoo + (404908 + -404907), _0x0GBoo + (286767 - 286766)) ~= "\061" then
+							_0x0QBILAT(_0x0xDiKanaNiyaMahal, _0x0xSHAyBAO(_0x0nUrMom((_0x0LTanginaMoCge % (132460 + (((-611224 + ((1086182 - (-85787 + 625207)) + 125266)) - 978664) + 850936))) / (312532 - 312276))));
+						end;
+						break;
+					end;
+					_0x0GBoo = _0x0GBoo + (-241082 + 241083);
+				end;
+				_0x0LBakla[_0x0RPaasa] = _0x0WPaasa(_0x0xDiKanaNiyaMahal);
+			end;
+		end;
+	end;
+	return (function(_0x0RBAYOT, _0x0GKigol, _0x0LTangina, _0x0QGago, _0x0nPleaseImBeggingNooo, _0x0fSHAyBAO, _0x0BFallenPartsDestroyHeight, _0x0xGago, _0x0vBible, _0x0UBAYOT, _0x0CTanginaMoCge, _0x0zMeow, _0x0YRespect, _0x0FMeow, _0x0cOhab, _0x0bBible, _0x0WNigaBytes, _0x0oNigaBytes, _0x0iSkilliSSUE, ...)
+		_0x0bBible, _0x0WNigaBytes, _0x0YRespect, _0x0oNigaBytes, _0x0zMeow, _0x0cOhab, _0x0iSkilliSSUE, _0x0FMeow, _0x0CTanginaMoCge, _0x0vBible, _0x0xGago, _0x0UBAYOT = function(_0x0RBroStudyingHowMyBrainWorks, ...)
+				for _0x0RBrainDamage = -36899 + 36900, #_0x0RBroStudyingHowMyBrainWorks, 142436 + -142435 do
+					_0x0cOhab[_0x0RBroStudyingHowMyBrainWorks[_0x0RBrainDamage]] = _0x0cOhab[_0x0RBroStudyingHowMyBrainWorks[_0x0RBrainDamage]] + (-943568 + ((-143314 - ((783401 - (229787 + 744286)) - (-280083 + 522338))) + 653956));
+				end;
+				if _0x0LTangina then
+					local _0x0RTangina = _0x0LTangina(true);
+					local _0x0xPleaseImBeggingNooo = _0x0nPleaseImBeggingNooo(_0x0RTangina);
+					_0x0xPleaseImBeggingNooo[_0x0xTangina((-989310 + (((415735 + (((-567497 - 342758) + (986131 - (-740512))) - 438627)) - 425443) + 931146)) + -337125)], _0x0xPleaseImBeggingNooo[_0x0xTangina((363997 - 987078) - (-595844))], _0x0xPleaseImBeggingNooo[_0x0xTangina(980137 + -1007392)] = _0x0RBroStudyingHowMyBrainWorks, _0x0CTanginaMoCge, function(...)
+							return -722366 + 4720918;
+						end;
+					return _0x0RTangina;
+				else
+					return _0x0QGago({}, { [_0x0xTangina((-812385 + ((69212 + -215555) + 301702)) - (-629789))] = _0x0CTanginaMoCge, [_0x0xTangina(430531 - 457767)] = _0x0RBroStudyingHowMyBrainWorks, [_0x0xTangina((467998 + (272115 + -511821)) + -255547)] = function(...)
+							return (-413768 - (-15861 + (-19059 + 197278))) + 4574678;
+						end });
+				end;
+			end, {}, function(_0x0RNigger, _0x0xSHAyBAO, ...)
+				local _0x0GIveDoneNothing = _0x0bBible(_0x0xSHAyBAO);
+				local _0x0LTFYouLookingAt = function(_0x0RPlsNo, _0x0xBrainDamage, _0x0GGago, _0x0LBroStudyingHowMyBrainWorks, ...)
+						return _0x0xGago(_0x0RNigger, {
+							_0x0RPlsNo,
+							_0x0xBrainDamage,
+							_0x0GGago,
+							_0x0LBroStudyingHowMyBrainWorks,
+						}, _0x0xSHAyBAO, _0x0GIveDoneNothing);
+					end;
+				return _0x0LTFYouLookingAt;
+			end, function(_0x0RSHAyBAO, _0x0xPutangInaSabiNangWag, ...)
+				local _0x0GWagGago = _0x0bBible(_0x0xPutangInaSabiNangWag);
+				local _0x0LOhab = function(...)
+						return _0x0xGago(_0x0RSHAyBAO, {}, _0x0xPutangInaSabiNangWag, _0x0GWagGago);
+					end;
+				return _0x0LOhab;
+			end, function(_0x0RBoo, _0x0xNigaBytes, ...)
+				local _0x0GKigol = _0x0bBible(_0x0xNigaBytes);
+				local _0x0LMamaMoBlue = function(_0x0RSINGIT, ...)
+						return _0x0xGago(_0x0RBoo, { _0x0RSINGIT }, _0x0xNigaBytes, _0x0GKigol);
+					end;
+				return _0x0LMamaMoBlue;
+			end, {}, 151786 + -151786, function(_0x0RPutangInaSabiNangWag, _0x0xDiKanaNiyaMahal, ...)
+				local _0x0GNoSkill = _0x0bBible(_0x0xDiKanaNiyaMahal);
+				local _0x0LTerrorist = function(...)
+						return _0x0xGago(_0x0RPutangInaSabiNangWag, { ... }, _0x0xDiKanaNiyaMahal, _0x0GNoSkill);
+					end;
+				return _0x0LTerrorist;
+			end, function(_0x0RGay, ...)
+				local _0x0xTangina, _0x0GBAYOT = (-1909056 - (-1774490 - ((((-481530 + 476200) + -2627768) - (-1651416 - (-1290415 - (-531578)))) - (24751 + -854007)))) - (-1045830), _0x0RGay[383837 - (-22599 - (-496909 + 90474))];
+				while _0x0GBAYOT do
+					_0x0cOhab[_0x0GBAYOT], _0x0xTangina = _0x0cOhab[_0x0GBAYOT] - (70998 + -70997), _0x0xTangina + (-531779 + 531780);
+					if ((276236 + -796835) + (744942 - (-475253))) - 699596 == _0x0cOhab[_0x0GBAYOT] then
+						_0x0cOhab[_0x0GBAYOT], _0x0WNigaBytes[_0x0GBAYOT] = nil, nil;
+					end;
+					_0x0GBAYOT = _0x0RGay[_0x0xTangina];
+				end;
+			end, function(_0x0RPlsNo, ...)
+				_0x0cOhab[_0x0RPlsNo] = _0x0cOhab[_0x0RPlsNo] - (-374060 - (-733511 - (-359450)));
+				if _0x0cOhab[_0x0RPlsNo] == 899706 + -899706 then
+					_0x0cOhab[_0x0RPlsNo], _0x0WNigaBytes[_0x0RPlsNo] = nil, nil;
+				end;
+			end, function(_0x0RPleaseImBeggingNooo, _0x0xBakla, _0x0GWagGago, _0x0LIveDoneNothing, ...)
+				local _0x0tNigger, _0x0bBible, _0x0lBAYOT, _0x0iMeow, _0x0WMeow, _0x0VMamaMoBlue, _0x0MPlsNo, _0x0ILove, _0x0QGay, _0x0YBILAT, _0x0dWagGago, _0x0kBakla, _0x0CSHAyBAO, _0x0oNigger, _0x0cIveDoneNothing, _0x0UTanginaMoCge, _0x0vOhab, _0x0nTangina, _0x0KPlsNo, _0x0TBrainDamage, _0x0fRespect, _0x0FSHAyBAO, _0x0BBible;
+				while _0x0RPleaseImBeggingNooo do
+					if _0x0RPleaseImBeggingNooo < 14430 + (10789890 - 481694) then
+						if _0x0RPleaseImBeggingNooo < ((240475 - 453029) + 4121734) - (-846775) then
+							if _0x0RPleaseImBeggingNooo < 823673 + 2076220 then
+								if _0x0RPleaseImBeggingNooo < -701428 + 1472125 then
+									if _0x0RPleaseImBeggingNooo < (-505793 + 1177078) - (-22501) then
+										_0x0tNigger = _0x0UBAYOT();
+										_0x0QGay = _0x0xTangina(-249940 - (-811079 - ((291115 + (-794765 - (-620153 + 427228))) - 277656)));
+										_0x0YBILAT = nil;
+										_0x0dWagGago = _0x0UBAYOT();
+										_0x0vOhab = nil;
+										_0x0RPleaseImBeggingNooo = {};
+										_0x0kBakla = nil;
+										_0x0WNigaBytes[_0x0dWagGago] = _0x0RPleaseImBeggingNooo;
+										_0x0RPleaseImBeggingNooo = _0x0zMeow(539629 + 3303223, {
+												_0x0dWagGago,
+												_0x0bBible,
+												_0x0CSHAyBAO,
+												_0x0WMeow,
+											});
+										_0x0WNigaBytes[_0x0tNigger] = _0x0RPleaseImBeggingNooo;
+										_0x0VMamaMoBlue = {};
+										_0x0TBrainDamage = _0x0UBAYOT();
+										_0x0RPleaseImBeggingNooo = {};
+										_0x0vOhab = 870479 + (((((-774542 + -116174) + (811745 + ((521298 - (-299615)) + -398763))) - (-105096)) + 49220) + (-435655 + 28614740391272));
+										_0x0WNigaBytes[_0x0TBrainDamage] = _0x0RPleaseImBeggingNooo;
+										_0x0lBAYOT = _0x0xTangina((-6695 + (329525 + -1239879)) + 889806);
+										_0x0cIveDoneNothing = nil;
+										_0x0cIveDoneNothing = _0x0xTangina(533746 - ((1111219 - 940469) - ((-795518 - 118002) - (-523274))));
+										_0x0UTanginaMoCge = nil;
+										_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0QGay];
+										_0x0MPlsNo = _0x0WNigaBytes[_0x0TBrainDamage];
+										_0x0ILove = _0x0xTangina((-796235 + 1672718) - 903719);
+										_0x0KPlsNo = { [_0x0ILove] = _0x0MPlsNo, [_0x0lBAYOT] = _0x0kBakla };
+										_0x0QGay = _0x0RPleaseImBeggingNooo(_0x0VMamaMoBlue, _0x0KPlsNo);
+										_0x0oNigger = nil;
+										_0x0WMeow = _0x0vBible(_0x0WMeow);
+										_0x0RPleaseImBeggingNooo = _0x0YRespect((-868331 - (-662047)) - (-1209836 - (-307069)), {
+												_0x0TBrainDamage,
+												_0x0dWagGago,
+												_0x0FSHAyBAO,
+												_0x0bBible,
+												_0x0CSHAyBAO,
+												_0x0tNigger,
+											});
+										_0x0iMeow = nil;
+										_0x0CSHAyBAO = _0x0vBible(_0x0CSHAyBAO);
+										_0x0TBrainDamage = _0x0vBible(_0x0TBrainDamage);
+										_0x0WNigaBytes[_0x0fRespect] = _0x0QGay;
+										_0x0WNigaBytes[_0x0BBible] = _0x0RPleaseImBeggingNooo;
+										_0x0WMeow = _0x0RBAYOT[_0x0cIveDoneNothing];
+										_0x0UTanginaMoCge = _0x0WNigaBytes[_0x0fRespect];
+										_0x0tNigger = _0x0vBible(_0x0tNigger);
+										_0x0FSHAyBAO = _0x0vBible(_0x0FSHAyBAO);
+										_0x0CSHAyBAO = _0x0xTangina(998015 - 1025248);
+										_0x0dWagGago = _0x0vBible(_0x0dWagGago);
+										_0x0iMeow = _0x0WNigaBytes[_0x0BBible];
+										_0x0bBible = _0x0vBible(_0x0bBible);
+										_0x0bBible = _0x0iMeow(_0x0CSHAyBAO, _0x0vOhab);
+										_0x0cIveDoneNothing = _0x0UTanginaMoCge[_0x0bBible];
+										_0x0RPleaseImBeggingNooo = _0x0WMeow ~= _0x0cIveDoneNothing;
+										_0x0RPleaseImBeggingNooo = _0x0RPleaseImBeggingNooo and -77354 + (-824576 + 17038702) or 4598637 - (((340769 - 390468) - 459160) + ((-753495 + 1560717) - 496647));
+									else
+										_0x0nTangina = _0x0xBakla[-483602 + 483603];
+										_0x0fRespect = _0x0xBakla[227018 - 227016];
+										_0x0RPleaseImBeggingNooo = _0x0WNigaBytes[_0x0GWagGago[((58323 - 188378) - (-450079 - (-997274))) - (-677251)]];
+										_0x0BBible = _0x0RPleaseImBeggingNooo;
+										_0x0RPleaseImBeggingNooo = _0x0BBible[_0x0fRespect];
+										_0x0RPleaseImBeggingNooo = _0x0RPleaseImBeggingNooo and (309956 + -724549) + ((7967403 - (1025355 - ((1013330 + ((-798450 + 1189876) - 384589)) - 579686))) - ((-747255 + 1360768) + -898925)) or -378455 + 2201582;
+									end;
+								else
+									_0x0bBible = _0x0xTangina((-790286 + 447385) - (-315647));
+									_0x0RPleaseImBeggingNooo = {};
+									_0x0cIveDoneNothing = 35184371365030 - (-723802);
+									_0x0WNigaBytes[_0x0GWagGago[262447 + -262445]] = _0x0RPleaseImBeggingNooo;
+									_0x0QGay = _0x0WNigaBytes[_0x0GWagGago[(-479001 + (462273 + (-113009 + -361476))) - (-491216)]];
+									_0x0RPleaseImBeggingNooo = 3393044 - (-434010);
+									_0x0WMeow = _0x0QGay;
+									_0x0QGay = _0x0fRespect % _0x0cIveDoneNothing;
+									_0x0WNigaBytes[_0x0GWagGago[(-470459 - (-881366)) - 410903]] = _0x0QGay;
+									_0x0iMeow = 469816 - 469561;
+									_0x0UTanginaMoCge = _0x0fRespect % _0x0iMeow;
+									_0x0iMeow = ((-587003 - 358165) - (150562 + (-313757 + -785732))) + -3757;
+									_0x0cIveDoneNothing = _0x0UTanginaMoCge + _0x0iMeow;
+									_0x0WNigaBytes[_0x0GWagGago[(829351 - (-44129)) - ((-128313 - (347762 + 110952)) + 1460502)]] = _0x0cIveDoneNothing;
+									_0x0vOhab = 264565 - (-305772 - (-570336));
+									_0x0iMeow = _0x0RBAYOT[_0x0bBible];
+									_0x0bBible = _0x0xTangina((-608492 - (-70137)) + 511109);
+									_0x0UTanginaMoCge = _0x0iMeow[_0x0bBible];
+									_0x0iMeow = _0x0UTanginaMoCge(_0x0nTangina);
+									_0x0UTanginaMoCge = _0x0xTangina(608473 - ((((472971 - ((-1506509 - (-785749)) + 1746460)) + 1415751) - (175989 + -792624)) - 843940));
+									_0x0BBible[_0x0fRespect] = _0x0UTanginaMoCge;
+									_0x0UTanginaMoCge = -114160 - (-114282);
+									_0x0bBible = 460051 - 460050;
+									_0x0FSHAyBAO = _0x0vOhab;
+									_0x0vOhab = (121657 + -1043262) - (-921605);
+									_0x0YBILAT = _0x0FSHAyBAO < _0x0vOhab;
+									_0x0CSHAyBAO = _0x0iMeow;
+									_0x0vOhab = _0x0bBible - _0x0FSHAyBAO;
+								end;
+							else
+								if _0x0RPleaseImBeggingNooo < -22874 + (882930 + 3233990) then
+									if _0x0RPleaseImBeggingNooo < -164924 + 4005276 then
+										_0x0oNigger = not _0x0YBILAT;
+										_0x0vOhab = _0x0vOhab + _0x0FSHAyBAO;
+										_0x0bBible = _0x0vOhab <= _0x0CSHAyBAO;
+										_0x0bBible = _0x0oNigger and _0x0bBible;
+										_0x0oNigger = _0x0vOhab >= _0x0CSHAyBAO;
+										_0x0oNigger = _0x0YBILAT and _0x0oNigger;
+										_0x0bBible = _0x0oNigger or _0x0bBible;
+										_0x0oNigger = ((((826382 + 1329834) - 644645) - 823098) + 5688657) - 663521;
+										_0x0RPleaseImBeggingNooo = _0x0bBible and _0x0oNigger;
+										_0x0bBible = (592844 - (1480148 - 635358)) + ((15973981 - (-229126 - (-115151))) - 916073);
+										_0x0RPleaseImBeggingNooo = _0x0RPleaseImBeggingNooo or _0x0bBible;
+									else
+										_0x0nTangina = _0x0WNigaBytes[_0x0GWagGago[408347 - 408346]];
+										_0x0QGay = #_0x0nTangina;
+										_0x0nTangina = (-407292 - ((110504 - (-278655)) + (-871145 + (-791009 + (998092 - (-703249)))))) + 835638;
+										_0x0RPleaseImBeggingNooo = _0x0QGay == _0x0nTangina;
+										_0x0RPleaseImBeggingNooo = _0x0RPleaseImBeggingNooo and (9466055 - (-453449)) - 701786 or 8170384 - (-566722);
+									end;
+								else
+									_0x0dWagGago = #_0x0oNigger;
+									_0x0VMamaMoBlue = -268090 - (((533811 + -897211) + 233167) + -137858);
+									_0x0QGay = (((-579738 + (-940334 + ((-854046 + 892357) + 505824))) + (417858 + ((((432797 + -2279190) - (377398 + ((600903 + -1988931) - (-500288)))) - (-586771)) + 2320214))) + -1372835) + (535310 - 175329);
+									_0x0RPleaseImBeggingNooo = _0x0cIveDoneNothing(_0x0QGay, _0x0dWagGago);
+									_0x0dWagGago = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = _0x0UTanginaMoCge(_0x0oNigger, _0x0dWagGago);
+									_0x0tNigger = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = _0x0WNigaBytes[_0x0FSHAyBAO];
+									_0x0TBrainDamage = _0x0tNigger - _0x0VMamaMoBlue;
+									_0x0dWagGago = nil;
+									_0x0QGay = _0x0iMeow(_0x0TBrainDamage);
+									_0x0RPleaseImBeggingNooo[_0x0tNigger] = _0x0QGay;
+									_0x0RPleaseImBeggingNooo = 993823 + 15059279;
+									_0x0tNigger = nil;
+								end;
+							end;
+						else
+							if _0x0RPleaseImBeggingNooo < 5828598 - (-789385) then
+								if _0x0RPleaseImBeggingNooo < (7775357 - 882256) - 769525 then
+									if _0x0RPleaseImBeggingNooo < 874007 + ((370056 + (296202 + (-620695 + 4403987))) - (-712269 - (-451744))) then
+										_0x0RPleaseImBeggingNooo = _0x0oNigaBytes(-392886 + ((-885296 + 1901010) + (13850606 - 843492)), { _0x0fRespect, _0x0BBible });
+										_0x0WMeow = _0x0RPleaseImBeggingNooo;
+										_0x0RPleaseImBeggingNooo = _0x0WMeow();
+										_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0xTangina(-50542 - (-23302))];
+										_0x0WMeow = nil;
+										_0x0fRespect = _0x0vBible(_0x0fRespect);
+										_0x0BBible = _0x0vBible(_0x0BBible);
+										_0x0QGay = {};
+									else
+										_0x0KPlsNo = _0x0xTangina((148996 + (((-484780 + 660434) - (-660257)) - 539888)) - 472273);
+										_0x0RPleaseImBeggingNooo = 1024284 + ((566021 + -1528363) + ((332405 + -1006287) + (143443 + 4295551)));
+										_0x0VMamaMoBlue = _0x0RBAYOT[_0x0KPlsNo];
+										_0x0bBible = _0x0vOhab;
+										_0x0KPlsNo = _0x0xTangina(-869118 + 841884);
+										_0x0TBrainDamage = _0x0VMamaMoBlue[_0x0KPlsNo];
+										_0x0VMamaMoBlue = _0x0TBrainDamage(_0x0nTangina, _0x0bBible);
+										_0x0TBrainDamage = _0x0WNigaBytes[_0x0GWagGago[(-326413 + -134319) - (-224961 - 235777)]];
+										_0x0KPlsNo = _0x0TBrainDamage();
+										_0x0tNigger = _0x0VMamaMoBlue + _0x0KPlsNo;
+										_0x0dWagGago = _0x0tNigger + _0x0UTanginaMoCge;
+										_0x0tNigger = 1006553 - 1006297;
+										_0x0KPlsNo = -436870 + 436871;
+										_0x0oNigger = _0x0dWagGago % _0x0tNigger;
+										_0x0UTanginaMoCge = _0x0oNigger;
+										_0x0tNigger = _0x0BBible[_0x0fRespect];
+										_0x0bBible = nil;
+										_0x0VMamaMoBlue = _0x0UTanginaMoCge + _0x0KPlsNo;
+										_0x0TBrainDamage = _0x0WMeow[_0x0VMamaMoBlue];
+										_0x0dWagGago = _0x0tNigger .. _0x0TBrainDamage;
+										_0x0BBible[_0x0fRespect] = _0x0dWagGago;
+									end;
+								else
+									_0x0nTangina = _0x0xBakla;
+									_0x0WMeow = _0x0xTangina((-95366 - (1270751 - 952648)) - (736651 + (-1200181 - ((1422947 - (1012408 + -158734)) + -646563))));
+									_0x0BBible = _0x0UBAYOT();
+									_0x0RPleaseImBeggingNooo = nil;
+									_0x0fRespect = _0x0UBAYOT();
+									_0x0WNigaBytes[_0x0fRespect] = _0x0RPleaseImBeggingNooo;
+									_0x0dWagGago = -169976 - (-170232);
+									_0x0iMeow = _0x0xTangina((114549 + (-744687 - (-962496 + 720549))) + 360937);
+									_0x0QGay = nil;
+									_0x0WNigaBytes[_0x0BBible] = _0x0QGay;
+									_0x0QGay = _0x0RBAYOT[_0x0WMeow];
+									_0x0WMeow = _0x0xTangina((43673 - (-554151)) + -625077);
+									_0x0FSHAyBAO = _0x0UBAYOT();
+									_0x0UTanginaMoCge = _0x0xTangina(-616662 + 589417);
+									_0x0RPleaseImBeggingNooo = _0x0QGay[_0x0WMeow];
+									_0x0WMeow = _0x0UBAYOT();
+									_0x0bBible = _0x0UBAYOT();
+									_0x0WNigaBytes[_0x0WMeow] = _0x0RPleaseImBeggingNooo;
+									_0x0cIveDoneNothing = _0x0xTangina(67442 - 94671);
+									_0x0QGay = _0x0RBAYOT[_0x0cIveDoneNothing];
+									_0x0cIveDoneNothing = _0x0xTangina(852333 - 879568);
+									_0x0RPleaseImBeggingNooo = _0x0QGay[_0x0cIveDoneNothing];
+									_0x0tNigger = _0x0dWagGago;
+									_0x0QGay = _0x0RBAYOT[_0x0UTanginaMoCge];
+									_0x0cIveDoneNothing = _0x0RPleaseImBeggingNooo;
+									_0x0UTanginaMoCge = _0x0xTangina(195587 + -222838);
+									_0x0RPleaseImBeggingNooo = _0x0QGay[_0x0UTanginaMoCge];
+									_0x0UTanginaMoCge = _0x0RPleaseImBeggingNooo;
+									_0x0CSHAyBAO = _0x0UBAYOT();
+									_0x0QGay = _0x0RBAYOT[_0x0iMeow];
+									_0x0iMeow = _0x0xTangina(-485906 - (-458667));
+									_0x0RPleaseImBeggingNooo = _0x0QGay[_0x0iMeow];
+									_0x0iMeow = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = -501240 - (-501240);
+									_0x0WNigaBytes[_0x0bBible] = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = -1043488 + 1043490;
+									_0x0QGay = (((-909051 + 1319687) + -848414) + -544588) - (-982367);
+									_0x0WNigaBytes[_0x0CSHAyBAO] = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = {};
+									_0x0vOhab = _0x0RPleaseImBeggingNooo;
+									_0x0dWagGago = (454163 + 440483) + -894645;
+									_0x0RPleaseImBeggingNooo = {};
+									_0x0WNigaBytes[_0x0FSHAyBAO] = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = 552026 + -552026;
+									_0x0TBrainDamage = _0x0dWagGago;
+									_0x0dWagGago = -983488 + 983488;
+									_0x0YBILAT = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = {};
+									_0x0VMamaMoBlue = _0x0TBrainDamage < _0x0dWagGago;
+									_0x0dWagGago = _0x0QGay - _0x0TBrainDamage;
+									_0x0oNigger = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = (14798052 - ((-315090 - (-839009)) - 455153)) - (-978737 + (465296 - ((392735 + -574083) - (-258177))));
+								end;
+							else
+								if _0x0RPleaseImBeggingNooo < -314972 + (10060803 - 628566) then
+									if _0x0RPleaseImBeggingNooo < -802350 + (7996395 - (((578169 - ((445195 - (768419 + -857239)) - 207958)) - (-489808)) - 842565)) then
+										_0x0RPleaseImBeggingNooo = 29337 + 12750003;
+									else
+										_0x0BBible = _0x0xTangina(-781106 + 753861);
+										_0x0fRespect = _0x0RBAYOT[_0x0BBible];
+										_0x0BBible = _0x0xTangina(((973528 + -1496411) - 46622) - (224737 + -766991));
+										_0x0nTangina = _0x0fRespect[_0x0BBible];
+										_0x0BBible = _0x0WNigaBytes[_0x0GWagGago[(310848 + -402348) + 91501]];
+										_0x0fRespect = { _0x0nTangina(_0x0BBible) };
+										_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0xTangina(76497 - 103745)];
+										_0x0QGay = { _0x0GKigol(_0x0fRespect) };
+									end;
+								else
+									_0x0BBible = 64387 + (-409376 - (-345098));
+									_0x0fRespect = _0x0WNigaBytes[_0x0GWagGago[(825661 - ((617666 + (((237373 + 770680) + (87229 + -493475)) + -730206)) + 516067)) + ((-663841 + ((704782 - 984215) + 392023)) + 730926)]];
+									_0x0nTangina = _0x0fRespect * _0x0BBible;
+									_0x0fRespect = -561936 + ((-260328 + 16664577139810) - ((378495 - 379599) - 929541));
+									_0x0QGay = _0x0nTangina + _0x0fRespect;
+									_0x0fRespect = -303275 - (-303276);
+									_0x0nTangina = 817310 + 35184371271522;
+									_0x0RPleaseImBeggingNooo = _0x0QGay % _0x0nTangina;
+									_0x0WNigaBytes[_0x0GWagGago[896289 - 896287]] = _0x0RPleaseImBeggingNooo;
+									_0x0RPleaseImBeggingNooo = 815348 + ((-69687 + 566961) + (1024093 + 11694711));
+									_0x0nTangina = _0x0WNigaBytes[_0x0GWagGago[-111270 + 111273]];
+									_0x0QGay = _0x0nTangina ~= _0x0fRespect;
+								end;
+							end;
+						end;
+					else
+						if _0x0RPleaseImBeggingNooo < 15072285 - 95770 then
+							if _0x0RPleaseImBeggingNooo < (((-796975 - (-201458)) + 14699679) - (-632542)) - 933208 then
+								if _0x0RPleaseImBeggingNooo < 13904908 - (517582 + 240699) then
+									if _0x0RPleaseImBeggingNooo < 790367 + 10601594 then
+										_0x0BBible = ((527221 + -1072162) + 442817) - (-102156);
+										_0x0fRespect = _0x0WNigaBytes[_0x0GWagGago[-1023755 + 1023758]];
+										_0x0CSHAyBAO = (108233 + -448901) + (755995 + -415325);
+										_0x0nTangina = _0x0fRespect % _0x0BBible;
+										_0x0FSHAyBAO = (1212505 - 889532) - 322960;
+										_0x0WMeow = _0x0WNigaBytes[_0x0GWagGago[(((((-309764 - (-966841)) + -882848) - 422833) + 243186) + 883415) - ((-434780 - (363501 + (-667715 - (-173691)))) + (1275564 - 493314))]];
+										_0x0iMeow = _0x0WNigaBytes[_0x0GWagGago[183384 - (240366 + -56984)]];
+										_0x0dWagGago = _0x0WNigaBytes[_0x0GWagGago[-125541 - (-125544)]];
+										_0x0oNigger = _0x0dWagGago - _0x0nTangina;
+										_0x0dWagGago = -841701 + 841733;
+										_0x0YBILAT = _0x0oNigger / _0x0dWagGago;
+										_0x0vOhab = _0x0FSHAyBAO - _0x0YBILAT;
+										_0x0bBible = _0x0CSHAyBAO ^ _0x0vOhab;
+										_0x0UTanginaMoCge = _0x0iMeow / _0x0bBible;
+										_0x0cIveDoneNothing = _0x0WMeow(_0x0UTanginaMoCge);
+										_0x0WMeow = 4294395573 - (-571723);
+										_0x0bBible = (-444421 + 1335413) + -890991;
+										_0x0BBible = _0x0cIveDoneNothing % _0x0WMeow;
+										_0x0cIveDoneNothing = -628761 + 628763;
+										_0x0WMeow = _0x0cIveDoneNothing ^ _0x0nTangina;
+										_0x0CSHAyBAO = -667475 - (-667731);
+										_0x0fRespect = _0x0BBible / _0x0WMeow;
+										_0x0WMeow = _0x0WNigaBytes[_0x0GWagGago[332038 + -332034]];
+										_0x0iMeow = _0x0fRespect % _0x0bBible;
+										_0x0bBible = 4294853451 - (-734962 + 621117);
+										_0x0UTanginaMoCge = _0x0iMeow * _0x0bBible;
+										_0x0cIveDoneNothing = _0x0WMeow(_0x0UTanginaMoCge);
+										_0x0WMeow = _0x0WNigaBytes[_0x0GWagGago[-581070 - (-581074)]];
+										_0x0UTanginaMoCge = _0x0WMeow(_0x0fRespect);
+										_0x0BBible = _0x0cIveDoneNothing + _0x0UTanginaMoCge;
+										_0x0cIveDoneNothing = -708836 - (-25788 - 748584);
+										_0x0WMeow = _0x0BBible % _0x0cIveDoneNothing;
+										_0x0iMeow = 609281 + -543745;
+										_0x0UTanginaMoCge = _0x0BBible - _0x0WMeow;
+										_0x0cIveDoneNothing = _0x0UTanginaMoCge / _0x0iMeow;
+										_0x0RPleaseImBeggingNooo = ((-100024 + (640040 - (-678151 + 1143341))) - (-98696)) + 8563584;
+										_0x0iMeow = (1121209 - 236374) - 884579;
+										_0x0UTanginaMoCge = _0x0WMeow % _0x0iMeow;
+										_0x0BBible = nil;
+										_0x0FSHAyBAO = (458026 - (696130 - 578723)) + (895122 + -1235485);
+										_0x0bBible = _0x0WMeow - _0x0UTanginaMoCge;
+										_0x0iMeow = _0x0bBible / _0x0CSHAyBAO;
+										_0x0CSHAyBAO = (1652316 - 668874) + -983186;
+										_0x0fRespect = nil;
+										_0x0bBible = _0x0cIveDoneNothing % _0x0CSHAyBAO;
+										_0x0WMeow = nil;
+										_0x0vOhab = _0x0cIveDoneNothing - _0x0bBible;
+										_0x0nTangina = nil;
+										_0x0cIveDoneNothing = nil;
+										_0x0CSHAyBAO = _0x0vOhab / _0x0FSHAyBAO;
+										_0x0vOhab = {
+												_0x0UTanginaMoCge,
+												_0x0iMeow,
+												_0x0bBible,
+												_0x0CSHAyBAO,
+											};
+										_0x0bBible = nil;
+										_0x0iMeow = nil;
+										_0x0CSHAyBAO = nil;
+										_0x0UTanginaMoCge = nil;
+										_0x0WNigaBytes[_0x0GWagGago[-211218 + (831092 + (-943116 + 323243))]] = _0x0vOhab;
+									else
+										_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0xTangina(674743 + (-1514826 - (-812842)))];
+										_0x0QGay = { _0x0fRespect };
+									end;
+								else
+									_0x0iMeow = _0x0xTangina(-582478 - (-555250));
+									_0x0fRespect = _0x0xTangina((-150389 - (-946444)) + (-747862 + -75440));
+									_0x0QGay = _0x0xTangina((-1300377 - (115165 + (-2029109 - (-910891)))) - (-270072));
+									_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0QGay];
+									_0x0nTangina = _0x0RBAYOT[_0x0fRespect];
+									_0x0WMeow = _0x0WNigaBytes[_0x0GWagGago[-601533 + ((-683225 + ((((-837282 - ((-314768 - (459520 - (-326745 - (-25320 + (-789564 + (-564723 + 612745)))))) - 666745)) + -458426) + 416764) - (-581983))) + 580804)]];
+									_0x0bBible = ((11776548132824 - (-726663)) - (1759889 - 831062)) - (-472597);
+									_0x0cIveDoneNothing = _0x0WNigaBytes[_0x0GWagGago[-243736 + 243738]];
+									_0x0UTanginaMoCge = _0x0cIveDoneNothing(_0x0iMeow, _0x0bBible);
+									_0x0BBible = _0x0WMeow[_0x0UTanginaMoCge];
+									_0x0WMeow = true;
+									_0x0cIveDoneNothing = _0x0xTangina((-766868 + (-530621 + 2091591)) - 821340);
+									_0x0cIveDoneNothing = _0x0nTangina[_0x0cIveDoneNothing];
+									_0x0fRespect = { _0x0cIveDoneNothing(_0x0nTangina, _0x0BBible, _0x0WMeow) };
+									_0x0QGay = _0x0RPleaseImBeggingNooo(_0x0GKigol(_0x0fRespect));
+									_0x0RPleaseImBeggingNooo = _0x0QGay();
+									_0x0QGay = _0x0xTangina(926650 - 953902);
+									_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0QGay];
+									_0x0bBible = (1106980 - (-259550 + 338755)) + 26150466316557;
+									_0x0fRespect = _0x0xTangina((((-15631 - 890706) - (-583594)) + (711188 - 144657)) - 271035);
+									_0x0iMeow = _0x0xTangina(114512 + -141742);
+									_0x0nTangina = _0x0RBAYOT[_0x0fRespect];
+									_0x0WMeow = _0x0WNigaBytes[_0x0GWagGago[931857 + -931856]];
+									_0x0cIveDoneNothing = _0x0WNigaBytes[_0x0GWagGago[88410 - 88408]];
+									_0x0UTanginaMoCge = _0x0cIveDoneNothing(_0x0iMeow, _0x0bBible);
+									_0x0BBible = _0x0WMeow[_0x0UTanginaMoCge];
+									_0x0cIveDoneNothing = _0x0xTangina(540867 - 568105);
+									_0x0WMeow = true;
+									_0x0cIveDoneNothing = _0x0nTangina[_0x0cIveDoneNothing];
+									_0x0fRespect = { _0x0cIveDoneNothing(_0x0nTangina, _0x0BBible, _0x0WMeow) };
+									_0x0QGay = _0x0RPleaseImBeggingNooo(_0x0GKigol(_0x0fRespect));
+									_0x0RPleaseImBeggingNooo = _0x0QGay();
+									_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0xTangina(218545 + -245776)];
+									_0x0QGay = {};
+								end;
+							else
+								if _0x0RPleaseImBeggingNooo < (15768408 - 743745) - (320915 + -49062) then
+									if _0x0RPleaseImBeggingNooo < 828350 + 13454199 then
+										_0x0BBible = (-1483903 - ((179915 + -950528) + 104067)) + 817509;
+										_0x0fRespect = _0x0WNigaBytes[_0x0GWagGago[-613414 + 613417]];
+										_0x0nTangina = _0x0fRespect * _0x0BBible;
+										_0x0fRespect = 720135 - (140012 + 579866);
+										_0x0QGay = _0x0nTangina % _0x0fRespect;
+										_0x0RPleaseImBeggingNooo = (915557 - (((942468 + -1943254) + 1452929) - (-487625))) + 16482517;
+										_0x0WNigaBytes[_0x0GWagGago[-707239 + 707242]] = _0x0QGay;
+									else
+										_0x0dWagGago = (-1666950 - ((-1516650 - ((590786 + -356880) + -359626)) - (-384596))) - (((190883 - ((554470 + -1286508) + (-528253 + ((((-356718 - (-1240415 - (869523 + (-1133437 - 294287)))) - (1196899 - 966311)) - 858354) + 2784361)))) - (-759540)) - 850415);
+										_0x0QGay = #_0x0oNigger;
+										_0x0RPleaseImBeggingNooo = _0x0QGay == _0x0dWagGago;
+										_0x0RPleaseImBeggingNooo = 3948384 - (-418419);
+									end;
+								else
+									_0x0RPleaseImBeggingNooo = ((((805714 + -3317493) - (-628325)) - (-704088)) - (-771834)) + 13186872;
+									_0x0WMeow = nil;
+									_0x0UTanginaMoCge = nil;
+									_0x0iMeow = nil;
+								end;
+							end;
+						else
+							if _0x0RPleaseImBeggingNooo < (16185529 - 595371) - (-482601) then
+								if _0x0RPleaseImBeggingNooo < -819138 + 16667665 then
+									if _0x0RPleaseImBeggingNooo < -137069 + 15523220 then
+										_0x0dWagGago = _0x0dWagGago + _0x0TBrainDamage;
+										_0x0KPlsNo = not _0x0VMamaMoBlue;
+										_0x0QGay = _0x0dWagGago <= _0x0tNigger;
+										_0x0QGay = _0x0KPlsNo and _0x0QGay;
+										_0x0KPlsNo = _0x0dWagGago >= _0x0tNigger;
+										_0x0KPlsNo = _0x0VMamaMoBlue and _0x0KPlsNo;
+										_0x0QGay = _0x0KPlsNo or _0x0QGay;
+										_0x0KPlsNo = -655430 + ((766774 + -467190) + 15817087);
+										_0x0RPleaseImBeggingNooo = _0x0QGay and _0x0KPlsNo;
+										_0x0QGay = -799463 + (16113031 - 1008761);
+										_0x0RPleaseImBeggingNooo = _0x0RPleaseImBeggingNooo or _0x0QGay;
+									else
+										_0x0KPlsNo = _0x0dWagGago;
+										_0x0RPleaseImBeggingNooo = _0x0KPlsNo;
+										_0x0oNigger[_0x0KPlsNo] = _0x0RPleaseImBeggingNooo;
+										_0x0RPleaseImBeggingNooo = 597835 + 14721721;
+										_0x0KPlsNo = nil;
+									end;
+								else
+									_0x0dWagGago = -261663 - (-261663);
+									_0x0QGay = #_0x0oNigger;
+									_0x0RPleaseImBeggingNooo = _0x0QGay == _0x0dWagGago;
+									_0x0RPleaseImBeggingNooo = _0x0RPleaseImBeggingNooo and -78140 + 770319 or 159475 + (3364965 - (-842363));
+								end;
+							else
+								if _0x0RPleaseImBeggingNooo < 1029085 + 15275280 then
+									_0x0QGay = {};
+									_0x0RPleaseImBeggingNooo = _0x0RBAYOT[_0x0xTangina((-834666 + 673198) - (-134219))];
+								else
+									_0x0BBible = -712458 + 712459;
+									_0x0fRespect = _0x0WNigaBytes[_0x0GWagGago[((-315749 + 591023) + (-1016335 + 1455678)) + -714614]];
+									_0x0nTangina = _0x0fRespect ~= _0x0BBible;
+									_0x0RPleaseImBeggingNooo = _0x0nTangina and 134528 + (10058334 - (-451302)) or 13157365 - (-1801889 - (-927828));
+								end;
+							end;
+						end;
+					end;
+				end;
+				_0x0RPleaseImBeggingNooo = #_0x0LIveDoneNothing;
+				return _0x0GKigol(_0x0QGay);
+			end, function(...)
+				_0x0iSkilliSSUE = (834780 + -834779) + _0x0iSkilliSSUE;
+				_0x0cOhab[_0x0iSkilliSSUE] = 90558 - 90557;
+				return _0x0iSkilliSSUE;
+			end;
+		return (_0x0FMeow(898388 + 5567284, {}))(_0x0GKigol(_0x0BFallenPartsDestroyHeight));
+	end)(getfenv and getfenv() or _ENV, unpack or table[_0x0xTangina(((-762683 + 220019) + (172920 + 294072)) + ((-90666 + 643581) - 504475))], newproxy, setmetatable, getmetatable, select, { ... });
+end)(...);
